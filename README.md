@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Chatot
-## ID: 441
+## Hoothoot
+## ID: 163
 ### Tipos
 - Normal
 - Flying
 ### Stats
-- Hp: 76
-- Attack: 65
-- Defense: 45
-- Special-attack: 92
-- Special-defense: 42
-- Speed: 91
+- Hp: 60
+- Attack: 30
+- Defense: 30
+- Special-attack: 36
+- Special-defense: 56
+- Speed: 50
