@@ -2,7 +2,7 @@ name: Pokemon Daily
 
 on:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '*/5 * * * *'
 
   workflow_dispatch:
 
@@ -11,17 +11,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: setup python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - run: pip install -r requirements.txt
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
 
-      - run: python src/main.py
+      - name: Ejecucion
+        run: python src/main.py
 
-      - run: |
+      - name: Readme
+        run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
