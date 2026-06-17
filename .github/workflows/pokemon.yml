@@ -3,7 +3,7 @@ name: Pokemon Daily
 on:
   push:
   schedule:
-    - cron: '* * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
