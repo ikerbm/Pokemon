@@ -1,0 +1,18 @@
+.env
+.env.*
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+
+#cache
+.cache
