@@ -1,16 +1,17 @@
 name: Pokemon Daily
 
 on:
+  push:
   schedule:
     - cron: '*/5 * * * *'
-
   workflow_dispatch:
+
+permissions:
+    contents: write
 
 jobs:
   pokemon:
     runs-on: ubuntu-latest
-    permissions: 
-        contents: write
 
     steps:
       - name: Checkout
