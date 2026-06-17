@@ -27,11 +27,7 @@ jobs:
       - name: Ejecucion
         run: python src/main.py
 
-      - name: Readme
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-
-          git add README.md
-          git commit -m "Update pokemon" || echo "No changes"
-          git push
+      - name: commit-push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          message: update pokemon      
