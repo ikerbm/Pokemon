@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Terapagos
-## ID: 1024
+## Mareanie
+## ID: 747
 ### Tipos
-- Normal
+- Poison
+- Water
 ### Stats
-- Hp: 90
-- Attack: 65
-- Defense: 85
-- Special-attack: 65
-- Special-defense: 85
-- Speed: 60
+- Hp: 50
+- Attack: 53
+- Defense: 62
+- Special-attack: 43
+- Special-defense: 52
+- Speed: 45
