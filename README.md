@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Pinsir
-## ID: 127
+## Terapagos
+## ID: 1024
 ### Tipos
-- Bug
+- Normal
 ### Stats
-- Hp: 65
-- Attack: 125
-- Defense: 100
-- Special-attack: 55
-- Special-defense: 70
-- Speed: 85
+- Hp: 90
+- Attack: 65
+- Defense: 85
+- Special-attack: 65
+- Special-defense: 85
+- Speed: 60
