@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Hoothoot
-## ID: 163
+## Pidgey
+## ID: 16
 ### Tipos
 - Normal
 - Flying
 ### Stats
-- Hp: 60
-- Attack: 30
-- Defense: 30
-- Special-attack: 36
-- Special-defense: 56
-- Speed: 50
+- Hp: 40
+- Attack: 45
+- Defense: 40
+- Special-attack: 35
+- Special-defense: 35
+- Speed: 56
