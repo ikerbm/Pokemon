@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Mareanie
-## ID: 747
+## Espeon
+## ID: 196
 ### Tipos
-- Poison
-- Water
+- Psychic
 ### Stats
-- Hp: 50
-- Attack: 53
-- Defense: 62
-- Special-attack: 43
-- Special-defense: 52
-- Speed: 45
+- Hp: 65
+- Attack: 65
+- Defense: 60
+- Special-attack: 130
+- Special-defense: 95
+- Speed: 110
