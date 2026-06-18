@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Maushold-family-of-four
-## ID: 925
+## Machoke
+## ID: 67
 ### Tipos
-- Normal
+- Fighting
 ### Stats
-- Hp: 74
-- Attack: 75
+- Hp: 80
+- Attack: 100
 - Defense: 70
-- Special-attack: 65
-- Special-defense: 75
-- Speed: 111
+- Special-attack: 50
+- Special-defense: 60
+- Speed: 45
