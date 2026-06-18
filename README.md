@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Purrloin
-## ID: 509
+## Kyurem
+## ID: 646
 ### Tipos
-- Dark
+- Dragon
+- Ice
 ### Stats
-- Hp: 41
-- Attack: 50
-- Defense: 37
-- Special-attack: 50
-- Special-defense: 37
-- Speed: 66
+- Hp: 125
+- Attack: 130
+- Defense: 90
+- Special-attack: 130
+- Special-defense: 90
+- Speed: 95
