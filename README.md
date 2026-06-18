@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Espathra
-## ID: 956
+## Purrloin
+## ID: 509
 ### Tipos
-- Psychic
+- Dark
 ### Stats
-- Hp: 95
-- Attack: 60
-- Defense: 60
-- Special-attack: 101
-- Special-defense: 60
-- Speed: 105
+- Hp: 41
+- Attack: 50
+- Defense: 37
+- Special-attack: 50
+- Special-defense: 37
+- Speed: 66
