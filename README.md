@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Kyurem
-## ID: 646
+## Crustle
+## ID: 558
 ### Tipos
-- Dragon
-- Ice
+- Bug
+- Rock
 ### Stats
-- Hp: 125
-- Attack: 130
-- Defense: 90
-- Special-attack: 130
-- Special-defense: 90
-- Speed: 95
+- Hp: 70
+- Attack: 105
+- Defense: 125
+- Special-attack: 65
+- Special-defense: 75
+- Speed: 45
