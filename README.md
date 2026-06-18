@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Crustle
-## ID: 558
+## Maushold-family-of-four
+## ID: 925
 ### Tipos
-- Bug
-- Rock
+- Normal
 ### Stats
-- Hp: 70
-- Attack: 105
-- Defense: 125
+- Hp: 74
+- Attack: 75
+- Defense: 70
 - Special-attack: 65
 - Special-defense: 75
-- Speed: 45
+- Speed: 111
