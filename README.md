@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Sableye
-## ID: 302
+## Seismitoad
+## ID: 537
 ### Tipos
-- Dark
-- Ghost
+- Water
+- Ground
 ### Stats
-- Hp: 50
-- Attack: 75
+- Hp: 105
+- Attack: 95
 - Defense: 75
-- Special-attack: 65
-- Special-defense: 65
-- Speed: 50
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 74
