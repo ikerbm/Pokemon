@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Spearow
-## ID: 21
+## Buzzwole
+## ID: 794
 ### Tipos
-- Normal
-- Flying
+- Bug
+- Fighting
 ### Stats
-- Hp: 40
-- Attack: 60
-- Defense: 30
-- Special-attack: 31
-- Special-defense: 31
-- Speed: 70
+- Hp: 107
+- Attack: 139
+- Defense: 139
+- Special-attack: 53
+- Special-defense: 53
+- Speed: 79
