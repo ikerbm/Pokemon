@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Bellossom
-## ID: 182
+## Manaphy
+## ID: 490
 ### Tipos
-- Grass
+- Water
 ### Stats
-- Hp: 75
-- Attack: 80
-- Defense: 95
-- Special-attack: 90
+- Hp: 100
+- Attack: 100
+- Defense: 100
+- Special-attack: 100
 - Special-defense: 100
-- Speed: 50
+- Speed: 100
