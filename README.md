@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Seismitoad
-## ID: 537
+## Staryu
+## ID: 120
 ### Tipos
 - Water
-- Ground
 ### Stats
-- Hp: 105
-- Attack: 95
-- Defense: 75
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 74
+- Hp: 30
+- Attack: 45
+- Defense: 55
+- Special-attack: 70
+- Special-defense: 55
+- Speed: 85
