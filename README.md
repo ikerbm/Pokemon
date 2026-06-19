@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Manaphy
-## ID: 490
+## Bombirdier
+## ID: 962
 ### Tipos
-- Water
+- Flying
+- Dark
 ### Stats
-- Hp: 100
-- Attack: 100
-- Defense: 100
-- Special-attack: 100
-- Special-defense: 100
-- Speed: 100
+- Hp: 70
+- Attack: 103
+- Defense: 85
+- Special-attack: 60
+- Special-defense: 85
+- Speed: 82
