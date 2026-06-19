@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Staryu
-## ID: 120
+## Spearow
+## ID: 21
 ### Tipos
-- Water
+- Normal
+- Flying
 ### Stats
-- Hp: 30
-- Attack: 45
-- Defense: 55
-- Special-attack: 70
-- Special-defense: 55
-- Speed: 85
+- Hp: 40
+- Attack: 60
+- Defense: 30
+- Special-attack: 31
+- Special-defense: 31
+- Speed: 70
