@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Bombirdier
-## ID: 962
+## Toxel
+## ID: 848
 ### Tipos
-- Flying
-- Dark
+- Electric
+- Poison
 ### Stats
-- Hp: 70
-- Attack: 103
-- Defense: 85
-- Special-attack: 60
-- Special-defense: 85
-- Speed: 82
+- Hp: 40
+- Attack: 38
+- Defense: 35
+- Special-attack: 54
+- Special-defense: 35
+- Speed: 40
