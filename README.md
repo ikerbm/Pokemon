@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Toxel
-## ID: 848
+## Yveltal
+## ID: 717
 ### Tipos
-- Electric
-- Poison
+- Dark
+- Flying
 ### Stats
-- Hp: 40
-- Attack: 38
-- Defense: 35
-- Special-attack: 54
-- Special-defense: 35
-- Speed: 40
+- Hp: 126
+- Attack: 131
+- Defense: 95
+- Special-attack: 131
+- Special-defense: 98
+- Speed: 99
