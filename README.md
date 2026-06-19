@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Buzzwole
-## ID: 794
+## Bellossom
+## ID: 182
 ### Tipos
-- Bug
-- Fighting
+- Grass
 ### Stats
-- Hp: 107
-- Attack: 139
-- Defense: 139
-- Special-attack: 53
-- Special-defense: 53
-- Speed: 79
+- Hp: 75
+- Attack: 80
+- Defense: 95
+- Special-attack: 90
+- Special-defense: 100
+- Speed: 50
