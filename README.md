@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Machoke
-## ID: 67
+## Sableye
+## ID: 302
 ### Tipos
-- Fighting
+- Dark
+- Ghost
 ### Stats
-- Hp: 80
-- Attack: 100
-- Defense: 70
-- Special-attack: 50
-- Special-defense: 60
-- Speed: 45
+- Hp: 50
+- Attack: 75
+- Defense: 75
+- Special-attack: 65
+- Special-defense: 65
+- Speed: 50
