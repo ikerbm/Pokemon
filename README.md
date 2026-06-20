@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Phantump
-## ID: 708
+## Diancie
+## ID: 719
 ### Tipos
-- Ghost
-- Grass
+- Rock
+- Fairy
 ### Stats
-- Hp: 43
-- Attack: 70
-- Defense: 48
-- Special-attack: 50
-- Special-defense: 60
-- Speed: 38
+- Hp: 50
+- Attack: 100
+- Defense: 150
+- Special-attack: 100
+- Special-defense: 150
+- Speed: 50
