@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Chingling
-## ID: 433
+## Lunatone
+## ID: 337
 ### Tipos
+- Rock
 - Psychic
 ### Stats
-- Hp: 45
-- Attack: 30
-- Defense: 50
-- Special-attack: 65
-- Special-defense: 50
-- Speed: 45
+- Hp: 90
+- Attack: 55
+- Defense: 65
+- Special-attack: 95
+- Special-defense: 85
+- Speed: 70
