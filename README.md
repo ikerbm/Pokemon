@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Yveltal
-## ID: 717
+## Hoopa
+## ID: 720
 ### Tipos
-- Dark
-- Flying
+- Psychic
+- Ghost
 ### Stats
-- Hp: 126
-- Attack: 131
-- Defense: 95
-- Special-attack: 131
-- Special-defense: 98
-- Speed: 99
+- Hp: 80
+- Attack: 110
+- Defense: 60
+- Special-attack: 150
+- Special-defense: 130
+- Speed: 70
