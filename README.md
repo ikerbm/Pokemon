@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Altaria
-## ID: 334
+## Charjabug
+## ID: 737
 ### Tipos
-- Dragon
-- Flying
+- Bug
+- Electric
 ### Stats
-- Hp: 75
-- Attack: 70
-- Defense: 90
-- Special-attack: 70
-- Special-defense: 105
-- Speed: 80
+- Hp: 57
+- Attack: 82
+- Defense: 95
+- Special-attack: 55
+- Special-defense: 75
+- Speed: 36
