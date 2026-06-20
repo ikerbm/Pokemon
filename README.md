@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Charjabug
-## ID: 737
+## Phantump
+## ID: 708
 ### Tipos
-- Bug
-- Electric
+- Ghost
+- Grass
 ### Stats
-- Hp: 57
-- Attack: 82
-- Defense: 95
-- Special-attack: 55
-- Special-defense: 75
-- Speed: 36
+- Hp: 43
+- Attack: 70
+- Defense: 48
+- Special-attack: 50
+- Special-defense: 60
+- Speed: 38
