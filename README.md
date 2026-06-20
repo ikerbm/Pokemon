@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Lunatone
-## ID: 337
+## Flaaffy
+## ID: 180
 ### Tipos
-- Rock
-- Psychic
+- Electric
 ### Stats
-- Hp: 90
+- Hp: 70
 - Attack: 55
-- Defense: 65
-- Special-attack: 95
-- Special-defense: 85
-- Speed: 70
+- Defense: 55
+- Special-attack: 80
+- Special-defense: 60
+- Speed: 45
