@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Hoopa
-## ID: 720
+## Togepi
+## ID: 175
 ### Tipos
-- Psychic
-- Ghost
+- Fairy
 ### Stats
-- Hp: 80
-- Attack: 110
-- Defense: 60
-- Special-attack: 150
-- Special-defense: 130
-- Speed: 70
+- Hp: 35
+- Attack: 20
+- Defense: 65
+- Special-attack: 40
+- Special-defense: 65
+- Speed: 20
