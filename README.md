@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Flaaffy
-## ID: 180
+## Altaria
+## ID: 334
 ### Tipos
-- Electric
+- Dragon
+- Flying
 ### Stats
-- Hp: 70
-- Attack: 55
-- Defense: 55
-- Special-attack: 80
-- Special-defense: 60
-- Speed: 45
+- Hp: 75
+- Attack: 70
+- Defense: 90
+- Special-attack: 70
+- Special-defense: 105
+- Speed: 80
