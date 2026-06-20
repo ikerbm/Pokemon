@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Diancie
-## ID: 719
+## Corvisquire
+## ID: 822
 ### Tipos
-- Rock
-- Fairy
+- Flying
 ### Stats
-- Hp: 50
-- Attack: 100
-- Defense: 150
-- Special-attack: 100
-- Special-defense: 150
-- Speed: 50
+- Hp: 68
+- Attack: 67
+- Defense: 55
+- Special-attack: 43
+- Special-defense: 55
+- Speed: 77
