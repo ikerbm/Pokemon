@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Togepi
-## ID: 175
+## Palafin-zero
+## ID: 964
 ### Tipos
-- Fairy
+- Water
 ### Stats
-- Hp: 35
-- Attack: 20
-- Defense: 65
-- Special-attack: 40
-- Special-defense: 65
-- Speed: 20
+- Hp: 100
+- Attack: 70
+- Defense: 72
+- Special-attack: 53
+- Special-defense: 62
+- Speed: 100
