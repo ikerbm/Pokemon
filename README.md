@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Palafin-zero
-## ID: 964
+## Chingling
+## ID: 433
 ### Tipos
-- Water
+- Psychic
 ### Stats
-- Hp: 100
-- Attack: 70
-- Defense: 72
-- Special-attack: 53
-- Special-defense: 62
-- Speed: 100
+- Hp: 45
+- Attack: 30
+- Defense: 50
+- Special-attack: 65
+- Special-defense: 50
+- Speed: 45
