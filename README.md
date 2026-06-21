@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Poipole
-## ID: 803
+## Dwebble
+## ID: 557
 ### Tipos
-- Poison
+- Bug
+- Rock
 ### Stats
-- Hp: 67
-- Attack: 73
-- Defense: 67
-- Special-attack: 73
-- Special-defense: 67
-- Speed: 73
+- Hp: 50
+- Attack: 65
+- Defense: 85
+- Special-attack: 35
+- Special-defense: 35
+- Speed: 55
