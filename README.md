@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Flamigo
-## ID: 973
+## Aegislash-shield
+## ID: 681
 ### Tipos
-- Flying
-- Fighting
+- Steel
+- Ghost
 ### Stats
-- Hp: 82
-- Attack: 115
-- Defense: 74
-- Special-attack: 75
-- Special-defense: 64
-- Speed: 90
+- Hp: 60
+- Attack: 50
+- Defense: 140
+- Special-attack: 50
+- Special-defense: 140
+- Speed: 60
