@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Chinchou
-## ID: 170
+## Azelf
+## ID: 482
 ### Tipos
-- Water
-- Electric
+- Psychic
 ### Stats
 - Hp: 75
-- Attack: 38
-- Defense: 38
-- Special-attack: 56
-- Special-defense: 56
-- Speed: 67
+- Attack: 125
+- Defense: 70
+- Special-attack: 125
+- Special-defense: 70
+- Speed: 115
