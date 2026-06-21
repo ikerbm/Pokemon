@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Regice
-## ID: 378
+## Chesnaught
+## ID: 652
 ### Tipos
-- Ice
+- Grass
+- Fighting
 ### Stats
-- Hp: 80
-- Attack: 50
-- Defense: 100
-- Special-attack: 100
-- Special-defense: 200
-- Speed: 50
+- Hp: 88
+- Attack: 107
+- Defense: 122
+- Special-attack: 74
+- Special-defense: 75
+- Speed: 64
