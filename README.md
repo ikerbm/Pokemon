@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Corvisquire
-## ID: 822
+## Regice
+## ID: 378
 ### Tipos
-- Flying
+- Ice
 ### Stats
-- Hp: 68
-- Attack: 67
-- Defense: 55
-- Special-attack: 43
-- Special-defense: 55
-- Speed: 77
+- Hp: 80
+- Attack: 50
+- Defense: 100
+- Special-attack: 100
+- Special-defense: 200
+- Speed: 50
