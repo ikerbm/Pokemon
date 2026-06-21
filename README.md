@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Chesnaught
-## ID: 652
+## Chinchou
+## ID: 170
 ### Tipos
-- Grass
-- Fighting
+- Water
+- Electric
 ### Stats
-- Hp: 88
-- Attack: 107
-- Defense: 122
-- Special-attack: 74
-- Special-defense: 75
-- Speed: 64
+- Hp: 75
+- Attack: 38
+- Defense: 38
+- Special-attack: 56
+- Special-defense: 56
+- Speed: 67
