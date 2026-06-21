@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Azelf
-## ID: 482
+## Flamigo
+## ID: 973
 ### Tipos
-- Psychic
+- Flying
+- Fighting
 ### Stats
-- Hp: 75
-- Attack: 125
-- Defense: 70
-- Special-attack: 125
-- Special-defense: 70
-- Speed: 115
+- Hp: 82
+- Attack: 115
+- Defense: 74
+- Special-attack: 75
+- Special-defense: 64
+- Speed: 90
