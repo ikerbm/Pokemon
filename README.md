@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Aegislash-shield
-## ID: 681
+## Vanillish
+## ID: 583
 ### Tipos
-- Steel
-- Ghost
+- Ice
 ### Stats
-- Hp: 60
-- Attack: 50
-- Defense: 140
-- Special-attack: 50
-- Special-defense: 140
-- Speed: 60
+- Hp: 51
+- Attack: 65
+- Defense: 65
+- Special-attack: 80
+- Special-defense: 75
+- Speed: 59
