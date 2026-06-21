@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dwebble
-## ID: 557
+## Gholdengo
+## ID: 1000
 ### Tipos
-- Bug
-- Rock
+- Steel
+- Ghost
 ### Stats
-- Hp: 50
-- Attack: 65
-- Defense: 85
-- Special-attack: 35
-- Special-defense: 35
-- Speed: 55
+- Hp: 87
+- Attack: 60
+- Defense: 95
+- Special-attack: 133
+- Special-defense: 91
+- Speed: 84
