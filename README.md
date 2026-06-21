@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Vanillish
-## ID: 583
+## Deino
+## ID: 633
 ### Tipos
-- Ice
+- Dark
+- Dragon
 ### Stats
-- Hp: 51
+- Hp: 52
 - Attack: 65
-- Defense: 65
-- Special-attack: 80
-- Special-defense: 75
-- Speed: 59
+- Defense: 50
+- Special-attack: 45
+- Special-defense: 50
+- Speed: 38
