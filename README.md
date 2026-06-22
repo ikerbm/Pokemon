@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Pidgey
-## ID: 16
+## Pheromosa
+## ID: 795
 ### Tipos
-- Normal
-- Flying
+- Bug
+- Fighting
 ### Stats
-- Hp: 40
-- Attack: 45
-- Defense: 40
-- Special-attack: 35
-- Special-defense: 35
-- Speed: 56
+- Hp: 71
+- Attack: 137
+- Defense: 37
+- Special-attack: 137
+- Special-defense: 37
+- Speed: 151
