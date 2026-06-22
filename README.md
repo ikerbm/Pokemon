@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Poliwag
-## ID: 60
+## Perrserker
+## ID: 863
 ### Tipos
-- Water
+- Steel
 ### Stats
-- Hp: 40
-- Attack: 50
-- Defense: 40
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 90
+- Hp: 70
+- Attack: 110
+- Defense: 100
+- Special-attack: 50
+- Special-defense: 60
+- Speed: 50
