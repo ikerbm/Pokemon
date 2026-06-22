@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Type-null
-## ID: 772
+## Archeops
+## ID: 567
 ### Tipos
-- Normal
+- Rock
+- Flying
 ### Stats
-- Hp: 95
-- Attack: 95
-- Defense: 95
-- Special-attack: 95
-- Special-defense: 95
-- Speed: 59
+- Hp: 75
+- Attack: 140
+- Defense: 65
+- Special-attack: 112
+- Special-defense: 65
+- Speed: 110
