@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Archeops
-## ID: 567
+## Poliwag
+## ID: 60
 ### Tipos
-- Rock
-- Flying
+- Water
 ### Stats
-- Hp: 75
-- Attack: 140
-- Defense: 65
-- Special-attack: 112
-- Special-defense: 65
-- Speed: 110
+- Hp: 40
+- Attack: 50
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 90
