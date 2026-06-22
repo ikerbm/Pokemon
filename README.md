@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Perrserker
-## ID: 863
+## Pheromosa
+## ID: 795
 ### Tipos
-- Steel
+- Bug
+- Fighting
 ### Stats
-- Hp: 70
-- Attack: 110
-- Defense: 100
-- Special-attack: 50
-- Special-defense: 60
-- Speed: 50
+- Hp: 71
+- Attack: 137
+- Defense: 37
+- Special-attack: 137
+- Special-defense: 37
+- Speed: 151
