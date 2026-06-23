@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Lunatone
-## ID: 337
+## Zubat
+## ID: 41
 ### Tipos
-- Rock
-- Psychic
+- Poison
+- Flying
 ### Stats
-- Hp: 90
-- Attack: 55
-- Defense: 65
-- Special-attack: 95
-- Special-defense: 85
-- Speed: 70
+- Hp: 40
+- Attack: 45
+- Defense: 35
+- Special-attack: 30
+- Special-defense: 40
+- Speed: 55
