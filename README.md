@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Zubat
-## ID: 41
+## Trubbish
+## ID: 568
 ### Tipos
 - Poison
-- Flying
 ### Stats
-- Hp: 40
-- Attack: 45
-- Defense: 35
-- Special-attack: 30
-- Special-defense: 40
-- Speed: 55
+- Hp: 50
+- Attack: 50
+- Defense: 62
+- Special-attack: 40
+- Special-defense: 62
+- Speed: 65
