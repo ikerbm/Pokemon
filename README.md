@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Cherrim
-## ID: 421
+## Alomomola
+## ID: 594
 ### Tipos
-- Grass
+- Water
 ### Stats
-- Hp: 70
-- Attack: 60
-- Defense: 70
-- Special-attack: 87
-- Special-defense: 78
-- Speed: 85
+- Hp: 165
+- Attack: 75
+- Defense: 80
+- Special-attack: 40
+- Special-defense: 45
+- Speed: 65
