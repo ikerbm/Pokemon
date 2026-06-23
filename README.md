@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Minccino
-## ID: 572
+## Vivillon
+## ID: 666
 ### Tipos
-- Normal
+- Bug
+- Flying
 ### Stats
-- Hp: 55
-- Attack: 50
-- Defense: 40
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 75
+- Hp: 80
+- Attack: 52
+- Defense: 50
+- Special-attack: 90
+- Special-defense: 50
+- Speed: 89
