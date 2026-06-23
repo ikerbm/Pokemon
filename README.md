@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Alomomola
-## ID: 594
+## Hoopa
+## ID: 720
 ### Tipos
-- Water
+- Psychic
+- Ghost
 ### Stats
-- Hp: 165
-- Attack: 75
-- Defense: 80
-- Special-attack: 40
-- Special-defense: 45
-- Speed: 65
+- Hp: 80
+- Attack: 110
+- Defense: 60
+- Special-attack: 150
+- Special-defense: 130
+- Speed: 70
