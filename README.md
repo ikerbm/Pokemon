@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Corsola
-## ID: 222
+## Rockruff
+## ID: 744
 ### Tipos
-- Water
 - Rock
 ### Stats
-- Hp: 65
-- Attack: 55
-- Defense: 95
-- Special-attack: 65
-- Special-defense: 95
-- Speed: 35
+- Hp: 45
+- Attack: 65
+- Defense: 40
+- Special-attack: 30
+- Special-defense: 40
+- Speed: 60
