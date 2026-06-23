@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Hoopa
-## ID: 720
+## Minccino
+## ID: 572
 ### Tipos
-- Psychic
-- Ghost
+- Normal
 ### Stats
-- Hp: 80
-- Attack: 110
-- Defense: 60
-- Special-attack: 150
-- Special-defense: 130
-- Speed: 70
+- Hp: 55
+- Attack: 50
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 75
