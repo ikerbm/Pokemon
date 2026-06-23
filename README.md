@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Trubbish
-## ID: 568
+## Cherrim
+## ID: 421
 ### Tipos
-- Poison
+- Grass
 ### Stats
-- Hp: 50
-- Attack: 50
-- Defense: 62
-- Special-attack: 40
-- Special-defense: 62
-- Speed: 65
+- Hp: 70
+- Attack: 60
+- Defense: 70
+- Special-attack: 87
+- Special-defense: 78
+- Speed: 85
