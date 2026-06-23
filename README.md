@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Vivillon
-## ID: 666
+## Corsola
+## ID: 222
 ### Tipos
-- Bug
-- Flying
+- Water
+- Rock
 ### Stats
-- Hp: 80
-- Attack: 52
-- Defense: 50
-- Special-attack: 90
-- Special-defense: 50
-- Speed: 89
+- Hp: 65
+- Attack: 55
+- Defense: 95
+- Special-attack: 65
+- Special-defense: 95
+- Speed: 35
