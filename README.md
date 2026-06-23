@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Pheromosa
-## ID: 795
+## Lunatone
+## ID: 337
 ### Tipos
-- Bug
-- Fighting
+- Rock
+- Psychic
 ### Stats
-- Hp: 71
-- Attack: 137
-- Defense: 37
-- Special-attack: 137
-- Special-defense: 37
-- Speed: 151
+- Hp: 90
+- Attack: 55
+- Defense: 65
+- Special-attack: 95
+- Special-defense: 85
+- Speed: 70
