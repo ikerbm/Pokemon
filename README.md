@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ariados
-## ID: 168
+## Glaceon
+## ID: 471
 ### Tipos
-- Bug
-- Poison
+- Ice
 ### Stats
-- Hp: 70
-- Attack: 90
-- Defense: 70
-- Special-attack: 60
-- Special-defense: 70
-- Speed: 40
+- Hp: 65
+- Attack: 60
+- Defense: 110
+- Special-attack: 130
+- Special-defense: 95
+- Speed: 65
