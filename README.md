@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Kyogre
-## ID: 382
+## Snorlax
+## ID: 143
 ### Tipos
-- Water
+- Normal
 ### Stats
-- Hp: 100
-- Attack: 100
-- Defense: 90
-- Special-attack: 150
-- Special-defense: 140
-- Speed: 90
+- Hp: 160
+- Attack: 110
+- Defense: 65
+- Special-attack: 65
+- Special-defense: 110
+- Speed: 30
