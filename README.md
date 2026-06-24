@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Zacian
-## ID: 888
+## Kyogre
+## ID: 382
 ### Tipos
-- Fairy
+- Water
 ### Stats
-- Hp: 92
-- Attack: 120
-- Defense: 115
-- Special-attack: 80
-- Special-defense: 115
-- Speed: 138
+- Hp: 100
+- Attack: 100
+- Defense: 90
+- Special-attack: 150
+- Special-defense: 140
+- Speed: 90
