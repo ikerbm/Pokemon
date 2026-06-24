@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Zekrom
-## ID: 644
+## Ariados
+## ID: 168
 ### Tipos
-- Dragon
-- Electric
+- Bug
+- Poison
 ### Stats
-- Hp: 100
-- Attack: 150
-- Defense: 120
-- Special-attack: 120
-- Special-defense: 100
-- Speed: 90
+- Hp: 70
+- Attack: 90
+- Defense: 70
+- Special-attack: 60
+- Special-defense: 70
+- Speed: 40
