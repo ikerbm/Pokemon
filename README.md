@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Rockruff
-## ID: 744
+## Sliggoo
+## ID: 705
 ### Tipos
-- Rock
+- Dragon
 ### Stats
-- Hp: 45
-- Attack: 65
-- Defense: 40
-- Special-attack: 30
-- Special-defense: 40
+- Hp: 68
+- Attack: 75
+- Defense: 53
+- Special-attack: 83
+- Special-defense: 113
 - Speed: 60
