@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Toxicroak
-## ID: 454
+## Barraskewda
+## ID: 847
 ### Tipos
-- Poison
-- Fighting
+- Water
 ### Stats
-- Hp: 83
-- Attack: 106
-- Defense: 65
-- Special-attack: 86
-- Special-defense: 65
-- Speed: 85
+- Hp: 61
+- Attack: 123
+- Defense: 60
+- Special-attack: 60
+- Special-defense: 50
+- Speed: 136
