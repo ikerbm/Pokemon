@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Hoppip
-## ID: 187
+## Toxicroak
+## ID: 454
 ### Tipos
-- Grass
-- Flying
+- Poison
+- Fighting
 ### Stats
-- Hp: 35
-- Attack: 35
-- Defense: 40
-- Special-attack: 35
-- Special-defense: 55
-- Speed: 50
+- Hp: 83
+- Attack: 106
+- Defense: 65
+- Special-attack: 86
+- Special-defense: 65
+- Speed: 85
