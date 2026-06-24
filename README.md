@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Glaceon
-## ID: 471
+## Hoppip
+## ID: 187
 ### Tipos
-- Ice
+- Grass
+- Flying
 ### Stats
-- Hp: 65
-- Attack: 60
-- Defense: 110
-- Special-attack: 130
-- Special-defense: 95
-- Speed: 65
+- Hp: 35
+- Attack: 35
+- Defense: 40
+- Special-attack: 35
+- Special-defense: 55
+- Speed: 50
