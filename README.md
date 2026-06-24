@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Snorlax
-## ID: 143
+## Hitmontop
+## ID: 237
 ### Tipos
-- Normal
+- Fighting
 ### Stats
-- Hp: 160
-- Attack: 110
-- Defense: 65
-- Special-attack: 65
+- Hp: 50
+- Attack: 95
+- Defense: 95
+- Special-attack: 35
 - Special-defense: 110
-- Speed: 30
+- Speed: 70
