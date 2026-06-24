@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Sliggoo
-## ID: 705
+## Zekrom
+## ID: 644
 ### Tipos
 - Dragon
+- Electric
 ### Stats
-- Hp: 68
-- Attack: 75
-- Defense: 53
-- Special-attack: 83
-- Special-defense: 113
-- Speed: 60
+- Hp: 100
+- Attack: 150
+- Defense: 120
+- Special-attack: 120
+- Special-defense: 100
+- Speed: 90
