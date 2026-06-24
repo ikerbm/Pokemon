@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Barraskewda
-## ID: 847
+## Zacian
+## ID: 888
 ### Tipos
-- Water
+- Fairy
 ### Stats
-- Hp: 61
-- Attack: 123
-- Defense: 60
-- Special-attack: 60
-- Special-defense: 50
-- Speed: 136
+- Hp: 92
+- Attack: 120
+- Defense: 115
+- Special-attack: 80
+- Special-defense: 115
+- Speed: 138
