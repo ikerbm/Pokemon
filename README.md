@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Exeggutor
-## ID: 103
+## Salamence
+## ID: 373
 ### Tipos
-- Grass
-- Psychic
+- Dragon
+- Flying
 ### Stats
 - Hp: 95
-- Attack: 95
-- Defense: 85
-- Special-attack: 125
-- Special-defense: 75
-- Speed: 55
+- Attack: 135
+- Defense: 80
+- Special-attack: 110
+- Special-defense: 80
+- Speed: 100
