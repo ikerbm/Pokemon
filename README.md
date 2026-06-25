@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Noctowl
-## ID: 164
+## Mantine
+## ID: 226
 ### Tipos
-- Normal
+- Water
 - Flying
 ### Stats
-- Hp: 100
-- Attack: 50
-- Defense: 50
-- Special-attack: 86
-- Special-defense: 96
+- Hp: 85
+- Attack: 40
+- Defense: 70
+- Special-attack: 80
+- Special-defense: 140
 - Speed: 70
