@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Bombirdier
-## ID: 962
+## Exeggutor
+## ID: 103
 ### Tipos
-- Flying
-- Dark
+- Grass
+- Psychic
 ### Stats
-- Hp: 70
-- Attack: 103
+- Hp: 95
+- Attack: 95
 - Defense: 85
-- Special-attack: 60
-- Special-defense: 85
-- Speed: 82
+- Special-attack: 125
+- Special-defense: 75
+- Speed: 55
