@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Brionne
-## ID: 729
+## Farigiraf
+## ID: 981
 ### Tipos
-- Water
+- Normal
+- Psychic
 ### Stats
-- Hp: 60
-- Attack: 69
-- Defense: 69
-- Special-attack: 91
-- Special-defense: 81
-- Speed: 50
+- Hp: 120
+- Attack: 90
+- Defense: 70
+- Special-attack: 110
+- Special-defense: 70
+- Speed: 60
