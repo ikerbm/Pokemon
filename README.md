@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Dipplin
-## ID: 1011
+## Horsea
+## ID: 116
 ### Tipos
-- Grass
-- Dragon
+- Water
 ### Stats
-- Hp: 80
-- Attack: 80
-- Defense: 110
-- Special-attack: 95
-- Special-defense: 80
-- Speed: 40
+- Hp: 30
+- Attack: 40
+- Defense: 70
+- Special-attack: 70
+- Special-defense: 25
+- Speed: 60
