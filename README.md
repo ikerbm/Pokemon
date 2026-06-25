@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Farigiraf
-## ID: 981
+## Bombirdier
+## ID: 962
 ### Tipos
-- Normal
-- Psychic
+- Flying
+- Dark
 ### Stats
-- Hp: 120
-- Attack: 90
-- Defense: 70
-- Special-attack: 110
-- Special-defense: 70
-- Speed: 60
+- Hp: 70
+- Attack: 103
+- Defense: 85
+- Special-attack: 60
+- Special-defense: 85
+- Speed: 82
