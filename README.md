@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Mantine
-## ID: 226
+## Dipplin
+## ID: 1011
 ### Tipos
-- Water
-- Flying
+- Grass
+- Dragon
 ### Stats
-- Hp: 85
-- Attack: 40
-- Defense: 70
-- Special-attack: 80
-- Special-defense: 140
-- Speed: 70
+- Hp: 80
+- Attack: 80
+- Defense: 110
+- Special-attack: 95
+- Special-defense: 80
+- Speed: 40
