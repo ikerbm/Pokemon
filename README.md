@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Horsea
-## ID: 116
+## Brionne
+## ID: 729
 ### Tipos
 - Water
 ### Stats
-- Hp: 30
-- Attack: 40
-- Defense: 70
-- Special-attack: 70
-- Special-defense: 25
-- Speed: 60
+- Hp: 60
+- Attack: 69
+- Defense: 69
+- Special-attack: 91
+- Special-defense: 81
+- Speed: 50
