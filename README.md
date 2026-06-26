@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Walking-wake
-## ID: 1009
+## Annihilape
+## ID: 979
 ### Tipos
-- Water
-- Dragon
+- Fighting
+- Ghost
 ### Stats
-- Hp: 99
-- Attack: 83
-- Defense: 91
-- Special-attack: 125
-- Special-defense: 83
-- Speed: 109
+- Hp: 110
+- Attack: 115
+- Defense: 80
+- Special-attack: 50
+- Special-defense: 90
+- Speed: 90
