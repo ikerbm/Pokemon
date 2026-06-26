@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Braviary
-## ID: 628
+## Zubat
+## ID: 41
 ### Tipos
-- Normal
+- Poison
 - Flying
 ### Stats
-- Hp: 100
-- Attack: 123
-- Defense: 75
-- Special-attack: 57
-- Special-defense: 75
-- Speed: 80
+- Hp: 40
+- Attack: 45
+- Defense: 35
+- Special-attack: 30
+- Special-defense: 40
+- Speed: 55
