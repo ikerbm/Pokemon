@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Pawniard
-## ID: 624
+## Shuppet
+## ID: 353
 ### Tipos
-- Dark
-- Steel
+- Ghost
 ### Stats
-- Hp: 45
-- Attack: 85
-- Defense: 70
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 60
+- Hp: 44
+- Attack: 75
+- Defense: 35
+- Special-attack: 63
+- Special-defense: 33
+- Speed: 45
