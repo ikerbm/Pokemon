@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Swoobat
-## ID: 528
+## Magcargo
+## ID: 219
 ### Tipos
-- Psychic
-- Flying
+- Fire
+- Rock
 ### Stats
-- Hp: 67
-- Attack: 57
-- Defense: 55
-- Special-attack: 77
-- Special-defense: 55
-- Speed: 114
+- Hp: 60
+- Attack: 50
+- Defense: 120
+- Special-attack: 90
+- Special-defense: 80
+- Speed: 30
