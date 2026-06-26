@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Salamence
-## ID: 373
+## Kingdra
+## ID: 230
 ### Tipos
+- Water
 - Dragon
-- Flying
 ### Stats
-- Hp: 95
-- Attack: 135
-- Defense: 80
-- Special-attack: 110
-- Special-defense: 80
-- Speed: 100
+- Hp: 75
+- Attack: 95
+- Defense: 95
+- Special-attack: 95
+- Special-defense: 95
+- Speed: 85
