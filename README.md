@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Kingdra
-## ID: 230
+## Lanturn
+## ID: 171
 ### Tipos
 - Water
-- Dragon
+- Electric
 ### Stats
-- Hp: 75
-- Attack: 95
-- Defense: 95
-- Special-attack: 95
-- Special-defense: 95
-- Speed: 85
+- Hp: 125
+- Attack: 58
+- Defense: 58
+- Special-attack: 76
+- Special-defense: 76
+- Speed: 67
