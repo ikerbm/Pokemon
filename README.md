@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Zubat
-## ID: 41
+## Pawniard
+## ID: 624
 ### Tipos
-- Poison
-- Flying
+- Dark
+- Steel
 ### Stats
-- Hp: 40
-- Attack: 45
-- Defense: 35
-- Special-attack: 30
+- Hp: 45
+- Attack: 85
+- Defense: 70
+- Special-attack: 40
 - Special-defense: 40
-- Speed: 55
+- Speed: 60
