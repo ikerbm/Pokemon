@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Lanturn
-## ID: 171
+## Braviary
+## ID: 628
 ### Tipos
-- Water
-- Electric
+- Normal
+- Flying
 ### Stats
-- Hp: 125
-- Attack: 58
-- Defense: 58
-- Special-attack: 76
-- Special-defense: 76
-- Speed: 67
+- Hp: 100
+- Attack: 123
+- Defense: 75
+- Special-attack: 57
+- Special-defense: 75
+- Speed: 80
