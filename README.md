@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Charizard
-## ID: 6
+## Sizzlipede
+## ID: 850
 ### Tipos
 - Fire
-- Flying
+- Bug
 ### Stats
-- Hp: 78
-- Attack: 84
-- Defense: 78
-- Special-attack: 109
-- Special-defense: 85
-- Speed: 100
+- Hp: 50
+- Attack: 65
+- Defense: 45
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 45
