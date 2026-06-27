@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Patrat
-## ID: 504
+## Dodrio
+## ID: 85
 ### Tipos
 - Normal
+- Flying
 ### Stats
-- Hp: 45
-- Attack: 55
-- Defense: 39
-- Special-attack: 35
-- Special-defense: 39
-- Speed: 42
+- Hp: 60
+- Attack: 110
+- Defense: 70
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 110
