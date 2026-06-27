@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Sizzlipede
-## ID: 850
+## Cherrim
+## ID: 421
 ### Tipos
-- Fire
-- Bug
+- Grass
 ### Stats
-- Hp: 50
-- Attack: 65
-- Defense: 45
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 45
+- Hp: 70
+- Attack: 60
+- Defense: 70
+- Special-attack: 87
+- Special-defense: 78
+- Speed: 85
