@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dodrio
-## ID: 85
+## Shiftry
+## ID: 275
 ### Tipos
-- Normal
-- Flying
+- Grass
+- Dark
 ### Stats
-- Hp: 60
-- Attack: 110
-- Defense: 70
-- Special-attack: 60
+- Hp: 90
+- Attack: 100
+- Defense: 60
+- Special-attack: 90
 - Special-defense: 60
-- Speed: 110
+- Speed: 80
