@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Kingambit
-## ID: 983
+## Skiddo
+## ID: 672
 ### Tipos
-- Dark
-- Steel
+- Grass
 ### Stats
-- Hp: 100
-- Attack: 135
-- Defense: 120
-- Special-attack: 60
-- Special-defense: 85
-- Speed: 50
+- Hp: 66
+- Attack: 65
+- Defense: 48
+- Special-attack: 62
+- Special-defense: 57
+- Speed: 52
