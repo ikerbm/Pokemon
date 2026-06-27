@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Flutter-mane
-## ID: 987
+## Kingambit
+## ID: 983
 ### Tipos
-- Ghost
-- Fairy
+- Dark
+- Steel
 ### Stats
-- Hp: 55
-- Attack: 55
-- Defense: 55
-- Special-attack: 135
-- Special-defense: 135
-- Speed: 135
+- Hp: 100
+- Attack: 135
+- Defense: 120
+- Special-attack: 60
+- Special-defense: 85
+- Speed: 50
