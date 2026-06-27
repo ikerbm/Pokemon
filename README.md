@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Grimer
-## ID: 88
+## Goldeen
+## ID: 118
 ### Tipos
-- Poison
+- Water
 ### Stats
-- Hp: 80
-- Attack: 80
-- Defense: 50
-- Special-attack: 40
+- Hp: 45
+- Attack: 67
+- Defense: 60
+- Special-attack: 35
 - Special-defense: 50
-- Speed: 25
+- Speed: 63
