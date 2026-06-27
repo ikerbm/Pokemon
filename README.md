@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Fuecoco
-## ID: 909
+## Flutter-mane
+## ID: 987
 ### Tipos
-- Fire
+- Ghost
+- Fairy
 ### Stats
-- Hp: 67
-- Attack: 45
-- Defense: 59
-- Special-attack: 63
-- Special-defense: 40
-- Speed: 36
+- Hp: 55
+- Attack: 55
+- Defense: 55
+- Special-attack: 135
+- Special-defense: 135
+- Speed: 135
