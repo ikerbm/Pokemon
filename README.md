@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Goldeen
-## ID: 118
+## Fuecoco
+## ID: 909
 ### Tipos
-- Water
+- Fire
 ### Stats
-- Hp: 45
-- Attack: 67
-- Defense: 60
-- Special-attack: 35
-- Special-defense: 50
-- Speed: 63
+- Hp: 67
+- Attack: 45
+- Defense: 59
+- Special-attack: 63
+- Special-defense: 40
+- Speed: 36
