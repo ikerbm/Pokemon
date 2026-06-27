@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Shiftry
-## ID: 275
+## Gloom
+## ID: 44
 ### Tipos
 - Grass
-- Dark
+- Poison
 ### Stats
-- Hp: 90
-- Attack: 100
-- Defense: 60
-- Special-attack: 90
-- Special-defense: 60
-- Speed: 80
+- Hp: 60
+- Attack: 65
+- Defense: 70
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 40
