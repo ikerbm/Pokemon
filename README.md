@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Flygon
-## ID: 330
+## Charizard
+## ID: 6
 ### Tipos
-- Ground
-- Dragon
+- Fire
+- Flying
 ### Stats
-- Hp: 80
-- Attack: 100
-- Defense: 80
-- Special-attack: 80
-- Special-defense: 80
+- Hp: 78
+- Attack: 84
+- Defense: 78
+- Special-attack: 109
+- Special-defense: 85
 - Speed: 100
