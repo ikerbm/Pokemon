@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Skiddo
-## ID: 672
+## Flygon
+## ID: 330
 ### Tipos
-- Grass
+- Ground
+- Dragon
 ### Stats
-- Hp: 66
-- Attack: 65
-- Defense: 48
-- Special-attack: 62
-- Special-defense: 57
-- Speed: 52
+- Hp: 80
+- Attack: 100
+- Defense: 80
+- Special-attack: 80
+- Special-defense: 80
+- Speed: 100
