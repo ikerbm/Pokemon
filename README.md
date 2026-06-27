@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Annihilape
-## ID: 979
+## Patrat
+## ID: 504
 ### Tipos
-- Fighting
-- Ghost
+- Normal
 ### Stats
-- Hp: 110
-- Attack: 115
-- Defense: 80
-- Special-attack: 50
-- Special-defense: 90
-- Speed: 90
+- Hp: 45
+- Attack: 55
+- Defense: 39
+- Special-attack: 35
+- Special-defense: 39
+- Speed: 42
