@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Gloom
-## ID: 44
+## Grimer
+## ID: 88
 ### Tipos
-- Grass
 - Poison
 ### Stats
-- Hp: 60
-- Attack: 65
-- Defense: 70
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 40
+- Hp: 80
+- Attack: 80
+- Defense: 50
+- Special-attack: 40
+- Special-defense: 50
+- Speed: 25
