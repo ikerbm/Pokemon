@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Patrat
-## ID: 504
+## Blissey
+## ID: 242
 ### Tipos
 - Normal
 ### Stats
-- Hp: 45
-- Attack: 55
-- Defense: 39
-- Special-attack: 35
-- Special-defense: 39
-- Speed: 42
+- Hp: 255
+- Attack: 10
+- Defense: 10
+- Special-attack: 75
+- Special-defense: 135
+- Speed: 55
