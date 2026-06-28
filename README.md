@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Cobalion
-## ID: 638
+## Torracat
+## ID: 726
 ### Tipos
-- Steel
-- Fighting
+- Fire
 ### Stats
-- Hp: 91
-- Attack: 90
-- Defense: 129
-- Special-attack: 90
-- Special-defense: 72
-- Speed: 108
+- Hp: 65
+- Attack: 85
+- Defense: 50
+- Special-attack: 80
+- Special-defense: 50
+- Speed: 90
