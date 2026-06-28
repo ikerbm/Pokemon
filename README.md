@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Celebi
-## ID: 251
+## Scraggy
+## ID: 559
 ### Tipos
-- Psychic
-- Grass
+- Dark
+- Fighting
 ### Stats
-- Hp: 100
-- Attack: 100
-- Defense: 100
-- Special-attack: 100
-- Special-defense: 100
-- Speed: 100
+- Hp: 50
+- Attack: 75
+- Defense: 70
+- Special-attack: 35
+- Special-defense: 70
+- Speed: 48
