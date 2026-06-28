@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Solosis
-## ID: 577
+## Hydreigon
+## ID: 635
 ### Tipos
-- Psychic
+- Dark
+- Dragon
 ### Stats
-- Hp: 45
-- Attack: 30
-- Defense: 40
-- Special-attack: 105
-- Special-defense: 50
-- Speed: 20
+- Hp: 92
+- Attack: 105
+- Defense: 90
+- Special-attack: 125
+- Special-defense: 90
+- Speed: 98
