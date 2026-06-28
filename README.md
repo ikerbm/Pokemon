@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ralts
-## ID: 280
+## Persian
+## ID: 53
 ### Tipos
-- Psychic
-- Fairy
+- Normal
 ### Stats
-- Hp: 28
-- Attack: 25
-- Defense: 25
-- Special-attack: 45
-- Special-defense: 35
-- Speed: 40
+- Hp: 65
+- Attack: 70
+- Defense: 60
+- Special-attack: 65
+- Special-defense: 65
+- Speed: 115
