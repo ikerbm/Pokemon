@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Lotad
-## ID: 270
+## Froakie
+## ID: 656
 ### Tipos
 - Water
-- Grass
 ### Stats
-- Hp: 40
-- Attack: 30
-- Defense: 30
-- Special-attack: 40
-- Special-defense: 50
-- Speed: 30
+- Hp: 41
+- Attack: 56
+- Defense: 40
+- Special-attack: 62
+- Special-defense: 44
+- Speed: 71
