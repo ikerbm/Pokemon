@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Pidove
-## ID: 519
+## Lotad
+## ID: 270
 ### Tipos
-- Normal
-- Flying
+- Water
+- Grass
 ### Stats
-- Hp: 50
-- Attack: 55
-- Defense: 50
-- Special-attack: 36
-- Special-defense: 30
-- Speed: 43
+- Hp: 40
+- Attack: 30
+- Defense: 30
+- Special-attack: 40
+- Special-defense: 50
+- Speed: 30
