@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Torracat
-## ID: 726
+## Pidove
+## ID: 519
 ### Tipos
-- Fire
+- Normal
+- Flying
 ### Stats
-- Hp: 65
-- Attack: 85
+- Hp: 50
+- Attack: 55
 - Defense: 50
-- Special-attack: 80
-- Special-defense: 50
-- Speed: 90
+- Special-attack: 36
+- Special-defense: 30
+- Speed: 43
