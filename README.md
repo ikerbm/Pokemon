@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Hydreigon
-## ID: 635
+## Pignite
+## ID: 499
 ### Tipos
-- Dark
-- Dragon
+- Fire
+- Fighting
 ### Stats
-- Hp: 92
-- Attack: 105
-- Defense: 90
-- Special-attack: 125
-- Special-defense: 90
-- Speed: 98
+- Hp: 90
+- Attack: 93
+- Defense: 55
+- Special-attack: 70
+- Special-defense: 55
+- Speed: 55
