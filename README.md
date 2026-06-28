@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Froakie
-## ID: 656
+## Celebi
+## ID: 251
 ### Tipos
-- Water
+- Psychic
+- Grass
 ### Stats
-- Hp: 41
-- Attack: 56
-- Defense: 40
-- Special-attack: 62
-- Special-defense: 44
-- Speed: 71
+- Hp: 100
+- Attack: 100
+- Defense: 100
+- Special-attack: 100
+- Special-defense: 100
+- Speed: 100
