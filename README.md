@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Blissey
-## ID: 242
+## Ralts
+## ID: 280
 ### Tipos
-- Normal
+- Psychic
+- Fairy
 ### Stats
-- Hp: 255
-- Attack: 10
-- Defense: 10
-- Special-attack: 75
-- Special-defense: 135
-- Speed: 55
+- Hp: 28
+- Attack: 25
+- Defense: 25
+- Special-attack: 45
+- Special-defense: 35
+- Speed: 40
