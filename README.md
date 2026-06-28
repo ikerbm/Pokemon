@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Pignite
-## ID: 499
+## Patrat
+## ID: 504
 ### Tipos
-- Fire
-- Fighting
+- Normal
 ### Stats
-- Hp: 90
-- Attack: 93
-- Defense: 55
-- Special-attack: 70
-- Special-defense: 55
-- Speed: 55
+- Hp: 45
+- Attack: 55
+- Defense: 39
+- Special-attack: 35
+- Special-defense: 39
+- Speed: 42
