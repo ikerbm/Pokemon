@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Simipour
-## ID: 516
+## Cobalion
+## ID: 638
 ### Tipos
-- Water
+- Steel
+- Fighting
 ### Stats
-- Hp: 75
-- Attack: 98
-- Defense: 63
-- Special-attack: 98
-- Special-defense: 63
-- Speed: 101
+- Hp: 91
+- Attack: 90
+- Defense: 129
+- Special-attack: 90
+- Special-defense: 72
+- Speed: 108
