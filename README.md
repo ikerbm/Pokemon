@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Scraggy
-## ID: 559
+## Solosis
+## ID: 577
 ### Tipos
-- Dark
-- Fighting
+- Psychic
 ### Stats
-- Hp: 50
-- Attack: 75
-- Defense: 70
-- Special-attack: 35
-- Special-defense: 70
-- Speed: 48
+- Hp: 45
+- Attack: 30
+- Defense: 40
+- Special-attack: 105
+- Special-defense: 50
+- Speed: 20
