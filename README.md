@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Spewpa
-## ID: 665
+## Venipede
+## ID: 543
 ### Tipos
 - Bug
+- Poison
 ### Stats
-- Hp: 45
-- Attack: 22
-- Defense: 60
-- Special-attack: 27
-- Special-defense: 30
-- Speed: 29
+- Hp: 30
+- Attack: 45
+- Defense: 59
+- Special-attack: 30
+- Special-defense: 39
+- Speed: 57
