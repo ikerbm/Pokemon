@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Wimpod
-## ID: 767
+## Metagross
+## ID: 376
 ### Tipos
-- Bug
-- Water
+- Steel
+- Psychic
 ### Stats
-- Hp: 25
-- Attack: 35
-- Defense: 40
-- Special-attack: 20
-- Special-defense: 30
-- Speed: 80
+- Hp: 80
+- Attack: 135
+- Defense: 130
+- Special-attack: 95
+- Special-defense: 90
+- Speed: 70
