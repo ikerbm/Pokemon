@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Metagross
-## ID: 376
+## Conkeldurr
+## ID: 534
 ### Tipos
-- Steel
-- Psychic
+- Fighting
 ### Stats
-- Hp: 80
-- Attack: 135
-- Defense: 130
-- Special-attack: 95
-- Special-defense: 90
-- Speed: 70
+- Hp: 105
+- Attack: 140
+- Defense: 95
+- Special-attack: 55
+- Special-defense: 65
+- Speed: 45
