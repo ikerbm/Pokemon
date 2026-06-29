@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Sobble
-## ID: 816
+## Spewpa
+## ID: 665
 ### Tipos
-- Water
+- Bug
 ### Stats
-- Hp: 50
-- Attack: 40
-- Defense: 40
-- Special-attack: 70
-- Special-defense: 40
-- Speed: 70
+- Hp: 45
+- Attack: 22
+- Defense: 60
+- Special-attack: 27
+- Special-defense: 30
+- Speed: 29
