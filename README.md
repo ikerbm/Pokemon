@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Conkeldurr
-## ID: 534
+## Kilowattrel
+## ID: 941
 ### Tipos
-- Fighting
+- Electric
+- Flying
 ### Stats
-- Hp: 105
-- Attack: 140
-- Defense: 95
-- Special-attack: 55
-- Special-defense: 65
-- Speed: 45
+- Hp: 70
+- Attack: 70
+- Defense: 60
+- Special-attack: 105
+- Special-defense: 60
+- Speed: 125
