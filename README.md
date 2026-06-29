@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Accelgor
-## ID: 617
+## Wimpod
+## ID: 767
 ### Tipos
 - Bug
+- Water
 ### Stats
-- Hp: 80
-- Attack: 70
+- Hp: 25
+- Attack: 35
 - Defense: 40
-- Special-attack: 100
-- Special-defense: 60
-- Speed: 145
+- Special-attack: 20
+- Special-defense: 30
+- Speed: 80
