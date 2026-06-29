@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Venipede
-## ID: 543
+## Genesect
+## ID: 649
 ### Tipos
 - Bug
-- Poison
+- Steel
 ### Stats
-- Hp: 30
-- Attack: 45
-- Defense: 59
-- Special-attack: 30
-- Special-defense: 39
-- Speed: 57
+- Hp: 71
+- Attack: 120
+- Defense: 95
+- Special-attack: 120
+- Special-defense: 95
+- Speed: 99
