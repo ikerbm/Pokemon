@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Mienfoo
-## ID: 619
+## Exeggcute
+## ID: 102
 ### Tipos
-- Fighting
+- Grass
+- Psychic
 ### Stats
-- Hp: 45
-- Attack: 85
-- Defense: 50
-- Special-attack: 55
-- Special-defense: 50
-- Speed: 65
+- Hp: 60
+- Attack: 40
+- Defense: 80
+- Special-attack: 60
+- Special-defense: 45
+- Speed: 40
