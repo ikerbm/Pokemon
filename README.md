@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Suicune
-## ID: 245
+## Lopunny
+## ID: 428
 ### Tipos
-- Water
+- Normal
 ### Stats
-- Hp: 100
-- Attack: 75
-- Defense: 115
-- Special-attack: 90
-- Special-defense: 115
-- Speed: 85
+- Hp: 65
+- Attack: 76
+- Defense: 84
+- Special-attack: 54
+- Special-defense: 96
+- Speed: 105
