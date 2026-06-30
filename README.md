@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Lurantis
-## ID: 754
+## Cacnea
+## ID: 331
 ### Tipos
 - Grass
 ### Stats
-- Hp: 70
-- Attack: 105
-- Defense: 90
-- Special-attack: 80
-- Special-defense: 90
-- Speed: 45
+- Hp: 50
+- Attack: 85
+- Defense: 40
+- Special-attack: 85
+- Special-defense: 40
+- Speed: 35
