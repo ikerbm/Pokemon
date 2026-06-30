@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Aerodactyl
-## ID: 142
+## Lurantis
+## ID: 754
 ### Tipos
-- Rock
-- Flying
+- Grass
 ### Stats
-- Hp: 80
+- Hp: 70
 - Attack: 105
-- Defense: 65
-- Special-attack: 60
-- Special-defense: 75
-- Speed: 130
+- Defense: 90
+- Special-attack: 80
+- Special-defense: 90
+- Speed: 45
