@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Cacnea
-## ID: 331
+## Suicune
+## ID: 245
 ### Tipos
-- Grass
+- Water
 ### Stats
-- Hp: 50
-- Attack: 85
-- Defense: 40
-- Special-attack: 85
-- Special-defense: 40
-- Speed: 35
+- Hp: 100
+- Attack: 75
+- Defense: 115
+- Special-attack: 90
+- Special-defense: 115
+- Speed: 85
