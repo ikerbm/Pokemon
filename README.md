@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Woobat
-## ID: 527
+## Aerodactyl
+## ID: 142
 ### Tipos
-- Psychic
+- Rock
 - Flying
 ### Stats
-- Hp: 65
-- Attack: 45
-- Defense: 43
-- Special-attack: 55
-- Special-defense: 43
-- Speed: 72
+- Hp: 80
+- Attack: 105
+- Defense: 65
+- Special-attack: 60
+- Special-defense: 75
+- Speed: 130
