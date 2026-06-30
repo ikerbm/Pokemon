@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Genesect
-## ID: 649
+## Nidoran-f
+## ID: 29
 ### Tipos
-- Bug
-- Steel
+- Poison
 ### Stats
-- Hp: 71
-- Attack: 120
-- Defense: 95
-- Special-attack: 120
-- Special-defense: 95
-- Speed: 99
+- Hp: 55
+- Attack: 47
+- Defense: 52
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 41
