@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Lopunny
-## ID: 428
+## Mienfoo
+## ID: 619
 ### Tipos
-- Normal
+- Fighting
 ### Stats
-- Hp: 65
-- Attack: 76
-- Defense: 84
-- Special-attack: 54
-- Special-defense: 96
-- Speed: 105
+- Hp: 45
+- Attack: 85
+- Defense: 50
+- Special-attack: 55
+- Special-defense: 50
+- Speed: 65
