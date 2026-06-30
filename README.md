@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Simipour
-## ID: 516
+## Woobat
+## ID: 527
 ### Tipos
-- Water
+- Psychic
+- Flying
 ### Stats
-- Hp: 75
-- Attack: 98
-- Defense: 63
-- Special-attack: 98
-- Special-defense: 63
-- Speed: 101
+- Hp: 65
+- Attack: 45
+- Defense: 43
+- Special-attack: 55
+- Special-defense: 43
+- Speed: 72
