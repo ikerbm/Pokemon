@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Wailord
-## ID: 321
+## Tinkatink
+## ID: 957
 ### Tipos
-- Water
+- Fairy
+- Steel
 ### Stats
-- Hp: 170
-- Attack: 90
+- Hp: 50
+- Attack: 45
 - Defense: 45
-- Special-attack: 90
-- Special-defense: 45
-- Speed: 60
+- Special-attack: 35
+- Special-defense: 64
+- Speed: 58
