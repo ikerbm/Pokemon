@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Feebas
-## ID: 349
+## Wailord
+## ID: 321
 ### Tipos
 - Water
 ### Stats
-- Hp: 20
-- Attack: 15
-- Defense: 20
-- Special-attack: 10
-- Special-defense: 55
-- Speed: 80
+- Hp: 170
+- Attack: 90
+- Defense: 45
+- Special-attack: 90
+- Special-defense: 45
+- Speed: 60
