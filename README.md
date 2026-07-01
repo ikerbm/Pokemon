@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Spiritomb
-## ID: 442
+## Nidoran-m
+## ID: 32
 ### Tipos
-- Ghost
-- Dark
+- Poison
 ### Stats
-- Hp: 50
-- Attack: 92
-- Defense: 108
-- Special-attack: 92
-- Special-defense: 108
-- Speed: 35
+- Hp: 46
+- Attack: 57
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 50
