@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Xurkitree
-## ID: 796
+## Spiritomb
+## ID: 442
 ### Tipos
-- Electric
+- Ghost
+- Dark
 ### Stats
-- Hp: 83
-- Attack: 89
-- Defense: 71
-- Special-attack: 173
-- Special-defense: 71
-- Speed: 83
+- Hp: 50
+- Attack: 92
+- Defense: 108
+- Special-attack: 92
+- Special-defense: 108
+- Speed: 35
