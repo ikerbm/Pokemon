@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Druddigon
-## ID: 621
+## Kakuna
+## ID: 14
 ### Tipos
-- Dragon
+- Bug
+- Poison
 ### Stats
-- Hp: 77
-- Attack: 120
-- Defense: 90
-- Special-attack: 60
-- Special-defense: 90
-- Speed: 48
+- Hp: 45
+- Attack: 25
+- Defense: 50
+- Special-attack: 25
+- Special-defense: 25
+- Speed: 35
