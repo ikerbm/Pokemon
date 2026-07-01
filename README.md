@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Pupitar
-## ID: 247
+## Bewear
+## ID: 760
 ### Tipos
-- Rock
-- Ground
+- Normal
+- Fighting
 ### Stats
-- Hp: 70
-- Attack: 84
-- Defense: 70
-- Special-attack: 65
-- Special-defense: 70
-- Speed: 51
+- Hp: 120
+- Attack: 125
+- Defense: 80
+- Special-attack: 55
+- Special-defense: 60
+- Speed: 60
