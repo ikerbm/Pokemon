@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Zapdos
-## ID: 145
+## Gourgeist-average
+## ID: 711
 ### Tipos
-- Electric
-- Flying
+- Ghost
+- Grass
 ### Stats
-- Hp: 90
+- Hp: 65
 - Attack: 90
-- Defense: 85
-- Special-attack: 125
-- Special-defense: 90
-- Speed: 100
+- Defense: 122
+- Special-attack: 58
+- Special-defense: 75
+- Speed: 84
