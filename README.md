@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Gurdurr
-## ID: 533
+## Remoraid
+## ID: 223
 ### Tipos
-- Fighting
+- Water
 ### Stats
-- Hp: 85
-- Attack: 105
-- Defense: 85
-- Special-attack: 40
-- Special-defense: 50
-- Speed: 40
+- Hp: 35
+- Attack: 65
+- Defense: 35
+- Special-attack: 65
+- Special-defense: 35
+- Speed: 65
