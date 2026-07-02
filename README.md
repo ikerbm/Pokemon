@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Malamar
-## ID: 687
+## Gurdurr
+## ID: 533
 ### Tipos
-- Dark
-- Psychic
+- Fighting
 ### Stats
-- Hp: 86
-- Attack: 92
-- Defense: 88
-- Special-attack: 68
-- Special-defense: 75
-- Speed: 73
+- Hp: 85
+- Attack: 105
+- Defense: 85
+- Special-attack: 40
+- Special-defense: 50
+- Speed: 40
