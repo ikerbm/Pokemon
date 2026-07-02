@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Gourgeist-average
-## ID: 711
+## Crobat
+## ID: 169
 ### Tipos
-- Ghost
-- Grass
+- Poison
+- Flying
 ### Stats
-- Hp: 65
+- Hp: 85
 - Attack: 90
-- Defense: 122
-- Special-attack: 58
-- Special-defense: 75
-- Speed: 84
+- Defense: 80
+- Special-attack: 70
+- Special-defense: 80
+- Speed: 130
