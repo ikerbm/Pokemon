@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Crobat
-## ID: 169
+## Gastrodon
+## ID: 423
 ### Tipos
-- Poison
-- Flying
+- Water
+- Ground
 ### Stats
-- Hp: 85
-- Attack: 90
-- Defense: 80
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 130
+- Hp: 111
+- Attack: 83
+- Defense: 68
+- Special-attack: 92
+- Special-defense: 82
+- Speed: 39
