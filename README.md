@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Remoraid
-## ID: 223
+## Copperajah
+## ID: 879
 ### Tipos
-- Water
+- Steel
 ### Stats
-- Hp: 35
-- Attack: 65
-- Defense: 35
-- Special-attack: 65
-- Special-defense: 35
-- Speed: 65
+- Hp: 122
+- Attack: 130
+- Defense: 69
+- Special-attack: 80
+- Special-defense: 69
+- Speed: 30
