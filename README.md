@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Copperajah
-## ID: 879
+## Bergmite
+## ID: 712
 ### Tipos
-- Steel
+- Ice
 ### Stats
-- Hp: 122
-- Attack: 130
-- Defense: 69
-- Special-attack: 80
-- Special-defense: 69
-- Speed: 30
+- Hp: 55
+- Attack: 69
+- Defense: 85
+- Special-attack: 32
+- Special-defense: 35
+- Speed: 28
