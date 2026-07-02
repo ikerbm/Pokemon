@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Komala
-## ID: 775
+## Glaceon
+## ID: 471
 ### Tipos
-- Normal
+- Ice
 ### Stats
 - Hp: 65
-- Attack: 115
-- Defense: 65
-- Special-attack: 75
+- Attack: 60
+- Defense: 110
+- Special-attack: 130
 - Special-defense: 95
 - Speed: 65
