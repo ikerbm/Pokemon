@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Sandile
-## ID: 551
+## Zapdos
+## ID: 145
 ### Tipos
-- Ground
-- Dark
+- Electric
+- Flying
 ### Stats
-- Hp: 50
-- Attack: 72
-- Defense: 35
-- Special-attack: 35
-- Special-defense: 35
-- Speed: 65
+- Hp: 90
+- Attack: 90
+- Defense: 85
+- Special-attack: 125
+- Special-defense: 90
+- Speed: 100
