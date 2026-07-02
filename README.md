@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tinkatink
-## ID: 957
+## Komala
+## ID: 775
 ### Tipos
-- Fairy
-- Steel
+- Normal
 ### Stats
-- Hp: 50
-- Attack: 45
-- Defense: 45
-- Special-attack: 35
-- Special-defense: 64
-- Speed: 58
+- Hp: 65
+- Attack: 115
+- Defense: 65
+- Special-attack: 75
+- Special-defense: 95
+- Speed: 65
