@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Baxcalibur
-## ID: 998
+## Sandile
+## ID: 551
 ### Tipos
-- Dragon
-- Ice
+- Ground
+- Dark
 ### Stats
-- Hp: 115
-- Attack: 145
-- Defense: 92
-- Special-attack: 75
-- Special-defense: 86
-- Speed: 87
+- Hp: 50
+- Attack: 72
+- Defense: 35
+- Special-attack: 35
+- Special-defense: 35
+- Speed: 65
