@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Gastrodon
-## ID: 423
+## Malamar
+## ID: 687
 ### Tipos
-- Water
-- Ground
+- Dark
+- Psychic
 ### Stats
-- Hp: 111
-- Attack: 83
-- Defense: 68
-- Special-attack: 92
-- Special-defense: 82
-- Speed: 39
+- Hp: 86
+- Attack: 92
+- Defense: 88
+- Special-attack: 68
+- Special-defense: 75
+- Speed: 73
