@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Glaceon
-## ID: 471
+## Baxcalibur
+## ID: 998
 ### Tipos
+- Dragon
 - Ice
 ### Stats
-- Hp: 65
-- Attack: 60
-- Defense: 110
-- Special-attack: 130
-- Special-defense: 95
-- Speed: 65
+- Hp: 115
+- Attack: 145
+- Defense: 92
+- Special-attack: 75
+- Special-defense: 86
+- Speed: 87
