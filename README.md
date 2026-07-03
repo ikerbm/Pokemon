@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Metang
-## ID: 375
+## Plusle
+## ID: 311
 ### Tipos
-- Steel
-- Psychic
+- Electric
 ### Stats
 - Hp: 60
-- Attack: 75
-- Defense: 100
-- Special-attack: 55
-- Special-defense: 80
-- Speed: 50
+- Attack: 50
+- Defense: 40
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 95
