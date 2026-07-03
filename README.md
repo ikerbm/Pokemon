@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Wormadam-plant
-## ID: 413
+## Abomasnow
+## ID: 460
 ### Tipos
-- Bug
 - Grass
+- Ice
 ### Stats
-- Hp: 60
-- Attack: 59
-- Defense: 85
-- Special-attack: 79
-- Special-defense: 105
-- Speed: 36
+- Hp: 90
+- Attack: 92
+- Defense: 75
+- Special-attack: 92
+- Special-defense: 85
+- Speed: 60
