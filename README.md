@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Farfetchd
-## ID: 83
+## Palkia
+## ID: 484
 ### Tipos
-- Normal
-- Flying
+- Water
+- Dragon
 ### Stats
-- Hp: 52
-- Attack: 90
-- Defense: 55
-- Special-attack: 58
-- Special-defense: 62
-- Speed: 60
+- Hp: 90
+- Attack: 120
+- Defense: 100
+- Special-attack: 150
+- Special-defense: 120
+- Speed: 100
