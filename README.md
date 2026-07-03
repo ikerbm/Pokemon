@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Wo-chien
-## ID: 1001
+## Gimmighoul
+## ID: 999
 ### Tipos
-- Dark
-- Grass
+- Ghost
 ### Stats
-- Hp: 85
-- Attack: 85
-- Defense: 100
-- Special-attack: 95
-- Special-defense: 135
-- Speed: 70
+- Hp: 45
+- Attack: 30
+- Defense: 70
+- Special-attack: 75
+- Special-defense: 70
+- Speed: 10
