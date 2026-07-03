@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Bergmite
-## ID: 712
+## Wo-chien
+## ID: 1001
 ### Tipos
-- Ice
+- Dark
+- Grass
 ### Stats
-- Hp: 55
-- Attack: 69
-- Defense: 85
-- Special-attack: 32
-- Special-defense: 35
-- Speed: 28
+- Hp: 85
+- Attack: 85
+- Defense: 100
+- Special-attack: 95
+- Special-defense: 135
+- Speed: 70
