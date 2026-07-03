@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Houndoom
-## ID: 229
+## Electrode
+## ID: 101
 ### Tipos
-- Dark
-- Fire
+- Electric
 ### Stats
-- Hp: 75
-- Attack: 90
-- Defense: 50
-- Special-attack: 110
+- Hp: 60
+- Attack: 50
+- Defense: 70
+- Special-attack: 80
 - Special-defense: 80
-- Speed: 95
+- Speed: 150
