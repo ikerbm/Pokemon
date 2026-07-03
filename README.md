@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Tentacool
-## ID: 72
+## Wormadam-plant
+## ID: 413
 ### Tipos
-- Water
-- Poison
+- Bug
+- Grass
 ### Stats
-- Hp: 40
-- Attack: 40
-- Defense: 35
-- Special-attack: 50
-- Special-defense: 100
-- Speed: 70
+- Hp: 60
+- Attack: 59
+- Defense: 85
+- Special-attack: 79
+- Special-defense: 105
+- Speed: 36
