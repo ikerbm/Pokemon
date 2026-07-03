@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Gimmighoul
-## ID: 999
+## Scovillain
+## ID: 952
 ### Tipos
-- Ghost
+- Grass
+- Fire
 ### Stats
-- Hp: 45
-- Attack: 30
-- Defense: 70
-- Special-attack: 75
-- Special-defense: 70
-- Speed: 10
+- Hp: 65
+- Attack: 108
+- Defense: 65
+- Special-attack: 108
+- Special-defense: 65
+- Speed: 75
