@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Scovillain
-## ID: 952
+## Farfetchd
+## ID: 83
 ### Tipos
-- Grass
-- Fire
+- Normal
+- Flying
 ### Stats
-- Hp: 65
-- Attack: 108
-- Defense: 65
-- Special-attack: 108
-- Special-defense: 65
-- Speed: 75
+- Hp: 52
+- Attack: 90
+- Defense: 55
+- Special-attack: 58
+- Special-defense: 62
+- Speed: 60
