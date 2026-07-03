@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Electrode
-## ID: 101
+## Tentacool
+## ID: 72
 ### Tipos
-- Electric
+- Water
+- Poison
 ### Stats
-- Hp: 60
-- Attack: 50
-- Defense: 70
-- Special-attack: 80
-- Special-defense: 80
-- Speed: 150
+- Hp: 40
+- Attack: 40
+- Defense: 35
+- Special-attack: 50
+- Special-defense: 100
+- Speed: 70
