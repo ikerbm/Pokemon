@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Plusle
-## ID: 311
+## Sandshrew
+## ID: 27
 ### Tipos
-- Electric
+- Ground
 ### Stats
-- Hp: 60
-- Attack: 50
-- Defense: 40
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 95
+- Hp: 50
+- Attack: 75
+- Defense: 85
+- Special-attack: 20
+- Special-defense: 30
+- Speed: 40
