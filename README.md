@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Spearow
-## ID: 21
+## Orthworm
+## ID: 968
 ### Tipos
-- Normal
-- Flying
+- Steel
 ### Stats
-- Hp: 40
-- Attack: 60
-- Defense: 30
-- Special-attack: 31
-- Special-defense: 31
-- Speed: 70
+- Hp: 70
+- Attack: 85
+- Defense: 145
+- Special-attack: 60
+- Special-defense: 55
+- Speed: 65
