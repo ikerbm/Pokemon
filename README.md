@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Greavard
-## ID: 971
+## Bouffalant
+## ID: 626
 ### Tipos
-- Ghost
+- Normal
 ### Stats
-- Hp: 50
-- Attack: 61
-- Defense: 60
-- Special-attack: 30
-- Special-defense: 55
-- Speed: 34
+- Hp: 95
+- Attack: 110
+- Defense: 95
+- Special-attack: 40
+- Special-defense: 95
+- Speed: 55
