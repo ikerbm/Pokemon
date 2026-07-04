@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Bramblin
-## ID: 946
+## Palpitoad
+## ID: 536
 ### Tipos
-- Grass
-- Ghost
+- Water
+- Ground
 ### Stats
-- Hp: 40
+- Hp: 75
 - Attack: 65
-- Defense: 30
-- Special-attack: 45
-- Special-defense: 35
-- Speed: 60
+- Defense: 55
+- Special-attack: 65
+- Special-defense: 55
+- Speed: 69
