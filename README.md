@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Orthworm
-## ID: 968
+## Simisear
+## ID: 514
 ### Tipos
-- Steel
+- Fire
 ### Stats
-- Hp: 70
-- Attack: 85
-- Defense: 145
-- Special-attack: 60
-- Special-defense: 55
-- Speed: 65
+- Hp: 75
+- Attack: 98
+- Defense: 63
+- Special-attack: 98
+- Special-defense: 63
+- Speed: 101
