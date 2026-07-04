@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Simisear
-## ID: 514
+## Scyther
+## ID: 123
 ### Tipos
-- Fire
+- Bug
+- Flying
 ### Stats
-- Hp: 75
-- Attack: 98
-- Defense: 63
-- Special-attack: 98
-- Special-defense: 63
-- Speed: 101
+- Hp: 70
+- Attack: 110
+- Defense: 80
+- Special-attack: 55
+- Special-defense: 80
+- Speed: 105
