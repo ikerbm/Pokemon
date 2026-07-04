@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Empoleon
-## ID: 395
+## Greavard
+## ID: 971
 ### Tipos
-- Water
-- Steel
+- Ghost
 ### Stats
-- Hp: 84
-- Attack: 86
-- Defense: 88
-- Special-attack: 111
-- Special-defense: 101
-- Speed: 60
+- Hp: 50
+- Attack: 61
+- Defense: 60
+- Special-attack: 30
+- Special-defense: 55
+- Speed: 34
