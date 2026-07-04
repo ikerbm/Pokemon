@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Bouffalant
-## ID: 626
+## Piplup
+## ID: 393
 ### Tipos
-- Normal
+- Water
 ### Stats
-- Hp: 95
-- Attack: 110
-- Defense: 95
-- Special-attack: 40
-- Special-defense: 95
-- Speed: 55
+- Hp: 53
+- Attack: 51
+- Defense: 53
+- Special-attack: 61
+- Special-defense: 56
+- Speed: 40
