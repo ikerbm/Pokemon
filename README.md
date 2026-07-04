@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Azumarill
-## ID: 184
+## Bewear
+## ID: 760
 ### Tipos
-- Water
-- Fairy
+- Normal
+- Fighting
 ### Stats
-- Hp: 100
-- Attack: 50
+- Hp: 120
+- Attack: 125
 - Defense: 80
-- Special-attack: 60
-- Special-defense: 80
-- Speed: 50
+- Special-attack: 55
+- Special-defense: 60
+- Speed: 60
