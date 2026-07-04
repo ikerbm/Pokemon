@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Bewear
-## ID: 760
+## Pidgeot
+## ID: 18
 ### Tipos
 - Normal
-- Fighting
+- Flying
 ### Stats
-- Hp: 120
-- Attack: 125
-- Defense: 80
-- Special-attack: 55
-- Special-defense: 60
-- Speed: 60
+- Hp: 83
+- Attack: 80
+- Defense: 75
+- Special-attack: 70
+- Special-defense: 70
+- Speed: 101
