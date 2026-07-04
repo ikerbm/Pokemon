@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Pidgeot
-## ID: 18
+## Empoleon
+## ID: 395
 ### Tipos
-- Normal
-- Flying
+- Water
+- Steel
 ### Stats
-- Hp: 83
-- Attack: 80
-- Defense: 75
-- Special-attack: 70
-- Special-defense: 70
-- Speed: 101
+- Hp: 84
+- Attack: 86
+- Defense: 88
+- Special-attack: 111
+- Special-defense: 101
+- Speed: 60
