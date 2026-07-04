@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Sandshrew
-## ID: 27
+## Spearow
+## ID: 21
 ### Tipos
-- Ground
+- Normal
+- Flying
 ### Stats
-- Hp: 50
-- Attack: 75
-- Defense: 85
-- Special-attack: 20
-- Special-defense: 30
-- Speed: 40
+- Hp: 40
+- Attack: 60
+- Defense: 30
+- Special-attack: 31
+- Special-defense: 31
+- Speed: 70
