@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Sandygast
-## ID: 769
+## Bramblin
+## ID: 946
 ### Tipos
+- Grass
 - Ghost
-- Ground
 ### Stats
-- Hp: 55
-- Attack: 55
-- Defense: 80
-- Special-attack: 70
-- Special-defense: 45
-- Speed: 15
+- Hp: 40
+- Attack: 65
+- Defense: 30
+- Special-attack: 45
+- Special-defense: 35
+- Speed: 60
