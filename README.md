@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Piplup
-## ID: 393
+## Sandygast
+## ID: 769
 ### Tipos
-- Water
+- Ghost
+- Ground
 ### Stats
-- Hp: 53
-- Attack: 51
-- Defense: 53
-- Special-attack: 61
-- Special-defense: 56
-- Speed: 40
+- Hp: 55
+- Attack: 55
+- Defense: 80
+- Special-attack: 70
+- Special-defense: 45
+- Speed: 15
