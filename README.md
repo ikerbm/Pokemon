@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Swirlix
-## ID: 684
+## Azumarill
+## ID: 184
 ### Tipos
+- Water
 - Fairy
 ### Stats
-- Hp: 62
-- Attack: 48
-- Defense: 66
-- Special-attack: 59
-- Special-defense: 57
-- Speed: 49
+- Hp: 100
+- Attack: 50
+- Defense: 80
+- Special-attack: 60
+- Special-defense: 80
+- Speed: 50
