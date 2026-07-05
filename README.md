@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Mienfoo
-## ID: 619
+## Weepinbell
+## ID: 70
 ### Tipos
-- Fighting
+- Grass
+- Poison
 ### Stats
-- Hp: 45
-- Attack: 85
+- Hp: 65
+- Attack: 90
 - Defense: 50
-- Special-attack: 55
-- Special-defense: 50
-- Speed: 65
+- Special-attack: 85
+- Special-defense: 45
+- Speed: 55
