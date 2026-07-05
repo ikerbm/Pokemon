@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Hitmontop
-## ID: 237
+## Dreepy
+## ID: 885
 ### Tipos
-- Fighting
+- Dragon
+- Ghost
 ### Stats
-- Hp: 50
-- Attack: 95
-- Defense: 95
-- Special-attack: 35
-- Special-defense: 110
-- Speed: 70
+- Hp: 28
+- Attack: 60
+- Defense: 30
+- Special-attack: 40
+- Special-defense: 30
+- Speed: 82
