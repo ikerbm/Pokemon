@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Tepig
-## ID: 498
+## Cherubi
+## ID: 420
 ### Tipos
-- Fire
+- Grass
 ### Stats
-- Hp: 65
-- Attack: 63
+- Hp: 45
+- Attack: 35
 - Defense: 45
-- Special-attack: 45
-- Special-defense: 45
-- Speed: 45
+- Special-attack: 62
+- Special-defense: 53
+- Speed: 35
