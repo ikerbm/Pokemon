@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Girafarig
-## ID: 203
+## Entei
+## ID: 244
 ### Tipos
-- Normal
-- Psychic
+- Fire
 ### Stats
-- Hp: 70
-- Attack: 80
-- Defense: 65
+- Hp: 115
+- Attack: 115
+- Defense: 85
 - Special-attack: 90
-- Special-defense: 65
-- Speed: 85
+- Special-defense: 75
+- Speed: 100
