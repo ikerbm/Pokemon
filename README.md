@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Charizard
-## ID: 6
+## Quilava
+## ID: 156
 ### Tipos
 - Fire
-- Flying
 ### Stats
-- Hp: 78
-- Attack: 84
-- Defense: 78
-- Special-attack: 109
-- Special-defense: 85
-- Speed: 100
+- Hp: 58
+- Attack: 64
+- Defense: 58
+- Special-attack: 80
+- Special-defense: 65
+- Speed: 80
