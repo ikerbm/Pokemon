@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dreepy
-## ID: 885
+## Charizard
+## ID: 6
 ### Tipos
-- Dragon
-- Ghost
+- Fire
+- Flying
 ### Stats
-- Hp: 28
-- Attack: 60
-- Defense: 30
-- Special-attack: 40
-- Special-defense: 30
-- Speed: 82
+- Hp: 78
+- Attack: 84
+- Defense: 78
+- Special-attack: 109
+- Special-defense: 85
+- Speed: 100
