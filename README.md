@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Dipplin
-## ID: 1011
+## Tepig
+## ID: 498
 ### Tipos
-- Grass
-- Dragon
+- Fire
 ### Stats
-- Hp: 80
-- Attack: 80
-- Defense: 110
-- Special-attack: 95
-- Special-defense: 80
-- Speed: 40
+- Hp: 65
+- Attack: 63
+- Defense: 45
+- Special-attack: 45
+- Special-defense: 45
+- Speed: 45
