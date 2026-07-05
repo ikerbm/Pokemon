@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Quilava
-## ID: 156
+## Skiploom
+## ID: 188
 ### Tipos
-- Fire
+- Grass
+- Flying
 ### Stats
-- Hp: 58
-- Attack: 64
-- Defense: 58
-- Special-attack: 80
+- Hp: 55
+- Attack: 45
+- Defense: 50
+- Special-attack: 45
 - Special-defense: 65
 - Speed: 80
