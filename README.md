@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cherubi
-## ID: 420
+## Gyarados
+## ID: 130
 ### Tipos
-- Grass
+- Water
+- Flying
 ### Stats
-- Hp: 45
-- Attack: 35
-- Defense: 45
-- Special-attack: 62
-- Special-defense: 53
-- Speed: 35
+- Hp: 95
+- Attack: 125
+- Defense: 79
+- Special-attack: 60
+- Special-defense: 100
+- Speed: 81
