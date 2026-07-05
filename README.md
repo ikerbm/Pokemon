@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Gyarados
-## ID: 130
+## Mienfoo
+## ID: 619
 ### Tipos
-- Water
-- Flying
+- Fighting
 ### Stats
-- Hp: 95
-- Attack: 125
-- Defense: 79
-- Special-attack: 60
-- Special-defense: 100
-- Speed: 81
+- Hp: 45
+- Attack: 85
+- Defense: 50
+- Special-attack: 55
+- Special-defense: 50
+- Speed: 65
