@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Hatterene
-## ID: 858
+## Dipplin
+## ID: 1011
 ### Tipos
-- Psychic
-- Fairy
+- Grass
+- Dragon
 ### Stats
-- Hp: 57
-- Attack: 90
-- Defense: 95
-- Special-attack: 136
-- Special-defense: 103
-- Speed: 29
+- Hp: 80
+- Attack: 80
+- Defense: 110
+- Special-attack: 95
+- Special-defense: 80
+- Speed: 40
