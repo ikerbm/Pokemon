@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Weepinbell
-## ID: 70
+## Duosion
+## ID: 578
 ### Tipos
-- Grass
-- Poison
+- Psychic
 ### Stats
 - Hp: 65
-- Attack: 90
+- Attack: 40
 - Defense: 50
-- Special-attack: 85
-- Special-defense: 45
-- Speed: 55
+- Special-attack: 125
+- Special-defense: 60
+- Speed: 30
