@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Skiploom
-## ID: 188
+## Dialga
+## ID: 483
 ### Tipos
-- Grass
-- Flying
+- Steel
+- Dragon
 ### Stats
-- Hp: 55
-- Attack: 45
-- Defense: 50
-- Special-attack: 45
-- Special-defense: 65
-- Speed: 80
+- Hp: 100
+- Attack: 120
+- Defense: 120
+- Special-attack: 150
+- Special-defense: 100
+- Speed: 90
