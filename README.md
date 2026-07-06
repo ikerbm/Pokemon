@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Magnezone
-## ID: 462
+## Scream-tail
+## ID: 985
 ### Tipos
-- Electric
-- Steel
+- Fairy
+- Psychic
 ### Stats
-- Hp: 70
-- Attack: 70
-- Defense: 115
-- Special-attack: 130
-- Special-defense: 90
-- Speed: 60
+- Hp: 115
+- Attack: 65
+- Defense: 99
+- Special-attack: 65
+- Special-defense: 115
+- Speed: 111
