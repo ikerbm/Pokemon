@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Enamorus-incarnate
-## ID: 905
+## Arcanine
+## ID: 59
 ### Tipos
-- Fairy
-- Flying
+- Fire
 ### Stats
-- Hp: 74
-- Attack: 115
-- Defense: 70
-- Special-attack: 135
+- Hp: 90
+- Attack: 110
+- Defense: 80
+- Special-attack: 100
 - Special-defense: 80
-- Speed: 106
+- Speed: 95
