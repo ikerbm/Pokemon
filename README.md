@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Xatu
-## ID: 178
+## Vibrava
+## ID: 329
 ### Tipos
-- Psychic
-- Flying
+- Ground
+- Dragon
 ### Stats
-- Hp: 65
-- Attack: 75
-- Defense: 70
-- Special-attack: 95
-- Special-defense: 70
-- Speed: 95
+- Hp: 50
+- Attack: 70
+- Defense: 50
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 70
