@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Mabosstiff
-## ID: 943
+## Garganacl
+## ID: 934
 ### Tipos
-- Dark
+- Rock
 ### Stats
-- Hp: 80
-- Attack: 120
-- Defense: 90
-- Special-attack: 60
-- Special-defense: 70
-- Speed: 85
+- Hp: 100
+- Attack: 100
+- Defense: 130
+- Special-attack: 45
+- Special-defense: 90
+- Speed: 35
