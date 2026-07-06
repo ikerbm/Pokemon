@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Garganacl
-## ID: 934
+## Comfey
+## ID: 764
 ### Tipos
-- Rock
+- Fairy
 ### Stats
-- Hp: 100
-- Attack: 100
-- Defense: 130
-- Special-attack: 45
-- Special-defense: 90
-- Speed: 35
+- Hp: 51
+- Attack: 52
+- Defense: 90
+- Special-attack: 82
+- Special-defense: 110
+- Speed: 100
