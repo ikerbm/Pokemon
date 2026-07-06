@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Comfey
-## ID: 764
+## Magnezone
+## ID: 462
 ### Tipos
-- Fairy
+- Electric
+- Steel
 ### Stats
-- Hp: 51
-- Attack: 52
-- Defense: 90
-- Special-attack: 82
-- Special-defense: 110
-- Speed: 100
+- Hp: 70
+- Attack: 70
+- Defense: 115
+- Special-attack: 130
+- Special-defense: 90
+- Speed: 60
