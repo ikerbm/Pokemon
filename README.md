@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Arcanine
-## ID: 59
+## Corsola
+## ID: 222
 ### Tipos
-- Fire
+- Water
+- Rock
 ### Stats
-- Hp: 90
-- Attack: 110
-- Defense: 80
-- Special-attack: 100
-- Special-defense: 80
-- Speed: 95
+- Hp: 65
+- Attack: 55
+- Defense: 95
+- Special-attack: 65
+- Special-defense: 95
+- Speed: 35
