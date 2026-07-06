@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Entei
-## ID: 244
+## Enamorus-incarnate
+## ID: 905
 ### Tipos
-- Fire
+- Fairy
+- Flying
 ### Stats
-- Hp: 115
+- Hp: 74
 - Attack: 115
-- Defense: 85
-- Special-attack: 90
-- Special-defense: 75
-- Speed: 100
+- Defense: 70
+- Special-attack: 135
+- Special-defense: 80
+- Speed: 106
