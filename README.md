@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Vibrava
-## ID: 329
+## Mabosstiff
+## ID: 943
 ### Tipos
-- Ground
-- Dragon
+- Dark
 ### Stats
-- Hp: 50
-- Attack: 70
-- Defense: 50
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 70
+- Hp: 80
+- Attack: 120
+- Defense: 90
+- Special-attack: 60
+- Special-defense: 70
+- Speed: 85
