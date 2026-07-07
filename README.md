@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Yanma
-## ID: 193
+## Barraskewda
+## ID: 847
 ### Tipos
-- Bug
-- Flying
+- Water
 ### Stats
-- Hp: 65
-- Attack: 65
-- Defense: 45
-- Special-attack: 75
-- Special-defense: 45
-- Speed: 95
+- Hp: 61
+- Attack: 123
+- Defense: 60
+- Special-attack: 60
+- Special-defense: 50
+- Speed: 136
