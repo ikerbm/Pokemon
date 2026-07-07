@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Milcery
-## ID: 868
+## Aurorus
+## ID: 699
 ### Tipos
-- Fairy
+- Rock
+- Ice
 ### Stats
-- Hp: 45
-- Attack: 40
-- Defense: 40
-- Special-attack: 50
-- Special-defense: 61
-- Speed: 34
+- Hp: 123
+- Attack: 77
+- Defense: 72
+- Special-attack: 99
+- Special-defense: 92
+- Speed: 58
