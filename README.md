@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Scream-tail
-## ID: 985
+## Accelgor
+## ID: 617
 ### Tipos
-- Fairy
-- Psychic
+- Bug
 ### Stats
-- Hp: 115
-- Attack: 65
-- Defense: 99
-- Special-attack: 65
-- Special-defense: 115
-- Speed: 111
+- Hp: 80
+- Attack: 70
+- Defense: 40
+- Special-attack: 100
+- Special-defense: 60
+- Speed: 145
