@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Lopunny
-## ID: 428
+## Yanma
+## ID: 193
 ### Tipos
-- Normal
+- Bug
+- Flying
 ### Stats
 - Hp: 65
-- Attack: 76
-- Defense: 84
-- Special-attack: 54
-- Special-defense: 96
-- Speed: 105
+- Attack: 65
+- Defense: 45
+- Special-attack: 75
+- Special-defense: 45
+- Speed: 95
