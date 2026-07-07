@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Spoink
-## ID: 325
+## Lopunny
+## ID: 428
 ### Tipos
-- Psychic
+- Normal
 ### Stats
-- Hp: 60
-- Attack: 25
-- Defense: 35
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 60
+- Hp: 65
+- Attack: 76
+- Defense: 84
+- Special-attack: 54
+- Special-defense: 96
+- Speed: 105
