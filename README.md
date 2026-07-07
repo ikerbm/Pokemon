@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Skarmory
-## ID: 227
+## Milcery
+## ID: 868
 ### Tipos
-- Steel
-- Flying
+- Fairy
 ### Stats
-- Hp: 65
-- Attack: 80
-- Defense: 140
-- Special-attack: 40
-- Special-defense: 70
-- Speed: 70
+- Hp: 45
+- Attack: 40
+- Defense: 40
+- Special-attack: 50
+- Special-defense: 61
+- Speed: 34
