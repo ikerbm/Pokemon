@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Oshawott
-## ID: 501
+## Alakazam
+## ID: 65
 ### Tipos
-- Water
+- Psychic
 ### Stats
 - Hp: 55
-- Attack: 55
+- Attack: 50
 - Defense: 45
-- Special-attack: 63
-- Special-defense: 45
-- Speed: 45
+- Special-attack: 135
+- Special-defense: 95
+- Speed: 120
