@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Alakazam
-## ID: 65
+## Tyrantrum
+## ID: 697
 ### Tipos
-- Psychic
+- Rock
+- Dragon
 ### Stats
-- Hp: 55
-- Attack: 50
-- Defense: 45
-- Special-attack: 135
-- Special-defense: 95
-- Speed: 120
+- Hp: 82
+- Attack: 121
+- Defense: 119
+- Special-attack: 69
+- Special-defense: 59
+- Speed: 71
