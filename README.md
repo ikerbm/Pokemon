@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Barraskewda
-## ID: 847
+## Skarmory
+## ID: 227
 ### Tipos
-- Water
+- Steel
+- Flying
 ### Stats
-- Hp: 61
-- Attack: 123
-- Defense: 60
-- Special-attack: 60
-- Special-defense: 50
-- Speed: 136
+- Hp: 65
+- Attack: 80
+- Defense: 140
+- Special-attack: 40
+- Special-defense: 70
+- Speed: 70
