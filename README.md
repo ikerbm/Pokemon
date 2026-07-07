@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Aurorus
-## ID: 699
+## Oshawott
+## ID: 501
 ### Tipos
-- Rock
-- Ice
+- Water
 ### Stats
-- Hp: 123
-- Attack: 77
-- Defense: 72
-- Special-attack: 99
-- Special-defense: 92
-- Speed: 58
+- Hp: 55
+- Attack: 55
+- Defense: 45
+- Special-attack: 63
+- Special-defense: 45
+- Speed: 45
