@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Accelgor
-## ID: 617
+## Spoink
+## ID: 325
 ### Tipos
-- Bug
+- Psychic
 ### Stats
-- Hp: 80
-- Attack: 70
-- Defense: 40
-- Special-attack: 100
-- Special-defense: 60
-- Speed: 145
+- Hp: 60
+- Attack: 25
+- Defense: 35
+- Special-attack: 70
+- Special-defense: 80
+- Speed: 60
