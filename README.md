@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Glastrier
-## ID: 896
+## Gulpin
+## ID: 316
 ### Tipos
-- Ice
+- Poison
 ### Stats
-- Hp: 100
-- Attack: 145
-- Defense: 130
-- Special-attack: 65
-- Special-defense: 110
-- Speed: 30
+- Hp: 70
+- Attack: 43
+- Defense: 53
+- Special-attack: 43
+- Special-defense: 53
+- Speed: 40
