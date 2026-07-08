@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Wigglytuff
-## ID: 40
+## Shinx
+## ID: 403
 ### Tipos
-- Normal
-- Fairy
+- Electric
 ### Stats
-- Hp: 140
-- Attack: 70
-- Defense: 45
-- Special-attack: 85
-- Special-defense: 50
+- Hp: 45
+- Attack: 65
+- Defense: 34
+- Special-attack: 40
+- Special-defense: 34
 - Speed: 45
