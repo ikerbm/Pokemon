@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ting-lu
-## ID: 1003
+## Glastrier
+## ID: 896
 ### Tipos
-- Dark
-- Ground
+- Ice
 ### Stats
-- Hp: 155
-- Attack: 110
-- Defense: 125
-- Special-attack: 55
-- Special-defense: 80
-- Speed: 45
+- Hp: 100
+- Attack: 145
+- Defense: 130
+- Special-attack: 65
+- Special-defense: 110
+- Speed: 30
