@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Shinx
-## ID: 403
+## Roserade
+## ID: 407
 ### Tipos
-- Electric
+- Grass
+- Poison
 ### Stats
-- Hp: 45
-- Attack: 65
-- Defense: 34
-- Special-attack: 40
-- Special-defense: 34
-- Speed: 45
+- Hp: 60
+- Attack: 70
+- Defense: 65
+- Special-attack: 125
+- Special-defense: 105
+- Speed: 90
