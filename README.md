@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Horsea
-## ID: 116
+## Ting-lu
+## ID: 1003
 ### Tipos
-- Water
+- Dark
+- Ground
 ### Stats
-- Hp: 30
-- Attack: 40
-- Defense: 70
-- Special-attack: 70
-- Special-defense: 25
-- Speed: 60
+- Hp: 155
+- Attack: 110
+- Defense: 125
+- Special-attack: 55
+- Special-defense: 80
+- Speed: 45
