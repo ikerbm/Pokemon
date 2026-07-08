@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Delibird
-## ID: 225
+## Salandit
+## ID: 757
 ### Tipos
-- Ice
-- Flying
+- Poison
+- Fire
 ### Stats
-- Hp: 45
-- Attack: 55
-- Defense: 45
-- Special-attack: 65
-- Special-defense: 45
-- Speed: 75
+- Hp: 48
+- Attack: 44
+- Defense: 40
+- Special-attack: 71
+- Special-defense: 40
+- Speed: 77
