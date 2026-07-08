@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Clawitzer
-## ID: 693
+## Makuhita
+## ID: 296
 ### Tipos
-- Water
+- Fighting
 ### Stats
-- Hp: 71
-- Attack: 73
-- Defense: 88
-- Special-attack: 120
-- Special-defense: 89
-- Speed: 59
+- Hp: 72
+- Attack: 60
+- Defense: 30
+- Special-attack: 20
+- Special-defense: 30
+- Speed: 25
