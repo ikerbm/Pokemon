@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Makuhita
-## ID: 296
+## Delibird
+## ID: 225
 ### Tipos
-- Fighting
+- Ice
+- Flying
 ### Stats
-- Hp: 72
-- Attack: 60
-- Defense: 30
-- Special-attack: 20
-- Special-defense: 30
-- Speed: 25
+- Hp: 45
+- Attack: 55
+- Defense: 45
+- Special-attack: 65
+- Special-defense: 45
+- Speed: 75
