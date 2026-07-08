@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Arctovish
-## ID: 883
+## Cosmoem
+## ID: 790
 ### Tipos
-- Water
-- Ice
+- Psychic
 ### Stats
-- Hp: 90
-- Attack: 90
-- Defense: 100
-- Special-attack: 80
-- Special-defense: 90
-- Speed: 55
+- Hp: 43
+- Attack: 29
+- Defense: 131
+- Special-attack: 29
+- Special-defense: 131
+- Speed: 37
