@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Cosmoem
-## ID: 790
+## Horsea
+## ID: 116
 ### Tipos
-- Psychic
+- Water
 ### Stats
-- Hp: 43
-- Attack: 29
-- Defense: 131
-- Special-attack: 29
-- Special-defense: 131
-- Speed: 37
+- Hp: 30
+- Attack: 40
+- Defense: 70
+- Special-attack: 70
+- Special-defense: 25
+- Speed: 60
