@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Tyrantrum
-## ID: 697
+## Wigglytuff
+## ID: 40
 ### Tipos
-- Rock
-- Dragon
+- Normal
+- Fairy
 ### Stats
-- Hp: 82
-- Attack: 121
-- Defense: 119
-- Special-attack: 69
-- Special-defense: 59
-- Speed: 71
+- Hp: 140
+- Attack: 70
+- Defense: 45
+- Special-attack: 85
+- Special-defense: 50
+- Speed: 45
