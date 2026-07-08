@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Gulpin
-## ID: 316
+## Clawitzer
+## ID: 693
 ### Tipos
-- Poison
+- Water
 ### Stats
-- Hp: 70
-- Attack: 43
-- Defense: 53
-- Special-attack: 43
-- Special-defense: 53
-- Speed: 40
+- Hp: 71
+- Attack: 73
+- Defense: 88
+- Special-attack: 120
+- Special-defense: 89
+- Speed: 59
