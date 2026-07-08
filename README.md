@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Roserade
-## ID: 407
+## Shuckle
+## ID: 213
 ### Tipos
-- Grass
-- Poison
+- Bug
+- Rock
 ### Stats
-- Hp: 60
-- Attack: 70
-- Defense: 65
-- Special-attack: 125
-- Special-defense: 105
-- Speed: 90
+- Hp: 20
+- Attack: 10
+- Defense: 230
+- Special-attack: 10
+- Special-defense: 230
+- Speed: 5
