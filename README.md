@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Shuckle
-## ID: 213
+## Arctovish
+## ID: 883
 ### Tipos
-- Bug
-- Rock
+- Water
+- Ice
 ### Stats
-- Hp: 20
-- Attack: 10
-- Defense: 230
-- Special-attack: 10
-- Special-defense: 230
-- Speed: 5
+- Hp: 90
+- Attack: 90
+- Defense: 100
+- Special-attack: 80
+- Special-defense: 90
+- Speed: 55
