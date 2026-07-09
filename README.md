@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Woobat
-## ID: 527
+## Grubbin
+## ID: 736
 ### Tipos
-- Psychic
-- Flying
+- Bug
 ### Stats
-- Hp: 65
-- Attack: 45
-- Defense: 43
+- Hp: 47
+- Attack: 62
+- Defense: 45
 - Special-attack: 55
-- Special-defense: 43
-- Speed: 72
+- Special-defense: 45
+- Speed: 46
