@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Caterpie
-## ID: 10
+## Froakie
+## ID: 656
 ### Tipos
-- Bug
+- Water
 ### Stats
-- Hp: 45
-- Attack: 30
-- Defense: 35
-- Special-attack: 20
-- Special-defense: 20
-- Speed: 45
+- Hp: 41
+- Attack: 56
+- Defense: 40
+- Special-attack: 62
+- Special-defense: 44
+- Speed: 71
