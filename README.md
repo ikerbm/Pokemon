@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Kricketot
-## ID: 401
+## Minun
+## ID: 312
 ### Tipos
-- Bug
+- Electric
 ### Stats
-- Hp: 37
-- Attack: 25
-- Defense: 41
-- Special-attack: 25
-- Special-defense: 41
-- Speed: 25
+- Hp: 60
+- Attack: 40
+- Defense: 50
+- Special-attack: 75
+- Special-defense: 85
+- Speed: 95
