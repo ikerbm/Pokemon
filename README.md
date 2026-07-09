@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Virizion
-## ID: 640
+## Machamp
+## ID: 68
 ### Tipos
-- Grass
 - Fighting
 ### Stats
-- Hp: 91
-- Attack: 90
-- Defense: 72
-- Special-attack: 90
-- Special-defense: 129
-- Speed: 108
+- Hp: 90
+- Attack: 130
+- Defense: 80
+- Special-attack: 65
+- Special-defense: 85
+- Speed: 55
