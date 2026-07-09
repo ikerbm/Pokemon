@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Machamp
-## ID: 68
+## Caterpie
+## ID: 10
 ### Tipos
-- Fighting
+- Bug
 ### Stats
-- Hp: 90
-- Attack: 130
-- Defense: 80
-- Special-attack: 65
-- Special-defense: 85
-- Speed: 55
+- Hp: 45
+- Attack: 30
+- Defense: 35
+- Special-attack: 20
+- Special-defense: 20
+- Speed: 45
