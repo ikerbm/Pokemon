@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Drizzile
-## ID: 817
+## Woobat
+## ID: 527
 ### Tipos
-- Water
+- Psychic
+- Flying
 ### Stats
 - Hp: 65
-- Attack: 60
-- Defense: 55
-- Special-attack: 95
-- Special-defense: 55
-- Speed: 90
+- Attack: 45
+- Defense: 43
+- Special-attack: 55
+- Special-defense: 43
+- Speed: 72
