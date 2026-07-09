@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Froakie
-## ID: 656
+## Kricketot
+## ID: 401
 ### Tipos
-- Water
+- Bug
 ### Stats
-- Hp: 41
-- Attack: 56
-- Defense: 40
-- Special-attack: 62
-- Special-defense: 44
-- Speed: 71
+- Hp: 37
+- Attack: 25
+- Defense: 41
+- Special-attack: 25
+- Special-defense: 41
+- Speed: 25
