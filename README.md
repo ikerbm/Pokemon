@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Salandit
-## ID: 757
+## Virizion
+## ID: 640
 ### Tipos
-- Poison
-- Fire
+- Grass
+- Fighting
 ### Stats
-- Hp: 48
-- Attack: 44
-- Defense: 40
-- Special-attack: 71
-- Special-defense: 40
-- Speed: 77
+- Hp: 91
+- Attack: 90
+- Defense: 72
+- Special-attack: 90
+- Special-defense: 129
+- Speed: 108
