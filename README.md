@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Minun
-## ID: 312
+## Drizzile
+## ID: 817
 ### Tipos
-- Electric
+- Water
 ### Stats
-- Hp: 60
-- Attack: 40
-- Defense: 50
-- Special-attack: 75
-- Special-defense: 85
-- Speed: 95
+- Hp: 65
+- Attack: 60
+- Defense: 55
+- Special-attack: 95
+- Special-defense: 55
+- Speed: 90
