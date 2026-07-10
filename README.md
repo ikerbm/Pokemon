@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tinkatink
-## ID: 957
+## Drowzee
+## ID: 96
 ### Tipos
-- Fairy
-- Steel
+- Psychic
 ### Stats
-- Hp: 50
-- Attack: 45
+- Hp: 60
+- Attack: 48
 - Defense: 45
-- Special-attack: 35
-- Special-defense: 64
-- Speed: 58
+- Special-attack: 43
+- Special-defense: 90
+- Speed: 42
