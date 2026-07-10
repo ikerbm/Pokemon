@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Cacturne
-## ID: 332
+## Kommo-o
+## ID: 784
 ### Tipos
-- Grass
-- Dark
+- Dragon
+- Fighting
 ### Stats
-- Hp: 70
-- Attack: 115
-- Defense: 60
-- Special-attack: 115
-- Special-defense: 60
-- Speed: 55
+- Hp: 75
+- Attack: 110
+- Defense: 125
+- Special-attack: 100
+- Special-defense: 105
+- Speed: 85
