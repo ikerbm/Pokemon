@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Kommo-o
-## ID: 784
+## Zigzagoon
+## ID: 263
 ### Tipos
-- Dragon
-- Fighting
+- Normal
 ### Stats
-- Hp: 75
-- Attack: 110
-- Defense: 125
-- Special-attack: 100
-- Special-defense: 105
-- Speed: 85
+- Hp: 38
+- Attack: 30
+- Defense: 41
+- Special-attack: 30
+- Special-defense: 41
+- Speed: 60
