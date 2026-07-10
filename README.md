@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Regieleki
-## ID: 894
+## Scrafty
+## ID: 560
 ### Tipos
-- Electric
+- Dark
+- Fighting
 ### Stats
-- Hp: 80
-- Attack: 100
-- Defense: 50
-- Special-attack: 100
-- Special-defense: 50
-- Speed: 200
+- Hp: 65
+- Attack: 90
+- Defense: 115
+- Special-attack: 45
+- Special-defense: 115
+- Speed: 58
