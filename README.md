@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Bramblin
-## ID: 946
+## Regieleki
+## ID: 894
 ### Tipos
-- Grass
-- Ghost
+- Electric
 ### Stats
-- Hp: 40
-- Attack: 65
-- Defense: 30
-- Special-attack: 45
-- Special-defense: 35
-- Speed: 60
+- Hp: 80
+- Attack: 100
+- Defense: 50
+- Special-attack: 100
+- Special-defense: 50
+- Speed: 200
