@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Delibird
-## ID: 225
+## Bramblin
+## ID: 946
 ### Tipos
-- Ice
-- Flying
+- Grass
+- Ghost
 ### Stats
-- Hp: 45
-- Attack: 55
-- Defense: 45
-- Special-attack: 65
-- Special-defense: 45
-- Speed: 75
+- Hp: 40
+- Attack: 65
+- Defense: 30
+- Special-attack: 45
+- Special-defense: 35
+- Speed: 60
