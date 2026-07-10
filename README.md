@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Sigilyph
-## ID: 561
+## Whismur
+## ID: 293
 ### Tipos
-- Psychic
-- Flying
+- Normal
 ### Stats
-- Hp: 72
-- Attack: 58
-- Defense: 80
-- Special-attack: 103
-- Special-defense: 80
-- Speed: 97
+- Hp: 64
+- Attack: 51
+- Defense: 23
+- Special-attack: 51
+- Special-defense: 23
+- Speed: 28
