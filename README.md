@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Zigzagoon
-## ID: 263
+## Delibird
+## ID: 225
 ### Tipos
-- Normal
+- Ice
+- Flying
 ### Stats
-- Hp: 38
-- Attack: 30
-- Defense: 41
-- Special-attack: 30
-- Special-defense: 41
-- Speed: 60
+- Hp: 45
+- Attack: 55
+- Defense: 45
+- Special-attack: 65
+- Special-defense: 45
+- Speed: 75
