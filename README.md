@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Grubbin
-## ID: 736
+## Tinkatink
+## ID: 957
 ### Tipos
-- Bug
+- Fairy
+- Steel
 ### Stats
-- Hp: 47
-- Attack: 62
+- Hp: 50
+- Attack: 45
 - Defense: 45
-- Special-attack: 55
-- Special-defense: 45
-- Speed: 46
+- Special-attack: 35
+- Special-defense: 64
+- Speed: 58
