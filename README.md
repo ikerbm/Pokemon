@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Scrafty
-## ID: 560
+## Sigilyph
+## ID: 561
 ### Tipos
-- Dark
-- Fighting
+- Psychic
+- Flying
 ### Stats
-- Hp: 65
-- Attack: 90
-- Defense: 115
-- Special-attack: 45
-- Special-defense: 115
-- Speed: 58
+- Hp: 72
+- Attack: 58
+- Defense: 80
+- Special-attack: 103
+- Special-defense: 80
+- Speed: 97
