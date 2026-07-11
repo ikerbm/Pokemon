@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Flareon
-## ID: 136
+## Dragonair
+## ID: 148
 ### Tipos
-- Fire
+- Dragon
 ### Stats
-- Hp: 65
-- Attack: 130
-- Defense: 60
-- Special-attack: 95
-- Special-defense: 110
-- Speed: 65
+- Hp: 61
+- Attack: 84
+- Defense: 65
+- Special-attack: 70
+- Special-defense: 70
+- Speed: 70
