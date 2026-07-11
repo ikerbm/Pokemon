@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Espurr
-## ID: 677
+## Crocalor
+## ID: 910
 ### Tipos
-- Psychic
+- Fire
 ### Stats
-- Hp: 62
-- Attack: 48
-- Defense: 54
-- Special-attack: 63
-- Special-defense: 60
-- Speed: 68
+- Hp: 81
+- Attack: 55
+- Defense: 78
+- Special-attack: 90
+- Special-defense: 58
+- Speed: 49
