@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Manaphy
-## ID: 490
+## Drednaw
+## ID: 834
 ### Tipos
 - Water
+- Rock
 ### Stats
-- Hp: 100
-- Attack: 100
-- Defense: 100
-- Special-attack: 100
-- Special-defense: 100
-- Speed: 100
+- Hp: 90
+- Attack: 115
+- Defense: 90
+- Special-attack: 48
+- Special-defense: 68
+- Speed: 74
