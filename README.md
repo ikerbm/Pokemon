@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Duosion
-## ID: 578
+## Delphox
+## ID: 655
 ### Tipos
+- Fire
 - Psychic
 ### Stats
-- Hp: 65
-- Attack: 40
-- Defense: 50
-- Special-attack: 125
-- Special-defense: 60
-- Speed: 30
+- Hp: 75
+- Attack: 69
+- Defense: 72
+- Special-attack: 114
+- Special-defense: 100
+- Speed: 104
