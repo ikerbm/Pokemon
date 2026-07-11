@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Blissey
-## ID: 242
+## Flareon
+## ID: 136
 ### Tipos
-- Normal
+- Fire
 ### Stats
-- Hp: 255
-- Attack: 10
-- Defense: 10
-- Special-attack: 75
-- Special-defense: 135
-- Speed: 55
+- Hp: 65
+- Attack: 130
+- Defense: 60
+- Special-attack: 95
+- Special-defense: 110
+- Speed: 65
