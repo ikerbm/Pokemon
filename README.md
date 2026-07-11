@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Swadloon
-## ID: 541
+## Appletun
+## ID: 842
 ### Tipos
-- Bug
 - Grass
+- Dragon
 ### Stats
-- Hp: 55
-- Attack: 63
-- Defense: 90
-- Special-attack: 50
+- Hp: 110
+- Attack: 85
+- Defense: 80
+- Special-attack: 100
 - Special-defense: 80
-- Speed: 42
+- Speed: 30
