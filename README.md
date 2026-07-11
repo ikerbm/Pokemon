@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Appletun
-## ID: 842
+## Snom
+## ID: 872
 ### Tipos
-- Grass
-- Dragon
+- Ice
+- Bug
 ### Stats
-- Hp: 110
-- Attack: 85
-- Defense: 80
-- Special-attack: 100
-- Special-defense: 80
-- Speed: 30
+- Hp: 30
+- Attack: 25
+- Defense: 35
+- Special-attack: 45
+- Special-defense: 30
+- Speed: 20
