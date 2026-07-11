@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Persian
-## ID: 53
+## Accelgor
+## ID: 617
 ### Tipos
-- Normal
+- Bug
 ### Stats
-- Hp: 65
+- Hp: 80
 - Attack: 70
-- Defense: 60
-- Special-attack: 65
-- Special-defense: 65
-- Speed: 115
+- Defense: 40
+- Special-attack: 100
+- Special-defense: 60
+- Speed: 145
