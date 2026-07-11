@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Whismur
-## ID: 293
+## Great-tusk
+## ID: 984
 ### Tipos
-- Normal
+- Ground
+- Fighting
 ### Stats
-- Hp: 64
-- Attack: 51
-- Defense: 23
-- Special-attack: 51
-- Special-defense: 23
-- Speed: 28
+- Hp: 115
+- Attack: 131
+- Defense: 131
+- Special-attack: 53
+- Special-defense: 53
+- Speed: 87
