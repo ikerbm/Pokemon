@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Delphox
-## ID: 655
+## Dragonair
+## ID: 148
 ### Tipos
-- Fire
-- Psychic
+- Dragon
 ### Stats
-- Hp: 75
-- Attack: 69
-- Defense: 72
-- Special-attack: 114
-- Special-defense: 100
-- Speed: 104
+- Hp: 61
+- Attack: 84
+- Defense: 65
+- Special-attack: 70
+- Special-defense: 70
+- Speed: 70
