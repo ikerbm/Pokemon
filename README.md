@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Crocalor
-## ID: 910
+## Blissey
+## ID: 242
 ### Tipos
-- Fire
+- Normal
 ### Stats
-- Hp: 81
-- Attack: 55
-- Defense: 78
-- Special-attack: 90
-- Special-defense: 58
-- Speed: 49
+- Hp: 255
+- Attack: 10
+- Defense: 10
+- Special-attack: 75
+- Special-defense: 135
+- Speed: 55
