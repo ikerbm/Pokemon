@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Drednaw
-## ID: 834
+## Espurr
+## ID: 677
 ### Tipos
-- Water
-- Rock
+- Psychic
 ### Stats
-- Hp: 90
-- Attack: 115
-- Defense: 90
-- Special-attack: 48
-- Special-defense: 68
-- Speed: 74
+- Hp: 62
+- Attack: 48
+- Defense: 54
+- Special-attack: 63
+- Special-defense: 60
+- Speed: 68
