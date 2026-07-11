@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Dragonair
-## ID: 148
+## Swadloon
+## ID: 541
 ### Tipos
-- Dragon
+- Bug
+- Grass
 ### Stats
-- Hp: 61
-- Attack: 84
-- Defense: 65
-- Special-attack: 70
-- Special-defense: 70
-- Speed: 70
+- Hp: 55
+- Attack: 63
+- Defense: 90
+- Special-attack: 50
+- Special-defense: 80
+- Speed: 42
