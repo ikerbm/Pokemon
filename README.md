@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Great-tusk
-## ID: 984
+## Rampardos
+## ID: 409
 ### Tipos
-- Ground
-- Fighting
+- Rock
 ### Stats
-- Hp: 115
-- Attack: 131
-- Defense: 131
-- Special-attack: 53
-- Special-defense: 53
-- Speed: 87
+- Hp: 97
+- Attack: 165
+- Defense: 60
+- Special-attack: 65
+- Special-defense: 50
+- Speed: 58
