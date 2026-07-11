@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Accelgor
-## ID: 617
+## Manaphy
+## ID: 490
 ### Tipos
-- Bug
+- Water
 ### Stats
-- Hp: 80
-- Attack: 70
-- Defense: 40
+- Hp: 100
+- Attack: 100
+- Defense: 100
 - Special-attack: 100
-- Special-defense: 60
-- Speed: 145
+- Special-defense: 100
+- Speed: 100
