@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Dragonair
-## ID: 148
+## Muk
+## ID: 89
 ### Tipos
-- Dragon
+- Poison
 ### Stats
-- Hp: 61
-- Attack: 84
-- Defense: 65
-- Special-attack: 70
-- Special-defense: 70
-- Speed: 70
+- Hp: 105
+- Attack: 105
+- Defense: 75
+- Special-attack: 65
+- Special-defense: 100
+- Speed: 50
