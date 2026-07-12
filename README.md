@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Toxapex
-## ID: 748
+## Froslass
+## ID: 478
 ### Tipos
-- Poison
-- Water
+- Ice
+- Ghost
 ### Stats
-- Hp: 50
-- Attack: 63
-- Defense: 152
-- Special-attack: 53
-- Special-defense: 142
-- Speed: 35
+- Hp: 70
+- Attack: 80
+- Defense: 70
+- Special-attack: 80
+- Special-defense: 70
+- Speed: 110
