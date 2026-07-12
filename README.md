@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Furfrou
-## ID: 676
+## Baxcalibur
+## ID: 998
 ### Tipos
-- Normal
+- Dragon
+- Ice
 ### Stats
-- Hp: 75
-- Attack: 80
-- Defense: 60
-- Special-attack: 65
-- Special-defense: 90
-- Speed: 102
+- Hp: 115
+- Attack: 145
+- Defense: 92
+- Special-attack: 75
+- Special-defense: 86
+- Speed: 87
