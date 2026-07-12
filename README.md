@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Poliwag
-## ID: 60
+## Brionne
+## ID: 729
 ### Tipos
 - Water
 ### Stats
-- Hp: 40
-- Attack: 50
-- Defense: 40
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 90
+- Hp: 60
+- Attack: 69
+- Defense: 69
+- Special-attack: 91
+- Special-defense: 81
+- Speed: 50
