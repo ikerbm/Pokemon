@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Litleo
-## ID: 667
+## Shellder
+## ID: 90
 ### Tipos
-- Fire
-- Normal
+- Water
 ### Stats
-- Hp: 62
-- Attack: 50
-- Defense: 58
-- Special-attack: 73
-- Special-defense: 54
-- Speed: 72
+- Hp: 30
+- Attack: 65
+- Defense: 100
+- Special-attack: 45
+- Special-defense: 25
+- Speed: 40
