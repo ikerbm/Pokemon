@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Carnivine
-## ID: 455
+## Furfrou
+## ID: 676
 ### Tipos
-- Grass
+- Normal
 ### Stats
-- Hp: 74
-- Attack: 100
-- Defense: 72
-- Special-attack: 90
-- Special-defense: 72
-- Speed: 46
+- Hp: 75
+- Attack: 80
+- Defense: 60
+- Special-attack: 65
+- Special-defense: 90
+- Speed: 102
