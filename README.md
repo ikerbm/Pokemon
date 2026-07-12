@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Typhlosion
-## ID: 157
+## Raikou
+## ID: 243
 ### Tipos
-- Fire
+- Electric
 ### Stats
-- Hp: 78
-- Attack: 84
-- Defense: 78
-- Special-attack: 109
-- Special-defense: 85
-- Speed: 100
+- Hp: 90
+- Attack: 85
+- Defense: 75
+- Special-attack: 115
+- Special-defense: 100
+- Speed: 115
