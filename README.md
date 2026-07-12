@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Alcremie
-## ID: 869
+## Dunsparce
+## ID: 206
 ### Tipos
-- Fairy
+- Normal
 ### Stats
-- Hp: 65
-- Attack: 60
-- Defense: 75
-- Special-attack: 110
-- Special-defense: 121
-- Speed: 64
+- Hp: 100
+- Attack: 70
+- Defense: 70
+- Special-attack: 65
+- Special-defense: 65
+- Speed: 45
