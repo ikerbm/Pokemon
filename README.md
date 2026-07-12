@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Baxcalibur
-## ID: 998
+## Toxapex
+## ID: 748
 ### Tipos
-- Dragon
-- Ice
+- Poison
+- Water
 ### Stats
-- Hp: 115
-- Attack: 145
-- Defense: 92
-- Special-attack: 75
-- Special-defense: 86
-- Speed: 87
+- Hp: 50
+- Attack: 63
+- Defense: 152
+- Special-attack: 53
+- Special-defense: 142
+- Speed: 35
