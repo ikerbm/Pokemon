@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Raikou
-## ID: 243
+## Poliwag
+## ID: 60
 ### Tipos
-- Electric
+- Water
 ### Stats
-- Hp: 90
-- Attack: 85
-- Defense: 75
-- Special-attack: 115
-- Special-defense: 100
-- Speed: 115
+- Hp: 40
+- Attack: 50
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 90
