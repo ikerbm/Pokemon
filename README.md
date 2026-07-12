@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Roaring-moon
-## ID: 1005
+## Typhlosion
+## ID: 157
 ### Tipos
-- Dragon
-- Dark
+- Fire
 ### Stats
-- Hp: 105
-- Attack: 139
-- Defense: 71
-- Special-attack: 55
-- Special-defense: 101
-- Speed: 119
+- Hp: 78
+- Attack: 84
+- Defense: 78
+- Special-attack: 109
+- Special-defense: 85
+- Speed: 100
