@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Blacephalon
-## ID: 806
+## Litleo
+## ID: 667
 ### Tipos
 - Fire
-- Ghost
+- Normal
 ### Stats
-- Hp: 53
-- Attack: 127
-- Defense: 53
-- Special-attack: 151
-- Special-defense: 79
-- Speed: 107
+- Hp: 62
+- Attack: 50
+- Defense: 58
+- Special-attack: 73
+- Special-defense: 54
+- Speed: 72
