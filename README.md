@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Brionne
-## ID: 729
+## Blacephalon
+## ID: 806
 ### Tipos
-- Water
+- Fire
+- Ghost
 ### Stats
-- Hp: 60
-- Attack: 69
-- Defense: 69
-- Special-attack: 91
-- Special-defense: 81
-- Speed: 50
+- Hp: 53
+- Attack: 127
+- Defense: 53
+- Special-attack: 151
+- Special-defense: 79
+- Speed: 107
