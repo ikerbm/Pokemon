@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Muk
-## ID: 89
+## Slurpuff
+## ID: 685
 ### Tipos
-- Poison
+- Fairy
 ### Stats
-- Hp: 105
-- Attack: 105
-- Defense: 75
-- Special-attack: 65
-- Special-defense: 100
-- Speed: 50
+- Hp: 82
+- Attack: 80
+- Defense: 86
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 72
