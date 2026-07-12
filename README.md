@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Dunsparce
-## ID: 206
+## Arrokuda
+## ID: 846
 ### Tipos
-- Normal
+- Water
 ### Stats
-- Hp: 100
-- Attack: 70
-- Defense: 70
-- Special-attack: 65
-- Special-defense: 65
-- Speed: 45
+- Hp: 41
+- Attack: 63
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 30
+- Speed: 66
