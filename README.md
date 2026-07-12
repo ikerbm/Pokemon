@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Slurpuff
-## ID: 685
+## Carnivine
+## ID: 455
 ### Tipos
-- Fairy
+- Grass
 ### Stats
-- Hp: 82
-- Attack: 80
-- Defense: 86
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 72
+- Hp: 74
+- Attack: 100
+- Defense: 72
+- Special-attack: 90
+- Special-defense: 72
+- Speed: 46
