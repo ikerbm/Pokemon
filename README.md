@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Drowzee
-## ID: 96
+## Delibird
+## ID: 225
 ### Tipos
-- Psychic
+- Ice
+- Flying
 ### Stats
-- Hp: 60
-- Attack: 48
+- Hp: 45
+- Attack: 55
 - Defense: 45
-- Special-attack: 43
-- Special-defense: 90
-- Speed: 42
+- Special-attack: 65
+- Special-defense: 45
+- Speed: 75
