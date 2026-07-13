@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Delibird
-## ID: 225
+## Yungoos
+## ID: 734
 ### Tipos
-- Ice
-- Flying
+- Normal
 ### Stats
-- Hp: 45
-- Attack: 55
-- Defense: 45
-- Special-attack: 65
-- Special-defense: 45
-- Speed: 75
+- Hp: 48
+- Attack: 70
+- Defense: 30
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 45
