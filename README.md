@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Pikipek
-## ID: 731
+## Rayquaza
+## ID: 384
 ### Tipos
-- Normal
+- Dragon
 - Flying
 ### Stats
-- Hp: 35
-- Attack: 75
-- Defense: 30
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 65
+- Hp: 105
+- Attack: 150
+- Defense: 90
+- Special-attack: 150
+- Special-defense: 90
+- Speed: 95
