@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Exeggcute
-## ID: 102
+## Shelgon
+## ID: 372
 ### Tipos
-- Grass
-- Psychic
+- Dragon
 ### Stats
-- Hp: 60
-- Attack: 40
-- Defense: 80
+- Hp: 65
+- Attack: 95
+- Defense: 100
 - Special-attack: 60
-- Special-defense: 45
-- Speed: 40
+- Special-defense: 50
+- Speed: 50
