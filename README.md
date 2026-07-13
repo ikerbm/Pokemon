@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Nuzleaf
-## ID: 274
+## Exeggcute
+## ID: 102
 ### Tipos
 - Grass
-- Dark
+- Psychic
 ### Stats
-- Hp: 70
-- Attack: 70
-- Defense: 40
+- Hp: 60
+- Attack: 40
+- Defense: 80
 - Special-attack: 60
-- Special-defense: 40
-- Speed: 60
+- Special-defense: 45
+- Speed: 40
