@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Arrokuda
-## ID: 846
+## Tangrowth
+## ID: 465
 ### Tipos
-- Water
+- Grass
 ### Stats
-- Hp: 41
-- Attack: 63
-- Defense: 40
-- Special-attack: 40
-- Special-defense: 30
-- Speed: 66
+- Hp: 100
+- Attack: 100
+- Defense: 125
+- Special-attack: 110
+- Special-defense: 50
+- Speed: 50
