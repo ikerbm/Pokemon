@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Rayquaza
-## ID: 384
+## Drowzee
+## ID: 96
 ### Tipos
-- Dragon
-- Flying
+- Psychic
 ### Stats
-- Hp: 105
-- Attack: 150
-- Defense: 90
-- Special-attack: 150
+- Hp: 60
+- Attack: 48
+- Defense: 45
+- Special-attack: 43
 - Special-defense: 90
-- Speed: 95
+- Speed: 42
