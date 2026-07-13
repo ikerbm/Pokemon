@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Garbodor
-## ID: 569
+## Pikipek
+## ID: 731
 ### Tipos
-- Poison
+- Normal
+- Flying
 ### Stats
-- Hp: 80
-- Attack: 95
-- Defense: 82
-- Special-attack: 60
-- Special-defense: 82
-- Speed: 75
+- Hp: 35
+- Attack: 75
+- Defense: 30
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 65
