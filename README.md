@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Shelgon
-## ID: 372
+## Garbodor
+## ID: 569
 ### Tipos
-- Dragon
+- Poison
 ### Stats
-- Hp: 65
+- Hp: 80
 - Attack: 95
-- Defense: 100
+- Defense: 82
 - Special-attack: 60
-- Special-defense: 50
-- Speed: 50
+- Special-defense: 82
+- Speed: 75
