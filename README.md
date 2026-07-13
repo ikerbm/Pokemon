@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Seedot
-## ID: 273
+## Iron-treads
+## ID: 990
 ### Tipos
-- Grass
+- Ground
+- Steel
 ### Stats
-- Hp: 40
-- Attack: 40
-- Defense: 50
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 30
+- Hp: 90
+- Attack: 112
+- Defense: 120
+- Special-attack: 72
+- Special-defense: 70
+- Speed: 106
