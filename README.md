@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Iron-treads
-## ID: 990
+## Nuzleaf
+## ID: 274
 ### Tipos
-- Ground
-- Steel
+- Grass
+- Dark
 ### Stats
-- Hp: 90
-- Attack: 112
-- Defense: 120
-- Special-attack: 72
-- Special-defense: 70
-- Speed: 106
+- Hp: 70
+- Attack: 70
+- Defense: 40
+- Special-attack: 60
+- Special-defense: 40
+- Speed: 60
