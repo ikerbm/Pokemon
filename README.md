@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Amoonguss
-## ID: 591
+## Marshtomp
+## ID: 259
 ### Tipos
-- Grass
-- Poison
+- Water
+- Ground
 ### Stats
-- Hp: 114
+- Hp: 70
 - Attack: 85
 - Defense: 70
-- Special-attack: 85
-- Special-defense: 80
-- Speed: 30
+- Special-attack: 60
+- Special-defense: 70
+- Speed: 50
