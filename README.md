@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Chingling
-## ID: 433
+## Amoonguss
+## ID: 591
 ### Tipos
-- Psychic
+- Grass
+- Poison
 ### Stats
-- Hp: 45
-- Attack: 30
-- Defense: 50
-- Special-attack: 65
-- Special-defense: 50
-- Speed: 45
+- Hp: 114
+- Attack: 85
+- Defense: 70
+- Special-attack: 85
+- Special-defense: 80
+- Speed: 30
