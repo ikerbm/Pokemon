@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Marshtomp
-## ID: 259
+## Skrelp
+## ID: 690
 ### Tipos
+- Poison
 - Water
-- Ground
 ### Stats
-- Hp: 70
-- Attack: 85
-- Defense: 70
+- Hp: 50
+- Attack: 60
+- Defense: 60
 - Special-attack: 60
-- Special-defense: 70
-- Speed: 50
+- Special-defense: 60
+- Speed: 30
