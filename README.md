@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Kabutops
-## ID: 141
+## Oddish
+## ID: 43
 ### Tipos
-- Rock
-- Water
+- Grass
+- Poison
 ### Stats
-- Hp: 60
-- Attack: 115
-- Defense: 105
-- Special-attack: 65
-- Special-defense: 70
-- Speed: 80
+- Hp: 45
+- Attack: 50
+- Defense: 55
+- Special-attack: 75
+- Special-defense: 65
+- Speed: 30
