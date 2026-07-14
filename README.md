@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Ferrothorn
-## ID: 598
+## Aurorus
+## ID: 699
 ### Tipos
-- Grass
-- Steel
+- Rock
+- Ice
 ### Stats
-- Hp: 74
-- Attack: 94
-- Defense: 131
-- Special-attack: 54
-- Special-defense: 116
-- Speed: 20
+- Hp: 123
+- Attack: 77
+- Defense: 72
+- Special-attack: 99
+- Special-defense: 92
+- Speed: 58
