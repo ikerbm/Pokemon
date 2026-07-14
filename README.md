@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Marill
-## ID: 183
+## Jynx
+## ID: 124
 ### Tipos
-- Water
-- Fairy
+- Ice
+- Psychic
 ### Stats
-- Hp: 70
-- Attack: 20
-- Defense: 50
-- Special-attack: 20
-- Special-defense: 50
-- Speed: 40
+- Hp: 65
+- Attack: 50
+- Defense: 35
+- Special-attack: 115
+- Special-defense: 95
+- Speed: 95
