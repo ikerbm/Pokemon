@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Entei
-## ID: 244
+## Kakuna
+## ID: 14
 ### Tipos
-- Fire
+- Bug
+- Poison
 ### Stats
-- Hp: 115
-- Attack: 115
-- Defense: 85
-- Special-attack: 90
-- Special-defense: 75
-- Speed: 100
+- Hp: 45
+- Attack: 25
+- Defense: 50
+- Special-attack: 25
+- Special-defense: 25
+- Speed: 35
