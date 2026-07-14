@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Cinderace
-## ID: 815
+## Entei
+## ID: 244
 ### Tipos
 - Fire
 ### Stats
-- Hp: 80
-- Attack: 116
-- Defense: 75
-- Special-attack: 65
+- Hp: 115
+- Attack: 115
+- Defense: 85
+- Special-attack: 90
 - Special-defense: 75
-- Speed: 119
+- Speed: 100
