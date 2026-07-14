@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Oddish
-## ID: 43
+## Pidgeot
+## ID: 18
 ### Tipos
-- Grass
-- Poison
+- Normal
+- Flying
 ### Stats
-- Hp: 45
-- Attack: 50
-- Defense: 55
-- Special-attack: 75
-- Special-defense: 65
-- Speed: 30
+- Hp: 83
+- Attack: 80
+- Defense: 75
+- Special-attack: 70
+- Special-defense: 70
+- Speed: 101
