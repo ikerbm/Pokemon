@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Lycanroc-midday
-## ID: 745
+## Cinderace
+## ID: 815
 ### Tipos
-- Rock
+- Fire
 ### Stats
-- Hp: 75
-- Attack: 115
-- Defense: 65
-- Special-attack: 55
-- Special-defense: 65
-- Speed: 112
+- Hp: 80
+- Attack: 116
+- Defense: 75
+- Special-attack: 65
+- Special-defense: 75
+- Speed: 119
