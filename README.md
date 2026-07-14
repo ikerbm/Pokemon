@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Pidgeot
-## ID: 18
+## Marill
+## ID: 183
 ### Tipos
-- Normal
-- Flying
+- Water
+- Fairy
 ### Stats
-- Hp: 83
-- Attack: 80
-- Defense: 75
-- Special-attack: 70
-- Special-defense: 70
-- Speed: 101
+- Hp: 70
+- Attack: 20
+- Defense: 50
+- Special-attack: 20
+- Special-defense: 50
+- Speed: 40
