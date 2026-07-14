@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Jynx
-## ID: 124
+## Sylveon
+## ID: 700
 ### Tipos
-- Ice
-- Psychic
+- Fairy
 ### Stats
-- Hp: 65
-- Attack: 50
-- Defense: 35
-- Special-attack: 115
-- Special-defense: 95
-- Speed: 95
+- Hp: 95
+- Attack: 65
+- Defense: 65
+- Special-attack: 110
+- Special-defense: 130
+- Speed: 60
