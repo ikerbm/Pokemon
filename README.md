@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Kakuna
-## ID: 14
+## Kabutops
+## ID: 141
 ### Tipos
-- Bug
-- Poison
+- Rock
+- Water
 ### Stats
-- Hp: 45
-- Attack: 25
-- Defense: 50
-- Special-attack: 25
-- Special-defense: 25
-- Speed: 35
+- Hp: 60
+- Attack: 115
+- Defense: 105
+- Special-attack: 65
+- Special-defense: 70
+- Speed: 80
