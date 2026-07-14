@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Yungoos
-## ID: 734
+## Chingling
+## ID: 433
 ### Tipos
-- Normal
+- Psychic
 ### Stats
-- Hp: 48
-- Attack: 70
-- Defense: 30
-- Special-attack: 30
-- Special-defense: 30
+- Hp: 45
+- Attack: 30
+- Defense: 50
+- Special-attack: 65
+- Special-defense: 50
 - Speed: 45
