@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Skrelp
-## ID: 690
+## Lycanroc-midday
+## ID: 745
 ### Tipos
-- Poison
-- Water
+- Rock
 ### Stats
-- Hp: 50
-- Attack: 60
-- Defense: 60
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 30
+- Hp: 75
+- Attack: 115
+- Defense: 65
+- Special-attack: 55
+- Special-defense: 65
+- Speed: 112
