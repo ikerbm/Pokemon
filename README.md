@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Sylveon
-## ID: 700
+## Ferrothorn
+## ID: 598
 ### Tipos
-- Fairy
+- Grass
+- Steel
 ### Stats
-- Hp: 95
-- Attack: 65
-- Defense: 65
-- Special-attack: 110
-- Special-defense: 130
-- Speed: 60
+- Hp: 74
+- Attack: 94
+- Defense: 131
+- Special-attack: 54
+- Special-defense: 116
+- Speed: 20
