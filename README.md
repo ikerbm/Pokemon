@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Primarina
-## ID: 730
+## Baxcalibur
+## ID: 998
 ### Tipos
-- Water
-- Fairy
+- Dragon
+- Ice
 ### Stats
-- Hp: 80
-- Attack: 74
-- Defense: 74
-- Special-attack: 126
-- Special-defense: 116
-- Speed: 60
+- Hp: 115
+- Attack: 145
+- Defense: 92
+- Special-attack: 75
+- Special-defense: 86
+- Speed: 87
