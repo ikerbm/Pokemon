@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ferroseed
-## ID: 597
+## Leafeon
+## ID: 470
 ### Tipos
 - Grass
-- Steel
 ### Stats
-- Hp: 44
-- Attack: 50
-- Defense: 91
-- Special-attack: 24
-- Special-defense: 86
-- Speed: 10
+- Hp: 65
+- Attack: 110
+- Defense: 130
+- Special-attack: 60
+- Special-defense: 65
+- Speed: 95
