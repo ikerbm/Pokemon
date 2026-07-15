@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Smoliv
-## ID: 928
+## Inkay
+## ID: 686
 ### Tipos
-- Grass
-- Normal
+- Dark
+- Psychic
 ### Stats
-- Hp: 41
-- Attack: 35
-- Defense: 45
-- Special-attack: 58
-- Special-defense: 51
-- Speed: 30
+- Hp: 53
+- Attack: 54
+- Defense: 53
+- Special-attack: 37
+- Special-defense: 46
+- Speed: 45
