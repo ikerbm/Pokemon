@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Mimikyu-disguised
-## ID: 778
+## Tentacruel
+## ID: 73
 ### Tipos
-- Ghost
-- Fairy
+- Water
+- Poison
 ### Stats
-- Hp: 55
-- Attack: 90
-- Defense: 80
-- Special-attack: 50
-- Special-defense: 105
-- Speed: 96
+- Hp: 80
+- Attack: 70
+- Defense: 65
+- Special-attack: 80
+- Special-defense: 120
+- Speed: 100
