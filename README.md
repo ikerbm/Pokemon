@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Buneary
-## ID: 427
+## Dialga
+## ID: 483
 ### Tipos
-- Normal
+- Steel
+- Dragon
 ### Stats
-- Hp: 55
-- Attack: 66
-- Defense: 44
-- Special-attack: 44
-- Special-defense: 56
-- Speed: 85
+- Hp: 100
+- Attack: 120
+- Defense: 120
+- Special-attack: 150
+- Special-defense: 100
+- Speed: 90
