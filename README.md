@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Inkay
-## ID: 686
+## Primarina
+## ID: 730
 ### Tipos
-- Dark
-- Psychic
+- Water
+- Fairy
 ### Stats
-- Hp: 53
-- Attack: 54
-- Defense: 53
-- Special-attack: 37
-- Special-defense: 46
-- Speed: 45
+- Hp: 80
+- Attack: 74
+- Defense: 74
+- Special-attack: 126
+- Special-defense: 116
+- Speed: 60
