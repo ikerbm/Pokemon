@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Patrat
-## ID: 504
+## Cetoddle
+## ID: 974
 ### Tipos
-- Normal
+- Ice
 ### Stats
-- Hp: 45
-- Attack: 55
-- Defense: 39
-- Special-attack: 35
-- Special-defense: 39
-- Speed: 42
+- Hp: 108
+- Attack: 68
+- Defense: 45
+- Special-attack: 30
+- Special-defense: 40
+- Speed: 43
