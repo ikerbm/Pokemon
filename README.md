@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dialga
-## ID: 483
+## Smoliv
+## ID: 928
 ### Tipos
-- Steel
-- Dragon
+- Grass
+- Normal
 ### Stats
-- Hp: 100
-- Attack: 120
-- Defense: 120
-- Special-attack: 150
-- Special-defense: 100
-- Speed: 90
+- Hp: 41
+- Attack: 35
+- Defense: 45
+- Special-attack: 58
+- Special-defense: 51
+- Speed: 30
