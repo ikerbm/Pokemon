@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Aurorus
-## ID: 699
+## Zangoose
+## ID: 335
 ### Tipos
-- Rock
-- Ice
+- Normal
 ### Stats
-- Hp: 123
-- Attack: 77
-- Defense: 72
-- Special-attack: 99
-- Special-defense: 92
-- Speed: 58
+- Hp: 73
+- Attack: 115
+- Defense: 60
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 90
