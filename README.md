@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Zangoose
-## ID: 335
+## Mimikyu-disguised
+## ID: 778
 ### Tipos
-- Normal
+- Ghost
+- Fairy
 ### Stats
-- Hp: 73
-- Attack: 115
-- Defense: 60
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 90
+- Hp: 55
+- Attack: 90
+- Defense: 80
+- Special-attack: 50
+- Special-defense: 105
+- Speed: 96
