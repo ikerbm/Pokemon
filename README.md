@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tentacruel
-## ID: 73
+## Palafin-zero
+## ID: 964
 ### Tipos
 - Water
-- Poison
 ### Stats
-- Hp: 80
+- Hp: 100
 - Attack: 70
-- Defense: 65
-- Special-attack: 80
-- Special-defense: 120
+- Defense: 72
+- Special-attack: 53
+- Special-defense: 62
 - Speed: 100
