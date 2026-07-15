@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Palafin-zero
-## ID: 964
+## Frogadier
+## ID: 657
 ### Tipos
 - Water
 ### Stats
-- Hp: 100
-- Attack: 70
-- Defense: 72
-- Special-attack: 53
-- Special-defense: 62
-- Speed: 100
+- Hp: 54
+- Attack: 63
+- Defense: 52
+- Special-attack: 83
+- Special-defense: 56
+- Speed: 97
