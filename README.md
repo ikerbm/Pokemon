@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Leafeon
-## ID: 470
+## Buneary
+## ID: 427
 ### Tipos
-- Grass
+- Normal
 ### Stats
-- Hp: 65
-- Attack: 110
-- Defense: 130
-- Special-attack: 60
-- Special-defense: 65
-- Speed: 95
+- Hp: 55
+- Attack: 66
+- Defense: 44
+- Special-attack: 44
+- Special-defense: 56
+- Speed: 85
