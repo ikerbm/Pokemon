@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Baxcalibur
-## ID: 998
+## Hoppip
+## ID: 187
 ### Tipos
-- Dragon
-- Ice
+- Grass
+- Flying
 ### Stats
-- Hp: 115
-- Attack: 145
-- Defense: 92
-- Special-attack: 75
-- Special-defense: 86
-- Speed: 87
+- Hp: 35
+- Attack: 35
+- Defense: 40
+- Special-attack: 35
+- Special-defense: 55
+- Speed: 50
