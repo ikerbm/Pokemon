@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Frogadier
-## ID: 657
+## Patrat
+## ID: 504
 ### Tipos
-- Water
+- Normal
 ### Stats
-- Hp: 54
-- Attack: 63
-- Defense: 52
-- Special-attack: 83
-- Special-defense: 56
-- Speed: 97
+- Hp: 45
+- Attack: 55
+- Defense: 39
+- Special-attack: 35
+- Special-defense: 39
+- Speed: 42
