@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Marowak
-## ID: 105
+## Vaporeon
+## ID: 134
 ### Tipos
-- Ground
+- Water
 ### Stats
-- Hp: 60
-- Attack: 80
-- Defense: 110
-- Special-attack: 50
-- Special-defense: 80
-- Speed: 45
+- Hp: 130
+- Attack: 65
+- Defense: 60
+- Special-attack: 110
+- Special-defense: 95
+- Speed: 65
