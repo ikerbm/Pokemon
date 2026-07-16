@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tranquill
-## ID: 520
+## Wailord
+## ID: 321
 ### Tipos
-- Normal
-- Flying
+- Water
 ### Stats
-- Hp: 62
-- Attack: 77
-- Defense: 62
-- Special-attack: 50
-- Special-defense: 42
-- Speed: 65
+- Hp: 170
+- Attack: 90
+- Defense: 45
+- Special-attack: 90
+- Special-defense: 45
+- Speed: 60
