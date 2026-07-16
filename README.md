@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Litten
-## ID: 725
+## Marowak
+## ID: 105
 ### Tipos
-- Fire
+- Ground
 ### Stats
-- Hp: 45
-- Attack: 65
-- Defense: 40
-- Special-attack: 60
-- Special-defense: 40
-- Speed: 70
+- Hp: 60
+- Attack: 80
+- Defense: 110
+- Special-attack: 50
+- Special-defense: 80
+- Speed: 45
