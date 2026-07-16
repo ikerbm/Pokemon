@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Slowking
-## ID: 199
+## Grovyle
+## ID: 253
 ### Tipos
-- Water
-- Psychic
+- Grass
 ### Stats
-- Hp: 95
-- Attack: 75
-- Defense: 80
-- Special-attack: 100
-- Special-defense: 110
-- Speed: 30
+- Hp: 50
+- Attack: 65
+- Defense: 45
+- Special-attack: 85
+- Special-defense: 65
+- Speed: 95
