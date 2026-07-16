@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tapu-fini
-## ID: 788
+## Greedent
+## ID: 820
 ### Tipos
-- Water
-- Fairy
+- Normal
 ### Stats
-- Hp: 70
-- Attack: 75
-- Defense: 115
-- Special-attack: 95
-- Special-defense: 130
-- Speed: 85
+- Hp: 120
+- Attack: 95
+- Defense: 95
+- Special-attack: 55
+- Special-defense: 75
+- Speed: 20
