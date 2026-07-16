@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Hoppip
-## ID: 187
+## Tapu-fini
+## ID: 788
 ### Tipos
-- Grass
-- Flying
+- Water
+- Fairy
 ### Stats
-- Hp: 35
-- Attack: 35
-- Defense: 40
-- Special-attack: 35
-- Special-defense: 55
-- Speed: 50
+- Hp: 70
+- Attack: 75
+- Defense: 115
+- Special-attack: 95
+- Special-defense: 130
+- Speed: 85
