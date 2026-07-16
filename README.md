@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Grovyle
-## ID: 253
+## Wiglett
+## ID: 960
 ### Tipos
-- Grass
+- Water
 ### Stats
-- Hp: 50
-- Attack: 65
-- Defense: 45
-- Special-attack: 85
-- Special-defense: 65
+- Hp: 10
+- Attack: 55
+- Defense: 25
+- Special-attack: 35
+- Special-defense: 25
 - Speed: 95
