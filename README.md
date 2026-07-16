@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Wailord
-## ID: 321
+## Magmar
+## ID: 126
 ### Tipos
-- Water
+- Fire
 ### Stats
-- Hp: 170
-- Attack: 90
-- Defense: 45
-- Special-attack: 90
-- Special-defense: 45
-- Speed: 60
+- Hp: 65
+- Attack: 95
+- Defense: 57
+- Special-attack: 100
+- Special-defense: 85
+- Speed: 93
