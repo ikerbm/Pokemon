@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Larvesta
-## ID: 636
+## Drowzee
+## ID: 96
 ### Tipos
-- Bug
-- Fire
+- Psychic
 ### Stats
-- Hp: 55
-- Attack: 85
-- Defense: 55
-- Special-attack: 50
-- Special-defense: 55
-- Speed: 60
+- Hp: 60
+- Attack: 48
+- Defense: 45
+- Special-attack: 43
+- Special-defense: 90
+- Speed: 42
