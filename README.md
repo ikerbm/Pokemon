@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Magmar
-## ID: 126
+## Litten
+## ID: 725
 ### Tipos
 - Fire
 ### Stats
-- Hp: 65
-- Attack: 95
-- Defense: 57
-- Special-attack: 100
-- Special-defense: 85
-- Speed: 93
+- Hp: 45
+- Attack: 65
+- Defense: 40
+- Special-attack: 60
+- Special-defense: 40
+- Speed: 70
