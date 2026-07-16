@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Greedent
-## ID: 820
+## Larvesta
+## ID: 636
 ### Tipos
-- Normal
+- Bug
+- Fire
 ### Stats
-- Hp: 120
-- Attack: 95
-- Defense: 95
-- Special-attack: 55
-- Special-defense: 75
-- Speed: 20
+- Hp: 55
+- Attack: 85
+- Defense: 55
+- Special-attack: 50
+- Special-defense: 55
+- Speed: 60
