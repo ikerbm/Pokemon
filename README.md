@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Drowzee
-## ID: 96
+## Tranquill
+## ID: 520
 ### Tipos
-- Psychic
+- Normal
+- Flying
 ### Stats
-- Hp: 60
-- Attack: 48
-- Defense: 45
-- Special-attack: 43
-- Special-defense: 90
-- Speed: 42
+- Hp: 62
+- Attack: 77
+- Defense: 62
+- Special-attack: 50
+- Special-defense: 42
+- Speed: 65
