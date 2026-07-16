@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Vaporeon
-## ID: 134
+## Registeel
+## ID: 379
 ### Tipos
-- Water
+- Steel
 ### Stats
-- Hp: 130
-- Attack: 65
-- Defense: 60
-- Special-attack: 110
-- Special-defense: 95
-- Speed: 65
+- Hp: 80
+- Attack: 75
+- Defense: 150
+- Special-attack: 75
+- Special-defense: 150
+- Speed: 50
