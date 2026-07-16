@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Minccino
-## ID: 572
+## Slowking
+## ID: 199
 ### Tipos
-- Normal
+- Water
+- Psychic
 ### Stats
-- Hp: 55
-- Attack: 50
-- Defense: 40
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 75
+- Hp: 95
+- Attack: 75
+- Defense: 80
+- Special-attack: 100
+- Special-defense: 110
+- Speed: 30
