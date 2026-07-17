@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Wurmple
-## ID: 265
+## Ribombee
+## ID: 743
 ### Tipos
 - Bug
+- Fairy
 ### Stats
-- Hp: 45
-- Attack: 45
-- Defense: 35
-- Special-attack: 20
-- Special-defense: 30
-- Speed: 20
+- Hp: 60
+- Attack: 55
+- Defense: 60
+- Special-attack: 95
+- Special-defense: 70
+- Speed: 124
