@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Hydreigon
-## ID: 635
+## Swoobat
+## ID: 528
 ### Tipos
-- Dark
-- Dragon
+- Psychic
+- Flying
 ### Stats
-- Hp: 92
-- Attack: 105
-- Defense: 90
-- Special-attack: 125
-- Special-defense: 90
-- Speed: 98
+- Hp: 67
+- Attack: 57
+- Defense: 55
+- Special-attack: 77
+- Special-defense: 55
+- Speed: 114
