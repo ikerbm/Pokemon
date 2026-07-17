@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Ribombee
-## ID: 743
+## Medicham
+## ID: 308
 ### Tipos
-- Bug
-- Fairy
+- Fighting
+- Psychic
 ### Stats
 - Hp: 60
-- Attack: 55
-- Defense: 60
-- Special-attack: 95
-- Special-defense: 70
-- Speed: 124
+- Attack: 60
+- Defense: 75
+- Special-attack: 60
+- Special-defense: 75
+- Speed: 80
