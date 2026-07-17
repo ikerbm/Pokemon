@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Clamperl
-## ID: 366
+## Salazzle
+## ID: 758
 ### Tipos
-- Water
+- Poison
+- Fire
 ### Stats
-- Hp: 35
+- Hp: 68
 - Attack: 64
-- Defense: 85
-- Special-attack: 74
-- Special-defense: 55
-- Speed: 32
+- Defense: 60
+- Special-attack: 111
+- Special-defense: 60
+- Speed: 117
