@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Duraludon
-## ID: 884
+## Feraligatr
+## ID: 160
 ### Tipos
-- Steel
-- Dragon
+- Water
 ### Stats
-- Hp: 70
-- Attack: 95
-- Defense: 115
-- Special-attack: 120
-- Special-defense: 50
-- Speed: 85
+- Hp: 85
+- Attack: 105
+- Defense: 100
+- Special-attack: 79
+- Special-defense: 83
+- Speed: 78
