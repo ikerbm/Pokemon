@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Tinkatuff
-## ID: 958
+## Duraludon
+## ID: 884
 ### Tipos
-- Fairy
 - Steel
+- Dragon
 ### Stats
-- Hp: 65
-- Attack: 55
-- Defense: 55
-- Special-attack: 45
-- Special-defense: 82
-- Speed: 78
+- Hp: 70
+- Attack: 95
+- Defense: 115
+- Special-attack: 120
+- Special-defense: 50
+- Speed: 85
