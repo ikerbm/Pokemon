@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ribombee
-## ID: 743
+## Spoink
+## ID: 325
 ### Tipos
-- Bug
-- Fairy
+- Psychic
 ### Stats
 - Hp: 60
-- Attack: 55
-- Defense: 60
-- Special-attack: 95
-- Special-defense: 70
-- Speed: 124
+- Attack: 25
+- Defense: 35
+- Special-attack: 70
+- Special-defense: 80
+- Speed: 60
