@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Swoobat
-## ID: 528
+## Miltank
+## ID: 241
 ### Tipos
-- Psychic
-- Flying
+- Normal
 ### Stats
-- Hp: 67
-- Attack: 57
-- Defense: 55
-- Special-attack: 77
-- Special-defense: 55
-- Speed: 114
+- Hp: 95
+- Attack: 80
+- Defense: 105
+- Special-attack: 40
+- Special-defense: 70
+- Speed: 100
