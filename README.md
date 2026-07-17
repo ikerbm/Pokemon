@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Spoink
-## ID: 325
+## Chien-pao
+## ID: 1002
 ### Tipos
-- Psychic
+- Dark
+- Ice
 ### Stats
-- Hp: 60
-- Attack: 25
-- Defense: 35
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 60
+- Hp: 80
+- Attack: 120
+- Defense: 80
+- Special-attack: 90
+- Special-defense: 65
+- Speed: 135
