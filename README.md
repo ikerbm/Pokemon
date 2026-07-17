@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Salazzle
-## ID: 758
+## Wurmple
+## ID: 265
 ### Tipos
-- Poison
-- Fire
+- Bug
 ### Stats
-- Hp: 68
-- Attack: 64
-- Defense: 60
-- Special-attack: 111
-- Special-defense: 60
-- Speed: 117
+- Hp: 45
+- Attack: 45
+- Defense: 35
+- Special-attack: 20
+- Special-defense: 30
+- Speed: 20
