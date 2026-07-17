@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Sawk
-## ID: 539
+## Ribombee
+## ID: 743
 ### Tipos
-- Fighting
+- Bug
+- Fairy
 ### Stats
-- Hp: 75
-- Attack: 125
-- Defense: 75
-- Special-attack: 30
-- Special-defense: 75
-- Speed: 85
+- Hp: 60
+- Attack: 55
+- Defense: 60
+- Special-attack: 95
+- Special-defense: 70
+- Speed: 124
