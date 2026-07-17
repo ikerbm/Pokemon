@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Feraligatr
-## ID: 160
+## Wugtrio
+## ID: 961
 ### Tipos
 - Water
 ### Stats
-- Hp: 85
-- Attack: 105
-- Defense: 100
-- Special-attack: 79
-- Special-defense: 83
-- Speed: 78
+- Hp: 35
+- Attack: 100
+- Defense: 50
+- Special-attack: 50
+- Special-defense: 70
+- Speed: 120
