@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Wugtrio
-## ID: 961
+## Hydreigon
+## ID: 635
 ### Tipos
-- Water
+- Dark
+- Dragon
 ### Stats
-- Hp: 35
-- Attack: 100
-- Defense: 50
-- Special-attack: 50
-- Special-defense: 70
-- Speed: 120
+- Hp: 92
+- Attack: 105
+- Defense: 90
+- Special-attack: 125
+- Special-defense: 90
+- Speed: 98
