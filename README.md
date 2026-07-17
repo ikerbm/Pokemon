@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Spearow
-## ID: 21
+## Sawk
+## ID: 539
 ### Tipos
-- Normal
-- Flying
+- Fighting
 ### Stats
-- Hp: 40
-- Attack: 60
-- Defense: 30
-- Special-attack: 31
-- Special-defense: 31
-- Speed: 70
+- Hp: 75
+- Attack: 125
+- Defense: 75
+- Special-attack: 30
+- Special-defense: 75
+- Speed: 85
