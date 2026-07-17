@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Miltank
-## ID: 241
+## Spearow
+## ID: 21
 ### Tipos
 - Normal
+- Flying
 ### Stats
-- Hp: 95
-- Attack: 80
-- Defense: 105
-- Special-attack: 40
-- Special-defense: 70
-- Speed: 100
+- Hp: 40
+- Attack: 60
+- Defense: 30
+- Special-attack: 31
+- Special-defense: 31
+- Speed: 70
