@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Chien-pao
-## ID: 1002
+## Tinkatuff
+## ID: 958
 ### Tipos
-- Dark
-- Ice
+- Fairy
+- Steel
 ### Stats
-- Hp: 80
-- Attack: 120
-- Defense: 80
-- Special-attack: 90
-- Special-defense: 65
-- Speed: 135
+- Hp: 65
+- Attack: 55
+- Defense: 55
+- Special-attack: 45
+- Special-defense: 82
+- Speed: 78
