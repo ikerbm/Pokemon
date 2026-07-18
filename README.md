@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Staraptor
-## ID: 398
+## Silcoon
+## ID: 266
 ### Tipos
-- Normal
-- Flying
+- Bug
 ### Stats
-- Hp: 85
-- Attack: 120
-- Defense: 70
-- Special-attack: 50
-- Special-defense: 60
-- Speed: 100
+- Hp: 50
+- Attack: 35
+- Defense: 55
+- Special-attack: 25
+- Special-defense: 25
+- Speed: 15
