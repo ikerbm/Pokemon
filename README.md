@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Kirlia
-## ID: 281
+## Archaludon
+## ID: 1018
 ### Tipos
-- Psychic
-- Fairy
+- Steel
+- Dragon
 ### Stats
-- Hp: 38
-- Attack: 35
-- Defense: 35
-- Special-attack: 65
-- Special-defense: 55
-- Speed: 50
+- Hp: 90
+- Attack: 105
+- Defense: 130
+- Special-attack: 125
+- Special-defense: 65
+- Speed: 85
