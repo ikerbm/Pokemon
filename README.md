@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Glimmet
-## ID: 969
+## Tirtouga
+## ID: 564
 ### Tipos
+- Water
 - Rock
-- Poison
 ### Stats
-- Hp: 48
-- Attack: 35
-- Defense: 42
-- Special-attack: 105
-- Special-defense: 60
-- Speed: 60
+- Hp: 54
+- Attack: 78
+- Defense: 103
+- Special-attack: 53
+- Special-defense: 45
+- Speed: 22
