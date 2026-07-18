@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Medicham
-## ID: 308
+## Feraligatr
+## ID: 160
 ### Tipos
-- Fighting
-- Psychic
+- Water
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 75
-- Special-attack: 60
-- Special-defense: 75
-- Speed: 80
+- Hp: 85
+- Attack: 105
+- Defense: 100
+- Special-attack: 79
+- Special-defense: 83
+- Speed: 78
