@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Feraligatr
-## ID: 160
+## Staravia
+## ID: 397
 ### Tipos
-- Water
+- Normal
+- Flying
 ### Stats
-- Hp: 85
-- Attack: 105
-- Defense: 100
-- Special-attack: 79
-- Special-defense: 83
-- Speed: 78
+- Hp: 55
+- Attack: 75
+- Defense: 50
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 80
