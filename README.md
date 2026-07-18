@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Lugia
-## ID: 249
+## Raticate
+## ID: 20
 ### Tipos
-- Psychic
-- Flying
+- Normal
 ### Stats
-- Hp: 106
-- Attack: 90
-- Defense: 130
-- Special-attack: 90
-- Special-defense: 154
-- Speed: 110
+- Hp: 55
+- Attack: 81
+- Defense: 60
+- Special-attack: 50
+- Special-defense: 70
+- Speed: 97
