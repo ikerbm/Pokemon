@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tirtouga
-## ID: 564
+## Terapagos
+## ID: 1024
 ### Tipos
-- Water
-- Rock
+- Normal
 ### Stats
-- Hp: 54
-- Attack: 78
-- Defense: 103
-- Special-attack: 53
-- Special-defense: 45
-- Speed: 22
+- Hp: 90
+- Attack: 65
+- Defense: 85
+- Special-attack: 65
+- Special-defense: 85
+- Speed: 60
