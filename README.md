@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Archaludon
-## ID: 1018
+## Lugia
+## ID: 249
 ### Tipos
-- Steel
-- Dragon
+- Psychic
+- Flying
 ### Stats
-- Hp: 90
-- Attack: 105
+- Hp: 106
+- Attack: 90
 - Defense: 130
-- Special-attack: 125
-- Special-defense: 65
-- Speed: 85
+- Special-attack: 90
+- Special-defense: 154
+- Speed: 110
