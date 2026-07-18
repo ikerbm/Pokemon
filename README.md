@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Terapagos
-## ID: 1024
+## Jirachi
+## ID: 385
 ### Tipos
-- Normal
+- Steel
+- Psychic
 ### Stats
-- Hp: 90
-- Attack: 65
-- Defense: 85
-- Special-attack: 65
-- Special-defense: 85
-- Speed: 60
+- Hp: 100
+- Attack: 100
+- Defense: 100
+- Special-attack: 100
+- Special-defense: 100
+- Speed: 100
