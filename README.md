@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Staravia
-## ID: 397
+## Staraptor
+## ID: 398
 ### Tipos
 - Normal
 - Flying
 ### Stats
-- Hp: 55
-- Attack: 75
-- Defense: 50
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 80
+- Hp: 85
+- Attack: 120
+- Defense: 70
+- Special-attack: 50
+- Special-defense: 60
+- Speed: 100
