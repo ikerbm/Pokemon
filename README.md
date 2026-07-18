@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Rabsca
-## ID: 954
+## Gardevoir
+## ID: 282
 ### Tipos
-- Bug
 - Psychic
+- Fairy
 ### Stats
-- Hp: 75
-- Attack: 50
-- Defense: 85
-- Special-attack: 115
-- Special-defense: 100
-- Speed: 45
+- Hp: 68
+- Attack: 65
+- Defense: 65
+- Special-attack: 125
+- Special-defense: 115
+- Speed: 80
