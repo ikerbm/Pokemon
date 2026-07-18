@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tranquill
-## ID: 520
+## Skitty
+## ID: 300
 ### Tipos
 - Normal
-- Flying
 ### Stats
-- Hp: 62
-- Attack: 77
-- Defense: 62
-- Special-attack: 50
-- Special-defense: 42
-- Speed: 65
+- Hp: 50
+- Attack: 45
+- Defense: 45
+- Special-attack: 35
+- Special-defense: 35
+- Speed: 50
