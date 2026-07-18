@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Skitty
-## ID: 300
+## Shiftry
+## ID: 275
 ### Tipos
-- Normal
+- Grass
+- Dark
 ### Stats
-- Hp: 50
-- Attack: 45
-- Defense: 45
-- Special-attack: 35
-- Special-defense: 35
-- Speed: 50
+- Hp: 90
+- Attack: 100
+- Defense: 60
+- Special-attack: 90
+- Special-defense: 60
+- Speed: 80
