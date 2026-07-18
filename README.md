@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Raticate
-## ID: 20
+## Registeel
+## ID: 379
 ### Tipos
-- Normal
+- Steel
 ### Stats
-- Hp: 55
-- Attack: 81
-- Defense: 60
-- Special-attack: 50
-- Special-defense: 70
-- Speed: 97
+- Hp: 80
+- Attack: 75
+- Defense: 150
+- Special-attack: 75
+- Special-defense: 150
+- Speed: 50
