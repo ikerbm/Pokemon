@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Shiftry
-## ID: 275
+## Combee
+## ID: 415
 ### Tipos
-- Grass
-- Dark
+- Bug
+- Flying
 ### Stats
-- Hp: 90
-- Attack: 100
-- Defense: 60
-- Special-attack: 90
-- Special-defense: 60
-- Speed: 80
+- Hp: 30
+- Attack: 30
+- Defense: 42
+- Special-attack: 30
+- Special-defense: 42
+- Speed: 70
