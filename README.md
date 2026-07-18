@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Combee
-## ID: 415
+## Glimmet
+## ID: 969
 ### Tipos
-- Bug
-- Flying
+- Rock
+- Poison
 ### Stats
-- Hp: 30
-- Attack: 30
+- Hp: 48
+- Attack: 35
 - Defense: 42
-- Special-attack: 30
-- Special-defense: 42
-- Speed: 70
+- Special-attack: 105
+- Special-defense: 60
+- Speed: 60
