@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Registeel
-## ID: 379
+## Tranquill
+## ID: 520
 ### Tipos
-- Steel
+- Normal
+- Flying
 ### Stats
-- Hp: 80
-- Attack: 75
-- Defense: 150
-- Special-attack: 75
-- Special-defense: 150
-- Speed: 50
+- Hp: 62
+- Attack: 77
+- Defense: 62
+- Special-attack: 50
+- Special-defense: 42
+- Speed: 65
