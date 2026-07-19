@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Gligar
-## ID: 207
+## Mew
+## ID: 151
 ### Tipos
-- Ground
-- Flying
+- Psychic
 ### Stats
-- Hp: 65
-- Attack: 75
-- Defense: 105
-- Special-attack: 35
-- Special-defense: 65
-- Speed: 85
+- Hp: 100
+- Attack: 100
+- Defense: 100
+- Special-attack: 100
+- Special-defense: 100
+- Speed: 100
