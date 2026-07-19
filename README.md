@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Honedge
-## ID: 679
+## Cinccino
+## ID: 573
 ### Tipos
-- Steel
-- Ghost
+- Normal
 ### Stats
-- Hp: 45
-- Attack: 80
-- Defense: 100
-- Special-attack: 35
-- Special-defense: 37
-- Speed: 28
+- Hp: 75
+- Attack: 95
+- Defense: 60
+- Special-attack: 65
+- Special-defense: 60
+- Speed: 115
