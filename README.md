@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cinccino
-## ID: 573
+## Scolipede
+## ID: 545
 ### Tipos
-- Normal
+- Bug
+- Poison
 ### Stats
-- Hp: 75
-- Attack: 95
-- Defense: 60
-- Special-attack: 65
-- Special-defense: 60
-- Speed: 115
+- Hp: 60
+- Attack: 100
+- Defense: 89
+- Special-attack: 55
+- Special-defense: 69
+- Speed: 112
