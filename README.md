@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Brute-bonnet
-## ID: 986
+## Shedinja
+## ID: 292
 ### Tipos
-- Grass
-- Dark
+- Bug
+- Ghost
 ### Stats
-- Hp: 111
-- Attack: 127
-- Defense: 99
-- Special-attack: 79
-- Special-defense: 99
-- Speed: 55
+- Hp: 1
+- Attack: 90
+- Defense: 45
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 40
