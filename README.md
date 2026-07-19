@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Chespin
-## ID: 650
+## Sudowoodo
+## ID: 185
 ### Tipos
-- Grass
+- Rock
 ### Stats
-- Hp: 56
-- Attack: 61
-- Defense: 65
-- Special-attack: 48
-- Special-defense: 45
-- Speed: 38
+- Hp: 70
+- Attack: 100
+- Defense: 115
+- Special-attack: 30
+- Special-defense: 65
+- Speed: 30
