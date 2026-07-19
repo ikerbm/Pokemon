@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Scolipede
-## ID: 545
+## Chespin
+## ID: 650
 ### Tipos
-- Bug
-- Poison
+- Grass
 ### Stats
-- Hp: 60
-- Attack: 100
-- Defense: 89
-- Special-attack: 55
-- Special-defense: 69
-- Speed: 112
+- Hp: 56
+- Attack: 61
+- Defense: 65
+- Special-attack: 48
+- Special-defense: 45
+- Speed: 38
