@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Sudowoodo
-## ID: 185
+## Latias
+## ID: 380
 ### Tipos
-- Rock
+- Dragon
+- Psychic
 ### Stats
-- Hp: 70
-- Attack: 100
-- Defense: 115
-- Special-attack: 30
-- Special-defense: 65
-- Speed: 30
+- Hp: 80
+- Attack: 80
+- Defense: 90
+- Special-attack: 110
+- Special-defense: 130
+- Speed: 110
