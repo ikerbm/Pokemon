@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Jirachi
-## ID: 385
+## Bonsly
+## ID: 438
 ### Tipos
-- Steel
-- Psychic
+- Rock
 ### Stats
-- Hp: 100
-- Attack: 100
-- Defense: 100
-- Special-attack: 100
-- Special-defense: 100
-- Speed: 100
+- Hp: 50
+- Attack: 80
+- Defense: 95
+- Special-attack: 10
+- Special-defense: 45
+- Speed: 10
