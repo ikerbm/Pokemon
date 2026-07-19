@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Axew
-## ID: 610
+## Altaria
+## ID: 334
 ### Tipos
 - Dragon
+- Flying
 ### Stats
-- Hp: 46
-- Attack: 87
-- Defense: 60
-- Special-attack: 30
-- Special-defense: 40
-- Speed: 57
+- Hp: 75
+- Attack: 70
+- Defense: 90
+- Special-attack: 70
+- Special-defense: 105
+- Speed: 80
