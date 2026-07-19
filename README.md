@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Lycanroc-midday
-## ID: 745
+## Alomomola
+## ID: 594
 ### Tipos
-- Rock
+- Water
 ### Stats
-- Hp: 75
-- Attack: 115
-- Defense: 65
-- Special-attack: 55
-- Special-defense: 65
-- Speed: 112
+- Hp: 165
+- Attack: 75
+- Defense: 80
+- Special-attack: 40
+- Special-defense: 45
+- Speed: 65
