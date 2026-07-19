@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Shedinja
-## ID: 292
+## Piplup
+## ID: 393
 ### Tipos
-- Bug
-- Ghost
+- Water
 ### Stats
-- Hp: 1
-- Attack: 90
-- Defense: 45
-- Special-attack: 30
-- Special-defense: 30
+- Hp: 53
+- Attack: 51
+- Defense: 53
+- Special-attack: 61
+- Special-defense: 56
 - Speed: 40
