@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Piplup
-## ID: 393
+## Honedge
+## ID: 679
 ### Tipos
-- Water
+- Steel
+- Ghost
 ### Stats
-- Hp: 53
-- Attack: 51
-- Defense: 53
-- Special-attack: 61
-- Special-defense: 56
-- Speed: 40
+- Hp: 45
+- Attack: 80
+- Defense: 100
+- Special-attack: 35
+- Special-defense: 37
+- Speed: 28
