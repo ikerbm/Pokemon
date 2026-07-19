@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Tornadus-incarnate
-## ID: 641
+## Gligar
+## ID: 207
 ### Tipos
+- Ground
 - Flying
 ### Stats
-- Hp: 79
-- Attack: 115
-- Defense: 70
-- Special-attack: 125
-- Special-defense: 80
-- Speed: 111
+- Hp: 65
+- Attack: 75
+- Defense: 105
+- Special-attack: 35
+- Special-defense: 65
+- Speed: 85
