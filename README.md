@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Altaria
-## ID: 334
+## Zekrom
+## ID: 644
 ### Tipos
 - Dragon
-- Flying
+- Electric
 ### Stats
-- Hp: 75
-- Attack: 70
-- Defense: 90
-- Special-attack: 70
-- Special-defense: 105
-- Speed: 80
+- Hp: 100
+- Attack: 150
+- Defense: 120
+- Special-attack: 120
+- Special-defense: 100
+- Speed: 90
