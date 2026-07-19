@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Bonsly
-## ID: 438
+## Brute-bonnet
+## ID: 986
 ### Tipos
-- Rock
+- Grass
+- Dark
 ### Stats
-- Hp: 50
-- Attack: 80
-- Defense: 95
-- Special-attack: 10
-- Special-defense: 45
-- Speed: 10
+- Hp: 111
+- Attack: 127
+- Defense: 99
+- Special-attack: 79
+- Special-defense: 99
+- Speed: 55
