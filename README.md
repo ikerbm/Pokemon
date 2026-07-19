@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Zekrom
-## ID: 644
+## Tornadus-incarnate
+## ID: 641
 ### Tipos
-- Dragon
-- Electric
+- Flying
 ### Stats
-- Hp: 100
-- Attack: 150
-- Defense: 120
-- Special-attack: 120
-- Special-defense: 100
-- Speed: 90
+- Hp: 79
+- Attack: 115
+- Defense: 70
+- Special-attack: 125
+- Special-defense: 80
+- Speed: 111
