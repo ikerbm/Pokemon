@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Urshifu-single-strike
-## ID: 892
+## Cacturne
+## ID: 332
 ### Tipos
-- Fighting
+- Grass
 - Dark
 ### Stats
-- Hp: 100
-- Attack: 130
-- Defense: 100
-- Special-attack: 63
+- Hp: 70
+- Attack: 115
+- Defense: 60
+- Special-attack: 115
 - Special-defense: 60
-- Speed: 97
+- Speed: 55
