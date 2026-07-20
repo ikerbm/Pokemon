@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Hitmonlee
-## ID: 106
+## Bibarel
+## ID: 400
 ### Tipos
-- Fighting
+- Normal
+- Water
 ### Stats
-- Hp: 50
-- Attack: 120
-- Defense: 53
-- Special-attack: 35
-- Special-defense: 110
-- Speed: 87
+- Hp: 79
+- Attack: 85
+- Defense: 60
+- Special-attack: 55
+- Special-defense: 60
+- Speed: 71
