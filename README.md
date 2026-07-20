@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Bibarel
-## ID: 400
+## Maractus
+## ID: 556
 ### Tipos
-- Normal
-- Water
+- Grass
 ### Stats
-- Hp: 79
-- Attack: 85
-- Defense: 60
-- Special-attack: 55
-- Special-defense: 60
-- Speed: 71
+- Hp: 75
+- Attack: 86
+- Defense: 67
+- Special-attack: 106
+- Special-defense: 67
+- Speed: 60
