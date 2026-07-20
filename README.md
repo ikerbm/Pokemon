@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Yanmega
-## ID: 469
+## Gigalith
+## ID: 526
 ### Tipos
-- Bug
-- Flying
+- Rock
 ### Stats
-- Hp: 86
-- Attack: 76
-- Defense: 86
-- Special-attack: 116
-- Special-defense: 56
-- Speed: 95
+- Hp: 85
+- Attack: 135
+- Defense: 130
+- Special-attack: 60
+- Special-defense: 80
+- Speed: 25
