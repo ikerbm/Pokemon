@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Toedscool
-## ID: 948
+## Darumaka
+## ID: 554
 ### Tipos
-- Ground
-- Grass
+- Fire
 ### Stats
-- Hp: 40
-- Attack: 40
-- Defense: 35
-- Special-attack: 50
-- Special-defense: 100
-- Speed: 70
+- Hp: 70
+- Attack: 90
+- Defense: 45
+- Special-attack: 15
+- Special-defense: 45
+- Speed: 50
