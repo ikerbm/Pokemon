@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Alomomola
-## ID: 594
+## Hitmonlee
+## ID: 106
 ### Tipos
-- Water
+- Fighting
 ### Stats
-- Hp: 165
-- Attack: 75
-- Defense: 80
-- Special-attack: 40
-- Special-defense: 45
-- Speed: 65
+- Hp: 50
+- Attack: 120
+- Defense: 53
+- Special-attack: 35
+- Special-defense: 110
+- Speed: 87
