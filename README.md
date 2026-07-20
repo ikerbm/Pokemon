@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Goomy
-## ID: 704
+## Diglett
+## ID: 50
 ### Tipos
-- Dragon
+- Ground
 ### Stats
-- Hp: 45
-- Attack: 50
-- Defense: 35
-- Special-attack: 55
-- Special-defense: 75
-- Speed: 40
+- Hp: 10
+- Attack: 55
+- Defense: 25
+- Special-attack: 35
+- Special-defense: 45
+- Speed: 95
