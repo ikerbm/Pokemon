@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Darumaka
-## ID: 554
+## Yanmega
+## ID: 469
 ### Tipos
-- Fire
+- Bug
+- Flying
 ### Stats
-- Hp: 70
-- Attack: 90
-- Defense: 45
-- Special-attack: 15
-- Special-defense: 45
-- Speed: 50
+- Hp: 86
+- Attack: 76
+- Defense: 86
+- Special-attack: 116
+- Special-defense: 56
+- Speed: 95
