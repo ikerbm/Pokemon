@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Gigalith
-## ID: 526
+## Goomy
+## ID: 704
 ### Tipos
-- Rock
+- Dragon
 ### Stats
-- Hp: 85
-- Attack: 135
-- Defense: 130
-- Special-attack: 60
-- Special-defense: 80
-- Speed: 25
+- Hp: 45
+- Attack: 50
+- Defense: 35
+- Special-attack: 55
+- Special-defense: 75
+- Speed: 40
