@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Jumpluff
-## ID: 189
+## Urshifu-single-strike
+## ID: 892
 ### Tipos
-- Grass
-- Flying
+- Fighting
+- Dark
 ### Stats
-- Hp: 75
-- Attack: 55
-- Defense: 70
-- Special-attack: 55
-- Special-defense: 95
-- Speed: 110
+- Hp: 100
+- Attack: 130
+- Defense: 100
+- Special-attack: 63
+- Special-defense: 60
+- Speed: 97
