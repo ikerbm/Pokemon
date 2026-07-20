@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Diglett
-## ID: 50
+## Jumpluff
+## ID: 189
 ### Tipos
-- Ground
+- Grass
+- Flying
 ### Stats
-- Hp: 10
+- Hp: 75
 - Attack: 55
-- Defense: 25
-- Special-attack: 35
-- Special-defense: 45
-- Speed: 95
+- Defense: 70
+- Special-attack: 55
+- Special-defense: 95
+- Speed: 110
