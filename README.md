@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Scizor
-## ID: 212
+## Skuntank
+## ID: 435
 ### Tipos
-- Bug
-- Steel
+- Poison
+- Dark
 ### Stats
-- Hp: 70
-- Attack: 130
-- Defense: 100
-- Special-attack: 55
-- Special-defense: 80
-- Speed: 65
+- Hp: 103
+- Attack: 93
+- Defense: 67
+- Special-attack: 71
+- Special-defense: 61
+- Speed: 84
