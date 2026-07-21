@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Roserade
-## ID: 407
+## Swanna
+## ID: 581
 ### Tipos
-- Grass
-- Poison
+- Water
+- Flying
 ### Stats
-- Hp: 60
-- Attack: 70
-- Defense: 65
-- Special-attack: 125
-- Special-defense: 105
-- Speed: 90
+- Hp: 75
+- Attack: 87
+- Defense: 63
+- Special-attack: 87
+- Special-defense: 63
+- Speed: 98
