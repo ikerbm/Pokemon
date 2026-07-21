@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Koffing
-## ID: 109
+## Arceus
+## ID: 493
 ### Tipos
-- Poison
+- Normal
 ### Stats
-- Hp: 40
-- Attack: 65
-- Defense: 95
-- Special-attack: 60
-- Special-defense: 45
-- Speed: 35
+- Hp: 120
+- Attack: 120
+- Defense: 120
+- Special-attack: 120
+- Special-defense: 120
+- Speed: 120
