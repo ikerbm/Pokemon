@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Sunflora
-## ID: 192
+## Bruxish
+## ID: 779
 ### Tipos
-- Grass
+- Water
+- Psychic
 ### Stats
-- Hp: 75
-- Attack: 75
-- Defense: 55
-- Special-attack: 105
-- Special-defense: 85
-- Speed: 30
+- Hp: 68
+- Attack: 105
+- Defense: 70
+- Special-attack: 70
+- Special-defense: 70
+- Speed: 92
