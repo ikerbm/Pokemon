@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Swanna
-## ID: 581
+## Spearow
+## ID: 21
 ### Tipos
-- Water
+- Normal
 - Flying
 ### Stats
-- Hp: 75
-- Attack: 87
-- Defense: 63
-- Special-attack: 87
-- Special-defense: 63
-- Speed: 98
+- Hp: 40
+- Attack: 60
+- Defense: 30
+- Special-attack: 31
+- Special-defense: 31
+- Speed: 70
