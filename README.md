@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Frillish-male
-## ID: 592
+## Dracozolt
+## ID: 880
 ### Tipos
-- Water
-- Ghost
+- Electric
+- Dragon
 ### Stats
-- Hp: 55
-- Attack: 40
-- Defense: 50
-- Special-attack: 65
-- Special-defense: 85
-- Speed: 40
+- Hp: 90
+- Attack: 100
+- Defense: 90
+- Special-attack: 80
+- Special-defense: 70
+- Speed: 75
