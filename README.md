@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Rapidash
-## ID: 78
+## Roserade
+## ID: 407
 ### Tipos
-- Fire
+- Grass
+- Poison
 ### Stats
-- Hp: 65
-- Attack: 100
-- Defense: 70
-- Special-attack: 80
-- Special-defense: 80
-- Speed: 105
+- Hp: 60
+- Attack: 70
+- Defense: 65
+- Special-attack: 125
+- Special-defense: 105
+- Speed: 90
