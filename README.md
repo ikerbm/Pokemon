@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Arceus
-## ID: 493
+## Rapidash
+## ID: 78
 ### Tipos
-- Normal
+- Fire
 ### Stats
-- Hp: 120
-- Attack: 120
-- Defense: 120
-- Special-attack: 120
-- Special-defense: 120
-- Speed: 120
+- Hp: 65
+- Attack: 100
+- Defense: 70
+- Special-attack: 80
+- Special-defense: 80
+- Speed: 105
