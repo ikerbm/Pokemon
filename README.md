@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Dracozolt
-## ID: 880
+## Sunflora
+## ID: 192
 ### Tipos
-- Electric
-- Dragon
+- Grass
 ### Stats
-- Hp: 90
-- Attack: 100
-- Defense: 90
-- Special-attack: 80
-- Special-defense: 70
-- Speed: 75
+- Hp: 75
+- Attack: 75
+- Defense: 55
+- Special-attack: 105
+- Special-defense: 85
+- Speed: 30
