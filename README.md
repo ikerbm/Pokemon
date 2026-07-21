@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Bruxish
-## ID: 779
+## Scizor
+## ID: 212
 ### Tipos
-- Water
-- Psychic
+- Bug
+- Steel
 ### Stats
-- Hp: 68
-- Attack: 105
-- Defense: 70
-- Special-attack: 70
-- Special-defense: 70
-- Speed: 92
+- Hp: 70
+- Attack: 130
+- Defense: 100
+- Special-attack: 55
+- Special-defense: 80
+- Speed: 65
