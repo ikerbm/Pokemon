@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Skuntank
-## ID: 435
+## Koffing
+## ID: 109
 ### Tipos
 - Poison
-- Dark
 ### Stats
-- Hp: 103
-- Attack: 93
-- Defense: 67
-- Special-attack: 71
-- Special-defense: 61
-- Speed: 84
+- Hp: 40
+- Attack: 65
+- Defense: 95
+- Special-attack: 60
+- Special-defense: 45
+- Speed: 35
