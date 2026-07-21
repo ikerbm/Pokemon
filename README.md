@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Cacturne
-## ID: 332
+## Frillish-male
+## ID: 592
 ### Tipos
-- Grass
-- Dark
+- Water
+- Ghost
 ### Stats
-- Hp: 70
-- Attack: 115
-- Defense: 60
-- Special-attack: 115
-- Special-defense: 60
-- Speed: 55
+- Hp: 55
+- Attack: 40
+- Defense: 50
+- Special-attack: 65
+- Special-defense: 85
+- Speed: 40
