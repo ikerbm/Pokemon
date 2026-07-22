@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Appletun
-## ID: 842
+## Mabosstiff
+## ID: 943
 ### Tipos
-- Grass
-- Dragon
+- Dark
 ### Stats
-- Hp: 110
-- Attack: 85
-- Defense: 80
-- Special-attack: 100
-- Special-defense: 80
-- Speed: 30
+- Hp: 80
+- Attack: 120
+- Defense: 90
+- Special-attack: 60
+- Special-defense: 70
+- Speed: 85
