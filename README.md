@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Rillaboom
-## ID: 812
+## Butterfree
+## ID: 12
 ### Tipos
-- Grass
+- Bug
+- Flying
 ### Stats
-- Hp: 100
-- Attack: 125
-- Defense: 90
-- Special-attack: 60
-- Special-defense: 70
-- Speed: 85
+- Hp: 60
+- Attack: 45
+- Defense: 50
+- Special-attack: 90
+- Special-defense: 80
+- Speed: 70
