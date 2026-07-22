@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Cherrim
-## ID: 421
+## Servine
+## ID: 496
 ### Tipos
 - Grass
 ### Stats
-- Hp: 70
+- Hp: 60
 - Attack: 60
-- Defense: 70
-- Special-attack: 87
-- Special-defense: 78
-- Speed: 85
+- Defense: 75
+- Special-attack: 60
+- Special-defense: 75
+- Speed: 83
