@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Hitmonchan
-## ID: 107
+## Vaporeon
+## ID: 134
 ### Tipos
-- Fighting
+- Water
 ### Stats
-- Hp: 50
-- Attack: 105
-- Defense: 79
-- Special-attack: 35
-- Special-defense: 110
-- Speed: 76
+- Hp: 130
+- Attack: 65
+- Defense: 60
+- Special-attack: 110
+- Special-defense: 95
+- Speed: 65
