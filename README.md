@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Naclstack
-## ID: 933
+## Hatenna
+## ID: 856
 ### Tipos
-- Rock
+- Psychic
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 100
-- Special-attack: 35
-- Special-defense: 65
-- Speed: 35
+- Hp: 42
+- Attack: 30
+- Defense: 45
+- Special-attack: 56
+- Special-defense: 53
+- Speed: 39
