@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Minior-red-meteor
-## ID: 774
+## Appletun
+## ID: 842
 ### Tipos
-- Rock
-- Flying
+- Grass
+- Dragon
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 100
-- Special-attack: 60
-- Special-defense: 100
-- Speed: 60
+- Hp: 110
+- Attack: 85
+- Defense: 80
+- Special-attack: 100
+- Special-defense: 80
+- Speed: 30
