@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Shellder
-## ID: 90
+## Hitmonchan
+## ID: 107
 ### Tipos
-- Water
+- Fighting
 ### Stats
-- Hp: 30
-- Attack: 65
-- Defense: 100
-- Special-attack: 45
-- Special-defense: 25
-- Speed: 40
+- Hp: 50
+- Attack: 105
+- Defense: 79
+- Special-attack: 35
+- Special-defense: 110
+- Speed: 76
