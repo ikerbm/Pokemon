@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Butterfree
-## ID: 12
+## Cherrim
+## ID: 421
 ### Tipos
-- Bug
-- Flying
+- Grass
 ### Stats
-- Hp: 60
-- Attack: 45
-- Defense: 50
-- Special-attack: 90
-- Special-defense: 80
-- Speed: 70
+- Hp: 70
+- Attack: 60
+- Defense: 70
+- Special-attack: 87
+- Special-defense: 78
+- Speed: 85
