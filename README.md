@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Torchic
-## ID: 255
+## Greedent
+## ID: 820
 ### Tipos
-- Fire
+- Normal
 ### Stats
-- Hp: 45
-- Attack: 60
-- Defense: 40
-- Special-attack: 70
-- Special-defense: 50
-- Speed: 45
+- Hp: 120
+- Attack: 95
+- Defense: 95
+- Special-attack: 55
+- Special-defense: 75
+- Speed: 20
