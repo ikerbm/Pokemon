@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Petilil
-## ID: 548
+## Rillaboom
+## ID: 812
 ### Tipos
 - Grass
 ### Stats
-- Hp: 45
-- Attack: 35
-- Defense: 50
-- Special-attack: 70
-- Special-defense: 50
-- Speed: 30
+- Hp: 100
+- Attack: 125
+- Defense: 90
+- Special-attack: 60
+- Special-defense: 70
+- Speed: 85
