@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Greedent
-## ID: 820
+## Petilil
+## ID: 548
 ### Tipos
-- Normal
+- Grass
 ### Stats
-- Hp: 120
-- Attack: 95
-- Defense: 95
-- Special-attack: 55
-- Special-defense: 75
-- Speed: 20
+- Hp: 45
+- Attack: 35
+- Defense: 50
+- Special-attack: 70
+- Special-defense: 50
+- Speed: 30
