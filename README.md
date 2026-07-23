@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Iron-crown
-## ID: 1023
+## Toucannon
+## ID: 733
 ### Tipos
-- Steel
-- Psychic
+- Normal
+- Flying
 ### Stats
-- Hp: 90
-- Attack: 72
-- Defense: 100
-- Special-attack: 122
-- Special-defense: 108
-- Speed: 98
+- Hp: 80
+- Attack: 120
+- Defense: 75
+- Special-attack: 75
+- Special-defense: 75
+- Speed: 60
