@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Gulpin
-## ID: 316
+## Muk
+## ID: 89
 ### Tipos
 - Poison
 ### Stats
-- Hp: 70
-- Attack: 43
-- Defense: 53
-- Special-attack: 43
-- Special-defense: 53
-- Speed: 40
+- Hp: 105
+- Attack: 105
+- Defense: 75
+- Special-attack: 65
+- Special-defense: 100
+- Speed: 50
