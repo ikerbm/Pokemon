@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Luvdisc
-## ID: 370
+## Armaldo
+## ID: 348
 ### Tipos
-- Water
+- Rock
+- Bug
 ### Stats
-- Hp: 43
-- Attack: 30
-- Defense: 55
-- Special-attack: 40
-- Special-defense: 65
-- Speed: 97
+- Hp: 75
+- Attack: 125
+- Defense: 100
+- Special-attack: 70
+- Special-defense: 80
+- Speed: 45
