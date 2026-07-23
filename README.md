@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Servine
-## ID: 496
+## Dewpider
+## ID: 751
 ### Tipos
-- Grass
+- Water
+- Bug
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 75
-- Special-attack: 60
-- Special-defense: 75
-- Speed: 83
+- Hp: 38
+- Attack: 40
+- Defense: 52
+- Special-attack: 40
+- Special-defense: 72
+- Speed: 27
