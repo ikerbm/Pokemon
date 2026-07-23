@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Maushold-family-of-four
-## ID: 925
+## Larvesta
+## ID: 636
 ### Tipos
-- Normal
+- Bug
+- Fire
 ### Stats
-- Hp: 74
-- Attack: 75
-- Defense: 70
-- Special-attack: 65
-- Special-defense: 75
-- Speed: 111
+- Hp: 55
+- Attack: 85
+- Defense: 55
+- Special-attack: 50
+- Special-defense: 55
+- Speed: 60
