@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Raging-bolt
-## ID: 1021
+## Gulpin
+## ID: 316
 ### Tipos
-- Electric
-- Dragon
+- Poison
 ### Stats
-- Hp: 125
-- Attack: 73
-- Defense: 91
-- Special-attack: 137
-- Special-defense: 89
-- Speed: 75
+- Hp: 70
+- Attack: 43
+- Defense: 53
+- Special-attack: 43
+- Special-defense: 53
+- Speed: 40
