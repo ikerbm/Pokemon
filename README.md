@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Mimikyu-disguised
-## ID: 778
+## Iron-crown
+## ID: 1023
 ### Tipos
-- Ghost
-- Fairy
+- Steel
+- Psychic
 ### Stats
-- Hp: 55
-- Attack: 90
-- Defense: 80
-- Special-attack: 50
-- Special-defense: 105
-- Speed: 96
+- Hp: 90
+- Attack: 72
+- Defense: 100
+- Special-attack: 122
+- Special-defense: 108
+- Speed: 98
