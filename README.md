@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Larvesta
-## ID: 636
+## Raging-bolt
+## ID: 1021
 ### Tipos
-- Bug
-- Fire
+- Electric
+- Dragon
 ### Stats
-- Hp: 55
-- Attack: 85
-- Defense: 55
-- Special-attack: 50
-- Special-defense: 55
-- Speed: 60
+- Hp: 125
+- Attack: 73
+- Defense: 91
+- Special-attack: 137
+- Special-defense: 89
+- Speed: 75
