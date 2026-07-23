@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Jigglypuff
-## ID: 39
+## Luvdisc
+## ID: 370
 ### Tipos
-- Normal
-- Fairy
+- Water
 ### Stats
-- Hp: 115
-- Attack: 45
-- Defense: 20
-- Special-attack: 45
-- Special-defense: 25
-- Speed: 20
+- Hp: 43
+- Attack: 30
+- Defense: 55
+- Special-attack: 40
+- Special-defense: 65
+- Speed: 97
