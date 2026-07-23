@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dewpider
-## ID: 751
+## Anorith
+## ID: 347
 ### Tipos
-- Water
+- Rock
 - Bug
 ### Stats
-- Hp: 38
-- Attack: 40
-- Defense: 52
+- Hp: 45
+- Attack: 95
+- Defense: 50
 - Special-attack: 40
-- Special-defense: 72
-- Speed: 27
+- Special-defense: 50
+- Speed: 75
