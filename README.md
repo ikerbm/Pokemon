@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Armaldo
-## ID: 348
+## Mimikyu-disguised
+## ID: 778
 ### Tipos
-- Rock
-- Bug
+- Ghost
+- Fairy
 ### Stats
-- Hp: 75
-- Attack: 125
-- Defense: 100
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 45
+- Hp: 55
+- Attack: 90
+- Defense: 80
+- Special-attack: 50
+- Special-defense: 105
+- Speed: 96
