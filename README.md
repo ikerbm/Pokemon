@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Muk
-## ID: 89
+## Jigglypuff
+## ID: 39
 ### Tipos
-- Poison
+- Normal
+- Fairy
 ### Stats
-- Hp: 105
-- Attack: 105
-- Defense: 75
-- Special-attack: 65
-- Special-defense: 100
-- Speed: 50
+- Hp: 115
+- Attack: 45
+- Defense: 20
+- Special-attack: 45
+- Special-defense: 25
+- Speed: 20
