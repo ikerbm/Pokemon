@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Pangoro
-## ID: 675
+## Binacle
+## ID: 688
 ### Tipos
-- Fighting
-- Dark
+- Rock
+- Water
 ### Stats
-- Hp: 95
-- Attack: 124
-- Defense: 78
-- Special-attack: 69
-- Special-defense: 71
-- Speed: 58
+- Hp: 42
+- Attack: 52
+- Defense: 67
+- Special-attack: 39
+- Special-defense: 56
+- Speed: 50
