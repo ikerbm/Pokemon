@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Nihilego
-## ID: 793
+## Goldeen
+## ID: 118
 ### Tipos
-- Rock
-- Poison
+- Water
 ### Stats
-- Hp: 109
-- Attack: 53
-- Defense: 47
-- Special-attack: 127
-- Special-defense: 131
-- Speed: 103
+- Hp: 45
+- Attack: 67
+- Defense: 60
+- Special-attack: 35
+- Special-defense: 50
+- Speed: 63
