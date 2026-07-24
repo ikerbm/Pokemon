@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Binacle
-## ID: 688
+## Wigglytuff
+## ID: 40
 ### Tipos
-- Rock
-- Water
+- Normal
+- Fairy
 ### Stats
-- Hp: 42
-- Attack: 52
-- Defense: 67
-- Special-attack: 39
-- Special-defense: 56
-- Speed: 50
+- Hp: 140
+- Attack: 70
+- Defense: 45
+- Special-attack: 85
+- Special-defense: 50
+- Speed: 45
