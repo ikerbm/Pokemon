@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Swalot
-## ID: 317
+## Sunkern
+## ID: 191
 ### Tipos
-- Poison
+- Grass
 ### Stats
-- Hp: 100
-- Attack: 73
-- Defense: 83
-- Special-attack: 73
-- Special-defense: 83
-- Speed: 55
+- Hp: 30
+- Attack: 30
+- Defense: 30
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 30
