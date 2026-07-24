@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Spinarak
-## ID: 167
+## Fletchinder
+## ID: 662
 ### Tipos
-- Bug
-- Poison
+- Fire
+- Flying
 ### Stats
-- Hp: 40
-- Attack: 60
-- Defense: 40
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 30
+- Hp: 62
+- Attack: 73
+- Defense: 55
+- Special-attack: 56
+- Special-defense: 52
+- Speed: 84
