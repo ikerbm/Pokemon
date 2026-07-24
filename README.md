@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Toucannon
-## ID: 733
+## Nihilego
+## ID: 793
 ### Tipos
-- Normal
-- Flying
+- Rock
+- Poison
 ### Stats
-- Hp: 80
-- Attack: 120
-- Defense: 75
-- Special-attack: 75
-- Special-defense: 75
-- Speed: 60
+- Hp: 109
+- Attack: 53
+- Defense: 47
+- Special-attack: 127
+- Special-defense: 131
+- Speed: 103
