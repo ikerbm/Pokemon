@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Blipbug
-## ID: 824
+## Kabutops
+## ID: 141
 ### Tipos
-- Bug
+- Rock
+- Water
 ### Stats
-- Hp: 25
-- Attack: 20
-- Defense: 20
-- Special-attack: 25
-- Special-defense: 45
-- Speed: 45
+- Hp: 60
+- Attack: 115
+- Defense: 105
+- Special-attack: 65
+- Special-defense: 70
+- Speed: 80
