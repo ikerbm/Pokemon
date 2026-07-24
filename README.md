@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Carbink
-## ID: 703
+## Spinarak
+## ID: 167
 ### Tipos
-- Rock
-- Fairy
+- Bug
+- Poison
 ### Stats
-- Hp: 50
-- Attack: 50
-- Defense: 150
-- Special-attack: 50
-- Special-defense: 150
-- Speed: 50
+- Hp: 40
+- Attack: 60
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 30
