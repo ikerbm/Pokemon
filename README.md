@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Wigglytuff
-## ID: 40
+## Blipbug
+## ID: 824
 ### Tipos
-- Normal
-- Fairy
+- Bug
 ### Stats
-- Hp: 140
-- Attack: 70
-- Defense: 45
-- Special-attack: 85
-- Special-defense: 50
+- Hp: 25
+- Attack: 20
+- Defense: 20
+- Special-attack: 25
+- Special-defense: 45
 - Speed: 45
