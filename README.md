@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Fletchinder
-## ID: 662
+## Swalot
+## ID: 317
 ### Tipos
-- Fire
-- Flying
+- Poison
 ### Stats
-- Hp: 62
+- Hp: 100
 - Attack: 73
-- Defense: 55
-- Special-attack: 56
-- Special-defense: 52
-- Speed: 84
+- Defense: 83
+- Special-attack: 73
+- Special-defense: 83
+- Speed: 55
