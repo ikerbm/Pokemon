@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Sunkern
-## ID: 191
+## Mightyena
+## ID: 262
 ### Tipos
-- Grass
+- Dark
 ### Stats
-- Hp: 30
-- Attack: 30
-- Defense: 30
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 30
+- Hp: 70
+- Attack: 90
+- Defense: 70
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 70
