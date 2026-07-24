@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Kabutops
-## ID: 141
+## Carbink
+## ID: 703
 ### Tipos
 - Rock
-- Water
+- Fairy
 ### Stats
-- Hp: 60
-- Attack: 115
-- Defense: 105
-- Special-attack: 65
-- Special-defense: 70
-- Speed: 80
+- Hp: 50
+- Attack: 50
+- Defense: 150
+- Special-attack: 50
+- Special-defense: 150
+- Speed: 50
