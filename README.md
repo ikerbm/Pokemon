@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Goldeen
-## ID: 118
+## Cinderace
+## ID: 815
 ### Tipos
-- Water
+- Fire
 ### Stats
-- Hp: 45
-- Attack: 67
-- Defense: 60
-- Special-attack: 35
-- Special-defense: 50
-- Speed: 63
+- Hp: 80
+- Attack: 116
+- Defense: 75
+- Special-attack: 65
+- Special-defense: 75
+- Speed: 119
