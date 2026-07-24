@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cinderace
-## ID: 815
+## Pangoro
+## ID: 675
 ### Tipos
-- Fire
+- Fighting
+- Dark
 ### Stats
-- Hp: 80
-- Attack: 116
-- Defense: 75
-- Special-attack: 65
-- Special-defense: 75
-- Speed: 119
+- Hp: 95
+- Attack: 124
+- Defense: 78
+- Special-attack: 69
+- Special-defense: 71
+- Speed: 58
