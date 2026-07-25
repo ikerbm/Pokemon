@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Koraidon
-## ID: 1007
+## Hitmontop
+## ID: 237
 ### Tipos
 - Fighting
-- Dragon
 ### Stats
-- Hp: 100
-- Attack: 135
-- Defense: 115
-- Special-attack: 85
-- Special-defense: 100
-- Speed: 135
+- Hp: 50
+- Attack: 95
+- Defense: 95
+- Special-attack: 35
+- Special-defense: 110
+- Speed: 70
