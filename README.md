@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tinkatuff
-## ID: 958
+## Shellos
+## ID: 422
 ### Tipos
-- Fairy
-- Steel
+- Water
 ### Stats
-- Hp: 65
-- Attack: 55
-- Defense: 55
-- Special-attack: 45
-- Special-defense: 82
-- Speed: 78
+- Hp: 76
+- Attack: 48
+- Defense: 48
+- Special-attack: 57
+- Special-defense: 62
+- Speed: 34
