@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Yveltal
-## ID: 717
+## Magnezone
+## ID: 462
 ### Tipos
-- Dark
-- Flying
+- Electric
+- Steel
 ### Stats
-- Hp: 126
-- Attack: 131
-- Defense: 95
-- Special-attack: 131
-- Special-defense: 98
-- Speed: 99
+- Hp: 70
+- Attack: 70
+- Defense: 115
+- Special-attack: 130
+- Special-defense: 90
+- Speed: 60
