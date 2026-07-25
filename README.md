@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Mightyena
-## ID: 262
+## Quaquaval
+## ID: 914
 ### Tipos
-- Dark
+- Water
+- Fighting
 ### Stats
-- Hp: 70
-- Attack: 90
-- Defense: 70
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 70
+- Hp: 85
+- Attack: 120
+- Defense: 80
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 85
