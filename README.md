@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Magnezone
-## ID: 462
+## Copperajah
+## ID: 879
 ### Tipos
-- Electric
 - Steel
 ### Stats
-- Hp: 70
-- Attack: 70
-- Defense: 115
-- Special-attack: 130
-- Special-defense: 90
-- Speed: 60
+- Hp: 122
+- Attack: 130
+- Defense: 69
+- Special-attack: 80
+- Special-defense: 69
+- Speed: 30
