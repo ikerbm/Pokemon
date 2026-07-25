@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Shellos
-## ID: 422
+## Pansear
+## ID: 513
 ### Tipos
-- Water
+- Fire
 ### Stats
-- Hp: 76
-- Attack: 48
+- Hp: 50
+- Attack: 53
 - Defense: 48
-- Special-attack: 57
-- Special-defense: 62
-- Speed: 34
+- Special-attack: 53
+- Special-defense: 48
+- Speed: 64
