@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Parasect
-## ID: 47
+## Flittle
+## ID: 955
 ### Tipos
-- Bug
-- Grass
+- Psychic
 ### Stats
-- Hp: 60
-- Attack: 95
-- Defense: 80
-- Special-attack: 60
-- Special-defense: 80
-- Speed: 30
+- Hp: 30
+- Attack: 35
+- Defense: 30
+- Special-attack: 55
+- Special-defense: 30
+- Speed: 75
