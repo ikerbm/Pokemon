@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Thievul
-## ID: 828
+## Koraidon
+## ID: 1007
 ### Tipos
-- Dark
+- Fighting
+- Dragon
 ### Stats
-- Hp: 70
-- Attack: 58
-- Defense: 58
-- Special-attack: 87
-- Special-defense: 92
-- Speed: 90
+- Hp: 100
+- Attack: 135
+- Defense: 115
+- Special-attack: 85
+- Special-defense: 100
+- Speed: 135
