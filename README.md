@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Hatterene
-## ID: 858
+## Parasect
+## ID: 47
 ### Tipos
-- Psychic
-- Fairy
+- Bug
+- Grass
 ### Stats
-- Hp: 57
-- Attack: 90
-- Defense: 95
-- Special-attack: 136
-- Special-defense: 103
-- Speed: 29
+- Hp: 60
+- Attack: 95
+- Defense: 80
+- Special-attack: 60
+- Special-defense: 80
+- Speed: 30
