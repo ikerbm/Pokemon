@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Graveler
-## ID: 75
+## Roserade
+## ID: 407
 ### Tipos
-- Rock
-- Ground
+- Grass
+- Poison
 ### Stats
-- Hp: 55
-- Attack: 95
-- Defense: 115
-- Special-attack: 45
-- Special-defense: 45
-- Speed: 35
+- Hp: 60
+- Attack: 70
+- Defense: 65
+- Special-attack: 125
+- Special-defense: 105
+- Speed: 90
