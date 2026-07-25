@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Copperajah
-## ID: 879
+## Servine
+## ID: 496
 ### Tipos
-- Steel
+- Grass
 ### Stats
-- Hp: 122
-- Attack: 130
-- Defense: 69
-- Special-attack: 80
-- Special-defense: 69
-- Speed: 30
+- Hp: 60
+- Attack: 60
+- Defense: 75
+- Special-attack: 60
+- Special-defense: 75
+- Speed: 83
