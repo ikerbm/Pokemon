@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Quaquaval
-## ID: 914
+## Zorua
+## ID: 570
 ### Tipos
-- Water
-- Fighting
+- Dark
 ### Stats
-- Hp: 85
-- Attack: 120
-- Defense: 80
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 85
+- Hp: 40
+- Attack: 65
+- Defense: 40
+- Special-attack: 80
+- Special-defense: 40
+- Speed: 65
