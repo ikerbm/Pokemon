@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Hitmontop
-## ID: 237
+## Tinkatuff
+## ID: 958
 ### Tipos
-- Fighting
+- Fairy
+- Steel
 ### Stats
-- Hp: 50
-- Attack: 95
-- Defense: 95
-- Special-attack: 35
-- Special-defense: 110
-- Speed: 70
+- Hp: 65
+- Attack: 55
+- Defense: 55
+- Special-attack: 45
+- Special-defense: 82
+- Speed: 78
