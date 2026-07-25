@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Servine
-## ID: 496
+## Thievul
+## ID: 828
 ### Tipos
-- Grass
+- Dark
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 75
-- Special-attack: 60
-- Special-defense: 75
-- Speed: 83
+- Hp: 70
+- Attack: 58
+- Defense: 58
+- Special-attack: 87
+- Special-defense: 92
+- Speed: 90
