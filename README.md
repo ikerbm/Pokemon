@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Pansear
-## ID: 513
+## Graveler
+## ID: 75
 ### Tipos
-- Fire
+- Rock
+- Ground
 ### Stats
-- Hp: 50
-- Attack: 53
-- Defense: 48
-- Special-attack: 53
-- Special-defense: 48
-- Speed: 64
+- Hp: 55
+- Attack: 95
+- Defense: 115
+- Special-attack: 45
+- Special-defense: 45
+- Speed: 35
