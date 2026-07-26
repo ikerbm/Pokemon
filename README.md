@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Aipom
-## ID: 190
+## Coalossal
+## ID: 839
 ### Tipos
-- Normal
+- Rock
+- Fire
 ### Stats
-- Hp: 55
-- Attack: 70
-- Defense: 55
-- Special-attack: 40
-- Special-defense: 55
-- Speed: 85
+- Hp: 110
+- Attack: 80
+- Defense: 120
+- Special-attack: 80
+- Special-defense: 90
+- Speed: 30
