@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Spidops
-## ID: 918
+## Dugtrio
+## ID: 51
 ### Tipos
-- Bug
+- Ground
 ### Stats
-- Hp: 60
-- Attack: 79
-- Defense: 92
-- Special-attack: 52
-- Special-defense: 86
-- Speed: 35
+- Hp: 35
+- Attack: 100
+- Defense: 50
+- Special-attack: 50
+- Special-defense: 70
+- Speed: 120
