@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Trumbeak
-## ID: 732
+## Falinks
+## ID: 870
 ### Tipos
-- Normal
-- Flying
+- Fighting
 ### Stats
-- Hp: 55
-- Attack: 85
-- Defense: 50
-- Special-attack: 40
-- Special-defense: 50
+- Hp: 65
+- Attack: 100
+- Defense: 100
+- Special-attack: 70
+- Special-defense: 60
 - Speed: 75
