@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Metang
-## ID: 375
+## Trumbeak
+## ID: 732
 ### Tipos
-- Steel
-- Psychic
+- Normal
+- Flying
 ### Stats
-- Hp: 60
-- Attack: 75
-- Defense: 100
-- Special-attack: 55
-- Special-defense: 80
-- Speed: 50
+- Hp: 55
+- Attack: 85
+- Defense: 50
+- Special-attack: 40
+- Special-defense: 50
+- Speed: 75
