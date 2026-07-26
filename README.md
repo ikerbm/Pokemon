@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Gligar
-## ID: 207
+## Aurorus
+## ID: 699
 ### Tipos
-- Ground
-- Flying
+- Rock
+- Ice
 ### Stats
-- Hp: 65
-- Attack: 75
-- Defense: 105
-- Special-attack: 35
-- Special-defense: 65
-- Speed: 85
+- Hp: 123
+- Attack: 77
+- Defense: 72
+- Special-attack: 99
+- Special-defense: 92
+- Speed: 58
