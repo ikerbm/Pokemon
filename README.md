@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Falinks
-## ID: 870
+## Bombirdier
+## ID: 962
 ### Tipos
-- Fighting
+- Flying
+- Dark
 ### Stats
-- Hp: 65
-- Attack: 100
-- Defense: 100
-- Special-attack: 70
-- Special-defense: 60
-- Speed: 75
+- Hp: 70
+- Attack: 103
+- Defense: 85
+- Special-attack: 60
+- Special-defense: 85
+- Speed: 82
