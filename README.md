@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Aurorus
-## ID: 699
+## Pyroar-male
+## ID: 668
 ### Tipos
-- Rock
-- Ice
+- Fire
+- Normal
 ### Stats
-- Hp: 123
-- Attack: 77
+- Hp: 86
+- Attack: 68
 - Defense: 72
-- Special-attack: 99
-- Special-defense: 92
-- Speed: 58
+- Special-attack: 109
+- Special-defense: 66
+- Speed: 106
