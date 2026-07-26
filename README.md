@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Whiscash
-## ID: 340
+## Aipom
+## ID: 190
 ### Tipos
-- Water
-- Ground
+- Normal
 ### Stats
-- Hp: 110
-- Attack: 78
-- Defense: 73
-- Special-attack: 76
-- Special-defense: 71
-- Speed: 60
+- Hp: 55
+- Attack: 70
+- Defense: 55
+- Special-attack: 40
+- Special-defense: 55
+- Speed: 85
