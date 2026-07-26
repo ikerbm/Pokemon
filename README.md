@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Florges
-## ID: 671
+## Milcery
+## ID: 868
 ### Tipos
 - Fairy
 ### Stats
-- Hp: 78
-- Attack: 65
-- Defense: 68
-- Special-attack: 112
-- Special-defense: 154
-- Speed: 75
+- Hp: 45
+- Attack: 40
+- Defense: 40
+- Special-attack: 50
+- Special-defense: 61
+- Speed: 34
