@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Milcery
-## ID: 868
+## Tarountula
+## ID: 917
 ### Tipos
-- Fairy
+- Bug
 ### Stats
-- Hp: 45
-- Attack: 40
-- Defense: 40
-- Special-attack: 50
-- Special-defense: 61
-- Speed: 34
+- Hp: 35
+- Attack: 41
+- Defense: 45
+- Special-attack: 29
+- Special-defense: 40
+- Speed: 20
