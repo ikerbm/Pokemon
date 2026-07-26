@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Poipole
-## ID: 803
+## Florges
+## ID: 671
 ### Tipos
-- Poison
+- Fairy
 ### Stats
-- Hp: 67
-- Attack: 73
-- Defense: 67
-- Special-attack: 73
-- Special-defense: 67
-- Speed: 73
+- Hp: 78
+- Attack: 65
+- Defense: 68
+- Special-attack: 112
+- Special-defense: 154
+- Speed: 75
