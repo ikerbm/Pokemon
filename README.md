@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Mudkip
-## ID: 258
+## Spidops
+## ID: 918
 ### Tipos
-- Water
+- Bug
 ### Stats
-- Hp: 50
-- Attack: 70
-- Defense: 50
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 40
+- Hp: 60
+- Attack: 79
+- Defense: 92
+- Special-attack: 52
+- Special-defense: 86
+- Speed: 35
