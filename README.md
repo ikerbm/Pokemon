@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Tarountula
-## ID: 917
+## Whiscash
+## ID: 340
 ### Tipos
-- Bug
+- Water
+- Ground
 ### Stats
-- Hp: 35
-- Attack: 41
-- Defense: 45
-- Special-attack: 29
-- Special-defense: 40
-- Speed: 20
+- Hp: 110
+- Attack: 78
+- Defense: 73
+- Special-attack: 76
+- Special-defense: 71
+- Speed: 60
