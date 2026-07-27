@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Exploud
-## ID: 295
+## Melmetal
+## ID: 809
 ### Tipos
-- Normal
+- Steel
 ### Stats
-- Hp: 104
-- Attack: 91
-- Defense: 63
-- Special-attack: 91
-- Special-defense: 73
-- Speed: 68
+- Hp: 135
+- Attack: 143
+- Defense: 143
+- Special-attack: 80
+- Special-defense: 65
+- Speed: 34
