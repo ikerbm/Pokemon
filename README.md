@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cetitan
-## ID: 975
+## Snom
+## ID: 872
 ### Tipos
 - Ice
+- Bug
 ### Stats
-- Hp: 170
-- Attack: 113
-- Defense: 65
+- Hp: 30
+- Attack: 25
+- Defense: 35
 - Special-attack: 45
-- Special-defense: 55
-- Speed: 73
+- Special-defense: 30
+- Speed: 20
