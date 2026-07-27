@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Snom
-## ID: 872
+## Klawf
+## ID: 950
 ### Tipos
-- Ice
-- Bug
+- Rock
 ### Stats
-- Hp: 30
-- Attack: 25
-- Defense: 35
-- Special-attack: 45
-- Special-defense: 30
-- Speed: 20
+- Hp: 70
+- Attack: 100
+- Defense: 115
+- Special-attack: 35
+- Special-defense: 55
+- Speed: 75
