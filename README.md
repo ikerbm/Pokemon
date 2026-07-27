@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Arceus
-## ID: 493
+## Gabite
+## ID: 444
 ### Tipos
-- Normal
+- Dragon
+- Ground
 ### Stats
-- Hp: 120
-- Attack: 120
-- Defense: 120
-- Special-attack: 120
-- Special-defense: 120
-- Speed: 120
+- Hp: 68
+- Attack: 90
+- Defense: 65
+- Special-attack: 50
+- Special-defense: 55
+- Speed: 82
