@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Gabite
-## ID: 444
+## Cetitan
+## ID: 975
 ### Tipos
-- Dragon
-- Ground
+- Ice
 ### Stats
-- Hp: 68
-- Attack: 90
+- Hp: 170
+- Attack: 113
 - Defense: 65
-- Special-attack: 50
+- Special-attack: 45
 - Special-defense: 55
-- Speed: 82
+- Speed: 73
