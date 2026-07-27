@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Hitmontop
-## ID: 237
+## Exploud
+## ID: 295
 ### Tipos
-- Fighting
+- Normal
 ### Stats
-- Hp: 50
-- Attack: 95
-- Defense: 95
-- Special-attack: 35
-- Special-defense: 110
-- Speed: 70
+- Hp: 104
+- Attack: 91
+- Defense: 63
+- Special-attack: 91
+- Special-defense: 73
+- Speed: 68
