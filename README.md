@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Coalossal
-## ID: 839
+## Crocalor
+## ID: 910
 ### Tipos
-- Rock
 - Fire
 ### Stats
-- Hp: 110
-- Attack: 80
-- Defense: 120
-- Special-attack: 80
-- Special-defense: 90
-- Speed: 30
+- Hp: 81
+- Attack: 55
+- Defense: 78
+- Special-attack: 90
+- Special-defense: 58
+- Speed: 49
