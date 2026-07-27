@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Quaxwell
-## ID: 913
+## Minccino
+## ID: 572
 ### Tipos
-- Water
+- Normal
 ### Stats
-- Hp: 70
-- Attack: 85
-- Defense: 65
-- Special-attack: 65
-- Special-defense: 60
-- Speed: 65
+- Hp: 55
+- Attack: 50
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 75
