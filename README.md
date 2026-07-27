@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Minccino
-## ID: 572
+## Maschiff
+## ID: 942
 ### Tipos
-- Normal
+- Dark
 ### Stats
-- Hp: 55
-- Attack: 50
-- Defense: 40
+- Hp: 60
+- Attack: 78
+- Defense: 60
 - Special-attack: 40
-- Special-defense: 40
-- Speed: 75
+- Special-defense: 51
+- Speed: 51
