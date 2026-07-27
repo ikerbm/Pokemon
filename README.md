@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Crocalor
-## ID: 910
+## Arceus
+## ID: 493
 ### Tipos
-- Fire
+- Normal
 ### Stats
-- Hp: 81
-- Attack: 55
-- Defense: 78
-- Special-attack: 90
-- Special-defense: 58
-- Speed: 49
+- Hp: 120
+- Attack: 120
+- Defense: 120
+- Special-attack: 120
+- Special-defense: 120
+- Speed: 120
