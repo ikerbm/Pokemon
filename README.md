@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Maschiff
-## ID: 942
+## Hitmontop
+## ID: 237
 ### Tipos
-- Dark
+- Fighting
 ### Stats
-- Hp: 60
-- Attack: 78
-- Defense: 60
-- Special-attack: 40
-- Special-defense: 51
-- Speed: 51
+- Hp: 50
+- Attack: 95
+- Defense: 95
+- Special-attack: 35
+- Special-defense: 110
+- Speed: 70
