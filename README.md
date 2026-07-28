@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Stunfisk
-## ID: 618
+## Incineroar
+## ID: 727
 ### Tipos
-- Ground
-- Electric
+- Fire
+- Dark
 ### Stats
-- Hp: 109
-- Attack: 66
-- Defense: 84
-- Special-attack: 81
-- Special-defense: 99
-- Speed: 32
+- Hp: 95
+- Attack: 115
+- Defense: 90
+- Special-attack: 80
+- Special-defense: 90
+- Speed: 60
