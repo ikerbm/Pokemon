@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Emboar
-## ID: 500
+## Stunfisk
+## ID: 618
 ### Tipos
-- Fire
-- Fighting
+- Ground
+- Electric
 ### Stats
-- Hp: 110
-- Attack: 123
-- Defense: 65
-- Special-attack: 100
-- Special-defense: 65
-- Speed: 65
+- Hp: 109
+- Attack: 66
+- Defense: 84
+- Special-attack: 81
+- Special-defense: 99
+- Speed: 32
