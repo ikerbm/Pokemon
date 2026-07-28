@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Gouging-fire
-## ID: 1020
+## Bulbasaur
+## ID: 1
 ### Tipos
-- Fire
-- Dragon
+- Grass
+- Poison
 ### Stats
-- Hp: 105
-- Attack: 115
-- Defense: 121
+- Hp: 45
+- Attack: 49
+- Defense: 49
 - Special-attack: 65
-- Special-defense: 93
-- Speed: 91
+- Special-defense: 65
+- Speed: 45
