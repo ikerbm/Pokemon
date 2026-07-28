@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Melmetal
-## ID: 809
+## Virizion
+## ID: 640
 ### Tipos
-- Steel
+- Grass
+- Fighting
 ### Stats
-- Hp: 135
-- Attack: 143
-- Defense: 143
-- Special-attack: 80
-- Special-defense: 65
-- Speed: 34
+- Hp: 91
+- Attack: 90
+- Defense: 72
+- Special-attack: 90
+- Special-defense: 129
+- Speed: 108
