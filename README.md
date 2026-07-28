@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Bulbasaur
-## ID: 1
+## Simisear
+## ID: 514
 ### Tipos
-- Grass
-- Poison
+- Fire
 ### Stats
-- Hp: 45
-- Attack: 49
-- Defense: 49
-- Special-attack: 65
-- Special-defense: 65
-- Speed: 45
+- Hp: 75
+- Attack: 98
+- Defense: 63
+- Special-attack: 98
+- Special-defense: 63
+- Speed: 101
