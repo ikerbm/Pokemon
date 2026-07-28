@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cacnea
-## ID: 331
+## Emboar
+## ID: 500
 ### Tipos
-- Grass
+- Fire
+- Fighting
 ### Stats
-- Hp: 50
-- Attack: 85
-- Defense: 40
-- Special-attack: 85
-- Special-defense: 40
-- Speed: 35
+- Hp: 110
+- Attack: 123
+- Defense: 65
+- Special-attack: 100
+- Special-defense: 65
+- Speed: 65
