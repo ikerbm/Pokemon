@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Incineroar
-## ID: 727
+## Natu
+## ID: 177
 ### Tipos
-- Fire
-- Dark
+- Psychic
+- Flying
 ### Stats
-- Hp: 95
-- Attack: 115
-- Defense: 90
-- Special-attack: 80
-- Special-defense: 90
-- Speed: 60
+- Hp: 40
+- Attack: 50
+- Defense: 45
+- Special-attack: 70
+- Special-defense: 45
+- Speed: 70
