@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Groudon
-## ID: 383
+## Gouging-fire
+## ID: 1020
 ### Tipos
-- Ground
+- Fire
+- Dragon
 ### Stats
-- Hp: 100
-- Attack: 150
-- Defense: 140
-- Special-attack: 100
-- Special-defense: 90
-- Speed: 90
+- Hp: 105
+- Attack: 115
+- Defense: 121
+- Special-attack: 65
+- Special-defense: 93
+- Speed: 91
