@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Simisear
-## ID: 514
+## Cacnea
+## ID: 331
 ### Tipos
-- Fire
+- Grass
 ### Stats
-- Hp: 75
-- Attack: 98
-- Defense: 63
-- Special-attack: 98
-- Special-defense: 63
-- Speed: 101
+- Hp: 50
+- Attack: 85
+- Defense: 40
+- Special-attack: 85
+- Special-defense: 40
+- Speed: 35
