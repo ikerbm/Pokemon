@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Centiskorch
-## ID: 851
+## Annihilape
+## ID: 979
 ### Tipos
-- Fire
-- Bug
+- Fighting
+- Ghost
 ### Stats
-- Hp: 100
+- Hp: 110
 - Attack: 115
-- Defense: 65
-- Special-attack: 90
+- Defense: 80
+- Special-attack: 50
 - Special-defense: 90
-- Speed: 65
+- Speed: 90
