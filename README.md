@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Natu
-## ID: 177
+## Centiskorch
+## ID: 851
 ### Tipos
-- Psychic
-- Flying
+- Fire
+- Bug
 ### Stats
-- Hp: 40
-- Attack: 50
-- Defense: 45
-- Special-attack: 70
-- Special-defense: 45
-- Speed: 70
+- Hp: 100
+- Attack: 115
+- Defense: 65
+- Special-attack: 90
+- Special-defense: 90
+- Speed: 65
