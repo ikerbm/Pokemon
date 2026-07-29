@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Bounsweet
-## ID: 761
+## Qwilfish
+## ID: 211
 ### Tipos
-- Grass
+- Water
+- Poison
 ### Stats
-- Hp: 42
-- Attack: 30
-- Defense: 38
-- Special-attack: 30
-- Special-defense: 38
-- Speed: 32
+- Hp: 65
+- Attack: 95
+- Defense: 85
+- Special-attack: 55
+- Special-defense: 55
+- Speed: 85
