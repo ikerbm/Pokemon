@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Meltan
-## ID: 808
+## Ludicolo
+## ID: 272
 ### Tipos
-- Steel
+- Water
+- Grass
 ### Stats
-- Hp: 46
-- Attack: 65
-- Defense: 65
-- Special-attack: 55
-- Special-defense: 35
-- Speed: 34
+- Hp: 80
+- Attack: 70
+- Defense: 70
+- Special-attack: 90
+- Special-defense: 100
+- Speed: 70
