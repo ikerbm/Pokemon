@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Qwilfish
-## ID: 211
+## Burmy
+## ID: 412
 ### Tipos
-- Water
-- Poison
+- Bug
 ### Stats
-- Hp: 65
-- Attack: 95
-- Defense: 85
-- Special-attack: 55
-- Special-defense: 55
-- Speed: 85
+- Hp: 40
+- Attack: 29
+- Defense: 45
+- Special-attack: 29
+- Special-defense: 45
+- Speed: 36
