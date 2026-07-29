@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Chimchar
-## ID: 390
+## Bombirdier
+## ID: 962
 ### Tipos
-- Fire
+- Flying
+- Dark
 ### Stats
-- Hp: 44
-- Attack: 58
-- Defense: 44
-- Special-attack: 58
-- Special-defense: 44
-- Speed: 61
+- Hp: 70
+- Attack: 103
+- Defense: 85
+- Special-attack: 60
+- Special-defense: 85
+- Speed: 82
