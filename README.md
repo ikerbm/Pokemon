@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Bombirdier
-## ID: 962
+## Clauncher
+## ID: 692
 ### Tipos
-- Flying
-- Dark
+- Water
 ### Stats
-- Hp: 70
-- Attack: 103
-- Defense: 85
-- Special-attack: 60
-- Special-defense: 85
-- Speed: 82
+- Hp: 50
+- Attack: 53
+- Defense: 62
+- Special-attack: 58
+- Special-defense: 63
+- Speed: 44
