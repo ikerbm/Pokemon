@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Clauncher
-## ID: 692
+## Corsola
+## ID: 222
 ### Tipos
 - Water
+- Rock
 ### Stats
-- Hp: 50
-- Attack: 53
-- Defense: 62
-- Special-attack: 58
-- Special-defense: 63
-- Speed: 44
+- Hp: 65
+- Attack: 55
+- Defense: 95
+- Special-attack: 65
+- Special-defense: 95
+- Speed: 35
