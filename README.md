@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ludicolo
-## ID: 272
+## Snorunt
+## ID: 361
 ### Tipos
-- Water
-- Grass
+- Ice
 ### Stats
-- Hp: 80
-- Attack: 70
-- Defense: 70
-- Special-attack: 90
-- Special-defense: 100
-- Speed: 70
+- Hp: 50
+- Attack: 50
+- Defense: 50
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 50
