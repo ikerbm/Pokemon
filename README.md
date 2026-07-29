@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Jumpluff
-## ID: 189
+## Finizen
+## ID: 963
 ### Tipos
-- Grass
-- Flying
+- Water
 ### Stats
-- Hp: 75
-- Attack: 55
-- Defense: 70
-- Special-attack: 55
-- Special-defense: 95
-- Speed: 110
+- Hp: 70
+- Attack: 45
+- Defense: 40
+- Special-attack: 45
+- Special-defense: 40
+- Speed: 75
