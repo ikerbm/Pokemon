@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Corsola
-## ID: 222
+## Bounsweet
+## ID: 761
 ### Tipos
-- Water
-- Rock
+- Grass
 ### Stats
-- Hp: 65
-- Attack: 55
-- Defense: 95
-- Special-attack: 65
-- Special-defense: 95
-- Speed: 35
+- Hp: 42
+- Attack: 30
+- Defense: 38
+- Special-attack: 30
+- Special-defense: 38
+- Speed: 32
