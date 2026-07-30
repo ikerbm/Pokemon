@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Finizen
-## ID: 963
+## Magby
+## ID: 240
 ### Tipos
-- Water
+- Fire
 ### Stats
-- Hp: 70
-- Attack: 45
-- Defense: 40
-- Special-attack: 45
-- Special-defense: 40
-- Speed: 75
+- Hp: 45
+- Attack: 75
+- Defense: 37
+- Special-attack: 70
+- Special-defense: 55
+- Speed: 83
