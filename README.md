@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Diancie
-## ID: 719
+## Magmortar
+## ID: 467
 ### Tipos
-- Rock
-- Fairy
+- Fire
 ### Stats
-- Hp: 50
-- Attack: 100
-- Defense: 150
-- Special-attack: 100
-- Special-defense: 150
-- Speed: 50
+- Hp: 75
+- Attack: 95
+- Defense: 67
+- Special-attack: 125
+- Special-defense: 95
+- Speed: 83
