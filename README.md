@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Scyther
-## ID: 123
+## Blitzle
+## ID: 522
 ### Tipos
-- Bug
-- Flying
+- Electric
 ### Stats
-- Hp: 70
-- Attack: 110
-- Defense: 80
-- Special-attack: 55
-- Special-defense: 80
-- Speed: 105
+- Hp: 45
+- Attack: 60
+- Defense: 32
+- Special-attack: 50
+- Special-defense: 32
+- Speed: 76
