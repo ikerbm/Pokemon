@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Magmortar
-## ID: 467
+## Copperajah
+## ID: 879
 ### Tipos
-- Fire
+- Steel
 ### Stats
-- Hp: 75
-- Attack: 95
-- Defense: 67
-- Special-attack: 125
-- Special-defense: 95
-- Speed: 83
+- Hp: 122
+- Attack: 130
+- Defense: 69
+- Special-attack: 80
+- Special-defense: 69
+- Speed: 30
