@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Goodra
-## ID: 706
+## Wattrel
+## ID: 940
 ### Tipos
-- Dragon
+- Electric
+- Flying
 ### Stats
-- Hp: 90
-- Attack: 100
-- Defense: 70
-- Special-attack: 110
-- Special-defense: 150
-- Speed: 80
+- Hp: 40
+- Attack: 40
+- Defense: 35
+- Special-attack: 55
+- Special-defense: 40
+- Speed: 70
