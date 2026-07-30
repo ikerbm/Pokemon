@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Wattrel
-## ID: 940
+## Diancie
+## ID: 719
 ### Tipos
-- Electric
-- Flying
+- Rock
+- Fairy
 ### Stats
-- Hp: 40
-- Attack: 40
-- Defense: 35
-- Special-attack: 55
-- Special-defense: 40
-- Speed: 70
+- Hp: 50
+- Attack: 100
+- Defense: 150
+- Special-attack: 100
+- Special-defense: 150
+- Speed: 50
