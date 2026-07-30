@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Trubbish
-## ID: 568
+## Goodra
+## ID: 706
 ### Tipos
-- Poison
+- Dragon
 ### Stats
-- Hp: 50
-- Attack: 50
-- Defense: 62
-- Special-attack: 40
-- Special-defense: 62
-- Speed: 65
+- Hp: 90
+- Attack: 100
+- Defense: 70
+- Special-attack: 110
+- Special-defense: 150
+- Speed: 80
