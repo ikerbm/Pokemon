@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Arboliva
-## ID: 930
+## Aggron
+## ID: 306
 ### Tipos
-- Grass
-- Normal
+- Steel
+- Rock
 ### Stats
-- Hp: 78
-- Attack: 69
-- Defense: 90
-- Special-attack: 125
-- Special-defense: 109
-- Speed: 39
+- Hp: 70
+- Attack: 110
+- Defense: 180
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 50
