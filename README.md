@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Leavanny
-## ID: 542
+## Scyther
+## ID: 123
 ### Tipos
 - Bug
-- Grass
+- Flying
 ### Stats
-- Hp: 75
-- Attack: 103
+- Hp: 70
+- Attack: 110
 - Defense: 80
-- Special-attack: 70
+- Special-attack: 55
 - Special-defense: 80
-- Speed: 92
+- Speed: 105
