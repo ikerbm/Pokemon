@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Magby
-## ID: 240
+## Farigiraf
+## ID: 981
 ### Tipos
-- Fire
+- Normal
+- Psychic
 ### Stats
-- Hp: 45
-- Attack: 75
-- Defense: 37
-- Special-attack: 70
-- Special-defense: 55
-- Speed: 83
+- Hp: 120
+- Attack: 90
+- Defense: 70
+- Special-attack: 110
+- Special-defense: 70
+- Speed: 60
