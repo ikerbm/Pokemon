@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Blitzle
-## ID: 522
+## Arboliva
+## ID: 930
 ### Tipos
-- Electric
+- Grass
+- Normal
 ### Stats
-- Hp: 45
-- Attack: 60
-- Defense: 32
-- Special-attack: 50
-- Special-defense: 32
-- Speed: 76
+- Hp: 78
+- Attack: 69
+- Defense: 90
+- Special-attack: 125
+- Special-defense: 109
+- Speed: 39
