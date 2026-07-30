@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Torchic
-## ID: 255
+## Leavanny
+## ID: 542
 ### Tipos
-- Fire
+- Bug
+- Grass
 ### Stats
-- Hp: 45
-- Attack: 60
-- Defense: 40
+- Hp: 75
+- Attack: 103
+- Defense: 80
 - Special-attack: 70
-- Special-defense: 50
-- Speed: 45
+- Special-defense: 80
+- Speed: 92
