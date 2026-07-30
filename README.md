@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Aggron
-## ID: 306
+## Trubbish
+## ID: 568
 ### Tipos
-- Steel
-- Rock
+- Poison
 ### Stats
-- Hp: 70
-- Attack: 110
-- Defense: 180
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 50
+- Hp: 50
+- Attack: 50
+- Defense: 62
+- Special-attack: 40
+- Special-defense: 62
+- Speed: 65
