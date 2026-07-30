@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Farigiraf
-## ID: 981
+## Torchic
+## ID: 255
 ### Tipos
-- Normal
-- Psychic
+- Fire
 ### Stats
-- Hp: 120
-- Attack: 90
-- Defense: 70
-- Special-attack: 110
-- Special-defense: 70
-- Speed: 60
+- Hp: 45
+- Attack: 60
+- Defense: 40
+- Special-attack: 70
+- Special-defense: 50
+- Speed: 45
