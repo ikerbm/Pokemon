@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Heatran
-## ID: 485
+## Meowscarada
+## ID: 908
 ### Tipos
-- Fire
-- Steel
+- Grass
+- Dark
 ### Stats
-- Hp: 91
-- Attack: 90
-- Defense: 106
-- Special-attack: 130
-- Special-defense: 106
-- Speed: 77
+- Hp: 76
+- Attack: 110
+- Defense: 70
+- Special-attack: 81
+- Special-defense: 70
+- Speed: 123
