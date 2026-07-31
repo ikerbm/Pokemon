@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Latios
-## ID: 381
+## Dondozo
+## ID: 977
 ### Tipos
-- Dragon
-- Psychic
+- Water
 ### Stats
-- Hp: 80
-- Attack: 90
-- Defense: 80
-- Special-attack: 130
-- Special-defense: 110
-- Speed: 110
+- Hp: 150
+- Attack: 100
+- Defense: 115
+- Special-attack: 65
+- Special-defense: 65
+- Speed: 35
