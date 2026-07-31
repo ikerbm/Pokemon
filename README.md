@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Aron
-## ID: 304
+## Quilladin
+## ID: 651
 ### Tipos
-- Steel
-- Rock
+- Grass
 ### Stats
-- Hp: 50
-- Attack: 70
-- Defense: 100
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 30
+- Hp: 61
+- Attack: 78
+- Defense: 95
+- Special-attack: 56
+- Special-defense: 58
+- Speed: 57
