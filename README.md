@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Applin
-## ID: 840
+## Bastiodon
+## ID: 411
 ### Tipos
-- Grass
-- Dragon
+- Rock
+- Steel
 ### Stats
-- Hp: 40
-- Attack: 40
-- Defense: 80
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 20
+- Hp: 60
+- Attack: 52
+- Defense: 168
+- Special-attack: 47
+- Special-defense: 138
+- Speed: 30
