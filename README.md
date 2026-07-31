@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Uxie
-## ID: 480
+## Meloetta-aria
+## ID: 648
 ### Tipos
+- Normal
 - Psychic
 ### Stats
-- Hp: 75
-- Attack: 75
-- Defense: 130
-- Special-attack: 75
-- Special-defense: 130
-- Speed: 95
+- Hp: 100
+- Attack: 77
+- Defense: 77
+- Special-attack: 128
+- Special-defense: 128
+- Speed: 90
