@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Copperajah
-## ID: 879
+## Deino
+## ID: 633
 ### Tipos
-- Steel
+- Dark
+- Dragon
 ### Stats
-- Hp: 122
-- Attack: 130
-- Defense: 69
-- Special-attack: 80
-- Special-defense: 69
-- Speed: 30
+- Hp: 52
+- Attack: 65
+- Defense: 50
+- Special-attack: 45
+- Special-defense: 50
+- Speed: 38
