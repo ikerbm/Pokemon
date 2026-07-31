@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Meloetta-aria
-## ID: 648
+## Latios
+## ID: 381
 ### Tipos
-- Normal
+- Dragon
 - Psychic
 ### Stats
-- Hp: 100
-- Attack: 77
-- Defense: 77
-- Special-attack: 128
-- Special-defense: 128
-- Speed: 90
+- Hp: 80
+- Attack: 90
+- Defense: 80
+- Special-attack: 130
+- Special-defense: 110
+- Speed: 110
