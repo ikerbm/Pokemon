@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Deino
-## ID: 633
+## Heatran
+## ID: 485
 ### Tipos
-- Dark
-- Dragon
+- Fire
+- Steel
 ### Stats
-- Hp: 52
-- Attack: 65
-- Defense: 50
-- Special-attack: 45
-- Special-defense: 50
-- Speed: 38
+- Hp: 91
+- Attack: 90
+- Defense: 106
+- Special-attack: 130
+- Special-defense: 106
+- Speed: 77
