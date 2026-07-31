@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Meowscarada
-## ID: 908
+## Aron
+## ID: 304
 ### Tipos
-- Grass
-- Dark
+- Steel
+- Rock
 ### Stats
-- Hp: 76
-- Attack: 110
-- Defense: 70
-- Special-attack: 81
-- Special-defense: 70
-- Speed: 123
+- Hp: 50
+- Attack: 70
+- Defense: 100
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 30
