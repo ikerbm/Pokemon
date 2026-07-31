@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Aggron
-## ID: 306
+## Applin
+## ID: 840
 ### Tipos
-- Steel
-- Rock
+- Grass
+- Dragon
 ### Stats
-- Hp: 70
-- Attack: 110
-- Defense: 180
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 50
+- Hp: 40
+- Attack: 40
+- Defense: 80
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 20
