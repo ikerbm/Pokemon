@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Dondozo
-## ID: 977
+## Litten
+## ID: 725
 ### Tipos
-- Water
+- Fire
 ### Stats
-- Hp: 150
-- Attack: 100
-- Defense: 115
-- Special-attack: 65
-- Special-defense: 65
-- Speed: 35
+- Hp: 45
+- Attack: 65
+- Defense: 40
+- Special-attack: 60
+- Special-defense: 40
+- Speed: 70
