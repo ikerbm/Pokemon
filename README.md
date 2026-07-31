@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Litten
-## ID: 725
+## Aggron
+## ID: 306
 ### Tipos
-- Fire
+- Steel
+- Rock
 ### Stats
-- Hp: 45
-- Attack: 65
-- Defense: 40
+- Hp: 70
+- Attack: 110
+- Defense: 180
 - Special-attack: 60
-- Special-defense: 40
-- Speed: 70
+- Special-defense: 60
+- Speed: 50
