@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Virizion
-## ID: 640
+## Banette
+## ID: 354
 ### Tipos
-- Grass
-- Fighting
+- Ghost
 ### Stats
-- Hp: 91
-- Attack: 90
-- Defense: 72
-- Special-attack: 90
-- Special-defense: 129
-- Speed: 108
+- Hp: 64
+- Attack: 115
+- Defense: 65
+- Special-attack: 83
+- Special-defense: 63
+- Speed: 65
