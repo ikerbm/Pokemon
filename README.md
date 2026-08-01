@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Eiscue-ice
-## ID: 875
+## Golisopod
+## ID: 768
 ### Tipos
-- Ice
+- Bug
+- Water
 ### Stats
 - Hp: 75
-- Attack: 80
-- Defense: 110
-- Special-attack: 65
+- Attack: 125
+- Defense: 140
+- Special-attack: 60
 - Special-defense: 90
-- Speed: 50
+- Speed: 40
