@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Sableye
-## ID: 302
+## Finneon
+## ID: 456
 ### Tipos
-- Dark
-- Ghost
+- Water
 ### Stats
-- Hp: 50
-- Attack: 75
-- Defense: 75
-- Special-attack: 65
-- Special-defense: 65
-- Speed: 50
+- Hp: 49
+- Attack: 49
+- Defense: 56
+- Special-attack: 49
+- Special-defense: 61
+- Speed: 66
