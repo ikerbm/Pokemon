@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Golisopod
-## ID: 768
+## Granbull
+## ID: 210
 ### Tipos
-- Bug
-- Water
+- Fairy
 ### Stats
-- Hp: 75
-- Attack: 125
-- Defense: 140
+- Hp: 90
+- Attack: 120
+- Defense: 75
 - Special-attack: 60
-- Special-defense: 90
-- Speed: 40
+- Special-defense: 60
+- Speed: 45
