@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Dusclops
-## ID: 356
+## Joltik
+## ID: 595
 ### Tipos
-- Ghost
+- Bug
+- Electric
 ### Stats
-- Hp: 40
-- Attack: 70
-- Defense: 130
-- Special-attack: 60
-- Special-defense: 130
-- Speed: 25
+- Hp: 50
+- Attack: 47
+- Defense: 50
+- Special-attack: 57
+- Special-defense: 50
+- Speed: 65
