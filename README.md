@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Banette
-## ID: 354
+## Regieleki
+## ID: 894
 ### Tipos
-- Ghost
+- Electric
 ### Stats
-- Hp: 64
-- Attack: 115
-- Defense: 65
-- Special-attack: 83
-- Special-defense: 63
-- Speed: 65
+- Hp: 80
+- Attack: 100
+- Defense: 50
+- Special-attack: 100
+- Special-defense: 50
+- Speed: 200
