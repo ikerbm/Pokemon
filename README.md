@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Cleffa
-## ID: 173
+## Vaporeon
+## ID: 134
 ### Tipos
-- Fairy
+- Water
 ### Stats
-- Hp: 50
-- Attack: 25
-- Defense: 28
-- Special-attack: 45
-- Special-defense: 55
-- Speed: 15
+- Hp: 130
+- Attack: 65
+- Defense: 60
+- Special-attack: 110
+- Special-defense: 95
+- Speed: 65
