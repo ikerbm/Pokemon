@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Regieleki
-## ID: 894
+## Dusclops
+## ID: 356
 ### Tipos
-- Electric
+- Ghost
 ### Stats
-- Hp: 80
-- Attack: 100
-- Defense: 50
-- Special-attack: 100
-- Special-defense: 50
-- Speed: 200
+- Hp: 40
+- Attack: 70
+- Defense: 130
+- Special-attack: 60
+- Special-defense: 130
+- Speed: 25
