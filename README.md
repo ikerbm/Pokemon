@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Vaporeon
-## ID: 134
+## Kricketune
+## ID: 402
 ### Tipos
-- Water
+- Bug
 ### Stats
-- Hp: 130
-- Attack: 65
-- Defense: 60
-- Special-attack: 110
-- Special-defense: 95
+- Hp: 77
+- Attack: 85
+- Defense: 51
+- Special-attack: 55
+- Special-defense: 51
 - Speed: 65
