@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Bastiodon
-## ID: 411
+## Eiscue-ice
+## ID: 875
 ### Tipos
-- Rock
-- Steel
+- Ice
 ### Stats
-- Hp: 60
-- Attack: 52
-- Defense: 168
-- Special-attack: 47
-- Special-defense: 138
-- Speed: 30
+- Hp: 75
+- Attack: 80
+- Defense: 110
+- Special-attack: 65
+- Special-defense: 90
+- Speed: 50
