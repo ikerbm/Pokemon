@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Joltik
-## ID: 595
+## Cleffa
+## ID: 173
 ### Tipos
-- Bug
-- Electric
+- Fairy
 ### Stats
 - Hp: 50
-- Attack: 47
-- Defense: 50
-- Special-attack: 57
-- Special-defense: 50
-- Speed: 65
+- Attack: 25
+- Defense: 28
+- Special-attack: 45
+- Special-defense: 55
+- Speed: 15
