@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Granbull
-## ID: 210
+## Alcremie
+## ID: 869
 ### Tipos
 - Fairy
 ### Stats
-- Hp: 90
-- Attack: 120
+- Hp: 65
+- Attack: 60
 - Defense: 75
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 45
+- Special-attack: 110
+- Special-defense: 121
+- Speed: 64
