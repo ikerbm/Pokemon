@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Kricketune
-## ID: 402
+## Cyclizar
+## ID: 967
 ### Tipos
-- Bug
+- Dragon
+- Normal
 ### Stats
-- Hp: 77
-- Attack: 85
-- Defense: 51
-- Special-attack: 55
-- Special-defense: 51
-- Speed: 65
+- Hp: 70
+- Attack: 95
+- Defense: 65
+- Special-attack: 85
+- Special-defense: 65
+- Speed: 121
