@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Finneon
-## ID: 456
+## Meowstic-male
+## ID: 678
 ### Tipos
-- Water
+- Psychic
 ### Stats
-- Hp: 49
-- Attack: 49
-- Defense: 56
-- Special-attack: 49
-- Special-defense: 61
-- Speed: 66
+- Hp: 74
+- Attack: 48
+- Defense: 76
+- Special-attack: 83
+- Special-defense: 81
+- Speed: 104
