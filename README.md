@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Bastiodon
-## ID: 411
+## Stufful
+## ID: 759
 ### Tipos
-- Rock
-- Steel
+- Normal
+- Fighting
 ### Stats
-- Hp: 60
-- Attack: 52
-- Defense: 168
-- Special-attack: 47
-- Special-defense: 138
-- Speed: 30
+- Hp: 70
+- Attack: 75
+- Defense: 50
+- Special-attack: 45
+- Special-defense: 50
+- Speed: 50
