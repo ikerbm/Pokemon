@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Burmy
-## ID: 412
+## Patrat
+## ID: 504
 ### Tipos
-- Bug
+- Normal
 ### Stats
-- Hp: 40
-- Attack: 29
-- Defense: 45
-- Special-attack: 29
-- Special-defense: 45
-- Speed: 36
+- Hp: 45
+- Attack: 55
+- Defense: 39
+- Special-attack: 35
+- Special-defense: 39
+- Speed: 42
