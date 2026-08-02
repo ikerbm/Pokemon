@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Patrat
-## ID: 504
+## Dragonair
+## ID: 148
 ### Tipos
-- Normal
+- Dragon
 ### Stats
-- Hp: 45
-- Attack: 55
-- Defense: 39
-- Special-attack: 35
-- Special-defense: 39
-- Speed: 42
+- Hp: 61
+- Attack: 84
+- Defense: 65
+- Special-attack: 70
+- Special-defense: 70
+- Speed: 70
