@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Rotom
-## ID: 479
+## Blitzle
+## ID: 522
 ### Tipos
 - Electric
-- Ghost
 ### Stats
-- Hp: 50
-- Attack: 50
-- Defense: 77
-- Special-attack: 95
-- Special-defense: 77
-- Speed: 91
+- Hp: 45
+- Attack: 60
+- Defense: 32
+- Special-attack: 50
+- Special-defense: 32
+- Speed: 76
