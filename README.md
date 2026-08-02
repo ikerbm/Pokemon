@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Noctowl
-## ID: 164
+## Burmy
+## ID: 412
 ### Tipos
-- Normal
-- Flying
+- Bug
 ### Stats
-- Hp: 100
-- Attack: 50
-- Defense: 50
-- Special-attack: 86
-- Special-defense: 96
-- Speed: 70
+- Hp: 40
+- Attack: 29
+- Defense: 45
+- Special-attack: 29
+- Special-defense: 45
+- Speed: 36
