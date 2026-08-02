@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Gourgeist-average
-## ID: 711
+## Bastiodon
+## ID: 411
 ### Tipos
-- Ghost
-- Grass
+- Rock
+- Steel
 ### Stats
-- Hp: 65
-- Attack: 90
-- Defense: 122
-- Special-attack: 58
-- Special-defense: 75
-- Speed: 84
+- Hp: 60
+- Attack: 52
+- Defense: 168
+- Special-attack: 47
+- Special-defense: 138
+- Speed: 30
