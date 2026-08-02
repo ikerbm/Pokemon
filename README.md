@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Stufful
-## ID: 759
+## Rotom
+## ID: 479
 ### Tipos
-- Normal
-- Fighting
+- Electric
+- Ghost
 ### Stats
-- Hp: 70
-- Attack: 75
-- Defense: 50
-- Special-attack: 45
-- Special-defense: 50
-- Speed: 50
+- Hp: 50
+- Attack: 50
+- Defense: 77
+- Special-attack: 95
+- Special-defense: 77
+- Speed: 91
