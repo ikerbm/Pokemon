@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Dondozo
-## ID: 977
+## Rhyhorn
+## ID: 111
 ### Tipos
-- Water
+- Ground
+- Rock
 ### Stats
-- Hp: 150
-- Attack: 100
-- Defense: 115
-- Special-attack: 65
-- Special-defense: 65
-- Speed: 35
+- Hp: 80
+- Attack: 85
+- Defense: 95
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 25
