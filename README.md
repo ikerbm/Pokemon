@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Pancham
-## ID: 674
+## Dondozo
+## ID: 977
 ### Tipos
-- Fighting
+- Water
 ### Stats
-- Hp: 67
-- Attack: 82
-- Defense: 62
-- Special-attack: 46
-- Special-defense: 48
-- Speed: 43
+- Hp: 150
+- Attack: 100
+- Defense: 115
+- Special-attack: 65
+- Special-defense: 65
+- Speed: 35
