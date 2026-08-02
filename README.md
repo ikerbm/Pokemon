@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Cyclizar
-## ID: 967
+## Murkrow
+## ID: 198
 ### Tipos
-- Dragon
-- Normal
+- Dark
+- Flying
 ### Stats
-- Hp: 70
-- Attack: 95
-- Defense: 65
+- Hp: 60
+- Attack: 85
+- Defense: 42
 - Special-attack: 85
-- Special-defense: 65
-- Speed: 121
+- Special-defense: 42
+- Speed: 91
