@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Rhyhorn
-## ID: 111
+## Hariyama
+## ID: 297
 ### Tipos
-- Ground
-- Rock
+- Fighting
 ### Stats
-- Hp: 80
-- Attack: 85
-- Defense: 95
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 25
+- Hp: 144
+- Attack: 120
+- Defense: 60
+- Special-attack: 40
+- Special-defense: 60
+- Speed: 50
