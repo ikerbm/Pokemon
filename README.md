@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Murkrow
-## ID: 198
+## Gourgeist-average
+## ID: 711
 ### Tipos
-- Dark
-- Flying
+- Ghost
+- Grass
 ### Stats
-- Hp: 60
-- Attack: 85
-- Defense: 42
-- Special-attack: 85
-- Special-defense: 42
-- Speed: 91
+- Hp: 65
+- Attack: 90
+- Defense: 122
+- Special-attack: 58
+- Special-defense: 75
+- Speed: 84
