@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Dragonair
-## ID: 148
+## Pancham
+## ID: 674
 ### Tipos
-- Dragon
+- Fighting
 ### Stats
-- Hp: 61
-- Attack: 84
-- Defense: 65
-- Special-attack: 70
-- Special-defense: 70
-- Speed: 70
+- Hp: 67
+- Attack: 82
+- Defense: 62
+- Special-attack: 46
+- Special-defense: 48
+- Speed: 43
