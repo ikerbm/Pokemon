@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Gurdurr
-## ID: 533
+## Diglett
+## ID: 50
 ### Tipos
-- Fighting
+- Ground
 ### Stats
-- Hp: 85
-- Attack: 105
-- Defense: 85
-- Special-attack: 40
-- Special-defense: 50
-- Speed: 40
+- Hp: 10
+- Attack: 55
+- Defense: 25
+- Special-attack: 35
+- Special-defense: 45
+- Speed: 95
