@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Blitzle
-## ID: 522
+## Absol
+## ID: 359
 ### Tipos
-- Electric
+- Dark
 ### Stats
-- Hp: 45
-- Attack: 60
-- Defense: 32
-- Special-attack: 50
-- Special-defense: 32
-- Speed: 76
+- Hp: 65
+- Attack: 130
+- Defense: 60
+- Special-attack: 75
+- Special-defense: 60
+- Speed: 75
