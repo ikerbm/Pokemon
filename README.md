@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Dracovish
-## ID: 882
+## Eevee
+## ID: 133
 ### Tipos
-- Water
-- Dragon
+- Normal
 ### Stats
-- Hp: 90
-- Attack: 90
-- Defense: 100
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 75
+- Hp: 55
+- Attack: 55
+- Defense: 50
+- Special-attack: 45
+- Special-defense: 65
+- Speed: 55
