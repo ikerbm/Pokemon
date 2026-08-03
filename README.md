@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Pancham
-## ID: 674
+## Spectrier
+## ID: 897
 ### Tipos
-- Fighting
+- Ghost
 ### Stats
-- Hp: 67
-- Attack: 82
-- Defense: 62
-- Special-attack: 46
-- Special-defense: 48
-- Speed: 43
+- Hp: 100
+- Attack: 65
+- Defense: 60
+- Special-attack: 145
+- Special-defense: 80
+- Speed: 130
