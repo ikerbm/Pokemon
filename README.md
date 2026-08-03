@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Audino
-## ID: 531
+## Marill
+## ID: 183
 ### Tipos
-- Normal
+- Water
+- Fairy
 ### Stats
-- Hp: 103
-- Attack: 60
-- Defense: 86
-- Special-attack: 60
-- Special-defense: 86
-- Speed: 50
+- Hp: 70
+- Attack: 20
+- Defense: 50
+- Special-attack: 20
+- Special-defense: 50
+- Speed: 40
