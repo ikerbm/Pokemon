@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Cinderace
-## ID: 815
+## Pancham
+## ID: 674
 ### Tipos
-- Fire
+- Fighting
 ### Stats
-- Hp: 80
-- Attack: 116
-- Defense: 75
-- Special-attack: 65
-- Special-defense: 75
-- Speed: 119
+- Hp: 67
+- Attack: 82
+- Defense: 62
+- Special-attack: 46
+- Special-defense: 48
+- Speed: 43
