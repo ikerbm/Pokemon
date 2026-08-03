@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Volcanion
-## ID: 721
+## Pancham
+## ID: 674
 ### Tipos
-- Fire
-- Water
+- Fighting
 ### Stats
-- Hp: 80
-- Attack: 110
-- Defense: 120
-- Special-attack: 130
-- Special-defense: 90
-- Speed: 70
+- Hp: 67
+- Attack: 82
+- Defense: 62
+- Special-attack: 46
+- Special-defense: 48
+- Speed: 43
