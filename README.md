@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Spectrier
-## ID: 897
+## Skuntank
+## ID: 435
 ### Tipos
-- Ghost
+- Poison
+- Dark
 ### Stats
-- Hp: 100
-- Attack: 65
-- Defense: 60
-- Special-attack: 145
-- Special-defense: 80
-- Speed: 130
+- Hp: 103
+- Attack: 93
+- Defense: 67
+- Special-attack: 71
+- Special-defense: 61
+- Speed: 84
