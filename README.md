@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Diglett
-## ID: 50
+## Doublade
+## ID: 680
 ### Tipos
-- Ground
+- Steel
+- Ghost
 ### Stats
-- Hp: 10
-- Attack: 55
-- Defense: 25
-- Special-attack: 35
-- Special-defense: 45
-- Speed: 95
+- Hp: 59
+- Attack: 110
+- Defense: 150
+- Special-attack: 45
+- Special-defense: 49
+- Speed: 35
