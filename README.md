@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Marill
-## ID: 183
+## Dracovish
+## ID: 882
 ### Tipos
 - Water
-- Fairy
+- Dragon
 ### Stats
-- Hp: 70
-- Attack: 20
-- Defense: 50
-- Special-attack: 20
-- Special-defense: 50
-- Speed: 40
+- Hp: 90
+- Attack: 90
+- Defense: 100
+- Special-attack: 70
+- Special-defense: 80
+- Speed: 75
