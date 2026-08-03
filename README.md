@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Pancham
-## ID: 674
+## Audino
+## ID: 531
 ### Tipos
-- Fighting
+- Normal
 ### Stats
-- Hp: 67
-- Attack: 82
-- Defense: 62
-- Special-attack: 46
-- Special-defense: 48
-- Speed: 43
+- Hp: 103
+- Attack: 60
+- Defense: 86
+- Special-attack: 60
+- Special-defense: 86
+- Speed: 50
