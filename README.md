@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Doublade
-## ID: 680
+## Volcanion
+## ID: 721
 ### Tipos
-- Steel
-- Ghost
+- Fire
+- Water
 ### Stats
-- Hp: 59
+- Hp: 80
 - Attack: 110
-- Defense: 150
-- Special-attack: 45
-- Special-defense: 49
-- Speed: 35
+- Defense: 120
+- Special-attack: 130
+- Special-defense: 90
+- Speed: 70
