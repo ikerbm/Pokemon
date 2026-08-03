@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Skuntank
-## ID: 435
+## Cinderace
+## ID: 815
 ### Tipos
-- Poison
-- Dark
+- Fire
 ### Stats
-- Hp: 103
-- Attack: 93
-- Defense: 67
-- Special-attack: 71
-- Special-defense: 61
-- Speed: 84
+- Hp: 80
+- Attack: 116
+- Defense: 75
+- Special-attack: 65
+- Special-defense: 75
+- Speed: 119
