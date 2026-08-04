@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Unfezant
-## ID: 521
+## Bruxish
+## ID: 779
 ### Tipos
-- Normal
-- Flying
+- Water
+- Psychic
 ### Stats
-- Hp: 80
-- Attack: 115
-- Defense: 80
-- Special-attack: 65
-- Special-defense: 55
-- Speed: 93
+- Hp: 68
+- Attack: 105
+- Defense: 70
+- Special-attack: 70
+- Special-defense: 70
+- Speed: 92
