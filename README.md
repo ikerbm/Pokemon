@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Kangaskhan
-## ID: 115
+## Empoleon
+## ID: 395
 ### Tipos
-- Normal
+- Water
+- Steel
 ### Stats
-- Hp: 105
-- Attack: 95
-- Defense: 80
-- Special-attack: 40
-- Special-defense: 80
-- Speed: 90
+- Hp: 84
+- Attack: 86
+- Defense: 88
+- Special-attack: 111
+- Special-defense: 101
+- Speed: 60
