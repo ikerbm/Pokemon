@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Greavard
-## ID: 971
+## Ursaring
+## ID: 217
 ### Tipos
-- Ghost
+- Normal
 ### Stats
-- Hp: 50
-- Attack: 61
-- Defense: 60
-- Special-attack: 30
-- Special-defense: 55
-- Speed: 34
+- Hp: 90
+- Attack: 130
+- Defense: 75
+- Special-attack: 75
+- Special-defense: 75
+- Speed: 55
