@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Pyukumuku
-## ID: 771
+## Impidimp
+## ID: 859
 ### Tipos
-- Water
+- Dark
+- Fairy
 ### Stats
-- Hp: 55
-- Attack: 60
-- Defense: 130
-- Special-attack: 30
-- Special-defense: 130
-- Speed: 5
+- Hp: 45
+- Attack: 45
+- Defense: 30
+- Special-attack: 55
+- Special-defense: 40
+- Speed: 50
