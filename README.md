@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Empoleon
-## ID: 395
+## Unfezant
+## ID: 521
 ### Tipos
-- Water
-- Steel
+- Normal
+- Flying
 ### Stats
-- Hp: 84
-- Attack: 86
-- Defense: 88
-- Special-attack: 111
-- Special-defense: 101
-- Speed: 60
+- Hp: 80
+- Attack: 115
+- Defense: 80
+- Special-attack: 65
+- Special-defense: 55
+- Speed: 93
