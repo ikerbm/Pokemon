@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Silvally
-## ID: 773
+## Greavard
+## ID: 971
 ### Tipos
-- Normal
+- Ghost
 ### Stats
-- Hp: 95
-- Attack: 95
-- Defense: 95
-- Special-attack: 95
-- Special-defense: 95
-- Speed: 95
+- Hp: 50
+- Attack: 61
+- Defense: 60
+- Special-attack: 30
+- Special-defense: 55
+- Speed: 34
