@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Ursaring
-## ID: 217
+## Kangaskhan
+## ID: 115
 ### Tipos
 - Normal
 ### Stats
-- Hp: 90
-- Attack: 130
-- Defense: 75
-- Special-attack: 75
-- Special-defense: 75
-- Speed: 55
+- Hp: 105
+- Attack: 95
+- Defense: 80
+- Special-attack: 40
+- Special-defense: 80
+- Speed: 90
