@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Eevee
-## ID: 133
+## Floatzel
+## ID: 419
 ### Tipos
-- Normal
+- Water
 ### Stats
-- Hp: 55
-- Attack: 55
-- Defense: 50
-- Special-attack: 45
-- Special-defense: 65
-- Speed: 55
+- Hp: 85
+- Attack: 105
+- Defense: 55
+- Special-attack: 85
+- Special-defense: 50
+- Speed: 115
