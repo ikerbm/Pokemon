@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Impidimp
-## ID: 859
+## Charjabug
+## ID: 737
 ### Tipos
-- Dark
-- Fairy
+- Bug
+- Electric
 ### Stats
-- Hp: 45
-- Attack: 45
-- Defense: 30
+- Hp: 57
+- Attack: 82
+- Defense: 95
 - Special-attack: 55
-- Special-defense: 40
-- Speed: 50
+- Special-defense: 75
+- Speed: 36
