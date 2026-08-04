@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Charjabug
-## ID: 737
+## Indeedee-male
+## ID: 876
 ### Tipos
-- Bug
-- Electric
+- Psychic
+- Normal
 ### Stats
-- Hp: 57
-- Attack: 82
-- Defense: 95
-- Special-attack: 55
-- Special-defense: 75
-- Speed: 36
+- Hp: 60
+- Attack: 65
+- Defense: 55
+- Special-attack: 105
+- Special-defense: 95
+- Speed: 95
