@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Indeedee-male
-## ID: 876
+## Smeargle
+## ID: 235
 ### Tipos
-- Psychic
 - Normal
 ### Stats
-- Hp: 60
-- Attack: 65
-- Defense: 55
-- Special-attack: 105
-- Special-defense: 95
-- Speed: 95
+- Hp: 55
+- Attack: 20
+- Defense: 35
+- Special-attack: 20
+- Special-defense: 45
+- Speed: 75
