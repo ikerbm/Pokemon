@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Smeargle
-## ID: 235
+## Silvally
+## ID: 773
 ### Tipos
 - Normal
 ### Stats
-- Hp: 55
-- Attack: 20
-- Defense: 35
-- Special-attack: 20
-- Special-defense: 45
-- Speed: 75
+- Hp: 95
+- Attack: 95
+- Defense: 95
+- Special-attack: 95
+- Special-defense: 95
+- Speed: 95
