@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Doublade
-## ID: 680
+## Kilowattrel
+## ID: 941
 ### Tipos
-- Steel
-- Ghost
+- Electric
+- Flying
 ### Stats
-- Hp: 59
-- Attack: 110
-- Defense: 150
-- Special-attack: 45
-- Special-defense: 49
-- Speed: 35
+- Hp: 70
+- Attack: 70
+- Defense: 60
+- Special-attack: 105
+- Special-defense: 60
+- Speed: 125
