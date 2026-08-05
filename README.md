@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Rowlet
-## ID: 722
+## Magearna
+## ID: 801
 ### Tipos
-- Grass
-- Flying
+- Steel
+- Fairy
 ### Stats
-- Hp: 68
-- Attack: 55
-- Defense: 55
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 42
+- Hp: 80
+- Attack: 95
+- Defense: 115
+- Special-attack: 130
+- Special-defense: 115
+- Speed: 65
