@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Kilowattrel
-## ID: 941
+## Simisear
+## ID: 514
 ### Tipos
-- Electric
-- Flying
+- Fire
 ### Stats
-- Hp: 70
-- Attack: 70
-- Defense: 60
-- Special-attack: 105
-- Special-defense: 60
-- Speed: 125
+- Hp: 75
+- Attack: 98
+- Defense: 63
+- Special-attack: 98
+- Special-defense: 63
+- Speed: 101
