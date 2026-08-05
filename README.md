@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Naclstack
-## ID: 933
+## Spinda
+## ID: 327
 ### Tipos
-- Rock
+- Normal
 ### Stats
 - Hp: 60
 - Attack: 60
-- Defense: 100
-- Special-attack: 35
-- Special-defense: 65
-- Speed: 35
+- Defense: 60
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 60
