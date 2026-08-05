@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Whismur
-## ID: 293
+## Deino
+## ID: 633
 ### Tipos
-- Normal
+- Dark
+- Dragon
 ### Stats
-- Hp: 64
-- Attack: 51
-- Defense: 23
-- Special-attack: 51
-- Special-defense: 23
-- Speed: 28
+- Hp: 52
+- Attack: 65
+- Defense: 50
+- Special-attack: 45
+- Special-defense: 50
+- Speed: 38
