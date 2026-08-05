@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Meowscarada
-## ID: 908
+## Naclstack
+## ID: 933
 ### Tipos
-- Grass
-- Dark
+- Rock
 ### Stats
-- Hp: 76
-- Attack: 110
-- Defense: 70
-- Special-attack: 81
-- Special-defense: 70
-- Speed: 123
+- Hp: 60
+- Attack: 60
+- Defense: 100
+- Special-attack: 35
+- Special-defense: 65
+- Speed: 35
