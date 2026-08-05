@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Bruxish
-## ID: 779
+## Rowlet
+## ID: 722
 ### Tipos
-- Water
-- Psychic
+- Grass
+- Flying
 ### Stats
 - Hp: 68
-- Attack: 105
-- Defense: 70
-- Special-attack: 70
-- Special-defense: 70
-- Speed: 92
+- Attack: 55
+- Defense: 55
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 42
