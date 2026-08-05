@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Spinda
-## ID: 327
+## Doublade
+## ID: 680
 ### Tipos
-- Normal
+- Steel
+- Ghost
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 60
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 60
+- Hp: 59
+- Attack: 110
+- Defense: 150
+- Special-attack: 45
+- Special-defense: 49
+- Speed: 35
