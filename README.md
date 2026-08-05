@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Magearna
-## ID: 801
+## Trapinch
+## ID: 328
 ### Tipos
-- Steel
-- Fairy
+- Ground
 ### Stats
-- Hp: 80
-- Attack: 95
-- Defense: 115
-- Special-attack: 130
-- Special-defense: 115
-- Speed: 65
+- Hp: 45
+- Attack: 100
+- Defense: 45
+- Special-attack: 45
+- Special-defense: 45
+- Speed: 10
