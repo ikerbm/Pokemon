@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Deino
-## ID: 633
+## Noctowl
+## ID: 164
 ### Tipos
-- Dark
-- Dragon
+- Normal
+- Flying
 ### Stats
-- Hp: 52
-- Attack: 65
+- Hp: 100
+- Attack: 50
 - Defense: 50
-- Special-attack: 45
-- Special-defense: 50
-- Speed: 38
+- Special-attack: 86
+- Special-defense: 96
+- Speed: 70
