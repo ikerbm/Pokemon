@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Revavroom
-## ID: 966
+## Meowscarada
+## ID: 908
 ### Tipos
-- Steel
-- Poison
+- Grass
+- Dark
 ### Stats
-- Hp: 80
-- Attack: 119
-- Defense: 90
-- Special-attack: 54
-- Special-defense: 67
-- Speed: 90
+- Hp: 76
+- Attack: 110
+- Defense: 70
+- Special-attack: 81
+- Special-defense: 70
+- Speed: 123
