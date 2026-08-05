@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Noctowl
-## ID: 164
+## Revavroom
+## ID: 966
 ### Tipos
-- Normal
-- Flying
+- Steel
+- Poison
 ### Stats
-- Hp: 100
-- Attack: 50
-- Defense: 50
-- Special-attack: 86
-- Special-defense: 96
-- Speed: 70
+- Hp: 80
+- Attack: 119
+- Defense: 90
+- Special-attack: 54
+- Special-defense: 67
+- Speed: 90
