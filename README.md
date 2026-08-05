@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Trapinch
-## ID: 328
+## Whismur
+## ID: 293
 ### Tipos
-- Ground
+- Normal
 ### Stats
-- Hp: 45
-- Attack: 100
-- Defense: 45
-- Special-attack: 45
-- Special-defense: 45
-- Speed: 10
+- Hp: 64
+- Attack: 51
+- Defense: 23
+- Special-attack: 51
+- Special-defense: 23
+- Speed: 28
