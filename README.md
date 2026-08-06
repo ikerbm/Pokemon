@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Weavile
-## ID: 461
+## Morelull
+## ID: 755
 ### Tipos
-- Dark
-- Ice
+- Grass
+- Fairy
 ### Stats
-- Hp: 70
-- Attack: 120
-- Defense: 65
-- Special-attack: 45
-- Special-defense: 85
-- Speed: 125
+- Hp: 40
+- Attack: 35
+- Defense: 55
+- Special-attack: 65
+- Special-defense: 75
+- Speed: 15
