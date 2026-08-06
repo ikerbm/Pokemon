@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Silcoon
-## ID: 266
+## Mudsdale
+## ID: 750
 ### Tipos
-- Bug
+- Ground
 ### Stats
-- Hp: 50
-- Attack: 35
-- Defense: 55
-- Special-attack: 25
-- Special-defense: 25
-- Speed: 15
+- Hp: 100
+- Attack: 125
+- Defense: 100
+- Special-attack: 55
+- Special-defense: 85
+- Speed: 35
