@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Clefairy
-## ID: 35
+## Chimecho
+## ID: 358
 ### Tipos
-- Fairy
+- Psychic
 ### Stats
-- Hp: 70
-- Attack: 45
-- Defense: 48
-- Special-attack: 60
-- Special-defense: 65
-- Speed: 35
+- Hp: 75
+- Attack: 50
+- Defense: 80
+- Special-attack: 95
+- Special-defense: 90
+- Speed: 65
