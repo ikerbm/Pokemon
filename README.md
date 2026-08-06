@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Chimecho
-## ID: 358
+## Baltoy
+## ID: 343
 ### Tipos
+- Ground
 - Psychic
 ### Stats
-- Hp: 75
-- Attack: 50
-- Defense: 80
-- Special-attack: 95
-- Special-defense: 90
-- Speed: 65
+- Hp: 40
+- Attack: 40
+- Defense: 55
+- Special-attack: 40
+- Special-defense: 70
+- Speed: 55
