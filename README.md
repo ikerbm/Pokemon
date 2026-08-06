@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Mudsdale
-## ID: 750
+## Clefairy
+## ID: 35
 ### Tipos
-- Ground
+- Fairy
 ### Stats
-- Hp: 100
-- Attack: 125
-- Defense: 100
-- Special-attack: 55
-- Special-defense: 85
+- Hp: 70
+- Attack: 45
+- Defense: 48
+- Special-attack: 60
+- Special-defense: 65
 - Speed: 35
