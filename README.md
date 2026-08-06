@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Baltoy
-## ID: 343
+## Weavile
+## ID: 461
 ### Tipos
-- Ground
-- Psychic
+- Dark
+- Ice
 ### Stats
-- Hp: 40
-- Attack: 40
-- Defense: 55
-- Special-attack: 40
-- Special-defense: 70
-- Speed: 55
+- Hp: 70
+- Attack: 120
+- Defense: 65
+- Special-attack: 45
+- Special-defense: 85
+- Speed: 125
