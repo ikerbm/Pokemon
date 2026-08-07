@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Jigglypuff
-## ID: 39
+## Loudred
+## ID: 294
 ### Tipos
 - Normal
-- Fairy
 ### Stats
-- Hp: 115
-- Attack: 45
-- Defense: 20
-- Special-attack: 45
-- Special-defense: 25
-- Speed: 20
+- Hp: 84
+- Attack: 71
+- Defense: 43
+- Special-attack: 71
+- Special-defense: 43
+- Speed: 48
