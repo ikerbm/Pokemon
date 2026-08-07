@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Grimmsnarl
-## ID: 861
+## Diancie
+## ID: 719
 ### Tipos
-- Dark
+- Rock
 - Fairy
 ### Stats
-- Hp: 95
-- Attack: 120
-- Defense: 65
-- Special-attack: 95
-- Special-defense: 75
-- Speed: 60
+- Hp: 50
+- Attack: 100
+- Defense: 150
+- Special-attack: 100
+- Special-defense: 150
+- Speed: 50
