@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Floatzel
-## ID: 419
+## Togedemaru
+## ID: 777
 ### Tipos
-- Water
+- Electric
+- Steel
 ### Stats
-- Hp: 85
-- Attack: 105
-- Defense: 55
-- Special-attack: 85
-- Special-defense: 50
-- Speed: 115
+- Hp: 65
+- Attack: 98
+- Defense: 63
+- Special-attack: 40
+- Special-defense: 73
+- Speed: 96
