@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Togedemaru
-## ID: 777
+## Gurdurr
+## ID: 533
 ### Tipos
-- Electric
-- Steel
+- Fighting
 ### Stats
-- Hp: 65
-- Attack: 98
-- Defense: 63
+- Hp: 85
+- Attack: 105
+- Defense: 85
 - Special-attack: 40
-- Special-defense: 73
-- Speed: 96
+- Special-defense: 50
+- Speed: 40
