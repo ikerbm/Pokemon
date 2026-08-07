@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Dewott
-## ID: 502
+## Ursaluna
+## ID: 901
 ### Tipos
-- Water
+- Ground
+- Normal
 ### Stats
-- Hp: 75
-- Attack: 75
-- Defense: 60
-- Special-attack: 83
-- Special-defense: 60
-- Speed: 60
+- Hp: 130
+- Attack: 140
+- Defense: 105
+- Special-attack: 45
+- Special-defense: 80
+- Speed: 50
