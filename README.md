@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Gurdurr
-## ID: 533
+## Omastar
+## ID: 139
 ### Tipos
-- Fighting
+- Rock
+- Water
 ### Stats
-- Hp: 85
-- Attack: 105
-- Defense: 85
-- Special-attack: 40
-- Special-defense: 50
-- Speed: 40
+- Hp: 70
+- Attack: 60
+- Defense: 125
+- Special-attack: 115
+- Special-defense: 70
+- Speed: 55
