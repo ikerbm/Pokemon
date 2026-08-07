@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Musharna
-## ID: 518
+## Corphish
+## ID: 341
 ### Tipos
-- Psychic
+- Water
 ### Stats
-- Hp: 116
-- Attack: 55
-- Defense: 85
-- Special-attack: 107
-- Special-defense: 95
-- Speed: 29
+- Hp: 43
+- Attack: 80
+- Defense: 65
+- Special-attack: 50
+- Special-defense: 35
+- Speed: 35
