@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Morelull
-## ID: 755
+## Plusle
+## ID: 311
 ### Tipos
-- Grass
-- Fairy
+- Electric
 ### Stats
-- Hp: 40
-- Attack: 35
-- Defense: 55
-- Special-attack: 65
+- Hp: 60
+- Attack: 50
+- Defense: 40
+- Special-attack: 85
 - Special-defense: 75
-- Speed: 15
+- Speed: 95
