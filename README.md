@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Mawile
-## ID: 303
+## Mightyena
+## ID: 262
 ### Tipos
-- Steel
-- Fairy
+- Dark
 ### Stats
-- Hp: 50
-- Attack: 85
-- Defense: 85
-- Special-attack: 55
-- Special-defense: 55
-- Speed: 50
+- Hp: 70
+- Attack: 90
+- Defense: 70
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 70
