@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Loudred
-## ID: 294
+## Grimmsnarl
+## ID: 861
 ### Tipos
-- Normal
+- Dark
+- Fairy
 ### Stats
-- Hp: 84
-- Attack: 71
-- Defense: 43
-- Special-attack: 71
-- Special-defense: 43
-- Speed: 48
+- Hp: 95
+- Attack: 120
+- Defense: 65
+- Special-attack: 95
+- Special-defense: 75
+- Speed: 60
