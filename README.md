@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Diggersby
-## ID: 660
+## Mawile
+## ID: 303
 ### Tipos
-- Normal
-- Ground
+- Steel
+- Fairy
 ### Stats
-- Hp: 85
-- Attack: 56
-- Defense: 77
-- Special-attack: 50
-- Special-defense: 77
-- Speed: 78
+- Hp: 50
+- Attack: 85
+- Defense: 85
+- Special-attack: 55
+- Special-defense: 55
+- Speed: 50
