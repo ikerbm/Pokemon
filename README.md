@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ursaluna
-## ID: 901
+## Floatzel
+## ID: 419
 ### Tipos
-- Ground
-- Normal
+- Water
 ### Stats
-- Hp: 130
-- Attack: 140
-- Defense: 105
-- Special-attack: 45
-- Special-defense: 80
-- Speed: 50
+- Hp: 85
+- Attack: 105
+- Defense: 55
+- Special-attack: 85
+- Special-defense: 50
+- Speed: 115
