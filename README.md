@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Corphish
-## ID: 341
+## Eldegoss
+## ID: 830
 ### Tipos
-- Water
+- Grass
 ### Stats
-- Hp: 43
-- Attack: 80
-- Defense: 65
-- Special-attack: 50
-- Special-defense: 35
-- Speed: 35
+- Hp: 60
+- Attack: 50
+- Defense: 90
+- Special-attack: 80
+- Special-defense: 120
+- Speed: 60
