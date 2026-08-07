@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Diancie
-## ID: 719
+## Sawk
+## ID: 539
 ### Tipos
-- Rock
-- Fairy
+- Fighting
 ### Stats
-- Hp: 50
-- Attack: 100
-- Defense: 150
-- Special-attack: 100
-- Special-defense: 150
-- Speed: 50
+- Hp: 75
+- Attack: 125
+- Defense: 75
+- Special-attack: 30
+- Special-defense: 75
+- Speed: 85
