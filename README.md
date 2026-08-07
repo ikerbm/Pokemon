@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Sawk
-## ID: 539
+## Musharna
+## ID: 518
 ### Tipos
-- Fighting
+- Psychic
 ### Stats
-- Hp: 75
-- Attack: 125
-- Defense: 75
-- Special-attack: 30
-- Special-defense: 75
-- Speed: 85
+- Hp: 116
+- Attack: 55
+- Defense: 85
+- Special-attack: 107
+- Special-defense: 95
+- Speed: 29
