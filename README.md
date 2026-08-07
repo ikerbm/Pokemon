@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Eldegoss
-## ID: 830
+## Armaldo
+## ID: 348
 ### Tipos
-- Grass
+- Rock
+- Bug
 ### Stats
-- Hp: 60
-- Attack: 50
-- Defense: 90
-- Special-attack: 80
-- Special-defense: 120
-- Speed: 60
+- Hp: 75
+- Attack: 125
+- Defense: 100
+- Special-attack: 70
+- Special-defense: 80
+- Speed: 45
