@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Armaldo
-## ID: 348
+## Diggersby
+## ID: 660
 ### Tipos
-- Rock
-- Bug
+- Normal
+- Ground
 ### Stats
-- Hp: 75
-- Attack: 125
-- Defense: 100
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 45
+- Hp: 85
+- Attack: 56
+- Defense: 77
+- Special-attack: 50
+- Special-defense: 77
+- Speed: 78
