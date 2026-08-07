@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Mightyena
-## ID: 262
+## Blastoise
+## ID: 9
 ### Tipos
-- Dark
+- Water
 ### Stats
-- Hp: 70
-- Attack: 90
-- Defense: 70
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 70
+- Hp: 79
+- Attack: 83
+- Defense: 100
+- Special-attack: 85
+- Special-defense: 105
+- Speed: 78
