@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Mr-rime
-## ID: 866
+## Jigglypuff
+## ID: 39
 ### Tipos
-- Ice
-- Psychic
+- Normal
+- Fairy
 ### Stats
-- Hp: 80
-- Attack: 85
-- Defense: 75
-- Special-attack: 110
-- Special-defense: 100
-- Speed: 70
+- Hp: 115
+- Attack: 45
+- Defense: 20
+- Special-attack: 45
+- Special-defense: 25
+- Speed: 20
