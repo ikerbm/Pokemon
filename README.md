@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Blastoise
-## ID: 9
+## Miltank
+## ID: 241
 ### Tipos
-- Water
+- Normal
 ### Stats
-- Hp: 79
-- Attack: 83
-- Defense: 100
-- Special-attack: 85
-- Special-defense: 105
-- Speed: 78
+- Hp: 95
+- Attack: 80
+- Defense: 105
+- Special-attack: 40
+- Special-defense: 70
+- Speed: 100
