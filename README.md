@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Vespiquen
-## ID: 416
+## Mr-rime
+## ID: 866
 ### Tipos
-- Bug
-- Flying
+- Ice
+- Psychic
 ### Stats
-- Hp: 70
-- Attack: 80
-- Defense: 102
-- Special-attack: 80
-- Special-defense: 102
-- Speed: 40
+- Hp: 80
+- Attack: 85
+- Defense: 75
+- Special-attack: 110
+- Special-defense: 100
+- Speed: 70
