@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Ambipom
-## ID: 424
+## Luvdisc
+## ID: 370
 ### Tipos
-- Normal
+- Water
 ### Stats
-- Hp: 75
-- Attack: 100
-- Defense: 66
-- Special-attack: 60
-- Special-defense: 66
-- Speed: 115
+- Hp: 43
+- Attack: 30
+- Defense: 55
+- Special-attack: 40
+- Special-defense: 65
+- Speed: 97
