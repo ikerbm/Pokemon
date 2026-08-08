@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Bronzong
-## ID: 437
+## Beautifly
+## ID: 267
 ### Tipos
-- Steel
-- Psychic
+- Bug
+- Flying
 ### Stats
-- Hp: 67
-- Attack: 89
-- Defense: 116
-- Special-attack: 79
-- Special-defense: 116
-- Speed: 33
+- Hp: 60
+- Attack: 70
+- Defense: 50
+- Special-attack: 100
+- Special-defense: 50
+- Speed: 65
