@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Aggron
-## ID: 306
+## Azelf
+## ID: 482
 ### Tipos
-- Steel
-- Rock
+- Psychic
 ### Stats
-- Hp: 70
-- Attack: 110
-- Defense: 180
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 50
+- Hp: 75
+- Attack: 125
+- Defense: 70
+- Special-attack: 125
+- Special-defense: 70
+- Speed: 115
