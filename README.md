@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Tyranitar
-## ID: 248
+## Ferroseed
+## ID: 597
 ### Tipos
-- Rock
-- Dark
+- Grass
+- Steel
 ### Stats
-- Hp: 100
-- Attack: 134
-- Defense: 110
-- Special-attack: 95
-- Special-defense: 100
-- Speed: 61
+- Hp: 44
+- Attack: 50
+- Defense: 91
+- Special-attack: 24
+- Special-defense: 86
+- Speed: 10
