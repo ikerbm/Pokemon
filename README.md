@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Bouffalant
-## ID: 626
+## Darumaka
+## ID: 554
 ### Tipos
-- Normal
+- Fire
 ### Stats
-- Hp: 95
-- Attack: 110
-- Defense: 95
-- Special-attack: 40
-- Special-defense: 95
-- Speed: 55
+- Hp: 70
+- Attack: 90
+- Defense: 45
+- Special-attack: 15
+- Special-defense: 45
+- Speed: 50
