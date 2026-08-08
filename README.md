@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Magikarp
-## ID: 129
+## Bouffalant
+## ID: 626
 ### Tipos
-- Water
+- Normal
 ### Stats
-- Hp: 20
-- Attack: 10
-- Defense: 55
-- Special-attack: 15
-- Special-defense: 20
-- Speed: 80
+- Hp: 95
+- Attack: 110
+- Defense: 95
+- Special-attack: 40
+- Special-defense: 95
+- Speed: 55
