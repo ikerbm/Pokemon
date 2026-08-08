@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Cofagrigus
-## ID: 563
+## Naclstack
+## ID: 933
 ### Tipos
-- Ghost
+- Rock
 ### Stats
-- Hp: 58
-- Attack: 50
-- Defense: 145
-- Special-attack: 95
-- Special-defense: 105
-- Speed: 30
+- Hp: 60
+- Attack: 60
+- Defense: 100
+- Special-attack: 35
+- Special-defense: 65
+- Speed: 35
