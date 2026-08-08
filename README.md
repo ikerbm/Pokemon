@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Hattrem
-## ID: 857
+## Politoed
+## ID: 186
 ### Tipos
-- Psychic
+- Water
 ### Stats
-- Hp: 57
-- Attack: 40
-- Defense: 65
-- Special-attack: 86
-- Special-defense: 73
-- Speed: 49
+- Hp: 90
+- Attack: 75
+- Defense: 75
+- Special-attack: 90
+- Special-defense: 100
+- Speed: 70
