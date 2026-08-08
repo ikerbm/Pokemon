@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Omastar
-## ID: 139
+## Noivern
+## ID: 715
 ### Tipos
-- Rock
-- Water
+- Flying
+- Dragon
 ### Stats
-- Hp: 70
-- Attack: 60
-- Defense: 125
-- Special-attack: 115
-- Special-defense: 70
-- Speed: 55
+- Hp: 85
+- Attack: 70
+- Defense: 80
+- Special-attack: 97
+- Special-defense: 80
+- Speed: 123
