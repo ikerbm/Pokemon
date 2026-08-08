@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Spritzee
-## ID: 682
+## Leafeon
+## ID: 470
 ### Tipos
-- Fairy
+- Grass
 ### Stats
-- Hp: 78
-- Attack: 52
-- Defense: 60
-- Special-attack: 63
+- Hp: 65
+- Attack: 110
+- Defense: 130
+- Special-attack: 60
 - Special-defense: 65
-- Speed: 23
+- Speed: 95
