@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Hoppip
-## ID: 187
+## Charmeleon
+## ID: 5
 ### Tipos
-- Grass
-- Flying
+- Fire
 ### Stats
-- Hp: 35
-- Attack: 35
-- Defense: 40
-- Special-attack: 35
-- Special-defense: 55
-- Speed: 50
+- Hp: 58
+- Attack: 64
+- Defense: 58
+- Special-attack: 80
+- Special-defense: 65
+- Speed: 80
