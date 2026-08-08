@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Charmeleon
-## ID: 5
+## Cosmoem
+## ID: 790
 ### Tipos
-- Fire
+- Psychic
 ### Stats
-- Hp: 58
-- Attack: 64
-- Defense: 58
-- Special-attack: 80
-- Special-defense: 65
-- Speed: 80
+- Hp: 43
+- Attack: 29
+- Defense: 131
+- Special-attack: 29
+- Special-defense: 131
+- Speed: 37
