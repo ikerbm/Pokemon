@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Palkia
-## ID: 484
+## Drowzee
+## ID: 96
 ### Tipos
-- Water
-- Dragon
+- Psychic
 ### Stats
-- Hp: 90
-- Attack: 120
-- Defense: 100
-- Special-attack: 150
-- Special-defense: 120
-- Speed: 100
+- Hp: 60
+- Attack: 48
+- Defense: 45
+- Special-attack: 43
+- Special-defense: 90
+- Speed: 42
