@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Shedinja
-## ID: 292
+## Magikarp
+## ID: 129
 ### Tipos
-- Bug
-- Ghost
+- Water
 ### Stats
-- Hp: 1
-- Attack: 90
-- Defense: 45
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 40
+- Hp: 20
+- Attack: 10
+- Defense: 55
+- Special-attack: 15
+- Special-defense: 20
+- Speed: 80
