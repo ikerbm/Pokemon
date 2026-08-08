@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Beautifly
-## ID: 267
+## Froakie
+## ID: 656
 ### Tipos
-- Bug
-- Flying
+- Water
 ### Stats
-- Hp: 60
-- Attack: 70
-- Defense: 50
-- Special-attack: 100
-- Special-defense: 50
-- Speed: 65
+- Hp: 41
+- Attack: 56
+- Defense: 40
+- Special-attack: 62
+- Special-defense: 44
+- Speed: 71
