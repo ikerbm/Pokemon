@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Clawitzer
-## ID: 693
+## Sandile
+## ID: 551
 ### Tipos
-- Water
+- Ground
+- Dark
 ### Stats
-- Hp: 71
-- Attack: 73
-- Defense: 88
-- Special-attack: 120
-- Special-defense: 89
-- Speed: 59
+- Hp: 50
+- Attack: 72
+- Defense: 35
+- Special-attack: 35
+- Special-defense: 35
+- Speed: 65
