@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Leafeon
-## ID: 470
+## Hawlucha
+## ID: 701
 ### Tipos
-- Grass
+- Fighting
+- Flying
 ### Stats
-- Hp: 65
-- Attack: 110
-- Defense: 130
-- Special-attack: 60
-- Special-defense: 65
-- Speed: 95
+- Hp: 78
+- Attack: 92
+- Defense: 75
+- Special-attack: 74
+- Special-defense: 63
+- Speed: 118
