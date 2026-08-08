@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Qwilfish
-## ID: 211
+## Bronzong
+## ID: 437
 ### Tipos
-- Water
-- Poison
+- Steel
+- Psychic
 ### Stats
-- Hp: 65
-- Attack: 95
-- Defense: 85
-- Special-attack: 55
-- Special-defense: 55
-- Speed: 85
+- Hp: 67
+- Attack: 89
+- Defense: 116
+- Special-attack: 79
+- Special-defense: 116
+- Speed: 33
