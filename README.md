@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Luvdisc
-## ID: 370
+## Palkia
+## ID: 484
 ### Tipos
 - Water
+- Dragon
 ### Stats
-- Hp: 43
-- Attack: 30
-- Defense: 55
-- Special-attack: 40
-- Special-defense: 65
-- Speed: 97
+- Hp: 90
+- Attack: 120
+- Defense: 100
+- Special-attack: 150
+- Special-defense: 120
+- Speed: 100
