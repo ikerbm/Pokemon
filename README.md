@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Scorbunny
-## ID: 813
+## Tadbulb
+## ID: 938
 ### Tipos
-- Fire
+- Electric
 ### Stats
-- Hp: 50
-- Attack: 71
-- Defense: 40
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 69
+- Hp: 61
+- Attack: 31
+- Defense: 41
+- Special-attack: 59
+- Special-defense: 35
+- Speed: 45
