@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Bibarel
-## ID: 400
+## Ambipom
+## ID: 424
 ### Tipos
 - Normal
-- Water
 ### Stats
-- Hp: 79
-- Attack: 85
-- Defense: 60
-- Special-attack: 55
-- Special-defense: 60
-- Speed: 71
+- Hp: 75
+- Attack: 100
+- Defense: 66
+- Special-attack: 60
+- Special-defense: 66
+- Speed: 115
