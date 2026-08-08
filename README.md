@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Naclstack
-## ID: 933
+## Bibarel
+## ID: 400
 ### Tipos
-- Rock
+- Normal
+- Water
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 100
-- Special-attack: 35
-- Special-defense: 65
-- Speed: 35
+- Hp: 79
+- Attack: 85
+- Defense: 60
+- Special-attack: 55
+- Special-defense: 60
+- Speed: 71
