@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Drowzee
-## ID: 96
+## Floragato
+## ID: 907
 ### Tipos
-- Psychic
+- Grass
 ### Stats
-- Hp: 60
-- Attack: 48
-- Defense: 45
-- Special-attack: 43
-- Special-defense: 90
-- Speed: 42
+- Hp: 61
+- Attack: 80
+- Defense: 63
+- Special-attack: 60
+- Special-defense: 63
+- Speed: 83
