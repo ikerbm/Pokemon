@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Vileplume
-## ID: 45
+## Qwilfish
+## ID: 211
 ### Tipos
-- Grass
+- Water
 - Poison
 ### Stats
-- Hp: 75
-- Attack: 80
+- Hp: 65
+- Attack: 95
 - Defense: 85
-- Special-attack: 110
-- Special-defense: 90
-- Speed: 50
+- Special-attack: 55
+- Special-defense: 55
+- Speed: 85
