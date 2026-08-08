@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Darumaka
-## ID: 554
+## Lampent
+## ID: 608
 ### Tipos
+- Ghost
 - Fire
 ### Stats
-- Hp: 70
-- Attack: 90
-- Defense: 45
-- Special-attack: 15
-- Special-defense: 45
-- Speed: 50
+- Hp: 60
+- Attack: 40
+- Defense: 60
+- Special-attack: 95
+- Special-defense: 60
+- Speed: 55
