@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Hawlucha
-## ID: 701
+## Clawitzer
+## ID: 693
 ### Tipos
-- Fighting
-- Flying
+- Water
 ### Stats
-- Hp: 78
-- Attack: 92
-- Defense: 75
-- Special-attack: 74
-- Special-defense: 63
-- Speed: 118
+- Hp: 71
+- Attack: 73
+- Defense: 88
+- Special-attack: 120
+- Special-defense: 89
+- Speed: 59
