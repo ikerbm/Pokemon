@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Lampent
-## ID: 608
+## Mr-rime
+## ID: 866
 ### Tipos
-- Ghost
-- Fire
+- Ice
+- Psychic
 ### Stats
-- Hp: 60
-- Attack: 40
-- Defense: 60
-- Special-attack: 95
-- Special-defense: 60
-- Speed: 55
+- Hp: 80
+- Attack: 85
+- Defense: 75
+- Special-attack: 110
+- Special-defense: 100
+- Speed: 70
