@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Azelf
-## ID: 482
+## Palossand
+## ID: 770
 ### Tipos
-- Psychic
+- Ghost
+- Ground
 ### Stats
-- Hp: 75
-- Attack: 125
-- Defense: 70
-- Special-attack: 125
-- Special-defense: 70
-- Speed: 115
+- Hp: 85
+- Attack: 75
+- Defense: 110
+- Special-attack: 100
+- Special-defense: 75
+- Speed: 35
