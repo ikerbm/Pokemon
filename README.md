@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ferroseed
-## ID: 597
+## Scorbunny
+## ID: 813
 ### Tipos
-- Grass
-- Steel
+- Fire
 ### Stats
-- Hp: 44
-- Attack: 50
-- Defense: 91
-- Special-attack: 24
-- Special-defense: 86
-- Speed: 10
+- Hp: 50
+- Attack: 71
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 69
