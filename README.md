@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Noivern
-## ID: 715
+## Shedinja
+## ID: 292
 ### Tipos
-- Flying
-- Dragon
+- Bug
+- Ghost
 ### Stats
-- Hp: 85
-- Attack: 70
-- Defense: 80
-- Special-attack: 97
-- Special-defense: 80
-- Speed: 123
+- Hp: 1
+- Attack: 90
+- Defense: 45
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 40
