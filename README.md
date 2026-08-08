@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Palossand
-## ID: 770
+## Pawniard
+## ID: 624
 ### Tipos
-- Ghost
-- Ground
+- Dark
+- Steel
 ### Stats
-- Hp: 85
-- Attack: 75
-- Defense: 110
-- Special-attack: 100
-- Special-defense: 75
-- Speed: 35
+- Hp: 45
+- Attack: 85
+- Defense: 70
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 60
