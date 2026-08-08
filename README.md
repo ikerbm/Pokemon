@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Tadbulb
-## ID: 938
+## Spritzee
+## ID: 682
 ### Tipos
-- Electric
+- Fairy
 ### Stats
-- Hp: 61
-- Attack: 31
-- Defense: 41
-- Special-attack: 59
-- Special-defense: 35
-- Speed: 45
+- Hp: 78
+- Attack: 52
+- Defense: 60
+- Special-attack: 63
+- Special-defense: 65
+- Speed: 23
