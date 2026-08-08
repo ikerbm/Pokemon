@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Mr-rime
-## ID: 866
+## Tyranitar
+## ID: 248
 ### Tipos
-- Ice
-- Psychic
+- Rock
+- Dark
 ### Stats
-- Hp: 80
-- Attack: 85
-- Defense: 75
-- Special-attack: 110
+- Hp: 100
+- Attack: 134
+- Defense: 110
+- Special-attack: 95
 - Special-defense: 100
-- Speed: 70
+- Speed: 61
