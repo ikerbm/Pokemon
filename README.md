@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cosmoem
-## ID: 790
+## Aggron
+## ID: 306
 ### Tipos
-- Psychic
+- Steel
+- Rock
 ### Stats
-- Hp: 43
-- Attack: 29
-- Defense: 131
-- Special-attack: 29
-- Special-defense: 131
-- Speed: 37
+- Hp: 70
+- Attack: 110
+- Defense: 180
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 50
