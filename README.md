@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Zangoose
-## ID: 335
+## Salandit
+## ID: 757
 ### Tipos
-- Normal
+- Poison
+- Fire
 ### Stats
-- Hp: 73
-- Attack: 115
-- Defense: 60
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 90
+- Hp: 48
+- Attack: 44
+- Defense: 40
+- Special-attack: 71
+- Special-defense: 40
+- Speed: 77
