@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Vileplume
-## ID: 45
+## Zangoose
+## ID: 335
 ### Tipos
-- Grass
-- Poison
+- Normal
 ### Stats
-- Hp: 75
-- Attack: 80
-- Defense: 85
-- Special-attack: 110
-- Special-defense: 90
-- Speed: 50
+- Hp: 73
+- Attack: 115
+- Defense: 60
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 90
