@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Crustle
-## ID: 558
+## Nickit
+## ID: 827
 ### Tipos
-- Bug
-- Rock
+- Dark
 ### Stats
-- Hp: 70
-- Attack: 105
-- Defense: 125
-- Special-attack: 65
-- Special-defense: 75
-- Speed: 45
+- Hp: 40
+- Attack: 28
+- Defense: 28
+- Special-attack: 47
+- Special-defense: 52
+- Speed: 50
