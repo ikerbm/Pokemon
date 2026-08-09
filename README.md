@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Tinkatuff
-## ID: 958
+## Wimpod
+## ID: 767
 ### Tipos
-- Fairy
-- Steel
+- Bug
+- Water
 ### Stats
-- Hp: 65
-- Attack: 55
-- Defense: 55
-- Special-attack: 45
-- Special-defense: 82
-- Speed: 78
+- Hp: 25
+- Attack: 35
+- Defense: 40
+- Special-attack: 20
+- Special-defense: 30
+- Speed: 80
