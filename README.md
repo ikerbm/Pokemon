@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Gurdurr
-## ID: 533
+## Audino
+## ID: 531
 ### Tipos
-- Fighting
+- Normal
 ### Stats
-- Hp: 85
-- Attack: 105
-- Defense: 85
-- Special-attack: 40
-- Special-defense: 50
-- Speed: 40
+- Hp: 103
+- Attack: 60
+- Defense: 86
+- Special-attack: 60
+- Special-defense: 86
+- Speed: 50
