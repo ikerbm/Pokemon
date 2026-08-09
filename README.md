@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Salazzle
-## ID: 758
+## Sealeo
+## ID: 364
 ### Tipos
-- Poison
-- Fire
+- Ice
+- Water
 ### Stats
-- Hp: 68
-- Attack: 64
-- Defense: 60
-- Special-attack: 111
-- Special-defense: 60
-- Speed: 117
+- Hp: 90
+- Attack: 60
+- Defense: 70
+- Special-attack: 75
+- Special-defense: 70
+- Speed: 45
