@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Huntail
-## ID: 367
+## Diglett
+## ID: 50
 ### Tipos
-- Water
+- Ground
 ### Stats
-- Hp: 55
-- Attack: 104
-- Defense: 105
-- Special-attack: 94
-- Special-defense: 75
-- Speed: 52
+- Hp: 10
+- Attack: 55
+- Defense: 25
+- Special-attack: 35
+- Special-defense: 45
+- Speed: 95
