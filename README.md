@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Marowak
-## ID: 105
+## Kecleon
+## ID: 352
 ### Tipos
-- Ground
+- Normal
 ### Stats
 - Hp: 60
-- Attack: 80
-- Defense: 110
-- Special-attack: 50
-- Special-defense: 80
-- Speed: 45
+- Attack: 90
+- Defense: 70
+- Special-attack: 60
+- Special-defense: 120
+- Speed: 40
