@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Miltank
-## ID: 241
+## Tinkatuff
+## ID: 958
 ### Tipos
-- Normal
+- Fairy
+- Steel
 ### Stats
-- Hp: 95
-- Attack: 80
-- Defense: 105
-- Special-attack: 40
-- Special-defense: 70
-- Speed: 100
+- Hp: 65
+- Attack: 55
+- Defense: 55
+- Special-attack: 45
+- Special-defense: 82
+- Speed: 78
