@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Sealeo
-## ID: 364
+## Fraxure
+## ID: 611
 ### Tipos
-- Ice
-- Water
+- Dragon
 ### Stats
-- Hp: 90
-- Attack: 60
+- Hp: 66
+- Attack: 117
 - Defense: 70
-- Special-attack: 75
-- Special-defense: 70
-- Speed: 45
+- Special-attack: 40
+- Special-defense: 50
+- Speed: 67
