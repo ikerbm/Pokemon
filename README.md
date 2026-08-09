@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Nickit
-## ID: 827
+## Machoke
+## ID: 67
 ### Tipos
-- Dark
+- Fighting
 ### Stats
-- Hp: 40
-- Attack: 28
-- Defense: 28
-- Special-attack: 47
-- Special-defense: 52
-- Speed: 50
+- Hp: 80
+- Attack: 100
+- Defense: 70
+- Special-attack: 50
+- Special-defense: 60
+- Speed: 45
