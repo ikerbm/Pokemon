@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Raging-bolt
-## ID: 1021
+## Tinkatuff
+## ID: 958
 ### Tipos
-- Electric
-- Dragon
+- Fairy
+- Steel
 ### Stats
-- Hp: 125
-- Attack: 73
-- Defense: 91
-- Special-attack: 137
-- Special-defense: 89
-- Speed: 75
+- Hp: 65
+- Attack: 55
+- Defense: 55
+- Special-attack: 45
+- Special-defense: 82
+- Speed: 78
