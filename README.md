@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Kecleon
-## ID: 352
+## Igglybuff
+## ID: 174
 ### Tipos
 - Normal
+- Fairy
 ### Stats
-- Hp: 60
-- Attack: 90
-- Defense: 70
-- Special-attack: 60
-- Special-defense: 120
-- Speed: 40
+- Hp: 90
+- Attack: 30
+- Defense: 15
+- Special-attack: 40
+- Special-defense: 20
+- Speed: 15
