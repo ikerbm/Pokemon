@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Diglett
-## ID: 50
+## Deoxys-normal
+## ID: 386
 ### Tipos
-- Ground
+- Psychic
 ### Stats
-- Hp: 10
-- Attack: 55
-- Defense: 25
-- Special-attack: 35
-- Special-defense: 45
-- Speed: 95
+- Hp: 50
+- Attack: 150
+- Defense: 50
+- Special-attack: 150
+- Special-defense: 50
+- Speed: 150
