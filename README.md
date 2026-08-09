@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Pawmi
-## ID: 921
+## Crustle
+## ID: 558
 ### Tipos
-- Electric
+- Bug
+- Rock
 ### Stats
-- Hp: 45
-- Attack: 50
-- Defense: 20
-- Special-attack: 40
-- Special-defense: 25
-- Speed: 60
+- Hp: 70
+- Attack: 105
+- Defense: 125
+- Special-attack: 65
+- Special-defense: 75
+- Speed: 45
