@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Caterpie
-## ID: 10
+## Sealeo
+## ID: 364
 ### Tipos
-- Bug
+- Ice
+- Water
 ### Stats
-- Hp: 45
-- Attack: 30
-- Defense: 35
-- Special-attack: 20
-- Special-defense: 20
+- Hp: 90
+- Attack: 60
+- Defense: 70
+- Special-attack: 75
+- Special-defense: 70
 - Speed: 45
