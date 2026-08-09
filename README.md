@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Cacturne
-## ID: 332
+## Huntail
+## ID: 367
 ### Tipos
-- Grass
-- Dark
+- Water
 ### Stats
-- Hp: 70
-- Attack: 115
-- Defense: 60
-- Special-attack: 115
-- Special-defense: 60
-- Speed: 55
+- Hp: 55
+- Attack: 104
+- Defense: 105
+- Special-attack: 94
+- Special-defense: 75
+- Speed: 52
