@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Rufflet
-## ID: 627
+## Caterpie
+## ID: 10
 ### Tipos
-- Normal
-- Flying
+- Bug
 ### Stats
-- Hp: 70
-- Attack: 83
-- Defense: 50
-- Special-attack: 37
-- Special-defense: 50
-- Speed: 60
+- Hp: 45
+- Attack: 30
+- Defense: 35
+- Special-attack: 20
+- Special-defense: 20
+- Speed: 45
