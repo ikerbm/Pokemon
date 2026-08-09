@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Audino
-## ID: 531
+## Vileplume
+## ID: 45
 ### Tipos
-- Normal
+- Grass
+- Poison
 ### Stats
-- Hp: 103
-- Attack: 60
-- Defense: 86
-- Special-attack: 60
-- Special-defense: 86
+- Hp: 75
+- Attack: 80
+- Defense: 85
+- Special-attack: 110
+- Special-defense: 90
 - Speed: 50
