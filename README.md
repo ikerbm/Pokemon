@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Quagsire
-## ID: 195
+## Iron-jugulis
+## ID: 993
 ### Tipos
-- Water
-- Ground
+- Dark
+- Flying
 ### Stats
-- Hp: 95
-- Attack: 85
-- Defense: 85
-- Special-attack: 65
-- Special-defense: 65
-- Speed: 35
+- Hp: 94
+- Attack: 80
+- Defense: 86
+- Special-attack: 122
+- Special-defense: 80
+- Speed: 108
