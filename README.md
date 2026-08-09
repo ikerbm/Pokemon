@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Igglybuff
-## ID: 174
+## Rufflet
+## ID: 627
 ### Tipos
 - Normal
-- Fairy
+- Flying
 ### Stats
-- Hp: 90
-- Attack: 30
-- Defense: 15
-- Special-attack: 40
-- Special-defense: 20
-- Speed: 15
+- Hp: 70
+- Attack: 83
+- Defense: 50
+- Special-attack: 37
+- Special-defense: 50
+- Speed: 60
