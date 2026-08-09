@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Pidgey
-## ID: 16
+## Wormadam-plant
+## ID: 413
 ### Tipos
-- Normal
-- Flying
+- Bug
+- Grass
 ### Stats
-- Hp: 40
-- Attack: 45
-- Defense: 40
-- Special-attack: 35
-- Special-defense: 35
-- Speed: 56
+- Hp: 60
+- Attack: 59
+- Defense: 85
+- Special-attack: 79
+- Special-defense: 105
+- Speed: 36
