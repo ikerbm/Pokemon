@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Iron-jugulis
-## ID: 993
+## Donphan
+## ID: 232
 ### Tipos
-- Dark
-- Flying
+- Ground
 ### Stats
-- Hp: 94
-- Attack: 80
-- Defense: 86
-- Special-attack: 122
-- Special-defense: 80
-- Speed: 108
+- Hp: 90
+- Attack: 120
+- Defense: 120
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 50
