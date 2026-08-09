@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Donphan
-## ID: 232
+## Pidgey
+## ID: 16
 ### Tipos
-- Ground
+- Normal
+- Flying
 ### Stats
-- Hp: 90
-- Attack: 120
-- Defense: 120
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 50
+- Hp: 40
+- Attack: 45
+- Defense: 40
+- Special-attack: 35
+- Special-defense: 35
+- Speed: 56
