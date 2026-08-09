@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Whiscash
-## ID: 340
+## Appletun
+## ID: 842
 ### Tipos
-- Water
-- Ground
+- Grass
+- Dragon
 ### Stats
 - Hp: 110
-- Attack: 78
-- Defense: 73
-- Special-attack: 76
-- Special-defense: 71
-- Speed: 60
+- Attack: 85
+- Defense: 80
+- Special-attack: 100
+- Special-defense: 80
+- Speed: 30
