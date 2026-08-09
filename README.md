@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Deoxys-normal
-## ID: 386
+## Quagsire
+## ID: 195
 ### Tipos
-- Psychic
+- Water
+- Ground
 ### Stats
-- Hp: 50
-- Attack: 150
-- Defense: 50
-- Special-attack: 150
-- Special-defense: 50
-- Speed: 150
+- Hp: 95
+- Attack: 85
+- Defense: 85
+- Special-attack: 65
+- Special-defense: 65
+- Speed: 35
