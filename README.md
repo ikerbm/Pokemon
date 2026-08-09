@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Machoke
-## ID: 67
+## Whiscash
+## ID: 340
 ### Tipos
-- Fighting
+- Water
+- Ground
 ### Stats
-- Hp: 80
-- Attack: 100
-- Defense: 70
-- Special-attack: 50
-- Special-defense: 60
-- Speed: 45
+- Hp: 110
+- Attack: 78
+- Defense: 73
+- Special-attack: 76
+- Special-defense: 71
+- Speed: 60
