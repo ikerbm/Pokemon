@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Tinkatuff
-## ID: 958
+## Salazzle
+## ID: 758
 ### Tipos
-- Fairy
-- Steel
+- Poison
+- Fire
 ### Stats
-- Hp: 65
-- Attack: 55
-- Defense: 55
-- Special-attack: 45
-- Special-defense: 82
-- Speed: 78
+- Hp: 68
+- Attack: 64
+- Defense: 60
+- Special-attack: 111
+- Special-defense: 60
+- Speed: 117
