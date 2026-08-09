@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Wimpod
-## ID: 767
+## Pawmi
+## ID: 921
 ### Tipos
-- Bug
-- Water
+- Electric
 ### Stats
-- Hp: 25
-- Attack: 35
-- Defense: 40
-- Special-attack: 20
-- Special-defense: 30
-- Speed: 80
+- Hp: 45
+- Attack: 50
+- Defense: 20
+- Special-attack: 40
+- Special-defense: 25
+- Speed: 60
