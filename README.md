@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Wormadam-plant
-## ID: 413
+## Gurdurr
+## ID: 533
 ### Tipos
-- Bug
-- Grass
+- Fighting
 ### Stats
-- Hp: 60
-- Attack: 59
+- Hp: 85
+- Attack: 105
 - Defense: 85
-- Special-attack: 79
-- Special-defense: 105
-- Speed: 36
+- Special-attack: 40
+- Special-defense: 50
+- Speed: 40
