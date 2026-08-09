@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Fraxure
-## ID: 611
+## Hydrapple
+## ID: 1019
 ### Tipos
+- Grass
 - Dragon
 ### Stats
-- Hp: 66
-- Attack: 117
-- Defense: 70
-- Special-attack: 40
-- Special-defense: 50
-- Speed: 67
+- Hp: 106
+- Attack: 80
+- Defense: 110
+- Special-attack: 120
+- Special-defense: 80
+- Speed: 44
