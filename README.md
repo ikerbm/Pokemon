@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Brionne
-## ID: 729
+## Diggersby
+## ID: 660
 ### Tipos
-- Water
+- Normal
+- Ground
 ### Stats
-- Hp: 60
-- Attack: 69
-- Defense: 69
-- Special-attack: 91
-- Special-defense: 81
-- Speed: 50
+- Hp: 85
+- Attack: 56
+- Defense: 77
+- Special-attack: 50
+- Special-defense: 77
+- Speed: 78
