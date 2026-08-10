@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Probopass
-## ID: 476
+## Minior-red-meteor
+## ID: 774
 ### Tipos
 - Rock
-- Steel
+- Flying
 ### Stats
 - Hp: 60
-- Attack: 55
-- Defense: 145
-- Special-attack: 75
-- Special-defense: 150
-- Speed: 40
+- Attack: 60
+- Defense: 100
+- Special-attack: 60
+- Special-defense: 100
+- Speed: 60
