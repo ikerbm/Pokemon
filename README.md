@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Togepi
-## ID: 175
+## Riolu
+## ID: 447
 ### Tipos
-- Fairy
+- Fighting
 ### Stats
-- Hp: 35
-- Attack: 20
-- Defense: 65
-- Special-attack: 40
-- Special-defense: 65
-- Speed: 20
+- Hp: 40
+- Attack: 70
+- Defense: 40
+- Special-attack: 35
+- Special-defense: 40
+- Speed: 60
