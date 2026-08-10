@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Nidoran-m
-## ID: 32
+## Kecleon
+## ID: 352
 ### Tipos
-- Poison
+- Normal
 ### Stats
-- Hp: 46
-- Attack: 57
-- Defense: 40
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 50
+- Hp: 60
+- Attack: 90
+- Defense: 70
+- Special-attack: 60
+- Special-defense: 120
+- Speed: 40
