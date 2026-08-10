@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Minior-red-meteor
-## ID: 774
+## Pyroar-male
+## ID: 668
 ### Tipos
-- Rock
-- Flying
+- Fire
+- Normal
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 100
-- Special-attack: 60
-- Special-defense: 100
-- Speed: 60
+- Hp: 86
+- Attack: 68
+- Defense: 72
+- Special-attack: 109
+- Special-defense: 66
+- Speed: 106
