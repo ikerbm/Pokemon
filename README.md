@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Chinchou
-## ID: 170
+## Mantine
+## ID: 226
 ### Tipos
 - Water
-- Electric
+- Flying
 ### Stats
-- Hp: 75
-- Attack: 38
-- Defense: 38
-- Special-attack: 56
-- Special-defense: 56
-- Speed: 67
+- Hp: 85
+- Attack: 40
+- Defense: 70
+- Special-attack: 80
+- Special-defense: 140
+- Speed: 70
