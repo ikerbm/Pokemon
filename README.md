@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Diggersby
-## ID: 660
+## Frogadier
+## ID: 657
 ### Tipos
-- Normal
-- Ground
+- Water
 ### Stats
-- Hp: 85
-- Attack: 56
-- Defense: 77
-- Special-attack: 50
-- Special-defense: 77
-- Speed: 78
+- Hp: 54
+- Attack: 63
+- Defense: 52
+- Special-attack: 83
+- Special-defense: 56
+- Speed: 97
