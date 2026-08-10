@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Morpeko-full-belly
-## ID: 877
+## Clobbopus
+## ID: 852
 ### Tipos
-- Electric
-- Dark
+- Fighting
 ### Stats
-- Hp: 58
-- Attack: 95
-- Defense: 58
-- Special-attack: 70
-- Special-defense: 58
-- Speed: 97
+- Hp: 50
+- Attack: 68
+- Defense: 60
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 32
