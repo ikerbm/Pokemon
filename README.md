@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Salandit
-## ID: 757
+## Prinplup
+## ID: 394
 ### Tipos
-- Poison
-- Fire
+- Water
 ### Stats
-- Hp: 48
-- Attack: 44
-- Defense: 40
-- Special-attack: 71
-- Special-defense: 40
-- Speed: 77
+- Hp: 64
+- Attack: 66
+- Defense: 68
+- Special-attack: 81
+- Special-defense: 76
+- Speed: 50
