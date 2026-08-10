@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Frogadier
-## ID: 657
+## Pidgeotto
+## ID: 17
 ### Tipos
-- Water
+- Normal
+- Flying
 ### Stats
-- Hp: 54
-- Attack: 63
-- Defense: 52
-- Special-attack: 83
-- Special-defense: 56
-- Speed: 97
+- Hp: 63
+- Attack: 60
+- Defense: 55
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 71
