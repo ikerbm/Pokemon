@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Kecleon
-## ID: 352
+## Tirtouga
+## ID: 564
 ### Tipos
-- Normal
+- Water
+- Rock
 ### Stats
-- Hp: 60
-- Attack: 90
-- Defense: 70
-- Special-attack: 60
-- Special-defense: 120
-- Speed: 40
+- Hp: 54
+- Attack: 78
+- Defense: 103
+- Special-attack: 53
+- Special-defense: 45
+- Speed: 22
