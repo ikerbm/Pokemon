@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Basculin-red-striped
-## ID: 550
+## Terrakion
+## ID: 639
 ### Tipos
-- Water
+- Rock
+- Fighting
 ### Stats
-- Hp: 70
-- Attack: 92
-- Defense: 65
-- Special-attack: 80
-- Special-defense: 55
-- Speed: 98
+- Hp: 91
+- Attack: 129
+- Defense: 90
+- Special-attack: 72
+- Special-defense: 90
+- Speed: 108
