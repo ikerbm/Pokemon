@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Riolu
-## ID: 447
+## Thundurus-incarnate
+## ID: 642
 ### Tipos
-- Fighting
+- Electric
+- Flying
 ### Stats
-- Hp: 40
-- Attack: 70
-- Defense: 40
-- Special-attack: 35
-- Special-defense: 40
-- Speed: 60
+- Hp: 79
+- Attack: 115
+- Defense: 70
+- Special-attack: 125
+- Special-defense: 80
+- Speed: 111
