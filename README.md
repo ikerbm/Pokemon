@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tirtouga
-## ID: 564
+## Metapod
+## ID: 11
 ### Tipos
-- Water
-- Rock
+- Bug
 ### Stats
-- Hp: 54
-- Attack: 78
-- Defense: 103
-- Special-attack: 53
-- Special-defense: 45
-- Speed: 22
+- Hp: 50
+- Attack: 20
+- Defense: 55
+- Special-attack: 25
+- Special-defense: 25
+- Speed: 30
