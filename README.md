@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Pyroar-male
-## ID: 668
+## Swirlix
+## ID: 684
 ### Tipos
-- Fire
-- Normal
+- Fairy
 ### Stats
-- Hp: 86
-- Attack: 68
-- Defense: 72
-- Special-attack: 109
-- Special-defense: 66
-- Speed: 106
+- Hp: 62
+- Attack: 48
+- Defense: 66
+- Special-attack: 59
+- Special-defense: 57
+- Speed: 49
