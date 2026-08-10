@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Terrakion
-## ID: 639
+## Morpeko-full-belly
+## ID: 877
 ### Tipos
-- Rock
-- Fighting
+- Electric
+- Dark
 ### Stats
-- Hp: 91
-- Attack: 129
-- Defense: 90
-- Special-attack: 72
-- Special-defense: 90
-- Speed: 108
+- Hp: 58
+- Attack: 95
+- Defense: 58
+- Special-attack: 70
+- Special-defense: 58
+- Speed: 97
