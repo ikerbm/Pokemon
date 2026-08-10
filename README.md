@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Metapod
-## ID: 11
+## Togepi
+## ID: 175
 ### Tipos
-- Bug
+- Fairy
 ### Stats
-- Hp: 50
+- Hp: 35
 - Attack: 20
-- Defense: 55
-- Special-attack: 25
-- Special-defense: 25
-- Speed: 30
+- Defense: 65
+- Special-attack: 40
+- Special-defense: 65
+- Speed: 20
