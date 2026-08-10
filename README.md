@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Swirlix
-## ID: 684
+## Chinchou
+## ID: 170
 ### Tipos
-- Fairy
+- Water
+- Electric
 ### Stats
-- Hp: 62
-- Attack: 48
-- Defense: 66
-- Special-attack: 59
-- Special-defense: 57
-- Speed: 49
+- Hp: 75
+- Attack: 38
+- Defense: 38
+- Special-attack: 56
+- Special-defense: 56
+- Speed: 67
