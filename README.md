@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Pidgeotto
-## ID: 17
+## Shiinotic
+## ID: 756
 ### Tipos
-- Normal
-- Flying
+- Grass
+- Fairy
 ### Stats
-- Hp: 63
-- Attack: 60
-- Defense: 55
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 71
+- Hp: 60
+- Attack: 45
+- Defense: 80
+- Special-attack: 90
+- Special-defense: 100
+- Speed: 30
