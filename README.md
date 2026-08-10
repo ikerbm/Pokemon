@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Clobbopus
-## ID: 852
+## Brionne
+## ID: 729
 ### Tipos
-- Fighting
+- Water
 ### Stats
-- Hp: 50
-- Attack: 68
-- Defense: 60
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 32
+- Hp: 60
+- Attack: 69
+- Defense: 69
+- Special-attack: 91
+- Special-defense: 81
+- Speed: 50
