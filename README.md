@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Shiinotic
-## ID: 756
+## Probopass
+## ID: 476
 ### Tipos
-- Grass
-- Fairy
+- Rock
+- Steel
 ### Stats
 - Hp: 60
-- Attack: 45
-- Defense: 80
-- Special-attack: 90
-- Special-defense: 100
-- Speed: 30
+- Attack: 55
+- Defense: 145
+- Special-attack: 75
+- Special-defense: 150
+- Speed: 40
