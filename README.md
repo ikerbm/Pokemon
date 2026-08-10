@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Prinplup
-## ID: 394
+## Nidoran-m
+## ID: 32
 ### Tipos
-- Water
+- Poison
 ### Stats
-- Hp: 64
-- Attack: 66
-- Defense: 68
-- Special-attack: 81
-- Special-defense: 76
+- Hp: 46
+- Attack: 57
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 40
 - Speed: 50
