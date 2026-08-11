@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Haxorus
-## ID: 612
+## Dartrix
+## ID: 723
 ### Tipos
-- Dragon
+- Grass
+- Flying
 ### Stats
-- Hp: 76
-- Attack: 147
-- Defense: 90
-- Special-attack: 60
+- Hp: 78
+- Attack: 75
+- Defense: 75
+- Special-attack: 70
 - Special-defense: 70
-- Speed: 97
+- Speed: 52
