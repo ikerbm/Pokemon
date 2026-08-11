@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dartrix
-## ID: 723
+## Numel
+## ID: 322
 ### Tipos
-- Grass
-- Flying
+- Fire
+- Ground
 ### Stats
-- Hp: 78
-- Attack: 75
-- Defense: 75
-- Special-attack: 70
-- Special-defense: 70
-- Speed: 52
+- Hp: 60
+- Attack: 60
+- Defense: 40
+- Special-attack: 65
+- Special-defense: 45
+- Speed: 35
