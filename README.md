@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Rhydon
-## ID: 112
+## Lapras
+## ID: 131
 ### Tipos
-- Ground
-- Rock
+- Water
+- Ice
 ### Stats
-- Hp: 105
-- Attack: 130
-- Defense: 120
-- Special-attack: 45
-- Special-defense: 45
-- Speed: 40
+- Hp: 130
+- Attack: 85
+- Defense: 80
+- Special-attack: 85
+- Special-defense: 95
+- Speed: 60
