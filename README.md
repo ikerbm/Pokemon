@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Ampharos
-## ID: 181
+## Raichu
+## ID: 26
 ### Tipos
 - Electric
 ### Stats
-- Hp: 90
-- Attack: 75
-- Defense: 85
-- Special-attack: 115
-- Special-defense: 90
-- Speed: 55
+- Hp: 60
+- Attack: 90
+- Defense: 55
+- Special-attack: 90
+- Special-defense: 80
+- Speed: 110
