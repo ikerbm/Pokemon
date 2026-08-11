@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Mantine
-## ID: 226
+## Darumaka
+## ID: 554
 ### Tipos
-- Water
-- Flying
+- Fire
 ### Stats
-- Hp: 85
-- Attack: 40
-- Defense: 70
-- Special-attack: 80
-- Special-defense: 140
-- Speed: 70
+- Hp: 70
+- Attack: 90
+- Defense: 45
+- Special-attack: 15
+- Special-defense: 45
+- Speed: 50
