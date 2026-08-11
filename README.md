@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Sandslash
-## ID: 28
+## Probopass
+## ID: 476
 ### Tipos
-- Ground
+- Rock
+- Steel
 ### Stats
-- Hp: 75
-- Attack: 100
-- Defense: 110
-- Special-attack: 45
-- Special-defense: 55
-- Speed: 65
+- Hp: 60
+- Attack: 55
+- Defense: 145
+- Special-attack: 75
+- Special-defense: 150
+- Speed: 40
