@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Lampent
-## ID: 608
+## Carnivine
+## ID: 455
 ### Tipos
-- Ghost
-- Fire
+- Grass
 ### Stats
-- Hp: 60
-- Attack: 40
-- Defense: 60
-- Special-attack: 95
-- Special-defense: 60
-- Speed: 55
+- Hp: 74
+- Attack: 100
+- Defense: 72
+- Special-attack: 90
+- Special-defense: 72
+- Speed: 46
