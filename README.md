@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Veluza
-## ID: 976
+## Lampent
+## ID: 608
 ### Tipos
-- Water
-- Psychic
+- Ghost
+- Fire
 ### Stats
-- Hp: 90
-- Attack: 102
-- Defense: 73
-- Special-attack: 78
-- Special-defense: 65
-- Speed: 70
+- Hp: 60
+- Attack: 40
+- Defense: 60
+- Special-attack: 95
+- Special-defense: 60
+- Speed: 55
