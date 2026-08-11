@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Raichu
-## ID: 26
+## Rhydon
+## ID: 112
 ### Tipos
-- Electric
+- Ground
+- Rock
 ### Stats
-- Hp: 60
-- Attack: 90
-- Defense: 55
-- Special-attack: 90
-- Special-defense: 80
-- Speed: 110
+- Hp: 105
+- Attack: 130
+- Defense: 120
+- Special-attack: 45
+- Special-defense: 45
+- Speed: 40
