@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Lapras
-## ID: 131
+## Ting-lu
+## ID: 1003
 ### Tipos
-- Water
-- Ice
+- Dark
+- Ground
 ### Stats
-- Hp: 130
-- Attack: 85
-- Defense: 80
-- Special-attack: 85
-- Special-defense: 95
-- Speed: 60
+- Hp: 155
+- Attack: 110
+- Defense: 125
+- Special-attack: 55
+- Special-defense: 80
+- Speed: 45
