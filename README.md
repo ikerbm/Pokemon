@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Probopass
-## ID: 476
+## Nincada
+## ID: 290
 ### Tipos
-- Rock
-- Steel
+- Bug
+- Ground
 ### Stats
-- Hp: 60
-- Attack: 55
-- Defense: 145
-- Special-attack: 75
-- Special-defense: 150
+- Hp: 31
+- Attack: 45
+- Defense: 90
+- Special-attack: 30
+- Special-defense: 30
 - Speed: 40
