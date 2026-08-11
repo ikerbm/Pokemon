@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Nincada
-## ID: 290
+## Veluza
+## ID: 976
 ### Tipos
-- Bug
-- Ground
+- Water
+- Psychic
 ### Stats
-- Hp: 31
-- Attack: 45
-- Defense: 90
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 40
+- Hp: 90
+- Attack: 102
+- Defense: 73
+- Special-attack: 78
+- Special-defense: 65
+- Speed: 70
