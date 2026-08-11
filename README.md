@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Chesnaught
-## ID: 652
+## Axew
+## ID: 610
 ### Tipos
-- Grass
-- Fighting
+- Dragon
 ### Stats
-- Hp: 88
-- Attack: 107
-- Defense: 122
-- Special-attack: 74
-- Special-defense: 75
-- Speed: 64
+- Hp: 46
+- Attack: 87
+- Defense: 60
+- Special-attack: 30
+- Special-defense: 40
+- Speed: 57
