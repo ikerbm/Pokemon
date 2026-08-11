@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Regice
-## ID: 378
+## Haxorus
+## ID: 612
 ### Tipos
-- Ice
+- Dragon
 ### Stats
-- Hp: 80
-- Attack: 50
-- Defense: 100
-- Special-attack: 100
-- Special-defense: 200
-- Speed: 50
+- Hp: 76
+- Attack: 147
+- Defense: 90
+- Special-attack: 60
+- Special-defense: 70
+- Speed: 97
