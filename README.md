@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Numel
-## ID: 322
+## Ampharos
+## ID: 181
 ### Tipos
-- Fire
-- Ground
+- Electric
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 40
-- Special-attack: 65
-- Special-defense: 45
-- Speed: 35
+- Hp: 90
+- Attack: 75
+- Defense: 85
+- Special-attack: 115
+- Special-defense: 90
+- Speed: 55
