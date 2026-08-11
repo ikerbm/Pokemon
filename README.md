@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Magearna
-## ID: 801
+## Poliwag
+## ID: 60
 ### Tipos
-- Steel
-- Fairy
+- Water
 ### Stats
-- Hp: 80
-- Attack: 95
-- Defense: 115
-- Special-attack: 130
-- Special-defense: 115
-- Speed: 65
+- Hp: 40
+- Attack: 50
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 90
