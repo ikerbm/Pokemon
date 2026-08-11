@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Ting-lu
-## ID: 1003
+## Minior-red-meteor
+## ID: 774
 ### Tipos
-- Dark
-- Ground
+- Rock
+- Flying
 ### Stats
-- Hp: 155
-- Attack: 110
-- Defense: 125
-- Special-attack: 55
-- Special-defense: 80
-- Speed: 45
+- Hp: 60
+- Attack: 60
+- Defense: 100
+- Special-attack: 60
+- Special-defense: 100
+- Speed: 60
