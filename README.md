@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Hitmonlee
-## ID: 106
+## Grimmsnarl
+## ID: 861
 ### Tipos
-- Fighting
+- Dark
+- Fairy
 ### Stats
-- Hp: 50
+- Hp: 95
 - Attack: 120
-- Defense: 53
-- Special-attack: 35
-- Special-defense: 110
-- Speed: 87
+- Defense: 65
+- Special-attack: 95
+- Special-defense: 75
+- Speed: 60
