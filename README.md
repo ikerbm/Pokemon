@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Carnivine
-## ID: 455
+## Regice
+## ID: 378
 ### Tipos
-- Grass
+- Ice
 ### Stats
-- Hp: 74
-- Attack: 100
-- Defense: 72
-- Special-attack: 90
-- Special-defense: 72
-- Speed: 46
+- Hp: 80
+- Attack: 50
+- Defense: 100
+- Special-attack: 100
+- Special-defense: 200
+- Speed: 50
