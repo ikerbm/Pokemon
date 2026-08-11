@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Axew
-## ID: 610
+## Magearna
+## ID: 801
 ### Tipos
-- Dragon
+- Steel
+- Fairy
 ### Stats
-- Hp: 46
-- Attack: 87
-- Defense: 60
-- Special-attack: 30
-- Special-defense: 40
-- Speed: 57
+- Hp: 80
+- Attack: 95
+- Defense: 115
+- Special-attack: 130
+- Special-defense: 115
+- Speed: 65
