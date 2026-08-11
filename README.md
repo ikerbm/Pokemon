@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Salazzle
-## ID: 758
+## Sandslash
+## ID: 28
 ### Tipos
-- Poison
-- Fire
+- Ground
 ### Stats
-- Hp: 68
-- Attack: 64
-- Defense: 60
-- Special-attack: 111
-- Special-defense: 60
-- Speed: 117
+- Hp: 75
+- Attack: 100
+- Defense: 110
+- Special-attack: 45
+- Special-defense: 55
+- Speed: 65
