@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Mimikyu-disguised
-## ID: 778
+## Tangrowth
+## ID: 465
 ### Tipos
-- Ghost
-- Fairy
+- Grass
 ### Stats
-- Hp: 55
-- Attack: 90
-- Defense: 80
-- Special-attack: 50
-- Special-defense: 105
-- Speed: 96
+- Hp: 100
+- Attack: 100
+- Defense: 125
+- Special-attack: 110
+- Special-defense: 50
+- Speed: 50
