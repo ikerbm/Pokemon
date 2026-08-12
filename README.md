@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Roserade
-## ID: 407
+## Emolga
+## ID: 587
 ### Tipos
-- Grass
-- Poison
+- Electric
+- Flying
 ### Stats
-- Hp: 60
-- Attack: 70
-- Defense: 65
-- Special-attack: 125
-- Special-defense: 105
-- Speed: 90
+- Hp: 55
+- Attack: 75
+- Defense: 60
+- Special-attack: 75
+- Special-defense: 60
+- Speed: 103
