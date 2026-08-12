@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tyrunt
-## ID: 696
+## Chimecho
+## ID: 358
 ### Tipos
-- Rock
-- Dragon
+- Psychic
 ### Stats
-- Hp: 58
-- Attack: 89
-- Defense: 77
-- Special-attack: 45
-- Special-defense: 45
-- Speed: 48
+- Hp: 75
+- Attack: 50
+- Defense: 80
+- Special-attack: 95
+- Special-defense: 90
+- Speed: 65
