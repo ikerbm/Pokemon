@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Aggron
-## ID: 306
+## Tauros
+## ID: 128
 ### Tipos
-- Steel
-- Rock
+- Normal
 ### Stats
-- Hp: 70
-- Attack: 110
-- Defense: 180
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 50
+- Hp: 75
+- Attack: 100
+- Defense: 95
+- Special-attack: 40
+- Special-defense: 70
+- Speed: 110
