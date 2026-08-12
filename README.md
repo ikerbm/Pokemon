@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Emolga
-## ID: 587
+## Lycanroc-midday
+## ID: 745
 ### Tipos
-- Electric
-- Flying
+- Rock
 ### Stats
-- Hp: 55
-- Attack: 75
-- Defense: 60
-- Special-attack: 75
-- Special-defense: 60
-- Speed: 103
+- Hp: 75
+- Attack: 115
+- Defense: 65
+- Special-attack: 55
+- Special-defense: 65
+- Speed: 112
