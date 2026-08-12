@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Barbaracle
-## ID: 689
+## Beheeyem
+## ID: 606
 ### Tipos
-- Rock
-- Water
+- Psychic
 ### Stats
-- Hp: 72
-- Attack: 105
-- Defense: 115
-- Special-attack: 54
-- Special-defense: 86
-- Speed: 68
+- Hp: 75
+- Attack: 75
+- Defense: 75
+- Special-attack: 125
+- Special-defense: 95
+- Speed: 40
