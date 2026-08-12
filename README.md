@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Ceruledge
-## ID: 937
+## Tyrunt
+## ID: 696
 ### Tipos
-- Fire
-- Ghost
+- Rock
+- Dragon
 ### Stats
-- Hp: 75
-- Attack: 125
-- Defense: 80
-- Special-attack: 60
-- Special-defense: 100
-- Speed: 85
+- Hp: 58
+- Attack: 89
+- Defense: 77
+- Special-attack: 45
+- Special-defense: 45
+- Speed: 48
