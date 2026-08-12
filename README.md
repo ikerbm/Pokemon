@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Chimecho
-## ID: 358
+## Zygarde-50
+## ID: 718
 ### Tipos
-- Psychic
+- Dragon
+- Ground
 ### Stats
-- Hp: 75
-- Attack: 50
-- Defense: 80
-- Special-attack: 95
-- Special-defense: 90
-- Speed: 65
+- Hp: 108
+- Attack: 100
+- Defense: 121
+- Special-attack: 81
+- Special-defense: 95
+- Speed: 95
