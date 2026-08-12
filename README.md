@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Helioptile
-## ID: 694
+## Claydol
+## ID: 344
 ### Tipos
-- Electric
-- Normal
+- Ground
+- Psychic
 ### Stats
-- Hp: 44
-- Attack: 38
-- Defense: 33
-- Special-attack: 61
-- Special-defense: 43
-- Speed: 70
+- Hp: 60
+- Attack: 70
+- Defense: 105
+- Special-attack: 70
+- Special-defense: 120
+- Speed: 75
