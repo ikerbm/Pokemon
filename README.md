@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Beheeyem
-## ID: 606
+## Swalot
+## ID: 317
 ### Tipos
-- Psychic
+- Poison
 ### Stats
-- Hp: 75
-- Attack: 75
-- Defense: 75
-- Special-attack: 125
-- Special-defense: 95
-- Speed: 40
+- Hp: 100
+- Attack: 73
+- Defense: 83
+- Special-attack: 73
+- Special-defense: 83
+- Speed: 55
