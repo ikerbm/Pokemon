@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Porygon
-## ID: 137
+## Barbaracle
+## ID: 689
 ### Tipos
-- Normal
+- Rock
+- Water
 ### Stats
-- Hp: 65
-- Attack: 60
-- Defense: 70
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 40
+- Hp: 72
+- Attack: 105
+- Defense: 115
+- Special-attack: 54
+- Special-defense: 86
+- Speed: 68
