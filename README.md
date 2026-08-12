@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Lycanroc-midday
-## ID: 745
+## Scovillain
+## ID: 952
 ### Tipos
-- Rock
+- Grass
+- Fire
 ### Stats
-- Hp: 75
-- Attack: 115
+- Hp: 65
+- Attack: 108
 - Defense: 65
-- Special-attack: 55
+- Special-attack: 108
 - Special-defense: 65
-- Speed: 112
+- Speed: 75
