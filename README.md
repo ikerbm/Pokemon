@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Zygarde-50
-## ID: 718
+## Mimikyu-disguised
+## ID: 778
 ### Tipos
-- Dragon
-- Ground
+- Ghost
+- Fairy
 ### Stats
-- Hp: 108
-- Attack: 100
-- Defense: 121
-- Special-attack: 81
-- Special-defense: 95
-- Speed: 95
+- Hp: 55
+- Attack: 90
+- Defense: 80
+- Special-attack: 50
+- Special-defense: 105
+- Speed: 96
