@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Poliwag
-## ID: 60
+## Ceruledge
+## ID: 937
 ### Tipos
-- Water
+- Fire
+- Ghost
 ### Stats
-- Hp: 40
-- Attack: 50
-- Defense: 40
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 90
+- Hp: 75
+- Attack: 125
+- Defense: 80
+- Special-attack: 60
+- Special-defense: 100
+- Speed: 85
