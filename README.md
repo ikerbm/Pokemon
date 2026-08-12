@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Lickitung
-## ID: 108
+## Aggron
+## ID: 306
 ### Tipos
-- Normal
+- Steel
+- Rock
 ### Stats
-- Hp: 90
-- Attack: 55
-- Defense: 75
+- Hp: 70
+- Attack: 110
+- Defense: 180
 - Special-attack: 60
-- Special-defense: 75
-- Speed: 30
+- Special-defense: 60
+- Speed: 50
