@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Glaceon
-## ID: 471
+## Helioptile
+## ID: 694
 ### Tipos
-- Ice
+- Electric
+- Normal
 ### Stats
-- Hp: 65
-- Attack: 60
-- Defense: 110
-- Special-attack: 130
-- Special-defense: 95
-- Speed: 65
+- Hp: 44
+- Attack: 38
+- Defense: 33
+- Special-attack: 61
+- Special-defense: 43
+- Speed: 70
