@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Claydol
-## ID: 344
+## Porygon
+## ID: 137
 ### Tipos
-- Ground
-- Psychic
+- Normal
 ### Stats
-- Hp: 60
-- Attack: 70
-- Defense: 105
-- Special-attack: 70
-- Special-defense: 120
-- Speed: 75
+- Hp: 65
+- Attack: 60
+- Defense: 70
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 40
