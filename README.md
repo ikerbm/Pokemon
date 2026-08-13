@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cinccino
-## ID: 573
+## Dolliv
+## ID: 929
 ### Tipos
+- Grass
 - Normal
 ### Stats
-- Hp: 75
-- Attack: 95
+- Hp: 52
+- Attack: 53
 - Defense: 60
-- Special-attack: 65
-- Special-defense: 60
-- Speed: 115
+- Special-attack: 78
+- Special-defense: 78
+- Speed: 33
