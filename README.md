@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Bonsly
-## ID: 438
+## Dragonite
+## ID: 149
 ### Tipos
-- Rock
+- Dragon
+- Flying
 ### Stats
-- Hp: 50
-- Attack: 80
+- Hp: 91
+- Attack: 134
 - Defense: 95
-- Special-attack: 10
-- Special-defense: 45
-- Speed: 10
+- Special-attack: 100
+- Special-defense: 100
+- Speed: 80
