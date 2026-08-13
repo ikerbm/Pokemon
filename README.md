@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Rookidee
-## ID: 821
+## Cinccino
+## ID: 573
 ### Tipos
-- Flying
+- Normal
 ### Stats
-- Hp: 38
-- Attack: 47
-- Defense: 35
-- Special-attack: 33
-- Special-defense: 35
-- Speed: 57
+- Hp: 75
+- Attack: 95
+- Defense: 60
+- Special-attack: 65
+- Special-defense: 60
+- Speed: 115
