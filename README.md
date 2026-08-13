@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Growlithe
-## ID: 58
+## Charcadet
+## ID: 935
 ### Tipos
 - Fire
 ### Stats
-- Hp: 55
-- Attack: 70
-- Defense: 45
-- Special-attack: 70
-- Special-defense: 50
-- Speed: 60
+- Hp: 40
+- Attack: 50
+- Defense: 40
+- Special-attack: 50
+- Special-defense: 40
+- Speed: 35
