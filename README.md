@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Unfezant
-## ID: 521
+## Snubbull
+## ID: 209
 ### Tipos
-- Normal
-- Flying
+- Fairy
 ### Stats
-- Hp: 80
-- Attack: 115
-- Defense: 80
-- Special-attack: 65
-- Special-defense: 55
-- Speed: 93
+- Hp: 60
+- Attack: 80
+- Defense: 50
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 30
