@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Eternatus
-## ID: 890
+## Dipplin
+## ID: 1011
 ### Tipos
-- Poison
+- Grass
 - Dragon
 ### Stats
-- Hp: 140
-- Attack: 85
-- Defense: 95
-- Special-attack: 145
-- Special-defense: 95
-- Speed: 130
+- Hp: 80
+- Attack: 80
+- Defense: 110
+- Special-attack: 95
+- Special-defense: 80
+- Speed: 40
