@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Scovillain
-## ID: 952
+## Iron-hands
+## ID: 992
 ### Tipos
-- Grass
-- Fire
+- Fighting
+- Electric
 ### Stats
-- Hp: 65
-- Attack: 108
-- Defense: 65
-- Special-attack: 108
-- Special-defense: 65
-- Speed: 75
+- Hp: 154
+- Attack: 140
+- Defense: 108
+- Special-attack: 50
+- Special-defense: 68
+- Speed: 50
