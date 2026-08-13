@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Spoink
-## ID: 325
+## Unfezant
+## ID: 521
 ### Tipos
-- Psychic
+- Normal
+- Flying
 ### Stats
-- Hp: 60
-- Attack: 25
-- Defense: 35
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 60
+- Hp: 80
+- Attack: 115
+- Defense: 80
+- Special-attack: 65
+- Special-defense: 55
+- Speed: 93
