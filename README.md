@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dipplin
-## ID: 1011
+## Armaldo
+## ID: 348
 ### Tipos
-- Grass
-- Dragon
+- Rock
+- Bug
 ### Stats
-- Hp: 80
-- Attack: 80
-- Defense: 110
-- Special-attack: 95
+- Hp: 75
+- Attack: 125
+- Defense: 100
+- Special-attack: 70
 - Special-defense: 80
-- Speed: 40
+- Speed: 45
