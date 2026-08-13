@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Popplio
-## ID: 728
+## Quaquaval
+## ID: 914
 ### Tipos
 - Water
+- Fighting
 ### Stats
-- Hp: 50
-- Attack: 54
-- Defense: 54
-- Special-attack: 66
-- Special-defense: 56
-- Speed: 40
+- Hp: 85
+- Attack: 120
+- Defense: 80
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 85
