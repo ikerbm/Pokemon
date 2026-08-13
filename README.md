@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Snubbull
-## ID: 209
+## Squirtle
+## ID: 7
 ### Tipos
-- Fairy
+- Water
 ### Stats
-- Hp: 60
-- Attack: 80
-- Defense: 50
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 30
+- Hp: 44
+- Attack: 48
+- Defense: 65
+- Special-attack: 50
+- Special-defense: 64
+- Speed: 43
