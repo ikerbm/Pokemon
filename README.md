@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Armaldo
-## ID: 348
+## Ogerpon
+## ID: 1017
 ### Tipos
-- Rock
-- Bug
+- Grass
 ### Stats
-- Hp: 75
-- Attack: 125
-- Defense: 100
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 45
+- Hp: 80
+- Attack: 120
+- Defense: 84
+- Special-attack: 60
+- Special-defense: 96
+- Speed: 110
