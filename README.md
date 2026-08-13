@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dolliv
-## ID: 929
+## Dracozolt
+## ID: 880
 ### Tipos
-- Grass
-- Normal
+- Electric
+- Dragon
 ### Stats
-- Hp: 52
-- Attack: 53
-- Defense: 60
-- Special-attack: 78
-- Special-defense: 78
-- Speed: 33
+- Hp: 90
+- Attack: 100
+- Defense: 90
+- Special-attack: 80
+- Special-defense: 70
+- Speed: 75
