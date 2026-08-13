@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Dracozolt
-## ID: 880
+## Glastrier
+## ID: 896
 ### Tipos
-- Electric
-- Dragon
+- Ice
 ### Stats
-- Hp: 90
-- Attack: 100
-- Defense: 90
-- Special-attack: 80
-- Special-defense: 70
-- Speed: 75
+- Hp: 100
+- Attack: 145
+- Defense: 130
+- Special-attack: 65
+- Special-defense: 110
+- Speed: 30
