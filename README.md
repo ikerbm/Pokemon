@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Glastrier
-## ID: 896
+## Druddigon
+## ID: 621
 ### Tipos
-- Ice
+- Dragon
 ### Stats
-- Hp: 100
-- Attack: 145
-- Defense: 130
-- Special-attack: 65
-- Special-defense: 110
-- Speed: 30
+- Hp: 77
+- Attack: 120
+- Defense: 90
+- Special-attack: 60
+- Special-defense: 90
+- Speed: 48
