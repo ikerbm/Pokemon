@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ledyba
-## ID: 165
+## Spoink
+## ID: 325
 ### Tipos
-- Bug
-- Flying
+- Psychic
 ### Stats
-- Hp: 40
-- Attack: 20
-- Defense: 30
-- Special-attack: 40
+- Hp: 60
+- Attack: 25
+- Defense: 35
+- Special-attack: 70
 - Special-defense: 80
-- Speed: 55
+- Speed: 60
