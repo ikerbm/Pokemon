@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Druddigon
-## ID: 621
+## Dragonite
+## ID: 149
 ### Tipos
 - Dragon
+- Flying
 ### Stats
-- Hp: 77
-- Attack: 120
-- Defense: 90
-- Special-attack: 60
-- Special-defense: 90
-- Speed: 48
+- Hp: 91
+- Attack: 134
+- Defense: 95
+- Special-attack: 100
+- Special-defense: 100
+- Speed: 80
