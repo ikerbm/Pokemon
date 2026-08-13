@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Iron-hands
-## ID: 992
+## Ledyba
+## ID: 165
 ### Tipos
-- Fighting
-- Electric
+- Bug
+- Flying
 ### Stats
-- Hp: 154
-- Attack: 140
-- Defense: 108
-- Special-attack: 50
-- Special-defense: 68
-- Speed: 50
+- Hp: 40
+- Attack: 20
+- Defense: 30
+- Special-attack: 40
+- Special-defense: 80
+- Speed: 55
