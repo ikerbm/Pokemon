@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Dragonite
-## ID: 149
+## Growlithe
+## ID: 58
 ### Tipos
-- Dragon
-- Flying
+- Fire
 ### Stats
-- Hp: 91
-- Attack: 134
-- Defense: 95
-- Special-attack: 100
-- Special-defense: 100
-- Speed: 80
+- Hp: 55
+- Attack: 70
+- Defense: 45
+- Special-attack: 70
+- Special-defense: 50
+- Speed: 60
