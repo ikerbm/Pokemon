@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Ogerpon
-## ID: 1017
+## Popplio
+## ID: 728
 ### Tipos
-- Grass
+- Water
 ### Stats
-- Hp: 80
-- Attack: 120
-- Defense: 84
-- Special-attack: 60
-- Special-defense: 96
-- Speed: 110
+- Hp: 50
+- Attack: 54
+- Defense: 54
+- Special-attack: 66
+- Special-defense: 56
+- Speed: 40
