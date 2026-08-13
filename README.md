@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Quaquaval
-## ID: 914
+## Bonsly
+## ID: 438
 ### Tipos
-- Water
-- Fighting
+- Rock
 ### Stats
-- Hp: 85
-- Attack: 120
-- Defense: 80
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 85
+- Hp: 50
+- Attack: 80
+- Defense: 95
+- Special-attack: 10
+- Special-defense: 45
+- Speed: 10
