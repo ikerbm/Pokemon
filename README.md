@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Charcadet
-## ID: 935
+## Eternatus
+## ID: 890
 ### Tipos
-- Fire
+- Poison
+- Dragon
 ### Stats
-- Hp: 40
-- Attack: 50
-- Defense: 40
-- Special-attack: 50
-- Special-defense: 40
-- Speed: 35
+- Hp: 140
+- Attack: 85
+- Defense: 95
+- Special-attack: 145
+- Special-defense: 95
+- Speed: 130
