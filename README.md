@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Squirtle
-## ID: 7
+## Rookidee
+## ID: 821
 ### Tipos
-- Water
+- Flying
 ### Stats
-- Hp: 44
-- Attack: 48
-- Defense: 65
-- Special-attack: 50
-- Special-defense: 64
-- Speed: 43
+- Hp: 38
+- Attack: 47
+- Defense: 35
+- Special-attack: 33
+- Special-defense: 35
+- Speed: 57
