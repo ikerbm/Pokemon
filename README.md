@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Arcanine
-## ID: 59
+## Volcarona
+## ID: 637
 ### Tipos
+- Bug
 - Fire
 ### Stats
-- Hp: 90
-- Attack: 110
-- Defense: 80
-- Special-attack: 100
-- Special-defense: 80
-- Speed: 95
+- Hp: 85
+- Attack: 60
+- Defense: 65
+- Special-attack: 135
+- Special-defense: 105
+- Speed: 100
