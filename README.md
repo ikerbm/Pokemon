@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Skwovet
-## ID: 819
+## Gholdengo
+## ID: 1000
 ### Tipos
-- Normal
+- Steel
+- Ghost
 ### Stats
-- Hp: 70
-- Attack: 55
-- Defense: 55
-- Special-attack: 35
-- Special-defense: 35
-- Speed: 25
+- Hp: 87
+- Attack: 60
+- Defense: 95
+- Special-attack: 133
+- Special-defense: 91
+- Speed: 84
