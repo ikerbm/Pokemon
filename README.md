@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Cramorant
-## ID: 845
+## Porygon2
+## ID: 233
 ### Tipos
-- Flying
-- Water
+- Normal
 ### Stats
-- Hp: 70
-- Attack: 85
-- Defense: 55
-- Special-attack: 85
+- Hp: 85
+- Attack: 80
+- Defense: 90
+- Special-attack: 105
 - Special-defense: 95
-- Speed: 85
+- Speed: 60
