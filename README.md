@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Dragonite
-## ID: 149
+## Illumise
+## ID: 314
 ### Tipos
-- Dragon
-- Flying
+- Bug
 ### Stats
-- Hp: 91
-- Attack: 134
-- Defense: 95
-- Special-attack: 100
-- Special-defense: 100
-- Speed: 80
+- Hp: 65
+- Attack: 47
+- Defense: 75
+- Special-attack: 73
+- Special-defense: 85
+- Speed: 85
