@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Lillipup
-## ID: 506
+## Teddiursa
+## ID: 216
 ### Tipos
 - Normal
 ### Stats
-- Hp: 45
-- Attack: 60
-- Defense: 45
-- Special-attack: 25
-- Special-defense: 45
-- Speed: 55
+- Hp: 60
+- Attack: 80
+- Defense: 50
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 40
