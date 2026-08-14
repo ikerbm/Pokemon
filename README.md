@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Cherubi
-## ID: 420
+## Druddigon
+## ID: 621
 ### Tipos
-- Grass
+- Dragon
 ### Stats
-- Hp: 45
-- Attack: 35
-- Defense: 45
-- Special-attack: 62
-- Special-defense: 53
-- Speed: 35
+- Hp: 77
+- Attack: 120
+- Defense: 90
+- Special-attack: 60
+- Special-defense: 90
+- Speed: 48
