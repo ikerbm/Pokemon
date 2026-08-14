@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Chimchar
-## ID: 390
+## Cherubi
+## ID: 420
 ### Tipos
-- Fire
+- Grass
 ### Stats
-- Hp: 44
-- Attack: 58
-- Defense: 44
-- Special-attack: 58
-- Special-defense: 44
-- Speed: 61
+- Hp: 45
+- Attack: 35
+- Defense: 45
+- Special-attack: 62
+- Special-defense: 53
+- Speed: 35
