@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Polteageist
-## ID: 855
+## Lillipup
+## ID: 506
 ### Tipos
-- Ghost
+- Normal
 ### Stats
-- Hp: 60
-- Attack: 65
-- Defense: 65
-- Special-attack: 134
-- Special-defense: 114
-- Speed: 70
+- Hp: 45
+- Attack: 60
+- Defense: 45
+- Special-attack: 25
+- Special-defense: 45
+- Speed: 55
