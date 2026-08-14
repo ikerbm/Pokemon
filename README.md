@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Volcarona
-## ID: 637
+## Dudunsparce-two-segment
+## ID: 982
 ### Tipos
-- Bug
-- Fire
+- Normal
 ### Stats
-- Hp: 85
-- Attack: 60
-- Defense: 65
-- Special-attack: 135
-- Special-defense: 105
-- Speed: 100
+- Hp: 125
+- Attack: 100
+- Defense: 80
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 55
