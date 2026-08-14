@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Arctozolt
-## ID: 881
+## Iron-hands
+## ID: 992
 ### Tipos
+- Fighting
 - Electric
-- Ice
 ### Stats
-- Hp: 90
-- Attack: 100
-- Defense: 90
-- Special-attack: 90
-- Special-defense: 80
-- Speed: 55
+- Hp: 154
+- Attack: 140
+- Defense: 108
+- Special-attack: 50
+- Special-defense: 68
+- Speed: 50
