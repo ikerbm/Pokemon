@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Mudkip
-## ID: 258
+## Gogoat
+## ID: 673
 ### Tipos
-- Water
+- Grass
 ### Stats
-- Hp: 50
-- Attack: 70
-- Defense: 50
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 40
+- Hp: 123
+- Attack: 100
+- Defense: 62
+- Special-attack: 97
+- Special-defense: 81
+- Speed: 68
