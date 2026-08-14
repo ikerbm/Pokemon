@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Flittle
-## ID: 955
+## Cramorant
+## ID: 845
 ### Tipos
-- Psychic
+- Flying
+- Water
 ### Stats
-- Hp: 30
-- Attack: 35
-- Defense: 30
-- Special-attack: 55
-- Special-defense: 30
-- Speed: 75
+- Hp: 70
+- Attack: 85
+- Defense: 55
+- Special-attack: 85
+- Special-defense: 95
+- Speed: 85
