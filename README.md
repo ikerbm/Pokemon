@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Illumise
-## ID: 314
+## Skwovet
+## ID: 819
 ### Tipos
-- Bug
+- Normal
 ### Stats
-- Hp: 65
-- Attack: 47
-- Defense: 75
-- Special-attack: 73
-- Special-defense: 85
-- Speed: 85
+- Hp: 70
+- Attack: 55
+- Defense: 55
+- Special-attack: 35
+- Special-defense: 35
+- Speed: 25
