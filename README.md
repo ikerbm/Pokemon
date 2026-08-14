@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Druddigon
-## ID: 621
+## Gastly
+## ID: 92
 ### Tipos
-- Dragon
+- Ghost
+- Poison
 ### Stats
-- Hp: 77
-- Attack: 120
-- Defense: 90
-- Special-attack: 60
-- Special-defense: 90
-- Speed: 48
+- Hp: 30
+- Attack: 35
+- Defense: 30
+- Special-attack: 100
+- Special-defense: 35
+- Speed: 80
