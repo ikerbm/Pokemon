@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Iron-hands
-## ID: 992
+## Chansey
+## ID: 113
 ### Tipos
-- Fighting
-- Electric
+- Normal
 ### Stats
-- Hp: 154
-- Attack: 140
-- Defense: 108
-- Special-attack: 50
-- Special-defense: 68
+- Hp: 250
+- Attack: 5
+- Defense: 5
+- Special-attack: 35
+- Special-defense: 105
 - Speed: 50
