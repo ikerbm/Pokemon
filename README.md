@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Teddiursa
-## ID: 216
+## Chespin
+## ID: 650
 ### Tipos
-- Normal
+- Grass
 ### Stats
-- Hp: 60
-- Attack: 80
-- Defense: 50
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 40
+- Hp: 56
+- Attack: 61
+- Defense: 65
+- Special-attack: 48
+- Special-defense: 45
+- Speed: 38
