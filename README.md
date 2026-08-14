@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Chansey
-## ID: 113
+## Mudkip
+## ID: 258
 ### Tipos
-- Normal
+- Water
 ### Stats
-- Hp: 250
-- Attack: 5
-- Defense: 5
-- Special-attack: 35
-- Special-defense: 105
-- Speed: 50
+- Hp: 50
+- Attack: 70
+- Defense: 50
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 40
