@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Gastly
-## ID: 92
+## Duskull
+## ID: 355
 ### Tipos
 - Ghost
-- Poison
 ### Stats
-- Hp: 30
-- Attack: 35
-- Defense: 30
-- Special-attack: 100
-- Special-defense: 35
-- Speed: 80
+- Hp: 20
+- Attack: 40
+- Defense: 90
+- Special-attack: 30
+- Special-defense: 90
+- Speed: 25
