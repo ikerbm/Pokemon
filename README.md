@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Porygon2
-## ID: 233
+## Arctozolt
+## ID: 881
 ### Tipos
-- Normal
+- Electric
+- Ice
 ### Stats
-- Hp: 85
-- Attack: 80
+- Hp: 90
+- Attack: 100
 - Defense: 90
-- Special-attack: 105
-- Special-defense: 95
-- Speed: 60
+- Special-attack: 90
+- Special-defense: 80
+- Speed: 55
