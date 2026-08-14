@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Chespin
-## ID: 650
+## Spinda
+## ID: 327
 ### Tipos
-- Grass
+- Normal
 ### Stats
-- Hp: 56
-- Attack: 61
-- Defense: 65
-- Special-attack: 48
-- Special-defense: 45
-- Speed: 38
+- Hp: 60
+- Attack: 60
+- Defense: 60
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 60
