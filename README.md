@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Dudunsparce-two-segment
-## ID: 982
+## Polteageist
+## ID: 855
 ### Tipos
-- Normal
+- Ghost
 ### Stats
-- Hp: 125
-- Attack: 100
-- Defense: 80
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 55
+- Hp: 60
+- Attack: 65
+- Defense: 65
+- Special-attack: 134
+- Special-defense: 114
+- Speed: 70
