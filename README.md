@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Gogoat
-## ID: 673
+## Pidgeotto
+## ID: 17
 ### Tipos
-- Grass
+- Normal
+- Flying
 ### Stats
-- Hp: 123
-- Attack: 100
-- Defense: 62
-- Special-attack: 97
-- Special-defense: 81
-- Speed: 68
+- Hp: 63
+- Attack: 60
+- Defense: 55
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 71
