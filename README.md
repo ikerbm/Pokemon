@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Spinda
-## ID: 327
+## Chimchar
+## ID: 390
 ### Tipos
-- Normal
+- Fire
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 60
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 60
+- Hp: 44
+- Attack: 58
+- Defense: 44
+- Special-attack: 58
+- Special-defense: 44
+- Speed: 61
