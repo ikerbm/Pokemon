@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Gholdengo
-## ID: 1000
+## Arcanine
+## ID: 59
 ### Tipos
-- Steel
-- Ghost
+- Fire
 ### Stats
-- Hp: 87
-- Attack: 60
-- Defense: 95
-- Special-attack: 133
-- Special-defense: 91
-- Speed: 84
+- Hp: 90
+- Attack: 110
+- Defense: 80
+- Special-attack: 100
+- Special-defense: 80
+- Speed: 95
