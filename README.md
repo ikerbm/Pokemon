@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Duskull
-## ID: 355
+## Sunkern
+## ID: 191
 ### Tipos
-- Ghost
+- Grass
 ### Stats
-- Hp: 20
-- Attack: 40
-- Defense: 90
+- Hp: 30
+- Attack: 30
+- Defense: 30
 - Special-attack: 30
-- Special-defense: 90
-- Speed: 25
+- Special-defense: 30
+- Speed: 30
