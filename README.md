@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Volcarona
-## ID: 637
+## Wo-chien
+## ID: 1001
 ### Tipos
-- Bug
-- Fire
+- Dark
+- Grass
 ### Stats
 - Hp: 85
-- Attack: 60
-- Defense: 65
-- Special-attack: 135
-- Special-defense: 105
-- Speed: 100
+- Attack: 85
+- Defense: 100
+- Special-attack: 95
+- Special-defense: 135
+- Speed: 70
