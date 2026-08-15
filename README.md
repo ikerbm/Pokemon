@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Froslass
-## ID: 478
+## Wooper
+## ID: 194
 ### Tipos
-- Ice
-- Ghost
+- Water
+- Ground
 ### Stats
-- Hp: 70
-- Attack: 80
-- Defense: 70
-- Special-attack: 80
-- Special-defense: 70
-- Speed: 110
+- Hp: 55
+- Attack: 45
+- Defense: 45
+- Special-attack: 25
+- Special-defense: 25
+- Speed: 15
