@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Grapploct
-## ID: 853
+## Tyrunt
+## ID: 696
 ### Tipos
-- Fighting
+- Rock
+- Dragon
 ### Stats
-- Hp: 80
-- Attack: 118
-- Defense: 90
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 42
+- Hp: 58
+- Attack: 89
+- Defense: 77
+- Special-attack: 45
+- Special-defense: 45
+- Speed: 48
