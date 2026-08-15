@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Mr-rime
-## ID: 866
+## Quaxwell
+## ID: 913
 ### Tipos
-- Ice
-- Psychic
+- Water
 ### Stats
-- Hp: 80
+- Hp: 70
 - Attack: 85
-- Defense: 75
-- Special-attack: 110
-- Special-defense: 100
-- Speed: 70
+- Defense: 65
+- Special-attack: 65
+- Special-defense: 60
+- Speed: 65
