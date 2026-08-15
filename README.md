@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Toxicroak
-## ID: 454
+## Nymble
+## ID: 919
 ### Tipos
-- Poison
-- Fighting
+- Bug
 ### Stats
-- Hp: 83
-- Attack: 106
-- Defense: 65
-- Special-attack: 86
-- Special-defense: 65
-- Speed: 85
+- Hp: 33
+- Attack: 46
+- Defense: 40
+- Special-attack: 21
+- Special-defense: 25
+- Speed: 45
