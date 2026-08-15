@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Magikarp
-## ID: 129
+## Skiddo
+## ID: 672
 ### Tipos
-- Water
+- Grass
 ### Stats
-- Hp: 20
-- Attack: 10
-- Defense: 55
-- Special-attack: 15
-- Special-defense: 20
-- Speed: 80
+- Hp: 66
+- Attack: 65
+- Defense: 48
+- Special-attack: 62
+- Special-defense: 57
+- Speed: 52
