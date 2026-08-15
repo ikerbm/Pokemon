@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Clawitzer
-## ID: 693
+## Amaura
+## ID: 698
 ### Tipos
-- Water
+- Rock
+- Ice
 ### Stats
-- Hp: 71
-- Attack: 73
-- Defense: 88
-- Special-attack: 120
-- Special-defense: 89
-- Speed: 59
+- Hp: 77
+- Attack: 59
+- Defense: 50
+- Special-attack: 67
+- Special-defense: 63
+- Speed: 46
