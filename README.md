@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Onix
-## ID: 95
+## Vikavolt
+## ID: 738
 ### Tipos
-- Rock
-- Ground
+- Bug
+- Electric
 ### Stats
-- Hp: 35
-- Attack: 45
-- Defense: 160
-- Special-attack: 30
-- Special-defense: 45
-- Speed: 70
+- Hp: 77
+- Attack: 70
+- Defense: 90
+- Special-attack: 145
+- Special-defense: 75
+- Speed: 43
