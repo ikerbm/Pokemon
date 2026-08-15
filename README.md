@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Remoraid
-## ID: 223
+## Tadbulb
+## ID: 938
 ### Tipos
-- Water
+- Electric
 ### Stats
-- Hp: 35
-- Attack: 65
-- Defense: 35
-- Special-attack: 65
+- Hp: 61
+- Attack: 31
+- Defense: 41
+- Special-attack: 59
 - Special-defense: 35
-- Speed: 65
+- Speed: 45
