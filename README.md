@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Comfey
-## ID: 764
+## Lucario
+## ID: 448
 ### Tipos
-- Fairy
+- Fighting
+- Steel
 ### Stats
-- Hp: 51
-- Attack: 52
-- Defense: 90
-- Special-attack: 82
-- Special-defense: 110
-- Speed: 100
+- Hp: 70
+- Attack: 110
+- Defense: 70
+- Special-attack: 115
+- Special-defense: 70
+- Speed: 90
