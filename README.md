@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Wo-chien
-## ID: 1001
+## Mesprit
+## ID: 481
 ### Tipos
-- Dark
-- Grass
+- Psychic
 ### Stats
-- Hp: 85
-- Attack: 85
-- Defense: 100
-- Special-attack: 95
-- Special-defense: 135
-- Speed: 70
+- Hp: 80
+- Attack: 105
+- Defense: 105
+- Special-attack: 105
+- Special-defense: 105
+- Speed: 80
