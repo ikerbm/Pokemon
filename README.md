@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Armaldo
-## ID: 348
+## Comfey
+## ID: 764
 ### Tipos
-- Rock
-- Bug
+- Fairy
 ### Stats
-- Hp: 75
-- Attack: 125
-- Defense: 100
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 45
+- Hp: 51
+- Attack: 52
+- Defense: 90
+- Special-attack: 82
+- Special-defense: 110
+- Speed: 100
