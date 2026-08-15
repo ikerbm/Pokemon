@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Kartana
-## ID: 798
+## Victreebel
+## ID: 71
 ### Tipos
 - Grass
-- Steel
+- Poison
 ### Stats
-- Hp: 59
-- Attack: 181
-- Defense: 131
-- Special-attack: 59
-- Special-defense: 31
-- Speed: 109
+- Hp: 80
+- Attack: 105
+- Defense: 65
+- Special-attack: 100
+- Special-defense: 70
+- Speed: 70
