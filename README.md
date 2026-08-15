@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Espeon
-## ID: 196
+## Mr-rime
+## ID: 866
 ### Tipos
+- Ice
 - Psychic
 ### Stats
-- Hp: 65
-- Attack: 65
-- Defense: 60
-- Special-attack: 130
-- Special-defense: 95
-- Speed: 110
+- Hp: 80
+- Attack: 85
+- Defense: 75
+- Special-attack: 110
+- Special-defense: 100
+- Speed: 70
