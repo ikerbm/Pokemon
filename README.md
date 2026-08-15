@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Toxtricity-amped
-## ID: 849
+## Meowstic-male
+## ID: 678
 ### Tipos
-- Electric
-- Poison
+- Psychic
 ### Stats
-- Hp: 75
-- Attack: 98
-- Defense: 70
-- Special-attack: 114
-- Special-defense: 70
-- Speed: 75
+- Hp: 74
+- Attack: 48
+- Defense: 76
+- Special-attack: 83
+- Special-defense: 81
+- Speed: 104
