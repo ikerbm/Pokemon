@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Gloom
-## ID: 44
+## Swablu
+## ID: 333
 ### Tipos
-- Grass
-- Poison
+- Normal
+- Flying
 ### Stats
-- Hp: 60
-- Attack: 65
-- Defense: 70
-- Special-attack: 85
+- Hp: 45
+- Attack: 40
+- Defense: 60
+- Special-attack: 40
 - Special-defense: 75
-- Speed: 40
+- Speed: 50
