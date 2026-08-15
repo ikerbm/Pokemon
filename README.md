@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Lucario
-## ID: 448
+## Regirock
+## ID: 377
 ### Tipos
-- Fighting
-- Steel
+- Rock
 ### Stats
-- Hp: 70
-- Attack: 110
-- Defense: 70
-- Special-attack: 115
-- Special-defense: 70
-- Speed: 90
+- Hp: 80
+- Attack: 100
+- Defense: 200
+- Special-attack: 50
+- Special-defense: 100
+- Speed: 50
