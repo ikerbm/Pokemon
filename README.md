@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Azurill
-## ID: 298
+## Bayleef
+## ID: 153
 ### Tipos
-- Normal
-- Fairy
+- Grass
 ### Stats
-- Hp: 50
-- Attack: 20
-- Defense: 40
-- Special-attack: 20
-- Special-defense: 40
-- Speed: 20
+- Hp: 60
+- Attack: 62
+- Defense: 80
+- Special-attack: 63
+- Special-defense: 80
+- Speed: 60
