@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Grimer
-## ID: 88
+## Mabosstiff
+## ID: 943
 ### Tipos
-- Poison
+- Dark
 ### Stats
 - Hp: 80
-- Attack: 80
-- Defense: 50
-- Special-attack: 40
-- Special-defense: 50
-- Speed: 25
+- Attack: 120
+- Defense: 90
+- Special-attack: 60
+- Special-defense: 70
+- Speed: 85
