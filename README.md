@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Skiddo
-## ID: 672
+## Celesteela
+## ID: 797
 ### Tipos
-- Grass
+- Steel
+- Flying
 ### Stats
-- Hp: 66
-- Attack: 65
-- Defense: 48
-- Special-attack: 62
-- Special-defense: 57
-- Speed: 52
+- Hp: 97
+- Attack: 101
+- Defense: 103
+- Special-attack: 107
+- Special-defense: 101
+- Speed: 61
