@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Archen
-## ID: 566
+## Haunter
+## ID: 93
 ### Tipos
-- Rock
-- Flying
+- Ghost
+- Poison
 ### Stats
-- Hp: 55
-- Attack: 112
+- Hp: 45
+- Attack: 50
 - Defense: 45
-- Special-attack: 74
-- Special-defense: 45
-- Speed: 70
+- Special-attack: 115
+- Special-defense: 55
+- Speed: 95
