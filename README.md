@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Slither-wing
-## ID: 988
+## Grimer
+## ID: 88
 ### Tipos
-- Bug
-- Fighting
+- Poison
 ### Stats
-- Hp: 85
-- Attack: 135
-- Defense: 79
-- Special-attack: 85
-- Special-defense: 105
-- Speed: 81
+- Hp: 80
+- Attack: 80
+- Defense: 50
+- Special-attack: 40
+- Special-defense: 50
+- Speed: 25
