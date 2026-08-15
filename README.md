@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Haunter
-## ID: 93
+## Slither-wing
+## ID: 988
 ### Tipos
-- Ghost
-- Poison
+- Bug
+- Fighting
 ### Stats
-- Hp: 45
-- Attack: 50
-- Defense: 45
-- Special-attack: 115
-- Special-defense: 55
-- Speed: 95
+- Hp: 85
+- Attack: 135
+- Defense: 79
+- Special-attack: 85
+- Special-defense: 105
+- Speed: 81
