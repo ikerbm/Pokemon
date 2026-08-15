@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Mabosstiff
-## ID: 943
+## Whismur
+## ID: 293
 ### Tipos
-- Dark
+- Normal
 ### Stats
-- Hp: 80
-- Attack: 120
-- Defense: 90
-- Special-attack: 60
-- Special-defense: 70
-- Speed: 85
+- Hp: 64
+- Attack: 51
+- Defense: 23
+- Special-attack: 51
+- Special-defense: 23
+- Speed: 28
