@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Corphish
-## ID: 341
+## Gloom
+## ID: 44
 ### Tipos
-- Water
+- Grass
+- Poison
 ### Stats
-- Hp: 43
-- Attack: 80
-- Defense: 65
-- Special-attack: 50
-- Special-defense: 35
-- Speed: 35
+- Hp: 60
+- Attack: 65
+- Defense: 70
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 40
