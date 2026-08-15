@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Darmanitan-standard
-## ID: 555
+## Gengar
+## ID: 94
 ### Tipos
-- Fire
+- Ghost
+- Poison
 ### Stats
-- Hp: 105
-- Attack: 140
-- Defense: 55
-- Special-attack: 30
-- Special-defense: 55
-- Speed: 95
+- Hp: 60
+- Attack: 65
+- Defense: 60
+- Special-attack: 130
+- Special-defense: 75
+- Speed: 110
