@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Gallade
-## ID: 475
+## Trapinch
+## ID: 328
 ### Tipos
-- Psychic
-- Fighting
+- Ground
 ### Stats
-- Hp: 68
-- Attack: 125
-- Defense: 65
-- Special-attack: 65
-- Special-defense: 115
-- Speed: 80
+- Hp: 45
+- Attack: 100
+- Defense: 45
+- Special-attack: 45
+- Special-defense: 45
+- Speed: 10
