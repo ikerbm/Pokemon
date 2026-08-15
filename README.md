@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Victreebel
-## ID: 71
+## Scyther
+## ID: 123
 ### Tipos
-- Grass
-- Poison
+- Bug
+- Flying
 ### Stats
-- Hp: 80
-- Attack: 105
-- Defense: 65
-- Special-attack: 100
-- Special-defense: 70
-- Speed: 70
+- Hp: 70
+- Attack: 110
+- Defense: 80
+- Special-attack: 55
+- Special-defense: 80
+- Speed: 105
