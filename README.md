@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Quaxwell
-## ID: 913
+## Froslass
+## ID: 478
 ### Tipos
-- Water
+- Ice
+- Ghost
 ### Stats
 - Hp: 70
-- Attack: 85
-- Defense: 65
-- Special-attack: 65
-- Special-defense: 60
-- Speed: 65
+- Attack: 80
+- Defense: 70
+- Special-attack: 80
+- Special-defense: 70
+- Speed: 110
