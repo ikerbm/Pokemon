@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Mudkip
-## ID: 258
+## Mr-rime
+## ID: 866
 ### Tipos
-- Water
+- Ice
+- Psychic
 ### Stats
-- Hp: 50
-- Attack: 70
-- Defense: 50
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 40
+- Hp: 80
+- Attack: 85
+- Defense: 75
+- Special-attack: 110
+- Special-defense: 100
+- Speed: 70
