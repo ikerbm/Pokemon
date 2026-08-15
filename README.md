@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Nuzleaf
-## ID: 274
+## Magikarp
+## ID: 129
 ### Tipos
-- Grass
-- Dark
+- Water
 ### Stats
-- Hp: 70
-- Attack: 70
-- Defense: 40
-- Special-attack: 60
-- Special-defense: 40
-- Speed: 60
+- Hp: 20
+- Attack: 10
+- Defense: 55
+- Special-attack: 15
+- Special-defense: 20
+- Speed: 80
