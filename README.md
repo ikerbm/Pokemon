@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Regirock
-## ID: 377
+## Natu
+## ID: 177
 ### Tipos
-- Rock
+- Psychic
+- Flying
 ### Stats
-- Hp: 80
-- Attack: 100
-- Defense: 200
-- Special-attack: 50
-- Special-defense: 100
-- Speed: 50
+- Hp: 40
+- Attack: 50
+- Defense: 45
+- Special-attack: 70
+- Special-defense: 45
+- Speed: 70
