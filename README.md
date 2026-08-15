@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Vikavolt
-## ID: 738
+## Machoke
+## ID: 67
 ### Tipos
-- Bug
-- Electric
+- Fighting
 ### Stats
-- Hp: 77
-- Attack: 70
-- Defense: 90
-- Special-attack: 145
-- Special-defense: 75
-- Speed: 43
+- Hp: 80
+- Attack: 100
+- Defense: 70
+- Special-attack: 50
+- Special-defense: 60
+- Speed: 45
