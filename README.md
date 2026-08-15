@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Mr-rime
-## ID: 866
+## Kartana
+## ID: 798
 ### Tipos
-- Ice
-- Psychic
+- Grass
+- Steel
 ### Stats
-- Hp: 80
-- Attack: 85
-- Defense: 75
-- Special-attack: 110
-- Special-defense: 100
-- Speed: 70
+- Hp: 59
+- Attack: 181
+- Defense: 131
+- Special-attack: 59
+- Special-defense: 31
+- Speed: 109
