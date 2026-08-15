@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Roselia
-## ID: 315
+## Clawitzer
+## ID: 693
 ### Tipos
-- Grass
-- Poison
+- Water
 ### Stats
-- Hp: 50
-- Attack: 60
-- Defense: 45
-- Special-attack: 100
-- Special-defense: 80
-- Speed: 65
+- Hp: 71
+- Attack: 73
+- Defense: 88
+- Special-attack: 120
+- Special-defense: 89
+- Speed: 59
