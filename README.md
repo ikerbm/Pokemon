@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Wooper
-## ID: 194
+## Remoraid
+## ID: 223
 ### Tipos
 - Water
-- Ground
 ### Stats
-- Hp: 55
-- Attack: 45
-- Defense: 45
-- Special-attack: 25
-- Special-defense: 25
-- Speed: 15
+- Hp: 35
+- Attack: 65
+- Defense: 35
+- Special-attack: 65
+- Special-defense: 35
+- Speed: 65
