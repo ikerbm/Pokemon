@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Celesteela
-## ID: 797
+## Roselia
+## ID: 315
 ### Tipos
-- Steel
-- Flying
+- Grass
+- Poison
 ### Stats
-- Hp: 97
-- Attack: 101
-- Defense: 103
-- Special-attack: 107
-- Special-defense: 101
-- Speed: 61
+- Hp: 50
+- Attack: 60
+- Defense: 45
+- Special-attack: 100
+- Special-defense: 80
+- Speed: 65
