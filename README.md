@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Breloom
-## ID: 286
+## Mr-rime
+## ID: 866
 ### Tipos
-- Grass
-- Fighting
+- Ice
+- Psychic
 ### Stats
-- Hp: 60
-- Attack: 130
-- Defense: 80
-- Special-attack: 60
-- Special-defense: 60
+- Hp: 80
+- Attack: 85
+- Defense: 75
+- Special-attack: 110
+- Special-defense: 100
 - Speed: 70
