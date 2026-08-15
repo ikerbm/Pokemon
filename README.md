@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Gengar
-## ID: 94
+## Espeon
+## ID: 196
 ### Tipos
-- Ghost
-- Poison
+- Psychic
 ### Stats
-- Hp: 60
+- Hp: 65
 - Attack: 65
 - Defense: 60
 - Special-attack: 130
-- Special-defense: 75
+- Special-defense: 95
 - Speed: 110
