@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Scyther
-## ID: 123
+## Corphish
+## ID: 341
 ### Tipos
-- Bug
-- Flying
+- Water
 ### Stats
-- Hp: 70
-- Attack: 110
-- Defense: 80
-- Special-attack: 55
-- Special-defense: 80
-- Speed: 105
+- Hp: 43
+- Attack: 80
+- Defense: 65
+- Special-attack: 50
+- Special-defense: 35
+- Speed: 35
