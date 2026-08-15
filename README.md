@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Amaura
-## ID: 698
+## Rillaboom
+## ID: 812
 ### Tipos
-- Rock
-- Ice
+- Grass
 ### Stats
-- Hp: 77
-- Attack: 59
-- Defense: 50
-- Special-attack: 67
-- Special-defense: 63
-- Speed: 46
+- Hp: 100
+- Attack: 125
+- Defense: 90
+- Special-attack: 60
+- Special-defense: 70
+- Speed: 85
