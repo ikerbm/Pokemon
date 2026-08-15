@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Natu
-## ID: 177
+## Golem
+## ID: 76
 ### Tipos
-- Psychic
-- Flying
+- Rock
+- Ground
 ### Stats
-- Hp: 40
-- Attack: 50
-- Defense: 45
-- Special-attack: 70
-- Special-defense: 45
-- Speed: 70
+- Hp: 80
+- Attack: 120
+- Defense: 130
+- Special-attack: 55
+- Special-defense: 65
+- Speed: 45
