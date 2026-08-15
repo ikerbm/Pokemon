@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Tyrunt
-## ID: 696
+## Archen
+## ID: 566
 ### Tipos
 - Rock
-- Dragon
+- Flying
 ### Stats
-- Hp: 58
-- Attack: 89
-- Defense: 77
-- Special-attack: 45
+- Hp: 55
+- Attack: 112
+- Defense: 45
+- Special-attack: 74
 - Special-defense: 45
-- Speed: 48
+- Speed: 70
