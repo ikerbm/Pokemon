@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Trapinch
-## ID: 328
+## Azurill
+## ID: 298
 ### Tipos
-- Ground
+- Normal
+- Fairy
 ### Stats
-- Hp: 45
-- Attack: 100
-- Defense: 45
-- Special-attack: 45
-- Special-defense: 45
-- Speed: 10
+- Hp: 50
+- Attack: 20
+- Defense: 40
+- Special-attack: 20
+- Special-defense: 40
+- Speed: 20
