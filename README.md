@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Mr-rime
-## ID: 866
+## Toxicroak
+## ID: 454
 ### Tipos
-- Ice
-- Psychic
+- Poison
+- Fighting
 ### Stats
-- Hp: 80
-- Attack: 85
-- Defense: 75
-- Special-attack: 110
-- Special-defense: 100
-- Speed: 70
+- Hp: 83
+- Attack: 106
+- Defense: 65
+- Special-attack: 86
+- Special-defense: 65
+- Speed: 85
