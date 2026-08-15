@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Fletchling
-## ID: 661
+## Breloom
+## ID: 286
 ### Tipos
-- Normal
-- Flying
+- Grass
+- Fighting
 ### Stats
-- Hp: 45
-- Attack: 50
-- Defense: 43
-- Special-attack: 40
-- Special-defense: 38
-- Speed: 62
+- Hp: 60
+- Attack: 130
+- Defense: 80
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 70
