@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Bulbasaur
-## ID: 1
+## Nuzleaf
+## ID: 274
 ### Tipos
 - Grass
-- Poison
+- Dark
 ### Stats
-- Hp: 45
-- Attack: 49
-- Defense: 49
-- Special-attack: 65
-- Special-defense: 65
-- Speed: 45
+- Hp: 70
+- Attack: 70
+- Defense: 40
+- Special-attack: 60
+- Special-defense: 40
+- Speed: 60
