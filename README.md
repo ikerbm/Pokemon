@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Tadbulb
-## ID: 938
+## Armaldo
+## ID: 348
 ### Tipos
-- Electric
+- Rock
+- Bug
 ### Stats
-- Hp: 61
-- Attack: 31
-- Defense: 41
-- Special-attack: 59
-- Special-defense: 35
+- Hp: 75
+- Attack: 125
+- Defense: 100
+- Special-attack: 70
+- Special-defense: 80
 - Speed: 45
