@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Rillaboom
-## ID: 812
+## Volcarona
+## ID: 637
 ### Tipos
-- Grass
+- Bug
+- Fire
 ### Stats
-- Hp: 100
-- Attack: 125
-- Defense: 90
-- Special-attack: 60
-- Special-defense: 70
-- Speed: 85
+- Hp: 85
+- Attack: 60
+- Defense: 65
+- Special-attack: 135
+- Special-defense: 105
+- Speed: 100
