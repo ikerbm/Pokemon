@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Swablu
-## ID: 333
+## Mudkip
+## ID: 258
 ### Tipos
-- Normal
-- Flying
+- Water
 ### Stats
-- Hp: 45
-- Attack: 40
-- Defense: 60
-- Special-attack: 40
-- Special-defense: 75
-- Speed: 50
+- Hp: 50
+- Attack: 70
+- Defense: 50
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 40
