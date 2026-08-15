@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Mesprit
-## ID: 481
+## Toxtricity-amped
+## ID: 849
 ### Tipos
-- Psychic
+- Electric
+- Poison
 ### Stats
-- Hp: 80
-- Attack: 105
-- Defense: 105
-- Special-attack: 105
-- Special-defense: 105
-- Speed: 80
+- Hp: 75
+- Attack: 98
+- Defense: 70
+- Special-attack: 114
+- Special-defense: 70
+- Speed: 75
