@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Meowstic-male
-## ID: 678
+## Darmanitan-standard
+## ID: 555
 ### Tipos
-- Psychic
+- Fire
 ### Stats
-- Hp: 74
-- Attack: 48
-- Defense: 76
-- Special-attack: 83
-- Special-defense: 81
-- Speed: 104
+- Hp: 105
+- Attack: 140
+- Defense: 55
+- Special-attack: 30
+- Special-defense: 55
+- Speed: 95
