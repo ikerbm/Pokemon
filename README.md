@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Trumbeak
-## ID: 732
+## Gumshoos
+## ID: 735
 ### Tipos
 - Normal
-- Flying
 ### Stats
-- Hp: 55
-- Attack: 85
-- Defense: 50
-- Special-attack: 40
-- Special-defense: 50
-- Speed: 75
+- Hp: 88
+- Attack: 110
+- Defense: 60
+- Special-attack: 55
+- Special-defense: 60
+- Speed: 45
