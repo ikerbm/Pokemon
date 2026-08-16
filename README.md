@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Charmander
-## ID: 4
+## Servine
+## ID: 496
 ### Tipos
-- Fire
+- Grass
 ### Stats
-- Hp: 39
-- Attack: 52
-- Defense: 43
+- Hp: 60
+- Attack: 60
+- Defense: 75
 - Special-attack: 60
-- Special-defense: 50
-- Speed: 65
+- Special-defense: 75
+- Speed: 83
