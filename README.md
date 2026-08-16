@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Bunnelby
-## ID: 659
+## Lombre
+## ID: 271
 ### Tipos
-- Normal
+- Water
+- Grass
 ### Stats
-- Hp: 38
-- Attack: 36
-- Defense: 38
-- Special-attack: 32
-- Special-defense: 36
-- Speed: 57
+- Hp: 60
+- Attack: 50
+- Defense: 50
+- Special-attack: 60
+- Special-defense: 70
+- Speed: 50
