@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Flareon
-## ID: 136
+## Illumise
+## ID: 314
 ### Tipos
-- Fire
+- Bug
 ### Stats
 - Hp: 65
-- Attack: 130
-- Defense: 60
-- Special-attack: 95
-- Special-defense: 110
-- Speed: 65
+- Attack: 47
+- Defense: 75
+- Special-attack: 73
+- Special-defense: 85
+- Speed: 85
