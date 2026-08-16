@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Drowzee
-## ID: 96
+## Trumbeak
+## ID: 732
 ### Tipos
-- Psychic
+- Normal
+- Flying
 ### Stats
-- Hp: 60
-- Attack: 48
-- Defense: 45
-- Special-attack: 43
-- Special-defense: 90
-- Speed: 42
+- Hp: 55
+- Attack: 85
+- Defense: 50
+- Special-attack: 40
+- Special-defense: 50
+- Speed: 75
