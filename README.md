@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Swalot
-## ID: 317
+## Revavroom
+## ID: 966
 ### Tipos
+- Steel
 - Poison
 ### Stats
-- Hp: 100
-- Attack: 73
-- Defense: 83
-- Special-attack: 73
-- Special-defense: 83
-- Speed: 55
+- Hp: 80
+- Attack: 119
+- Defense: 90
+- Special-attack: 54
+- Special-defense: 67
+- Speed: 90
