@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Roselia
-## ID: 315
+## Orthworm
+## ID: 968
 ### Tipos
-- Grass
-- Poison
+- Steel
 ### Stats
-- Hp: 50
-- Attack: 60
-- Defense: 45
-- Special-attack: 100
-- Special-defense: 80
+- Hp: 70
+- Attack: 85
+- Defense: 145
+- Special-attack: 60
+- Special-defense: 55
 - Speed: 65
