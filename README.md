@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Hawlucha
-## ID: 701
+## Patrat
+## ID: 504
 ### Tipos
-- Fighting
-- Flying
+- Normal
 ### Stats
-- Hp: 78
-- Attack: 92
-- Defense: 75
-- Special-attack: 74
-- Special-defense: 63
-- Speed: 118
+- Hp: 45
+- Attack: 55
+- Defense: 39
+- Special-attack: 35
+- Special-defense: 39
+- Speed: 42
