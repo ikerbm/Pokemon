@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Nymble
-## ID: 919
+## Wo-chien
+## ID: 1001
 ### Tipos
-- Bug
+- Dark
+- Grass
 ### Stats
-- Hp: 33
-- Attack: 46
-- Defense: 40
-- Special-attack: 21
-- Special-defense: 25
-- Speed: 45
+- Hp: 85
+- Attack: 85
+- Defense: 100
+- Special-attack: 95
+- Special-defense: 135
+- Speed: 70
