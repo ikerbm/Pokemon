@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Carvanha
-## ID: 318
+## Nymble
+## ID: 919
 ### Tipos
-- Water
-- Dark
+- Bug
 ### Stats
-- Hp: 45
-- Attack: 90
-- Defense: 20
-- Special-attack: 65
-- Special-defense: 20
-- Speed: 65
+- Hp: 33
+- Attack: 46
+- Defense: 40
+- Special-attack: 21
+- Special-defense: 25
+- Speed: 45
