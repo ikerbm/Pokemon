@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Avalugg
-## ID: 713
+## Koffing
+## ID: 109
 ### Tipos
-- Ice
+- Poison
 ### Stats
-- Hp: 95
-- Attack: 117
-- Defense: 184
-- Special-attack: 44
-- Special-defense: 46
-- Speed: 28
+- Hp: 40
+- Attack: 65
+- Defense: 95
+- Special-attack: 60
+- Special-defense: 45
+- Speed: 35
