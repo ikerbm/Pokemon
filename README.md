@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cinccino
-## ID: 573
+## Scizor
+## ID: 212
 ### Tipos
-- Normal
+- Bug
+- Steel
 ### Stats
-- Hp: 75
-- Attack: 95
-- Defense: 60
-- Special-attack: 65
-- Special-defense: 60
-- Speed: 115
+- Hp: 70
+- Attack: 130
+- Defense: 100
+- Special-attack: 55
+- Special-defense: 80
+- Speed: 65
