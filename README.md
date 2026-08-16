@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Blacephalon
-## ID: 806
+## Persian
+## ID: 53
 ### Tipos
-- Fire
-- Ghost
+- Normal
 ### Stats
-- Hp: 53
-- Attack: 127
-- Defense: 53
-- Special-attack: 151
-- Special-defense: 79
-- Speed: 107
+- Hp: 65
+- Attack: 70
+- Defense: 60
+- Special-attack: 65
+- Special-defense: 65
+- Speed: 115
