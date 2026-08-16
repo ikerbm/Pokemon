@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Kingler
-## ID: 99
+## Incineroar
+## ID: 727
 ### Tipos
-- Water
+- Fire
+- Dark
 ### Stats
-- Hp: 55
-- Attack: 130
-- Defense: 115
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 75
+- Hp: 95
+- Attack: 115
+- Defense: 90
+- Special-attack: 80
+- Special-defense: 90
+- Speed: 60
