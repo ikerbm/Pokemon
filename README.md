@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Cherrim
-## ID: 421
+## Dondozo
+## ID: 977
 ### Tipos
-- Grass
+- Water
 ### Stats
-- Hp: 70
-- Attack: 60
-- Defense: 70
-- Special-attack: 87
-- Special-defense: 78
-- Speed: 85
+- Hp: 150
+- Attack: 100
+- Defense: 115
+- Special-attack: 65
+- Special-defense: 65
+- Speed: 35
