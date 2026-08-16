@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Corsola
-## ID: 222
+## Fidough
+## ID: 926
 ### Tipos
-- Water
-- Rock
+- Fairy
 ### Stats
-- Hp: 65
+- Hp: 37
 - Attack: 55
-- Defense: 95
-- Special-attack: 65
-- Special-defense: 95
-- Speed: 35
+- Defense: 70
+- Special-attack: 30
+- Special-defense: 55
+- Speed: 65
