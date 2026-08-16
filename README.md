@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Lombre
-## ID: 271
+## Poliwag
+## ID: 60
 ### Tipos
 - Water
-- Grass
 ### Stats
-- Hp: 60
+- Hp: 40
 - Attack: 50
-- Defense: 50
-- Special-attack: 60
-- Special-defense: 70
-- Speed: 50
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 90
