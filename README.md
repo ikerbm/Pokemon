@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Koffing
-## ID: 109
+## Pansage
+## ID: 511
 ### Tipos
-- Poison
+- Grass
 ### Stats
-- Hp: 40
-- Attack: 65
-- Defense: 95
-- Special-attack: 60
-- Special-defense: 45
-- Speed: 35
+- Hp: 50
+- Attack: 53
+- Defense: 48
+- Special-attack: 53
+- Special-defense: 48
+- Speed: 64
