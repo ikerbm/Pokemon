@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Eelektrik
-## ID: 603
+## Corphish
+## ID: 341
 ### Tipos
-- Electric
+- Water
 ### Stats
-- Hp: 65
-- Attack: 85
-- Defense: 70
-- Special-attack: 75
-- Special-defense: 70
-- Speed: 40
+- Hp: 43
+- Attack: 80
+- Defense: 65
+- Special-attack: 50
+- Special-defense: 35
+- Speed: 35
