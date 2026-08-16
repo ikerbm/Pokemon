@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Celebi
-## ID: 251
+## Hakamo-o
+## ID: 783
 ### Tipos
-- Psychic
-- Grass
+- Dragon
+- Fighting
 ### Stats
-- Hp: 100
-- Attack: 100
-- Defense: 100
-- Special-attack: 100
-- Special-defense: 100
-- Speed: 100
+- Hp: 55
+- Attack: 75
+- Defense: 90
+- Special-attack: 65
+- Special-defense: 70
+- Speed: 65
