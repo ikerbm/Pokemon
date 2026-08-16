@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Kadabra
-## ID: 64
+## Charmeleon
+## ID: 5
 ### Tipos
-- Psychic
+- Fire
 ### Stats
-- Hp: 40
-- Attack: 35
-- Defense: 30
-- Special-attack: 120
-- Special-defense: 70
-- Speed: 105
+- Hp: 58
+- Attack: 64
+- Defense: 58
+- Special-attack: 80
+- Special-defense: 65
+- Speed: 80
