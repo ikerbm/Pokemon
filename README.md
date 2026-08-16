@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Scizor
-## ID: 212
+## Wugtrio
+## ID: 961
 ### Tipos
-- Bug
-- Steel
+- Water
 ### Stats
-- Hp: 70
-- Attack: 130
-- Defense: 100
-- Special-attack: 55
-- Special-defense: 80
-- Speed: 65
+- Hp: 35
+- Attack: 100
+- Defense: 50
+- Special-attack: 50
+- Special-defense: 70
+- Speed: 120
