@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Patrat
-## ID: 504
+## Audino
+## ID: 531
 ### Tipos
 - Normal
 ### Stats
-- Hp: 45
-- Attack: 55
-- Defense: 39
-- Special-attack: 35
-- Special-defense: 39
-- Speed: 42
+- Hp: 103
+- Attack: 60
+- Defense: 86
+- Special-attack: 60
+- Special-defense: 86
+- Speed: 50
