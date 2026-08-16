@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Audino
-## ID: 531
+## Fuecoco
+## ID: 909
 ### Tipos
-- Normal
+- Fire
 ### Stats
-- Hp: 103
-- Attack: 60
-- Defense: 86
-- Special-attack: 60
-- Special-defense: 86
-- Speed: 50
+- Hp: 67
+- Attack: 45
+- Defense: 59
+- Special-attack: 63
+- Special-defense: 40
+- Speed: 36
