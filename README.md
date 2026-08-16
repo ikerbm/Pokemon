@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Decidueye
-## ID: 724
+## Kakuna
+## ID: 14
 ### Tipos
-- Grass
-- Ghost
+- Bug
+- Poison
 ### Stats
-- Hp: 78
-- Attack: 107
-- Defense: 75
-- Special-attack: 100
-- Special-defense: 100
-- Speed: 70
+- Hp: 45
+- Attack: 25
+- Defense: 50
+- Special-attack: 25
+- Special-defense: 25
+- Speed: 35
