@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Ledian
-## ID: 166
+## Woobat
+## ID: 527
 ### Tipos
-- Bug
+- Psychic
 - Flying
 ### Stats
-- Hp: 55
-- Attack: 35
-- Defense: 50
+- Hp: 65
+- Attack: 45
+- Defense: 43
 - Special-attack: 55
-- Special-defense: 110
-- Speed: 85
+- Special-defense: 43
+- Speed: 72
