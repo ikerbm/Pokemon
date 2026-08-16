@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Swablu
-## ID: 333
+## Flareon
+## ID: 136
 ### Tipos
-- Normal
-- Flying
+- Fire
 ### Stats
-- Hp: 45
-- Attack: 40
+- Hp: 65
+- Attack: 130
 - Defense: 60
-- Special-attack: 40
-- Special-defense: 75
-- Speed: 50
+- Special-attack: 95
+- Special-defense: 110
+- Speed: 65
