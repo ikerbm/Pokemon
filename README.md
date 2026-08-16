@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Squirtle
-## ID: 7
+## Cherrim
+## ID: 421
 ### Tipos
-- Water
+- Grass
 ### Stats
-- Hp: 44
-- Attack: 48
-- Defense: 65
-- Special-attack: 50
-- Special-defense: 64
-- Speed: 43
+- Hp: 70
+- Attack: 60
+- Defense: 70
+- Special-attack: 87
+- Special-defense: 78
+- Speed: 85
