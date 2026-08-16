@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Wugtrio
-## ID: 961
+## Quaxly
+## ID: 912
 ### Tipos
 - Water
 ### Stats
-- Hp: 35
-- Attack: 100
-- Defense: 50
+- Hp: 55
+- Attack: 65
+- Defense: 45
 - Special-attack: 50
-- Special-defense: 70
-- Speed: 120
+- Special-defense: 45
+- Speed: 50
