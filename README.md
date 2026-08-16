@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Luvdisc
-## ID: 370
+## Drowzee
+## ID: 96
 ### Tipos
-- Water
+- Psychic
 ### Stats
-- Hp: 43
-- Attack: 30
-- Defense: 55
-- Special-attack: 40
-- Special-defense: 65
-- Speed: 97
+- Hp: 60
+- Attack: 48
+- Defense: 45
+- Special-attack: 43
+- Special-defense: 90
+- Speed: 42
