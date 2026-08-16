@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Exeggcute
-## ID: 102
+## Cinccino
+## ID: 573
 ### Tipos
-- Grass
-- Psychic
+- Normal
 ### Stats
-- Hp: 60
-- Attack: 40
-- Defense: 80
-- Special-attack: 60
-- Special-defense: 45
-- Speed: 40
+- Hp: 75
+- Attack: 95
+- Defense: 60
+- Special-attack: 65
+- Special-defense: 60
+- Speed: 115
