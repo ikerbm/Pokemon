@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Fuecoco
-## ID: 909
+## Ledian
+## ID: 166
 ### Tipos
-- Fire
+- Bug
+- Flying
 ### Stats
-- Hp: 67
-- Attack: 45
-- Defense: 59
-- Special-attack: 63
-- Special-defense: 40
-- Speed: 36
+- Hp: 55
+- Attack: 35
+- Defense: 50
+- Special-attack: 55
+- Special-defense: 110
+- Speed: 85
