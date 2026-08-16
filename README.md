@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Woobat
-## ID: 527
+## Dragonair
+## ID: 148
 ### Tipos
-- Psychic
-- Flying
+- Dragon
 ### Stats
-- Hp: 65
-- Attack: 45
-- Defense: 43
-- Special-attack: 55
-- Special-defense: 43
-- Speed: 72
+- Hp: 61
+- Attack: 84
+- Defense: 65
+- Special-attack: 70
+- Special-defense: 70
+- Speed: 70
