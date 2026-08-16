@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Butterfree
-## ID: 12
+## Oshawott
+## ID: 501
 ### Tipos
-- Bug
-- Flying
+- Water
 ### Stats
-- Hp: 60
-- Attack: 45
-- Defense: 50
-- Special-attack: 90
-- Special-defense: 80
-- Speed: 70
+- Hp: 55
+- Attack: 55
+- Defense: 45
+- Special-attack: 63
+- Special-defense: 45
+- Speed: 45
