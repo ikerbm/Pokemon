@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Naclstack
-## ID: 933
+## Carvanha
+## ID: 318
 ### Tipos
-- Rock
+- Water
+- Dark
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 100
-- Special-attack: 35
-- Special-defense: 65
-- Speed: 35
+- Hp: 45
+- Attack: 90
+- Defense: 20
+- Special-attack: 65
+- Special-defense: 20
+- Speed: 65
