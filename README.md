@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Servine
-## ID: 496
+## Swablu
+## ID: 333
 ### Tipos
-- Grass
+- Normal
+- Flying
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 75
-- Special-attack: 60
+- Hp: 45
+- Attack: 40
+- Defense: 60
+- Special-attack: 40
 - Special-defense: 75
-- Speed: 83
+- Speed: 50
