@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Jigglypuff
-## ID: 39
+## Roselia
+## ID: 315
 ### Tipos
-- Normal
-- Fairy
+- Grass
+- Poison
 ### Stats
-- Hp: 115
-- Attack: 45
-- Defense: 20
-- Special-attack: 45
-- Special-defense: 25
-- Speed: 20
+- Hp: 50
+- Attack: 60
+- Defense: 45
+- Special-attack: 100
+- Special-defense: 80
+- Speed: 65
