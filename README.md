@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Revavroom
-## ID: 966
+## Karrablast
+## ID: 588
 ### Tipos
-- Steel
-- Poison
+- Bug
 ### Stats
-- Hp: 80
-- Attack: 119
-- Defense: 90
-- Special-attack: 54
-- Special-defense: 67
-- Speed: 90
+- Hp: 50
+- Attack: 75
+- Defense: 45
+- Special-attack: 40
+- Special-defense: 45
+- Speed: 60
