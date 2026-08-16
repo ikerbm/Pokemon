@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Oshawott
-## ID: 501
+## Luvdisc
+## ID: 370
 ### Tipos
 - Water
 ### Stats
-- Hp: 55
-- Attack: 55
-- Defense: 45
-- Special-attack: 63
-- Special-defense: 45
-- Speed: 45
+- Hp: 43
+- Attack: 30
+- Defense: 55
+- Special-attack: 40
+- Special-defense: 65
+- Speed: 97
