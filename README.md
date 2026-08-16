@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Gumshoos
-## ID: 735
+## Bunnelby
+## ID: 659
 ### Tipos
 - Normal
 ### Stats
-- Hp: 88
-- Attack: 110
-- Defense: 60
-- Special-attack: 55
-- Special-defense: 60
-- Speed: 45
+- Hp: 38
+- Attack: 36
+- Defense: 38
+- Special-attack: 32
+- Special-defense: 36
+- Speed: 57
