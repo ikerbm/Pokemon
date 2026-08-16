@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Houndour
-## ID: 228
+## Corsola
+## ID: 222
 ### Tipos
-- Dark
-- Fire
+- Water
+- Rock
 ### Stats
-- Hp: 45
-- Attack: 60
-- Defense: 30
-- Special-attack: 80
-- Special-defense: 50
-- Speed: 65
+- Hp: 65
+- Attack: 55
+- Defense: 95
+- Special-attack: 65
+- Special-defense: 95
+- Speed: 35
