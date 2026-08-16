@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Pansage
-## ID: 511
+## Charmander
+## ID: 4
 ### Tipos
-- Grass
+- Fire
 ### Stats
-- Hp: 50
-- Attack: 53
-- Defense: 48
-- Special-attack: 53
-- Special-defense: 48
-- Speed: 64
+- Hp: 39
+- Attack: 52
+- Defense: 43
+- Special-attack: 60
+- Special-defense: 50
+- Speed: 65
