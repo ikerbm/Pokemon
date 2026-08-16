@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Wo-chien
-## ID: 1001
+## Exeggcute
+## ID: 102
 ### Tipos
-- Dark
 - Grass
+- Psychic
 ### Stats
-- Hp: 85
-- Attack: 85
-- Defense: 100
-- Special-attack: 95
-- Special-defense: 135
-- Speed: 70
+- Hp: 60
+- Attack: 40
+- Defense: 80
+- Special-attack: 60
+- Special-defense: 45
+- Speed: 40
