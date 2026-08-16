@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Dragonair
-## ID: 148
+## Kadabra
+## ID: 64
 ### Tipos
-- Dragon
+- Psychic
 ### Stats
-- Hp: 61
-- Attack: 84
-- Defense: 65
-- Special-attack: 70
+- Hp: 40
+- Attack: 35
+- Defense: 30
+- Special-attack: 120
 - Special-defense: 70
-- Speed: 70
+- Speed: 105
