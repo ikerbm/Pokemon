@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Bayleef
-## ID: 153
+## Celebi
+## ID: 251
 ### Tipos
+- Psychic
 - Grass
 ### Stats
-- Hp: 60
-- Attack: 62
-- Defense: 80
-- Special-attack: 63
-- Special-defense: 80
-- Speed: 60
+- Hp: 100
+- Attack: 100
+- Defense: 100
+- Special-attack: 100
+- Special-defense: 100
+- Speed: 100
