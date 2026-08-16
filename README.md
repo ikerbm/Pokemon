@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Fidough
-## ID: 926
+## Naclstack
+## ID: 933
 ### Tipos
-- Fairy
+- Rock
 ### Stats
-- Hp: 37
-- Attack: 55
-- Defense: 70
-- Special-attack: 30
-- Special-defense: 55
-- Speed: 65
+- Hp: 60
+- Attack: 60
+- Defense: 100
+- Special-attack: 35
+- Special-defense: 65
+- Speed: 35
