@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Illumise
-## ID: 314
+## Squirtle
+## ID: 7
 ### Tipos
-- Bug
+- Water
 ### Stats
-- Hp: 65
-- Attack: 47
-- Defense: 75
-- Special-attack: 73
-- Special-defense: 85
-- Speed: 85
+- Hp: 44
+- Attack: 48
+- Defense: 65
+- Special-attack: 50
+- Special-defense: 64
+- Speed: 43
