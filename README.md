@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Quaxly
-## ID: 912
+## Swalot
+## ID: 317
 ### Tipos
-- Water
+- Poison
 ### Stats
-- Hp: 55
-- Attack: 65
-- Defense: 45
-- Special-attack: 50
-- Special-defense: 45
-- Speed: 50
+- Hp: 100
+- Attack: 73
+- Defense: 83
+- Special-attack: 73
+- Special-defense: 83
+- Speed: 55
