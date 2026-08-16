@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Poliwag
-## ID: 60
+## Avalugg
+## ID: 713
 ### Tipos
-- Water
+- Ice
 ### Stats
-- Hp: 40
-- Attack: 50
-- Defense: 40
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 90
+- Hp: 95
+- Attack: 117
+- Defense: 184
+- Special-attack: 44
+- Special-defense: 46
+- Speed: 28
