@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Hakamo-o
-## ID: 783
+## Eelektrik
+## ID: 603
 ### Tipos
-- Dragon
-- Fighting
+- Electric
 ### Stats
-- Hp: 55
-- Attack: 75
-- Defense: 90
-- Special-attack: 65
+- Hp: 65
+- Attack: 85
+- Defense: 70
+- Special-attack: 75
 - Special-defense: 70
-- Speed: 65
+- Speed: 40
