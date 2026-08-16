@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Charmeleon
-## ID: 5
+## Kingler
+## ID: 99
 ### Tipos
-- Fire
+- Water
 ### Stats
-- Hp: 58
-- Attack: 64
-- Defense: 58
-- Special-attack: 80
-- Special-defense: 65
-- Speed: 80
+- Hp: 55
+- Attack: 130
+- Defense: 115
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 75
