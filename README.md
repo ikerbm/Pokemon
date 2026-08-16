@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Corphish
-## ID: 341
+## Jigglypuff
+## ID: 39
 ### Tipos
-- Water
+- Normal
+- Fairy
 ### Stats
-- Hp: 43
-- Attack: 80
-- Defense: 65
-- Special-attack: 50
-- Special-defense: 35
-- Speed: 35
+- Hp: 115
+- Attack: 45
+- Defense: 20
+- Special-attack: 45
+- Special-defense: 25
+- Speed: 20
