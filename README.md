@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Nidorina
-## ID: 30
+## Butterfree
+## ID: 12
 ### Tipos
-- Poison
+- Bug
+- Flying
 ### Stats
-- Hp: 70
-- Attack: 62
-- Defense: 67
-- Special-attack: 55
-- Special-defense: 55
-- Speed: 56
+- Hp: 60
+- Attack: 45
+- Defense: 50
+- Special-attack: 90
+- Special-defense: 80
+- Speed: 70
