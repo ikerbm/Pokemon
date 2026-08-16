@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Orthworm
-## ID: 968
+## Nidorina
+## ID: 30
 ### Tipos
-- Steel
+- Poison
 ### Stats
 - Hp: 70
-- Attack: 85
-- Defense: 145
-- Special-attack: 60
+- Attack: 62
+- Defense: 67
+- Special-attack: 55
 - Special-defense: 55
-- Speed: 65
+- Speed: 56
