@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Larvesta
-## ID: 636
+## Squawkabilly-green-plumage
+## ID: 931
 ### Tipos
-- Bug
-- Fire
+- Normal
+- Flying
 ### Stats
-- Hp: 55
-- Attack: 85
-- Defense: 55
-- Special-attack: 50
-- Special-defense: 55
-- Speed: 60
+- Hp: 82
+- Attack: 96
+- Defense: 51
+- Special-attack: 45
+- Special-defense: 51
+- Speed: 92
