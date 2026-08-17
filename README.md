@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Mareanie
-## ID: 747
+## Clefairy
+## ID: 35
 ### Tipos
-- Poison
-- Water
+- Fairy
 ### Stats
-- Hp: 50
-- Attack: 53
-- Defense: 62
-- Special-attack: 43
-- Special-defense: 52
-- Speed: 45
+- Hp: 70
+- Attack: 45
+- Defense: 48
+- Special-attack: 60
+- Special-defense: 65
+- Speed: 35
