@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Lucario
-## ID: 448
+## Rookidee
+## ID: 821
 ### Tipos
-- Fighting
-- Steel
+- Flying
 ### Stats
-- Hp: 70
-- Attack: 110
-- Defense: 70
-- Special-attack: 115
-- Special-defense: 70
-- Speed: 90
+- Hp: 38
+- Attack: 47
+- Defense: 35
+- Special-attack: 33
+- Special-defense: 35
+- Speed: 57
