@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Treecko
-## ID: 252
+## Baxcalibur
+## ID: 998
 ### Tipos
-- Grass
+- Dragon
+- Ice
 ### Stats
-- Hp: 40
-- Attack: 45
-- Defense: 35
-- Special-attack: 65
-- Special-defense: 55
-- Speed: 70
+- Hp: 115
+- Attack: 145
+- Defense: 92
+- Special-attack: 75
+- Special-defense: 86
+- Speed: 87
