@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Cobalion
-## ID: 638
+## Boltund
+## ID: 836
 ### Tipos
-- Steel
-- Fighting
+- Electric
 ### Stats
-- Hp: 91
+- Hp: 69
 - Attack: 90
-- Defense: 129
+- Defense: 60
 - Special-attack: 90
-- Special-defense: 72
-- Speed: 108
+- Special-defense: 60
+- Speed: 121
