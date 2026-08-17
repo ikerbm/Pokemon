@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Charcadet
-## ID: 935
+## Oshawott
+## ID: 501
 ### Tipos
-- Fire
+- Water
 ### Stats
-- Hp: 40
-- Attack: 50
-- Defense: 40
-- Special-attack: 50
-- Special-defense: 40
-- Speed: 35
+- Hp: 55
+- Attack: 55
+- Defense: 45
+- Special-attack: 63
+- Special-defense: 45
+- Speed: 45
