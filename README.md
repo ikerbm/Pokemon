@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Stonjourner
-## ID: 874
+## Grimer
+## ID: 88
 ### Tipos
-- Rock
+- Poison
 ### Stats
-- Hp: 100
-- Attack: 125
-- Defense: 135
-- Special-attack: 20
-- Special-defense: 20
-- Speed: 70
+- Hp: 80
+- Attack: 80
+- Defense: 50
+- Special-attack: 40
+- Special-defense: 50
+- Speed: 25
