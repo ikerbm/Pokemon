@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Grimer
-## ID: 88
+## Rhyhorn
+## ID: 111
 ### Tipos
-- Poison
+- Ground
+- Rock
 ### Stats
 - Hp: 80
-- Attack: 80
-- Defense: 50
-- Special-attack: 40
-- Special-defense: 50
+- Attack: 85
+- Defense: 95
+- Special-attack: 30
+- Special-defense: 30
 - Speed: 25
