@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Carbink
-## ID: 703
+## Beautifly
+## ID: 267
 ### Tipos
-- Rock
-- Fairy
+- Bug
+- Flying
 ### Stats
-- Hp: 50
-- Attack: 50
-- Defense: 150
-- Special-attack: 50
-- Special-defense: 150
-- Speed: 50
+- Hp: 60
+- Attack: 70
+- Defense: 50
+- Special-attack: 100
+- Special-defense: 50
+- Speed: 65
