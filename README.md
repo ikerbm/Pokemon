@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Cramorant
-## ID: 845
+## Articuno
+## ID: 144
 ### Tipos
+- Ice
 - Flying
-- Water
 ### Stats
-- Hp: 70
+- Hp: 90
 - Attack: 85
-- Defense: 55
-- Special-attack: 85
-- Special-defense: 95
+- Defense: 100
+- Special-attack: 95
+- Special-defense: 125
 - Speed: 85
