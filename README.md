@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Exploud
-## ID: 295
+## Mareanie
+## ID: 747
 ### Tipos
-- Normal
+- Poison
+- Water
 ### Stats
-- Hp: 104
-- Attack: 91
-- Defense: 63
-- Special-attack: 91
-- Special-defense: 73
-- Speed: 68
+- Hp: 50
+- Attack: 53
+- Defense: 62
+- Special-attack: 43
+- Special-defense: 52
+- Speed: 45
