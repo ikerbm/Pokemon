@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Grumpig
-## ID: 326
+## Ledyba
+## ID: 165
 ### Tipos
-- Psychic
+- Bug
+- Flying
 ### Stats
-- Hp: 80
-- Attack: 45
-- Defense: 65
-- Special-attack: 90
-- Special-defense: 110
-- Speed: 80
+- Hp: 40
+- Attack: 20
+- Defense: 30
+- Special-attack: 40
+- Special-defense: 80
+- Speed: 55
