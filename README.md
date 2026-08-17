@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Rookidee
-## ID: 821
+## Treecko
+## ID: 252
 ### Tipos
-- Flying
+- Grass
 ### Stats
-- Hp: 38
-- Attack: 47
+- Hp: 40
+- Attack: 45
 - Defense: 35
-- Special-attack: 33
-- Special-defense: 35
-- Speed: 57
+- Special-attack: 65
+- Special-defense: 55
+- Speed: 70
