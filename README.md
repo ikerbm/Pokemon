@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Slither-wing
-## ID: 988
+## Cramorant
+## ID: 845
 ### Tipos
-- Bug
-- Fighting
+- Flying
+- Water
 ### Stats
-- Hp: 85
-- Attack: 135
-- Defense: 79
+- Hp: 70
+- Attack: 85
+- Defense: 55
 - Special-attack: 85
-- Special-defense: 105
-- Speed: 81
+- Special-defense: 95
+- Speed: 85
