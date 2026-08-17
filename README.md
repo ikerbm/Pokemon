@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Kakuna
-## ID: 14
+## Cobalion
+## ID: 638
 ### Tipos
-- Bug
-- Poison
+- Steel
+- Fighting
 ### Stats
-- Hp: 45
-- Attack: 25
-- Defense: 50
-- Special-attack: 25
-- Special-defense: 25
-- Speed: 35
+- Hp: 91
+- Attack: 90
+- Defense: 129
+- Special-attack: 90
+- Special-defense: 72
+- Speed: 108
