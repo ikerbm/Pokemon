@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Salandit
-## ID: 757
+## Carbink
+## ID: 703
 ### Tipos
-- Poison
-- Fire
+- Rock
+- Fairy
 ### Stats
-- Hp: 48
-- Attack: 44
-- Defense: 40
-- Special-attack: 71
-- Special-defense: 40
-- Speed: 77
+- Hp: 50
+- Attack: 50
+- Defense: 150
+- Special-attack: 50
+- Special-defense: 150
+- Speed: 50
