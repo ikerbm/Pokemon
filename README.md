@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Solosis
-## ID: 577
+## Rattata
+## ID: 19
 ### Tipos
-- Psychic
+- Normal
 ### Stats
-- Hp: 45
-- Attack: 30
-- Defense: 40
-- Special-attack: 105
-- Special-defense: 50
-- Speed: 20
+- Hp: 30
+- Attack: 56
+- Defense: 35
+- Special-attack: 25
+- Special-defense: 35
+- Speed: 72
