@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Rhyhorn
-## ID: 111
+## Wobbuffet
+## ID: 202
 ### Tipos
-- Ground
-- Rock
+- Psychic
 ### Stats
-- Hp: 80
-- Attack: 85
-- Defense: 95
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 25
+- Hp: 190
+- Attack: 33
+- Defense: 58
+- Special-attack: 33
+- Special-defense: 58
+- Speed: 33
