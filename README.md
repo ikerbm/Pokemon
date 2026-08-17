@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Squawkabilly-green-plumage
-## ID: 931
+## Cradily
+## ID: 346
 ### Tipos
-- Normal
-- Flying
+- Rock
+- Grass
 ### Stats
-- Hp: 82
-- Attack: 96
-- Defense: 51
-- Special-attack: 45
-- Special-defense: 51
-- Speed: 92
+- Hp: 86
+- Attack: 81
+- Defense: 97
+- Special-attack: 81
+- Special-defense: 107
+- Speed: 43
