@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Ferroseed
-## ID: 597
+## Cramorant
+## ID: 845
 ### Tipos
-- Grass
-- Steel
+- Flying
+- Water
 ### Stats
-- Hp: 44
-- Attack: 50
-- Defense: 91
-- Special-attack: 24
-- Special-defense: 86
-- Speed: 10
+- Hp: 70
+- Attack: 85
+- Defense: 55
+- Special-attack: 85
+- Special-defense: 95
+- Speed: 85
