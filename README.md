@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Boltund
-## ID: 836
+## Stonjourner
+## ID: 874
 ### Tipos
-- Electric
+- Rock
 ### Stats
-- Hp: 69
-- Attack: 90
-- Defense: 60
-- Special-attack: 90
-- Special-defense: 60
-- Speed: 121
+- Hp: 100
+- Attack: 125
+- Defense: 135
+- Special-attack: 20
+- Special-defense: 20
+- Speed: 70
