@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Registeel
-## ID: 379
+## Bunnelby
+## ID: 659
 ### Tipos
-- Steel
+- Normal
 ### Stats
-- Hp: 80
-- Attack: 75
-- Defense: 150
-- Special-attack: 75
-- Special-defense: 150
-- Speed: 50
+- Hp: 38
+- Attack: 36
+- Defense: 38
+- Special-attack: 32
+- Special-defense: 36
+- Speed: 57
