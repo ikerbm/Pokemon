@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Oshawott
-## ID: 501
+## Pawniard
+## ID: 624
 ### Tipos
-- Water
+- Dark
+- Steel
 ### Stats
-- Hp: 55
-- Attack: 55
-- Defense: 45
-- Special-attack: 63
-- Special-defense: 45
-- Speed: 45
+- Hp: 45
+- Attack: 85
+- Defense: 70
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 60
