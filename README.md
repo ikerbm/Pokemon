@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Thievul
-## ID: 828
+## Porygon
+## ID: 137
 ### Tipos
-- Dark
+- Normal
 ### Stats
-- Hp: 70
-- Attack: 58
-- Defense: 58
-- Special-attack: 87
-- Special-defense: 92
-- Speed: 90
+- Hp: 65
+- Attack: 60
+- Defense: 70
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 40
