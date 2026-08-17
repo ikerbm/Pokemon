@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Diancie
-## ID: 719
+## Lucario
+## ID: 448
 ### Tipos
-- Rock
-- Fairy
+- Fighting
+- Steel
 ### Stats
-- Hp: 50
-- Attack: 100
-- Defense: 150
-- Special-attack: 100
-- Special-defense: 150
-- Speed: 50
+- Hp: 70
+- Attack: 110
+- Defense: 70
+- Special-attack: 115
+- Special-defense: 70
+- Speed: 90
