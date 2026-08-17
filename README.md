@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Baxcalibur
-## ID: 998
+## Registeel
+## ID: 379
 ### Tipos
-- Dragon
-- Ice
+- Steel
 ### Stats
-- Hp: 115
-- Attack: 145
-- Defense: 92
+- Hp: 80
+- Attack: 75
+- Defense: 150
 - Special-attack: 75
-- Special-defense: 86
-- Speed: 87
+- Special-defense: 150
+- Speed: 50
