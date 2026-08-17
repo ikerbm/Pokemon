@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Cradily
-## ID: 346
+## Thievul
+## ID: 828
 ### Tipos
-- Rock
-- Grass
+- Dark
 ### Stats
-- Hp: 86
-- Attack: 81
-- Defense: 97
-- Special-attack: 81
-- Special-defense: 107
-- Speed: 43
+- Hp: 70
+- Attack: 58
+- Defense: 58
+- Special-attack: 87
+- Special-defense: 92
+- Speed: 90
