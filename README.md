@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Bunnelby
-## ID: 659
+## Sandshrew
+## ID: 27
 ### Tipos
-- Normal
+- Ground
 ### Stats
-- Hp: 38
-- Attack: 36
-- Defense: 38
-- Special-attack: 32
-- Special-defense: 36
-- Speed: 57
+- Hp: 50
+- Attack: 75
+- Defense: 85
+- Special-attack: 20
+- Special-defense: 30
+- Speed: 40
