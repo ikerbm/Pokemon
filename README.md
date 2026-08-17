@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Sandshrew
-## ID: 27
+## Grumpig
+## ID: 326
 ### Tipos
-- Ground
+- Psychic
 ### Stats
-- Hp: 50
-- Attack: 75
-- Defense: 85
-- Special-attack: 20
-- Special-defense: 30
-- Speed: 40
+- Hp: 80
+- Attack: 45
+- Defense: 65
+- Special-attack: 90
+- Special-defense: 110
+- Speed: 80
