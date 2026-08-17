@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Steelix
-## ID: 208
+## Slither-wing
+## ID: 988
 ### Tipos
-- Steel
-- Ground
+- Bug
+- Fighting
 ### Stats
-- Hp: 75
-- Attack: 85
-- Defense: 200
-- Special-attack: 55
-- Special-defense: 65
-- Speed: 30
+- Hp: 85
+- Attack: 135
+- Defense: 79
+- Special-attack: 85
+- Special-defense: 105
+- Speed: 81
