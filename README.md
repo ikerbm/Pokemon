@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Clefairy
-## ID: 35
+## Diancie
+## ID: 719
 ### Tipos
+- Rock
 - Fairy
 ### Stats
-- Hp: 70
-- Attack: 45
-- Defense: 48
-- Special-attack: 60
-- Special-defense: 65
-- Speed: 35
+- Hp: 50
+- Attack: 100
+- Defense: 150
+- Special-attack: 100
+- Special-defense: 150
+- Speed: 50
