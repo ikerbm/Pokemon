@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Ledyba
-## ID: 165
+## Blacephalon
+## ID: 806
 ### Tipos
-- Bug
-- Flying
+- Fire
+- Ghost
 ### Stats
-- Hp: 40
-- Attack: 20
-- Defense: 30
-- Special-attack: 40
-- Special-defense: 80
-- Speed: 55
+- Hp: 53
+- Attack: 127
+- Defense: 53
+- Special-attack: 151
+- Special-defense: 79
+- Speed: 107
