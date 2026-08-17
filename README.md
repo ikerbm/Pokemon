@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Porygon2
-## ID: 233
+## Charcadet
+## ID: 935
 ### Tipos
-- Normal
+- Fire
 ### Stats
-- Hp: 85
-- Attack: 80
-- Defense: 90
-- Special-attack: 105
-- Special-defense: 95
-- Speed: 60
+- Hp: 40
+- Attack: 50
+- Defense: 40
+- Special-attack: 50
+- Special-defense: 40
+- Speed: 35
