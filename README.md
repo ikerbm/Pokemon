@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Porygon
-## ID: 137
+## Tyrantrum
+## ID: 697
 ### Tipos
-- Normal
+- Rock
+- Dragon
 ### Stats
-- Hp: 65
-- Attack: 60
-- Defense: 70
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 40
+- Hp: 82
+- Attack: 121
+- Defense: 119
+- Special-attack: 69
+- Special-defense: 59
+- Speed: 71
