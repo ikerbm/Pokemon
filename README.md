@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Beautifly
-## ID: 267
+## Larvesta
+## ID: 636
 ### Tipos
 - Bug
-- Flying
+- Fire
 ### Stats
-- Hp: 60
-- Attack: 70
-- Defense: 50
-- Special-attack: 100
-- Special-defense: 50
-- Speed: 65
+- Hp: 55
+- Attack: 85
+- Defense: 55
+- Special-attack: 50
+- Special-defense: 55
+- Speed: 60
