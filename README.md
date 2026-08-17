@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Bouffalant
-## ID: 626
+## Salandit
+## ID: 757
 ### Tipos
-- Normal
+- Poison
+- Fire
 ### Stats
-- Hp: 95
-- Attack: 110
-- Defense: 95
-- Special-attack: 40
-- Special-defense: 95
-- Speed: 55
+- Hp: 48
+- Attack: 44
+- Defense: 40
+- Special-attack: 71
+- Special-defense: 40
+- Speed: 77
