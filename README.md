@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Pawniard
-## ID: 624
+## Exploud
+## ID: 295
 ### Tipos
-- Dark
-- Steel
+- Normal
 ### Stats
-- Hp: 45
-- Attack: 85
-- Defense: 70
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 60
+- Hp: 104
+- Attack: 91
+- Defense: 63
+- Special-attack: 91
+- Special-defense: 73
+- Speed: 68
