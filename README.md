@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Cramorant
-## ID: 845
+## Gigalith
+## ID: 526
 ### Tipos
-- Flying
-- Water
+- Rock
 ### Stats
-- Hp: 70
-- Attack: 85
-- Defense: 55
-- Special-attack: 85
-- Special-defense: 95
-- Speed: 85
+- Hp: 85
+- Attack: 135
+- Defense: 130
+- Special-attack: 60
+- Special-defense: 80
+- Speed: 25
