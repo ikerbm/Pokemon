@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tyrantrum
-## ID: 697
+## Solosis
+## ID: 577
 ### Tipos
-- Rock
-- Dragon
+- Psychic
 ### Stats
-- Hp: 82
-- Attack: 121
-- Defense: 119
-- Special-attack: 69
-- Special-defense: 59
-- Speed: 71
+- Hp: 45
+- Attack: 30
+- Defense: 40
+- Special-attack: 105
+- Special-defense: 50
+- Speed: 20
