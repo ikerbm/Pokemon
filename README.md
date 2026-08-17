@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Rattata
-## ID: 19
+## Steelix
+## ID: 208
 ### Tipos
-- Normal
+- Steel
+- Ground
 ### Stats
-- Hp: 30
-- Attack: 56
-- Defense: 35
-- Special-attack: 25
-- Special-defense: 35
-- Speed: 72
+- Hp: 75
+- Attack: 85
+- Defense: 200
+- Special-attack: 55
+- Special-defense: 65
+- Speed: 30
