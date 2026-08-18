@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Doublade
-## ID: 680
+## Toedscool
+## ID: 948
 ### Tipos
-- Steel
-- Ghost
+- Ground
+- Grass
 ### Stats
-- Hp: 59
-- Attack: 110
-- Defense: 150
-- Special-attack: 45
-- Special-defense: 49
-- Speed: 35
+- Hp: 40
+- Attack: 40
+- Defense: 35
+- Special-attack: 50
+- Special-defense: 100
+- Speed: 70
