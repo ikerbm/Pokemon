@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Mawile
-## ID: 303
+## Mankey
+## ID: 56
 ### Tipos
-- Steel
-- Fairy
+- Fighting
 ### Stats
-- Hp: 50
-- Attack: 85
-- Defense: 85
-- Special-attack: 55
-- Special-defense: 55
-- Speed: 50
+- Hp: 40
+- Attack: 80
+- Defense: 35
+- Special-attack: 35
+- Special-defense: 45
+- Speed: 70
