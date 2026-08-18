@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Venusaur
-## ID: 3
+## Slurpuff
+## ID: 685
 ### Tipos
-- Grass
-- Poison
+- Fairy
 ### Stats
-- Hp: 80
-- Attack: 82
-- Defense: 83
-- Special-attack: 100
-- Special-defense: 100
-- Speed: 80
+- Hp: 82
+- Attack: 80
+- Defense: 86
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 72
