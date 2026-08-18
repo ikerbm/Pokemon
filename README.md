@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Hippopotas
-## ID: 449
+## Maushold-family-of-four
+## ID: 925
 ### Tipos
-- Ground
+- Normal
 ### Stats
-- Hp: 68
-- Attack: 72
-- Defense: 78
-- Special-attack: 38
-- Special-defense: 42
-- Speed: 32
+- Hp: 74
+- Attack: 75
+- Defense: 70
+- Special-attack: 65
+- Special-defense: 75
+- Speed: 111
