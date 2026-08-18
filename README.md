@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Roselia
-## ID: 315
+## Spheal
+## ID: 363
 ### Tipos
-- Grass
-- Poison
+- Ice
+- Water
 ### Stats
-- Hp: 50
-- Attack: 60
-- Defense: 45
-- Special-attack: 100
-- Special-defense: 80
-- Speed: 65
+- Hp: 70
+- Attack: 40
+- Defense: 50
+- Special-attack: 55
+- Special-defense: 50
+- Speed: 25
