@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Staraptor
-## ID: 398
+## Dugtrio
+## ID: 51
 ### Tipos
-- Normal
-- Flying
+- Ground
 ### Stats
-- Hp: 85
-- Attack: 120
-- Defense: 70
+- Hp: 35
+- Attack: 100
+- Defense: 50
 - Special-attack: 50
-- Special-defense: 60
-- Speed: 100
+- Special-defense: 70
+- Speed: 120
