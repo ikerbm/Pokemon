@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Flabebe
-## ID: 669
+## Hippopotas
+## ID: 449
 ### Tipos
-- Fairy
+- Ground
 ### Stats
-- Hp: 44
-- Attack: 38
-- Defense: 39
-- Special-attack: 61
-- Special-defense: 79
-- Speed: 42
+- Hp: 68
+- Attack: 72
+- Defense: 78
+- Special-attack: 38
+- Special-defense: 42
+- Speed: 32
