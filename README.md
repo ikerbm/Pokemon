@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Nickit
-## ID: 827
+## Lileep
+## ID: 345
 ### Tipos
-- Dark
+- Rock
+- Grass
 ### Stats
-- Hp: 40
-- Attack: 28
-- Defense: 28
-- Special-attack: 47
-- Special-defense: 52
-- Speed: 50
+- Hp: 66
+- Attack: 41
+- Defense: 77
+- Special-attack: 61
+- Special-defense: 87
+- Speed: 23
