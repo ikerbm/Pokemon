@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Solosis
-## ID: 577
+## Roselia
+## ID: 315
 ### Tipos
-- Psychic
+- Grass
+- Poison
 ### Stats
-- Hp: 45
-- Attack: 30
-- Defense: 40
-- Special-attack: 105
-- Special-defense: 50
-- Speed: 20
+- Hp: 50
+- Attack: 60
+- Defense: 45
+- Special-attack: 100
+- Special-defense: 80
+- Speed: 65
