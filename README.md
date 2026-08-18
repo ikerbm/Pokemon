@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Lileep
-## ID: 345
+## Meowscarada
+## ID: 908
 ### Tipos
-- Rock
 - Grass
+- Dark
 ### Stats
-- Hp: 66
-- Attack: 41
-- Defense: 77
-- Special-attack: 61
-- Special-defense: 87
-- Speed: 23
+- Hp: 76
+- Attack: 110
+- Defense: 70
+- Special-attack: 81
+- Special-defense: 70
+- Speed: 123
