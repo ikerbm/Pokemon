@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Xerneas
-## ID: 716
+## Venusaur
+## ID: 3
 ### Tipos
-- Fairy
+- Grass
+- Poison
 ### Stats
-- Hp: 126
-- Attack: 131
-- Defense: 95
-- Special-attack: 131
-- Special-defense: 98
-- Speed: 99
+- Hp: 80
+- Attack: 82
+- Defense: 83
+- Special-attack: 100
+- Special-defense: 100
+- Speed: 80
