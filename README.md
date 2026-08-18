@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Minun
-## ID: 312
+## Ursaring
+## ID: 217
 ### Tipos
-- Electric
+- Normal
 ### Stats
-- Hp: 60
-- Attack: 40
-- Defense: 50
+- Hp: 90
+- Attack: 130
+- Defense: 75
 - Special-attack: 75
-- Special-defense: 85
-- Speed: 95
+- Special-defense: 75
+- Speed: 55
