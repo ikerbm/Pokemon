@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cosmog
-## ID: 789
+## Ducklett
+## ID: 580
 ### Tipos
-- Psychic
+- Water
+- Flying
 ### Stats
-- Hp: 43
-- Attack: 29
-- Defense: 31
-- Special-attack: 29
-- Special-defense: 31
-- Speed: 37
+- Hp: 62
+- Attack: 44
+- Defense: 50
+- Special-attack: 44
+- Special-defense: 50
+- Speed: 55
