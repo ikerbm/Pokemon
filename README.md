@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Spheal
-## ID: 363
+## Jumpluff
+## ID: 189
 ### Tipos
-- Ice
-- Water
+- Grass
+- Flying
 ### Stats
-- Hp: 70
-- Attack: 40
-- Defense: 50
+- Hp: 75
+- Attack: 55
+- Defense: 70
 - Special-attack: 55
-- Special-defense: 50
-- Speed: 25
+- Special-defense: 95
+- Speed: 110
