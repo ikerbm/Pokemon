@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cinccino
-## ID: 573
+## Hoothoot
+## ID: 163
 ### Tipos
 - Normal
+- Flying
 ### Stats
-- Hp: 75
-- Attack: 95
-- Defense: 60
-- Special-attack: 65
-- Special-defense: 60
-- Speed: 115
+- Hp: 60
+- Attack: 30
+- Defense: 30
+- Special-attack: 36
+- Special-defense: 56
+- Speed: 50
