@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Vanillite
-## ID: 582
+## Vanillish
+## ID: 583
 ### Tipos
 - Ice
 ### Stats
-- Hp: 36
-- Attack: 50
-- Defense: 50
-- Special-attack: 65
-- Special-defense: 60
-- Speed: 44
+- Hp: 51
+- Attack: 65
+- Defense: 65
+- Special-attack: 80
+- Special-defense: 75
+- Speed: 59
