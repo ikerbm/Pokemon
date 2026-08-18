@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Clobbopus
-## ID: 852
+## Doublade
+## ID: 680
 ### Tipos
-- Fighting
+- Steel
+- Ghost
 ### Stats
-- Hp: 50
-- Attack: 68
-- Defense: 60
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 32
+- Hp: 59
+- Attack: 110
+- Defense: 150
+- Special-attack: 45
+- Special-defense: 49
+- Speed: 35
