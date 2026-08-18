@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Jumpluff
-## ID: 189
+## Cosmog
+## ID: 789
 ### Tipos
-- Grass
-- Flying
+- Psychic
 ### Stats
-- Hp: 75
-- Attack: 55
-- Defense: 70
-- Special-attack: 55
-- Special-defense: 95
-- Speed: 110
+- Hp: 43
+- Attack: 29
+- Defense: 31
+- Special-attack: 29
+- Special-defense: 31
+- Speed: 37
