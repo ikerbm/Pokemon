@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Toedscool
-## ID: 948
+## Togekiss
+## ID: 468
 ### Tipos
-- Ground
-- Grass
+- Fairy
+- Flying
 ### Stats
-- Hp: 40
-- Attack: 40
-- Defense: 35
-- Special-attack: 50
-- Special-defense: 100
-- Speed: 70
+- Hp: 85
+- Attack: 50
+- Defense: 95
+- Special-attack: 120
+- Special-defense: 115
+- Speed: 80
