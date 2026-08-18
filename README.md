@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Togekiss
-## ID: 468
+## Xatu
+## ID: 178
 ### Tipos
-- Fairy
+- Psychic
 - Flying
 ### Stats
-- Hp: 85
-- Attack: 50
-- Defense: 95
-- Special-attack: 120
-- Special-defense: 115
-- Speed: 80
+- Hp: 65
+- Attack: 75
+- Defense: 70
+- Special-attack: 95
+- Special-defense: 70
+- Speed: 95
