@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Swalot
-## ID: 317
+## Xerneas
+## ID: 716
 ### Tipos
-- Poison
+- Fairy
 ### Stats
-- Hp: 100
-- Attack: 73
-- Defense: 83
-- Special-attack: 73
-- Special-defense: 83
-- Speed: 55
+- Hp: 126
+- Attack: 131
+- Defense: 95
+- Special-attack: 131
+- Special-defense: 98
+- Speed: 99
