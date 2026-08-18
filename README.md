@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cherrim
-## ID: 421
+## Obstagoon
+## ID: 862
 ### Tipos
-- Grass
+- Dark
+- Normal
 ### Stats
-- Hp: 70
-- Attack: 60
-- Defense: 70
-- Special-attack: 87
-- Special-defense: 78
-- Speed: 85
+- Hp: 93
+- Attack: 90
+- Defense: 101
+- Special-attack: 60
+- Special-defense: 81
+- Speed: 95
