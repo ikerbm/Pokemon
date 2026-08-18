@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Patrat
-## ID: 504
+## Minun
+## ID: 312
 ### Tipos
-- Normal
+- Electric
 ### Stats
-- Hp: 45
-- Attack: 55
-- Defense: 39
-- Special-attack: 35
-- Special-defense: 39
-- Speed: 42
+- Hp: 60
+- Attack: 40
+- Defense: 50
+- Special-attack: 75
+- Special-defense: 85
+- Speed: 95
