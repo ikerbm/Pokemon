@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Morpeko-full-belly
-## ID: 877
+## Brute-bonnet
+## ID: 986
 ### Tipos
-- Electric
+- Grass
 - Dark
 ### Stats
-- Hp: 58
-- Attack: 95
-- Defense: 58
-- Special-attack: 70
-- Special-defense: 58
-- Speed: 97
+- Hp: 111
+- Attack: 127
+- Defense: 99
+- Special-attack: 79
+- Special-defense: 99
+- Speed: 55
