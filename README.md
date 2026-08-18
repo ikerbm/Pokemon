@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Wugtrio
-## ID: 961
+## Morpeko-full-belly
+## ID: 877
 ### Tipos
-- Water
+- Electric
+- Dark
 ### Stats
-- Hp: 35
-- Attack: 100
-- Defense: 50
-- Special-attack: 50
-- Special-defense: 70
-- Speed: 120
+- Hp: 58
+- Attack: 95
+- Defense: 58
+- Special-attack: 70
+- Special-defense: 58
+- Speed: 97
