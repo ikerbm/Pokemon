@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Slurpuff
-## ID: 685
+## Nickit
+## ID: 827
 ### Tipos
-- Fairy
+- Dark
 ### Stats
-- Hp: 82
-- Attack: 80
-- Defense: 86
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 72
+- Hp: 40
+- Attack: 28
+- Defense: 28
+- Special-attack: 47
+- Special-defense: 52
+- Speed: 50
