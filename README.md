@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Ducklett
-## ID: 580
+## Staraptor
+## ID: 398
 ### Tipos
-- Water
+- Normal
 - Flying
 ### Stats
-- Hp: 62
-- Attack: 44
-- Defense: 50
-- Special-attack: 44
-- Special-defense: 50
-- Speed: 55
+- Hp: 85
+- Attack: 120
+- Defense: 70
+- Special-attack: 50
+- Special-defense: 60
+- Speed: 100
