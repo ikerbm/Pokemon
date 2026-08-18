@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Xatu
-## ID: 178
+## Oricorio-baile
+## ID: 741
 ### Tipos
-- Psychic
+- Fire
 - Flying
 ### Stats
-- Hp: 65
-- Attack: 75
+- Hp: 75
+- Attack: 70
 - Defense: 70
-- Special-attack: 95
+- Special-attack: 98
 - Special-defense: 70
-- Speed: 95
+- Speed: 93
