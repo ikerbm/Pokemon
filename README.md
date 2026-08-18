@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Claydol
-## ID: 344
+## Solosis
+## ID: 577
 ### Tipos
-- Ground
 - Psychic
 ### Stats
-- Hp: 60
-- Attack: 70
-- Defense: 105
-- Special-attack: 70
-- Special-defense: 120
-- Speed: 75
+- Hp: 45
+- Attack: 30
+- Defense: 40
+- Special-attack: 105
+- Special-defense: 50
+- Speed: 20
