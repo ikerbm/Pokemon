@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Hoothoot
-## ID: 163
+## Vanillite
+## ID: 582
 ### Tipos
-- Normal
-- Flying
+- Ice
 ### Stats
-- Hp: 60
-- Attack: 30
-- Defense: 30
-- Special-attack: 36
-- Special-defense: 56
-- Speed: 50
+- Hp: 36
+- Attack: 50
+- Defense: 50
+- Special-attack: 65
+- Special-defense: 60
+- Speed: 44
