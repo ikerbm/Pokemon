@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Quilava
-## ID: 156
+## Cinccino
+## ID: 573
 ### Tipos
-- Fire
+- Normal
 ### Stats
-- Hp: 58
-- Attack: 64
-- Defense: 58
-- Special-attack: 80
-- Special-defense: 65
-- Speed: 80
+- Hp: 75
+- Attack: 95
+- Defense: 60
+- Special-attack: 65
+- Special-defense: 60
+- Speed: 115
