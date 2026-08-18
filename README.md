@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Ampharos
-## ID: 181
+## Swalot
+## ID: 317
 ### Tipos
-- Electric
+- Poison
 ### Stats
-- Hp: 90
-- Attack: 75
-- Defense: 85
-- Special-attack: 115
-- Special-defense: 90
+- Hp: 100
+- Attack: 73
+- Defense: 83
+- Special-attack: 73
+- Special-defense: 83
 - Speed: 55
