@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Mankey
-## ID: 56
+## Wugtrio
+## ID: 961
 ### Tipos
-- Fighting
+- Water
 ### Stats
-- Hp: 40
-- Attack: 80
-- Defense: 35
-- Special-attack: 35
-- Special-defense: 45
-- Speed: 70
+- Hp: 35
+- Attack: 100
+- Defense: 50
+- Special-attack: 50
+- Special-defense: 70
+- Speed: 120
