@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Brute-bonnet
-## ID: 986
+## Patrat
+## ID: 504
 ### Tipos
-- Grass
-- Dark
+- Normal
 ### Stats
-- Hp: 111
-- Attack: 127
-- Defense: 99
-- Special-attack: 79
-- Special-defense: 99
-- Speed: 55
+- Hp: 45
+- Attack: 55
+- Defense: 39
+- Special-attack: 35
+- Special-defense: 39
+- Speed: 42
