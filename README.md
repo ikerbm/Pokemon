@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Ursaring
-## ID: 217
+## Claydol
+## ID: 344
 ### Tipos
-- Normal
+- Ground
+- Psychic
 ### Stats
-- Hp: 90
-- Attack: 130
-- Defense: 75
-- Special-attack: 75
-- Special-defense: 75
-- Speed: 55
+- Hp: 60
+- Attack: 70
+- Defense: 105
+- Special-attack: 70
+- Special-defense: 120
+- Speed: 75
