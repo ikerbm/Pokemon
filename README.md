@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Froslass
-## ID: 478
+## Oricorio-baile
+## ID: 741
 ### Tipos
-- Ice
-- Ghost
+- Fire
+- Flying
 ### Stats
-- Hp: 70
-- Attack: 80
+- Hp: 75
+- Attack: 70
 - Defense: 70
-- Special-attack: 80
+- Special-attack: 98
 - Special-defense: 70
-- Speed: 110
+- Speed: 93
