@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Vanillish
-## ID: 583
+## Golisopod
+## ID: 768
 ### Tipos
-- Ice
+- Bug
+- Water
 ### Stats
-- Hp: 51
-- Attack: 65
-- Defense: 65
-- Special-attack: 80
-- Special-defense: 75
-- Speed: 59
+- Hp: 75
+- Attack: 125
+- Defense: 140
+- Special-attack: 60
+- Special-defense: 90
+- Speed: 40
