@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Oricorio-baile
-## ID: 741
+## Ampharos
+## ID: 181
 ### Tipos
-- Fire
-- Flying
+- Electric
 ### Stats
-- Hp: 75
-- Attack: 70
-- Defense: 70
-- Special-attack: 98
-- Special-defense: 70
-- Speed: 93
+- Hp: 90
+- Attack: 75
+- Defense: 85
+- Special-attack: 115
+- Special-defense: 90
+- Speed: 55
