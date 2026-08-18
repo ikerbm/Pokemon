@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Golisopod
-## ID: 768
+## Mawile
+## ID: 303
 ### Tipos
-- Bug
-- Water
+- Steel
+- Fairy
 ### Stats
-- Hp: 75
-- Attack: 125
-- Defense: 140
-- Special-attack: 60
-- Special-defense: 90
-- Speed: 40
+- Hp: 50
+- Attack: 85
+- Defense: 85
+- Special-attack: 55
+- Special-defense: 55
+- Speed: 50
