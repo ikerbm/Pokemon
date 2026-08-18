@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Helioptile
-## ID: 694
+## Mienshao
+## ID: 620
 ### Tipos
-- Electric
-- Normal
+- Fighting
 ### Stats
-- Hp: 44
-- Attack: 38
-- Defense: 33
-- Special-attack: 61
-- Special-defense: 43
-- Speed: 70
+- Hp: 65
+- Attack: 125
+- Defense: 60
+- Special-attack: 95
+- Special-defense: 60
+- Speed: 105
