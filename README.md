@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Obstagoon
-## ID: 862
+## Helioptile
+## ID: 694
 ### Tipos
-- Dark
+- Electric
 - Normal
 ### Stats
-- Hp: 93
-- Attack: 90
-- Defense: 101
-- Special-attack: 60
-- Special-defense: 81
-- Speed: 95
+- Hp: 44
+- Attack: 38
+- Defense: 33
+- Special-attack: 61
+- Special-defense: 43
+- Speed: 70
