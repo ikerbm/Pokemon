@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Dugtrio
-## ID: 51
+## Poliwag
+## ID: 60
 ### Tipos
-- Ground
+- Water
 ### Stats
-- Hp: 35
-- Attack: 100
-- Defense: 50
-- Special-attack: 50
-- Special-defense: 70
-- Speed: 120
+- Hp: 40
+- Attack: 50
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 90
