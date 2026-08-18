@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Mienshao
-## ID: 620
+## Quilava
+## ID: 156
 ### Tipos
-- Fighting
+- Fire
 ### Stats
-- Hp: 65
-- Attack: 125
-- Defense: 60
-- Special-attack: 95
-- Special-defense: 60
-- Speed: 105
+- Hp: 58
+- Attack: 64
+- Defense: 58
+- Special-attack: 80
+- Special-defense: 65
+- Speed: 80
