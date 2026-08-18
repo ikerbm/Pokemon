@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Meowscarada
-## ID: 908
+## Cherrim
+## ID: 421
 ### Tipos
 - Grass
-- Dark
 ### Stats
-- Hp: 76
-- Attack: 110
+- Hp: 70
+- Attack: 60
 - Defense: 70
-- Special-attack: 81
-- Special-defense: 70
-- Speed: 123
+- Special-attack: 87
+- Special-defense: 78
+- Speed: 85
