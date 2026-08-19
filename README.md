@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Oricorio-baile
-## ID: 741
+## Dodrio
+## ID: 85
 ### Tipos
-- Fire
+- Normal
 - Flying
 ### Stats
-- Hp: 75
-- Attack: 70
+- Hp: 60
+- Attack: 110
 - Defense: 70
-- Special-attack: 98
-- Special-defense: 70
-- Speed: 93
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 110
