@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Dragonair
-## ID: 148
+## Type-null
+## ID: 772
 ### Tipos
-- Dragon
+- Normal
 ### Stats
-- Hp: 61
-- Attack: 84
-- Defense: 65
-- Special-attack: 70
-- Special-defense: 70
-- Speed: 70
+- Hp: 95
+- Attack: 95
+- Defense: 95
+- Special-attack: 95
+- Special-defense: 95
+- Speed: 59
