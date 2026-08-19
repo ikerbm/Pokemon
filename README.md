@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tirtouga
-## ID: 564
+## Chimchar
+## ID: 390
 ### Tipos
-- Water
-- Rock
+- Fire
 ### Stats
-- Hp: 54
-- Attack: 78
-- Defense: 103
-- Special-attack: 53
-- Special-defense: 45
-- Speed: 22
+- Hp: 44
+- Attack: 58
+- Defense: 44
+- Special-attack: 58
+- Special-defense: 44
+- Speed: 61
