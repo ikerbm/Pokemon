@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Chimchar
-## ID: 390
+## Quagsire
+## ID: 195
 ### Tipos
-- Fire
+- Water
+- Ground
 ### Stats
-- Hp: 44
-- Attack: 58
-- Defense: 44
-- Special-attack: 58
-- Special-defense: 44
-- Speed: 61
+- Hp: 95
+- Attack: 85
+- Defense: 85
+- Special-attack: 65
+- Special-defense: 65
+- Speed: 35
