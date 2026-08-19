@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Probopass
-## ID: 476
+## Herdier
+## ID: 507
 ### Tipos
-- Rock
-- Steel
+- Normal
 ### Stats
-- Hp: 60
-- Attack: 55
-- Defense: 145
-- Special-attack: 75
-- Special-defense: 150
-- Speed: 40
+- Hp: 65
+- Attack: 80
+- Defense: 65
+- Special-attack: 35
+- Special-defense: 65
+- Speed: 60
