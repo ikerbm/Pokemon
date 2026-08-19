@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Munna
-## ID: 517
+## Sandygast
+## ID: 769
 ### Tipos
-- Psychic
+- Ghost
+- Ground
 ### Stats
-- Hp: 76
-- Attack: 25
-- Defense: 45
-- Special-attack: 67
-- Special-defense: 55
-- Speed: 24
+- Hp: 55
+- Attack: 55
+- Defense: 80
+- Special-attack: 70
+- Special-defense: 45
+- Speed: 15
