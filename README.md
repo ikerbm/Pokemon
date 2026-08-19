@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Exeggutor
-## ID: 103
+## Kricketune
+## ID: 402
 ### Tipos
-- Grass
-- Psychic
+- Bug
 ### Stats
-- Hp: 95
-- Attack: 95
-- Defense: 85
-- Special-attack: 125
-- Special-defense: 75
-- Speed: 55
+- Hp: 77
+- Attack: 85
+- Defense: 51
+- Special-attack: 55
+- Special-defense: 51
+- Speed: 65
