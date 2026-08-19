@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Miraidon
-## ID: 1008
+## Beheeyem
+## ID: 606
 ### Tipos
-- Electric
-- Dragon
+- Psychic
 ### Stats
-- Hp: 100
-- Attack: 85
-- Defense: 100
-- Special-attack: 135
-- Special-defense: 115
-- Speed: 135
+- Hp: 75
+- Attack: 75
+- Defense: 75
+- Special-attack: 125
+- Special-defense: 95
+- Speed: 40
