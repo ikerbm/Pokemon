@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Sandygast
-## ID: 769
+## Dragalge
+## ID: 691
 ### Tipos
-- Ghost
-- Ground
+- Poison
+- Dragon
 ### Stats
-- Hp: 55
-- Attack: 55
-- Defense: 80
-- Special-attack: 70
-- Special-defense: 45
-- Speed: 15
+- Hp: 65
+- Attack: 75
+- Defense: 90
+- Special-attack: 97
+- Special-defense: 123
+- Speed: 44
