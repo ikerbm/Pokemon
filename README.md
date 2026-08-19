@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Type-null
-## ID: 772
+## Tinkaton
+## ID: 959
 ### Tipos
-- Normal
+- Fairy
+- Steel
 ### Stats
-- Hp: 95
-- Attack: 95
-- Defense: 95
-- Special-attack: 95
-- Special-defense: 95
-- Speed: 59
+- Hp: 85
+- Attack: 75
+- Defense: 77
+- Special-attack: 70
+- Special-defense: 105
+- Speed: 94
