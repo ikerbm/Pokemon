@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Beheeyem
-## ID: 606
+## Pidgeotto
+## ID: 17
 ### Tipos
-- Psychic
+- Normal
+- Flying
 ### Stats
-- Hp: 75
-- Attack: 75
-- Defense: 75
-- Special-attack: 125
-- Special-defense: 95
-- Speed: 40
+- Hp: 63
+- Attack: 60
+- Defense: 55
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 71
