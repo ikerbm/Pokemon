@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Primeape
-## ID: 57
+## Oricorio-baile
+## ID: 741
 ### Tipos
-- Fighting
+- Fire
+- Flying
 ### Stats
-- Hp: 65
-- Attack: 105
-- Defense: 60
-- Special-attack: 60
+- Hp: 75
+- Attack: 70
+- Defense: 70
+- Special-attack: 98
 - Special-defense: 70
-- Speed: 95
+- Speed: 93
