@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Lucario
-## ID: 448
+## Quilladin
+## ID: 651
 ### Tipos
-- Fighting
-- Steel
+- Grass
 ### Stats
-- Hp: 70
-- Attack: 110
-- Defense: 70
-- Special-attack: 115
-- Special-defense: 70
-- Speed: 90
+- Hp: 61
+- Attack: 78
+- Defense: 95
+- Special-attack: 56
+- Special-defense: 58
+- Speed: 57
