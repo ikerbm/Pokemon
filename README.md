@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Tinkaton
-## ID: 959
+## Miraidon
+## ID: 1008
 ### Tipos
-- Fairy
-- Steel
+- Electric
+- Dragon
 ### Stats
-- Hp: 85
-- Attack: 75
-- Defense: 77
-- Special-attack: 70
-- Special-defense: 105
-- Speed: 94
+- Hp: 100
+- Attack: 85
+- Defense: 100
+- Special-attack: 135
+- Special-defense: 115
+- Speed: 135
