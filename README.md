@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Quagsire
-## ID: 195
+## Primeape
+## ID: 57
 ### Tipos
-- Water
-- Ground
+- Fighting
 ### Stats
-- Hp: 95
-- Attack: 85
-- Defense: 85
-- Special-attack: 65
-- Special-defense: 65
-- Speed: 35
+- Hp: 65
+- Attack: 105
+- Defense: 60
+- Special-attack: 60
+- Special-defense: 70
+- Speed: 95
