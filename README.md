@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Victreebel
-## ID: 71
+## Torterra
+## ID: 389
 ### Tipos
 - Grass
-- Poison
+- Ground
 ### Stats
-- Hp: 80
-- Attack: 105
-- Defense: 65
-- Special-attack: 100
-- Special-defense: 70
-- Speed: 70
+- Hp: 95
+- Attack: 109
+- Defense: 105
+- Special-attack: 75
+- Special-defense: 85
+- Speed: 56
