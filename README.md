@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Herdier
-## ID: 507
+## Mamoswine
+## ID: 473
 ### Tipos
-- Normal
+- Ice
+- Ground
 ### Stats
-- Hp: 65
-- Attack: 80
-- Defense: 65
-- Special-attack: 35
-- Special-defense: 65
-- Speed: 60
+- Hp: 110
+- Attack: 130
+- Defense: 80
+- Special-attack: 70
+- Special-defense: 60
+- Speed: 80
