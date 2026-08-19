@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Goldeen
-## ID: 118
+## Grookey
+## ID: 810
 ### Tipos
-- Water
+- Grass
 ### Stats
-- Hp: 45
-- Attack: 67
-- Defense: 60
-- Special-attack: 35
-- Special-defense: 50
-- Speed: 63
+- Hp: 50
+- Attack: 65
+- Defense: 50
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 65
