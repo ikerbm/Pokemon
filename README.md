@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Tandemaus
-## ID: 924
+## Pikipek
+## ID: 731
 ### Tipos
 - Normal
+- Flying
 ### Stats
-- Hp: 50
-- Attack: 50
-- Defense: 45
-- Special-attack: 40
-- Special-defense: 45
-- Speed: 75
+- Hp: 35
+- Attack: 75
+- Defense: 30
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 65
