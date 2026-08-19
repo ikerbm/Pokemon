@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Corphish
-## ID: 341
+## Frigibax
+## ID: 996
 ### Tipos
-- Water
+- Dragon
+- Ice
 ### Stats
-- Hp: 43
-- Attack: 80
-- Defense: 65
-- Special-attack: 50
-- Special-defense: 35
-- Speed: 35
+- Hp: 65
+- Attack: 75
+- Defense: 45
+- Special-attack: 35
+- Special-defense: 45
+- Speed: 55
