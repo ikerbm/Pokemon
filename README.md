@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Mamoswine
-## ID: 473
+## Drapion
+## ID: 452
 ### Tipos
-- Ice
-- Ground
+- Poison
+- Dark
 ### Stats
-- Hp: 110
-- Attack: 130
-- Defense: 80
-- Special-attack: 70
-- Special-defense: 60
-- Speed: 80
+- Hp: 70
+- Attack: 90
+- Defense: 110
+- Special-attack: 60
+- Special-defense: 75
+- Speed: 95
