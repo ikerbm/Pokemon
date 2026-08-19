@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Wailord
-## ID: 321
+## Probopass
+## ID: 476
 ### Tipos
-- Water
+- Rock
+- Steel
 ### Stats
-- Hp: 170
-- Attack: 90
-- Defense: 45
-- Special-attack: 90
-- Special-defense: 45
-- Speed: 60
+- Hp: 60
+- Attack: 55
+- Defense: 145
+- Special-attack: 75
+- Special-defense: 150
+- Speed: 40
