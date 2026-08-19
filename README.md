@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Dodrio
-## ID: 85
+## Corphish
+## ID: 341
 ### Tipos
-- Normal
-- Flying
+- Water
 ### Stats
-- Hp: 60
-- Attack: 110
-- Defense: 70
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 110
+- Hp: 43
+- Attack: 80
+- Defense: 65
+- Special-attack: 50
+- Special-defense: 35
+- Speed: 35
