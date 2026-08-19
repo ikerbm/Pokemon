@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Bastiodon
-## ID: 411
+## Tirtouga
+## ID: 564
 ### Tipos
+- Water
 - Rock
-- Steel
 ### Stats
-- Hp: 60
-- Attack: 52
-- Defense: 168
-- Special-attack: 47
-- Special-defense: 138
-- Speed: 30
+- Hp: 54
+- Attack: 78
+- Defense: 103
+- Special-attack: 53
+- Special-defense: 45
+- Speed: 22
