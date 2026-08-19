@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Hitmonlee
-## ID: 106
+## Hoopa
+## ID: 720
 ### Tipos
-- Fighting
+- Psychic
+- Ghost
 ### Stats
-- Hp: 50
-- Attack: 120
-- Defense: 53
-- Special-attack: 35
-- Special-defense: 110
-- Speed: 87
+- Hp: 80
+- Attack: 110
+- Defense: 60
+- Special-attack: 150
+- Special-defense: 130
+- Speed: 70
