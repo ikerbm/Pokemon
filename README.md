@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Swanna
-## ID: 581
+## Victreebel
+## ID: 71
 ### Tipos
-- Water
-- Flying
+- Grass
+- Poison
 ### Stats
-- Hp: 75
-- Attack: 87
-- Defense: 63
-- Special-attack: 87
-- Special-defense: 63
-- Speed: 98
+- Hp: 80
+- Attack: 105
+- Defense: 65
+- Special-attack: 100
+- Special-defense: 70
+- Speed: 70
