@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Grookey
-## ID: 810
+## Rookidee
+## ID: 821
 ### Tipos
-- Grass
+- Flying
 ### Stats
-- Hp: 50
-- Attack: 65
-- Defense: 50
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 65
+- Hp: 38
+- Attack: 47
+- Defense: 35
+- Special-attack: 33
+- Special-defense: 35
+- Speed: 57
