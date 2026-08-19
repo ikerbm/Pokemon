@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Walking-wake
-## ID: 1009
+## Lucario
+## ID: 448
 ### Tipos
-- Water
-- Dragon
+- Fighting
+- Steel
 ### Stats
-- Hp: 99
-- Attack: 83
-- Defense: 91
-- Special-attack: 125
-- Special-defense: 83
-- Speed: 109
+- Hp: 70
+- Attack: 110
+- Defense: 70
+- Special-attack: 115
+- Special-defense: 70
+- Speed: 90
