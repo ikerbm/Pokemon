@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Arrokuda
-## ID: 846
+## Dragonair
+## ID: 148
 ### Tipos
-- Water
+- Dragon
 ### Stats
-- Hp: 41
-- Attack: 63
-- Defense: 40
-- Special-attack: 40
-- Special-defense: 30
-- Speed: 66
+- Hp: 61
+- Attack: 84
+- Defense: 65
+- Special-attack: 70
+- Special-defense: 70
+- Speed: 70
