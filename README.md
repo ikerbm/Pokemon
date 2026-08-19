@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Drapion
-## ID: 452
+## Swanna
+## ID: 581
 ### Tipos
-- Poison
-- Dark
+- Water
+- Flying
 ### Stats
-- Hp: 70
-- Attack: 90
-- Defense: 110
-- Special-attack: 60
-- Special-defense: 75
-- Speed: 95
+- Hp: 75
+- Attack: 87
+- Defense: 63
+- Special-attack: 87
+- Special-defense: 63
+- Speed: 98
