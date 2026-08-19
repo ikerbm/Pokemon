@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Torterra
-## ID: 389
+## Bastiodon
+## ID: 411
 ### Tipos
-- Grass
-- Ground
+- Rock
+- Steel
 ### Stats
-- Hp: 95
-- Attack: 109
-- Defense: 105
-- Special-attack: 75
-- Special-defense: 85
-- Speed: 56
+- Hp: 60
+- Attack: 52
+- Defense: 168
+- Special-attack: 47
+- Special-defense: 138
+- Speed: 30
