@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Dachsbun
-## ID: 927
+## Goldeen
+## ID: 118
 ### Tipos
-- Fairy
+- Water
 ### Stats
-- Hp: 57
-- Attack: 80
-- Defense: 115
-- Special-attack: 50
-- Special-defense: 80
-- Speed: 95
+- Hp: 45
+- Attack: 67
+- Defense: 60
+- Special-attack: 35
+- Special-defense: 50
+- Speed: 63
