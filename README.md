@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Gossifleur
-## ID: 829
+## Nidoran-f
+## ID: 29
 ### Tipos
-- Grass
+- Poison
 ### Stats
-- Hp: 40
-- Attack: 40
-- Defense: 60
+- Hp: 55
+- Attack: 47
+- Defense: 52
 - Special-attack: 40
-- Special-defense: 60
-- Speed: 10
+- Special-defense: 40
+- Speed: 41
