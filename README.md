@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Quilladin
-## ID: 651
+## Hitmonlee
+## ID: 106
 ### Tipos
-- Grass
+- Fighting
 ### Stats
-- Hp: 61
-- Attack: 78
-- Defense: 95
-- Special-attack: 56
-- Special-defense: 58
-- Speed: 57
+- Hp: 50
+- Attack: 120
+- Defense: 53
+- Special-attack: 35
+- Special-defense: 110
+- Speed: 87
