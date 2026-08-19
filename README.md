@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Rookidee
-## ID: 821
+## Wailord
+## ID: 321
 ### Tipos
-- Flying
+- Water
 ### Stats
-- Hp: 38
-- Attack: 47
-- Defense: 35
-- Special-attack: 33
-- Special-defense: 35
-- Speed: 57
+- Hp: 170
+- Attack: 90
+- Defense: 45
+- Special-attack: 90
+- Special-defense: 45
+- Speed: 60
