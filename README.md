@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Kricketune
-## ID: 402
+## Tandemaus
+## ID: 924
 ### Tipos
-- Bug
+- Normal
 ### Stats
-- Hp: 77
-- Attack: 85
-- Defense: 51
-- Special-attack: 55
-- Special-defense: 51
-- Speed: 65
+- Hp: 50
+- Attack: 50
+- Defense: 45
+- Special-attack: 40
+- Special-defense: 45
+- Speed: 75
