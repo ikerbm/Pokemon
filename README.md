@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Sandygast
-## ID: 769
+## Gossifleur
+## ID: 829
 ### Tipos
-- Ghost
-- Ground
+- Grass
 ### Stats
-- Hp: 55
-- Attack: 55
-- Defense: 80
-- Special-attack: 70
-- Special-defense: 45
-- Speed: 15
+- Hp: 40
+- Attack: 40
+- Defense: 60
+- Special-attack: 40
+- Special-defense: 60
+- Speed: 10
