@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Pikipek
-## ID: 731
+## Munna
+## ID: 517
 ### Tipos
-- Normal
-- Flying
+- Psychic
 ### Stats
-- Hp: 35
-- Attack: 75
-- Defense: 30
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 65
+- Hp: 76
+- Attack: 25
+- Defense: 45
+- Special-attack: 67
+- Special-defense: 55
+- Speed: 24
