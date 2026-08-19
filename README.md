@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Landorus-incarnate
-## ID: 645
+## Exeggutor
+## ID: 103
 ### Tipos
-- Ground
-- Flying
+- Grass
+- Psychic
 ### Stats
-- Hp: 89
-- Attack: 125
-- Defense: 90
-- Special-attack: 115
-- Special-defense: 80
-- Speed: 101
+- Hp: 95
+- Attack: 95
+- Defense: 85
+- Special-attack: 125
+- Special-defense: 75
+- Speed: 55
