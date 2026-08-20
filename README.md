@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ferrothorn
-## ID: 598
+## Druddigon
+## ID: 621
 ### Tipos
-- Grass
-- Steel
+- Dragon
 ### Stats
-- Hp: 74
-- Attack: 94
-- Defense: 131
-- Special-attack: 54
-- Special-defense: 116
-- Speed: 20
+- Hp: 77
+- Attack: 120
+- Defense: 90
+- Special-attack: 60
+- Special-defense: 90
+- Speed: 48
