@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Scrafty
-## ID: 560
+## Blacephalon
+## ID: 806
 ### Tipos
-- Dark
-- Fighting
+- Fire
+- Ghost
 ### Stats
-- Hp: 65
-- Attack: 90
-- Defense: 115
-- Special-attack: 45
-- Special-defense: 115
-- Speed: 58
+- Hp: 53
+- Attack: 127
+- Defense: 53
+- Special-attack: 151
+- Special-defense: 79
+- Speed: 107
