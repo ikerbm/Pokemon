@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Wailord
-## ID: 321
+## Togepi
+## ID: 175
 ### Tipos
-- Water
+- Fairy
 ### Stats
-- Hp: 170
-- Attack: 90
-- Defense: 45
-- Special-attack: 90
-- Special-defense: 45
-- Speed: 60
+- Hp: 35
+- Attack: 20
+- Defense: 65
+- Special-attack: 40
+- Special-defense: 65
+- Speed: 20
