@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Flabebe
-## ID: 669
+## Drednaw
+## ID: 834
 ### Tipos
-- Fairy
+- Water
+- Rock
 ### Stats
-- Hp: 44
-- Attack: 38
-- Defense: 39
-- Special-attack: 61
-- Special-defense: 79
-- Speed: 42
+- Hp: 90
+- Attack: 115
+- Defense: 90
+- Special-attack: 48
+- Special-defense: 68
+- Speed: 74
