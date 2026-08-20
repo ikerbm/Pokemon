@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Druddigon
-## ID: 621
+## Scrafty
+## ID: 560
 ### Tipos
-- Dragon
+- Dark
+- Fighting
 ### Stats
-- Hp: 77
-- Attack: 120
-- Defense: 90
-- Special-attack: 60
-- Special-defense: 90
-- Speed: 48
+- Hp: 65
+- Attack: 90
+- Defense: 115
+- Special-attack: 45
+- Special-defense: 115
+- Speed: 58
