@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Electivire
-## ID: 466
+## Tentacruel
+## ID: 73
 ### Tipos
-- Electric
+- Water
+- Poison
 ### Stats
-- Hp: 75
-- Attack: 123
-- Defense: 67
-- Special-attack: 95
-- Special-defense: 85
-- Speed: 95
+- Hp: 80
+- Attack: 70
+- Defense: 65
+- Special-attack: 80
+- Special-defense: 120
+- Speed: 100
