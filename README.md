@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Phantump
-## ID: 708
+## Centiskorch
+## ID: 851
 ### Tipos
-- Ghost
-- Grass
+- Fire
+- Bug
 ### Stats
-- Hp: 43
-- Attack: 70
-- Defense: 48
-- Special-attack: 50
-- Special-defense: 60
-- Speed: 38
+- Hp: 100
+- Attack: 115
+- Defense: 65
+- Special-attack: 90
+- Special-defense: 90
+- Speed: 65
