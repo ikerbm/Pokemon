@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Togepi
-## ID: 175
+## Haunter
+## ID: 93
 ### Tipos
-- Fairy
+- Ghost
+- Poison
 ### Stats
-- Hp: 35
-- Attack: 20
-- Defense: 65
-- Special-attack: 40
-- Special-defense: 65
-- Speed: 20
+- Hp: 45
+- Attack: 50
+- Defense: 45
+- Special-attack: 115
+- Special-defense: 55
+- Speed: 95
