@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Cetitan
-## ID: 975
+## Fraxure
+## ID: 611
 ### Tipos
-- Ice
+- Dragon
 ### Stats
-- Hp: 170
-- Attack: 113
-- Defense: 65
-- Special-attack: 45
-- Special-defense: 55
-- Speed: 73
+- Hp: 66
+- Attack: 117
+- Defense: 70
+- Special-attack: 40
+- Special-defense: 50
+- Speed: 67
