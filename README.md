@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Helioptile
-## ID: 694
+## Slakoth
+## ID: 287
 ### Tipos
-- Electric
 - Normal
 ### Stats
-- Hp: 44
-- Attack: 38
-- Defense: 33
-- Special-attack: 61
-- Special-defense: 43
-- Speed: 70
+- Hp: 60
+- Attack: 60
+- Defense: 60
+- Special-attack: 35
+- Special-defense: 35
+- Speed: 30
