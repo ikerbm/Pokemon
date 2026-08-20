@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Druddigon
-## ID: 621
+## Swinub
+## ID: 220
 ### Tipos
-- Dragon
+- Ice
+- Ground
 ### Stats
-- Hp: 77
-- Attack: 120
-- Defense: 90
-- Special-attack: 60
-- Special-defense: 90
-- Speed: 48
+- Hp: 50
+- Attack: 50
+- Defense: 40
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 50
