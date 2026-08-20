@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Pikipek
-## ID: 731
+## Piplup
+## ID: 393
 ### Tipos
-- Normal
-- Flying
+- Water
 ### Stats
-- Hp: 35
-- Attack: 75
-- Defense: 30
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 65
+- Hp: 53
+- Attack: 51
+- Defense: 53
+- Special-attack: 61
+- Special-defense: 56
+- Speed: 40
