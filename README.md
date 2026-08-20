@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Nymble
-## ID: 919
+## Copperajah
+## ID: 879
 ### Tipos
-- Bug
+- Steel
 ### Stats
-- Hp: 33
-- Attack: 46
-- Defense: 40
-- Special-attack: 21
-- Special-defense: 25
-- Speed: 45
+- Hp: 122
+- Attack: 130
+- Defense: 69
+- Special-attack: 80
+- Special-defense: 69
+- Speed: 30
