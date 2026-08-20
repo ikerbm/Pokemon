@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Drednaw
-## ID: 834
+## Electrode
+## ID: 101
 ### Tipos
-- Water
-- Rock
+- Electric
 ### Stats
-- Hp: 90
-- Attack: 115
-- Defense: 90
-- Special-attack: 48
-- Special-defense: 68
-- Speed: 74
+- Hp: 60
+- Attack: 50
+- Defense: 70
+- Special-attack: 80
+- Special-defense: 80
+- Speed: 150
