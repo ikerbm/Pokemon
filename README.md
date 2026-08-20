@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Golduck
-## ID: 55
+## Ditto
+## ID: 132
 ### Tipos
-- Water
+- Normal
 ### Stats
-- Hp: 80
-- Attack: 82
-- Defense: 78
-- Special-attack: 95
-- Special-defense: 80
-- Speed: 85
+- Hp: 48
+- Attack: 48
+- Defense: 48
+- Special-attack: 48
+- Special-defense: 48
+- Speed: 48
