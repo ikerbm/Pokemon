@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tentacruel
-## ID: 73
+## Hariyama
+## ID: 297
 ### Tipos
-- Water
-- Poison
+- Fighting
 ### Stats
-- Hp: 80
-- Attack: 70
-- Defense: 65
-- Special-attack: 80
-- Special-defense: 120
-- Speed: 100
+- Hp: 144
+- Attack: 120
+- Defense: 60
+- Special-attack: 40
+- Special-defense: 60
+- Speed: 50
