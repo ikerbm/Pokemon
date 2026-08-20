@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Jumpluff
-## ID: 189
+## Pikipek
+## ID: 731
 ### Tipos
-- Grass
+- Normal
 - Flying
 ### Stats
-- Hp: 75
-- Attack: 55
-- Defense: 70
-- Special-attack: 55
-- Special-defense: 95
-- Speed: 110
+- Hp: 35
+- Attack: 75
+- Defense: 30
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 65
