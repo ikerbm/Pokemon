@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Donphan
-## ID: 232
+## Electivire
+## ID: 466
 ### Tipos
-- Ground
+- Electric
 ### Stats
-- Hp: 90
-- Attack: 120
-- Defense: 120
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 50
+- Hp: 75
+- Attack: 123
+- Defense: 67
+- Special-attack: 95
+- Special-defense: 85
+- Speed: 95
