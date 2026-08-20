@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Copperajah
-## ID: 879
+## Phantump
+## ID: 708
 ### Tipos
-- Steel
+- Ghost
+- Grass
 ### Stats
-- Hp: 122
-- Attack: 130
-- Defense: 69
-- Special-attack: 80
-- Special-defense: 69
-- Speed: 30
+- Hp: 43
+- Attack: 70
+- Defense: 48
+- Special-attack: 50
+- Special-defense: 60
+- Speed: 38
