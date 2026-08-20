@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Hariyama
-## ID: 297
+## Flabebe
+## ID: 669
 ### Tipos
-- Fighting
+- Fairy
 ### Stats
-- Hp: 144
-- Attack: 120
-- Defense: 60
-- Special-attack: 40
-- Special-defense: 60
-- Speed: 50
+- Hp: 44
+- Attack: 38
+- Defense: 39
+- Special-attack: 61
+- Special-defense: 79
+- Speed: 42
