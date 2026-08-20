@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Blacephalon
-## ID: 806
+## Cacnea
+## ID: 331
 ### Tipos
-- Fire
-- Ghost
+- Grass
 ### Stats
-- Hp: 53
-- Attack: 127
-- Defense: 53
-- Special-attack: 151
-- Special-defense: 79
-- Speed: 107
+- Hp: 50
+- Attack: 85
+- Defense: 40
+- Special-attack: 85
+- Special-defense: 40
+- Speed: 35
