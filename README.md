@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Slakoth
-## ID: 287
+## Sinistea
+## ID: 854
 ### Tipos
-- Normal
+- Ghost
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 60
-- Special-attack: 35
-- Special-defense: 35
-- Speed: 30
+- Hp: 40
+- Attack: 45
+- Defense: 45
+- Special-attack: 74
+- Special-defense: 54
+- Speed: 50
