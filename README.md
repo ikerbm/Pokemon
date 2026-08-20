@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Flygon
-## ID: 330
+## Druddigon
+## ID: 621
 ### Tipos
-- Ground
 - Dragon
 ### Stats
-- Hp: 80
-- Attack: 100
-- Defense: 80
-- Special-attack: 80
-- Special-defense: 80
-- Speed: 100
+- Hp: 77
+- Attack: 120
+- Defense: 90
+- Special-attack: 60
+- Special-defense: 90
+- Speed: 48
