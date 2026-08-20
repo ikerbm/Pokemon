@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Electrode
-## ID: 101
+## Wailord
+## ID: 321
 ### Tipos
-- Electric
+- Water
 ### Stats
-- Hp: 60
-- Attack: 50
-- Defense: 70
-- Special-attack: 80
-- Special-defense: 80
-- Speed: 150
+- Hp: 170
+- Attack: 90
+- Defense: 45
+- Special-attack: 90
+- Special-defense: 45
+- Speed: 60
