@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Wo-chien
-## ID: 1001
+## Sunkern
+## ID: 191
 ### Tipos
-- Dark
 - Grass
 ### Stats
-- Hp: 85
-- Attack: 85
-- Defense: 100
-- Special-attack: 95
-- Special-defense: 135
-- Speed: 70
+- Hp: 30
+- Attack: 30
+- Defense: 30
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 30
