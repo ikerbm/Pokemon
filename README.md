@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Ditto
-## ID: 132
+## Dhelmise
+## ID: 781
 ### Tipos
-- Normal
+- Ghost
+- Grass
 ### Stats
-- Hp: 48
-- Attack: 48
-- Defense: 48
-- Special-attack: 48
-- Special-defense: 48
-- Speed: 48
+- Hp: 70
+- Attack: 131
+- Defense: 100
+- Special-attack: 86
+- Special-defense: 90
+- Speed: 40
