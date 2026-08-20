@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dhelmise
-## ID: 781
+## Helioptile
+## ID: 694
 ### Tipos
-- Ghost
-- Grass
+- Electric
+- Normal
 ### Stats
-- Hp: 70
-- Attack: 131
-- Defense: 100
-- Special-attack: 86
-- Special-defense: 90
-- Speed: 40
+- Hp: 44
+- Attack: 38
+- Defense: 33
+- Special-attack: 61
+- Special-defense: 43
+- Speed: 70
