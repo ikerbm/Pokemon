@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Cacnea
-## ID: 331
+## Tynamo
+## ID: 602
 ### Tipos
-- Grass
+- Electric
 ### Stats
-- Hp: 50
-- Attack: 85
+- Hp: 35
+- Attack: 55
 - Defense: 40
-- Special-attack: 85
+- Special-attack: 45
 - Special-defense: 40
-- Speed: 35
+- Speed: 60
