@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Magby
-## ID: 240
+## Golduck
+## ID: 55
 ### Tipos
-- Fire
+- Water
 ### Stats
-- Hp: 45
-- Attack: 75
-- Defense: 37
-- Special-attack: 70
-- Special-defense: 55
-- Speed: 83
+- Hp: 80
+- Attack: 82
+- Defense: 78
+- Special-attack: 95
+- Special-defense: 80
+- Speed: 85
