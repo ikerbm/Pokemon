@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Tynamo
-## ID: 602
+## Kabutops
+## ID: 141
 ### Tipos
-- Electric
+- Rock
+- Water
 ### Stats
-- Hp: 35
-- Attack: 55
-- Defense: 40
-- Special-attack: 45
-- Special-defense: 40
-- Speed: 60
+- Hp: 60
+- Attack: 115
+- Defense: 105
+- Special-attack: 65
+- Special-defense: 70
+- Speed: 80
