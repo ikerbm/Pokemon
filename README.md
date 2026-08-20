@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Fraxure
-## ID: 611
+## Armarouge
+## ID: 936
 ### Tipos
-- Dragon
+- Fire
+- Psychic
 ### Stats
-- Hp: 66
-- Attack: 117
-- Defense: 70
-- Special-attack: 40
-- Special-defense: 50
-- Speed: 67
+- Hp: 85
+- Attack: 60
+- Defense: 100
+- Special-attack: 125
+- Special-defense: 80
+- Speed: 75
