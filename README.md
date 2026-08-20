@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Chesnaught
-## ID: 652
+## Donphan
+## ID: 232
 ### Tipos
-- Grass
-- Fighting
+- Ground
 ### Stats
-- Hp: 88
-- Attack: 107
-- Defense: 122
-- Special-attack: 74
-- Special-defense: 75
-- Speed: 64
+- Hp: 90
+- Attack: 120
+- Defense: 120
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 50
