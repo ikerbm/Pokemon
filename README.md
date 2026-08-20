@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Mawile
-## ID: 303
+## Wo-chien
+## ID: 1001
 ### Tipos
-- Steel
-- Fairy
+- Dark
+- Grass
 ### Stats
-- Hp: 50
+- Hp: 85
 - Attack: 85
-- Defense: 85
-- Special-attack: 55
-- Special-defense: 55
-- Speed: 50
+- Defense: 100
+- Special-attack: 95
+- Special-defense: 135
+- Speed: 70
