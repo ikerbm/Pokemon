@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Armarouge
-## ID: 936
+## Flygon
+## ID: 330
 ### Tipos
-- Fire
-- Psychic
+- Ground
+- Dragon
 ### Stats
-- Hp: 85
-- Attack: 60
-- Defense: 100
-- Special-attack: 125
+- Hp: 80
+- Attack: 100
+- Defense: 80
+- Special-attack: 80
 - Special-defense: 80
-- Speed: 75
+- Speed: 100
