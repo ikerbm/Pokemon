@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Kabutops
-## ID: 141
+## Cetitan
+## ID: 975
 ### Tipos
-- Rock
-- Water
+- Ice
 ### Stats
-- Hp: 60
-- Attack: 115
-- Defense: 105
-- Special-attack: 65
-- Special-defense: 70
-- Speed: 80
+- Hp: 170
+- Attack: 113
+- Defense: 65
+- Special-attack: 45
+- Special-defense: 55
+- Speed: 73
