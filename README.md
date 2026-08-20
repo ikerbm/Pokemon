@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Oricorio-baile
-## ID: 741
+## Nymble
+## ID: 919
 ### Tipos
-- Fire
-- Flying
+- Bug
 ### Stats
-- Hp: 75
-- Attack: 70
-- Defense: 70
-- Special-attack: 98
-- Special-defense: 70
-- Speed: 93
+- Hp: 33
+- Attack: 46
+- Defense: 40
+- Special-attack: 21
+- Special-defense: 25
+- Speed: 45
