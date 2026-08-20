@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Centiskorch
-## ID: 851
+## Magby
+## ID: 240
 ### Tipos
 - Fire
-- Bug
 ### Stats
-- Hp: 100
-- Attack: 115
-- Defense: 65
-- Special-attack: 90
-- Special-defense: 90
-- Speed: 65
+- Hp: 45
+- Attack: 75
+- Defense: 37
+- Special-attack: 70
+- Special-defense: 55
+- Speed: 83
