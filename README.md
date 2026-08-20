@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Haunter
-## ID: 93
+## Jumpluff
+## ID: 189
 ### Tipos
-- Ghost
-- Poison
+- Grass
+- Flying
 ### Stats
-- Hp: 45
-- Attack: 50
-- Defense: 45
-- Special-attack: 115
-- Special-defense: 55
-- Speed: 95
+- Hp: 75
+- Attack: 55
+- Defense: 70
+- Special-attack: 55
+- Special-defense: 95
+- Speed: 110
