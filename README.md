@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Sinistea
-## ID: 854
+## Braixen
+## ID: 654
 ### Tipos
-- Ghost
+- Fire
 ### Stats
-- Hp: 40
-- Attack: 45
-- Defense: 45
-- Special-attack: 74
-- Special-defense: 54
-- Speed: 50
+- Hp: 59
+- Attack: 59
+- Defense: 58
+- Special-attack: 90
+- Special-defense: 70
+- Speed: 73
