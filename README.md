@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Piplup
-## ID: 393
+## Ferrothorn
+## ID: 598
 ### Tipos
-- Water
+- Grass
+- Steel
 ### Stats
-- Hp: 53
-- Attack: 51
-- Defense: 53
-- Special-attack: 61
-- Special-defense: 56
-- Speed: 40
+- Hp: 74
+- Attack: 94
+- Defense: 131
+- Special-attack: 54
+- Special-defense: 116
+- Speed: 20
