@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Geodude
-## ID: 74
+## Bronzong
+## ID: 437
 ### Tipos
-- Rock
-- Ground
+- Steel
+- Psychic
 ### Stats
-- Hp: 40
-- Attack: 80
-- Defense: 100
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 20
+- Hp: 67
+- Attack: 89
+- Defense: 116
+- Special-attack: 79
+- Special-defense: 116
+- Speed: 33
