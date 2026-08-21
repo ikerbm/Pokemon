@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Infernape
-## ID: 392
+## Quaxly
+## ID: 912
 ### Tipos
-- Fire
-- Fighting
+- Water
 ### Stats
-- Hp: 76
-- Attack: 104
-- Defense: 71
-- Special-attack: 104
-- Special-defense: 71
-- Speed: 108
+- Hp: 55
+- Attack: 65
+- Defense: 45
+- Special-attack: 50
+- Special-defense: 45
+- Speed: 50
