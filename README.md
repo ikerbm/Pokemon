@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Grafaiai
-## ID: 945
+## Steenee
+## ID: 762
 ### Tipos
-- Poison
-- Normal
+- Grass
 ### Stats
-- Hp: 63
-- Attack: 95
-- Defense: 65
-- Special-attack: 80
-- Special-defense: 72
-- Speed: 110
+- Hp: 52
+- Attack: 40
+- Defense: 48
+- Special-attack: 40
+- Special-defense: 48
+- Speed: 62
