@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ceruledge
-## ID: 937
+## Teddiursa
+## ID: 216
 ### Tipos
-- Fire
-- Ghost
+- Normal
 ### Stats
-- Hp: 75
-- Attack: 125
-- Defense: 80
-- Special-attack: 60
-- Special-defense: 100
-- Speed: 85
+- Hp: 60
+- Attack: 80
+- Defense: 50
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 40
