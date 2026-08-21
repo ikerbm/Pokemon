@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Corsola
-## ID: 222
+## Reshiram
+## ID: 643
 ### Tipos
-- Water
-- Rock
+- Dragon
+- Fire
 ### Stats
-- Hp: 65
-- Attack: 55
-- Defense: 95
-- Special-attack: 65
-- Special-defense: 95
-- Speed: 35
+- Hp: 100
+- Attack: 120
+- Defense: 100
+- Special-attack: 150
+- Special-defense: 120
+- Speed: 90
