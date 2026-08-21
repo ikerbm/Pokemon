@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Sunkern
-## ID: 191
+## Emboar
+## ID: 500
 ### Tipos
-- Grass
+- Fire
+- Fighting
 ### Stats
-- Hp: 30
-- Attack: 30
-- Defense: 30
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 30
+- Hp: 110
+- Attack: 123
+- Defense: 65
+- Special-attack: 100
+- Special-defense: 65
+- Speed: 65
