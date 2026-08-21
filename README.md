@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Garbodor
-## ID: 569
+## Simisear
+## ID: 514
 ### Tipos
-- Poison
+- Fire
 ### Stats
-- Hp: 80
-- Attack: 95
-- Defense: 82
-- Special-attack: 60
-- Special-defense: 82
-- Speed: 75
+- Hp: 75
+- Attack: 98
+- Defense: 63
+- Special-attack: 98
+- Special-defense: 63
+- Speed: 101
