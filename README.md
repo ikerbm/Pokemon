@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Hydreigon
-## ID: 635
+## Geodude
+## ID: 74
 ### Tipos
-- Dark
-- Dragon
+- Rock
+- Ground
 ### Stats
-- Hp: 92
-- Attack: 105
-- Defense: 90
-- Special-attack: 125
-- Special-defense: 90
-- Speed: 98
+- Hp: 40
+- Attack: 80
+- Defense: 100
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 20
