@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Sawsbuck
-## ID: 586
+## Ceruledge
+## ID: 937
 ### Tipos
-- Normal
-- Grass
+- Fire
+- Ghost
 ### Stats
-- Hp: 80
-- Attack: 100
-- Defense: 70
+- Hp: 75
+- Attack: 125
+- Defense: 80
 - Special-attack: 60
-- Special-defense: 70
-- Speed: 95
+- Special-defense: 100
+- Speed: 85
