@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Darumaka
-## ID: 554
+## Corsola
+## ID: 222
 ### Tipos
-- Fire
+- Water
+- Rock
 ### Stats
-- Hp: 70
-- Attack: 90
-- Defense: 45
-- Special-attack: 15
-- Special-defense: 45
-- Speed: 50
+- Hp: 65
+- Attack: 55
+- Defense: 95
+- Special-attack: 65
+- Special-defense: 95
+- Speed: 35
