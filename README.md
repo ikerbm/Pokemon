@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Iron-jugulis
-## ID: 993
+## Dachsbun
+## ID: 927
 ### Tipos
-- Dark
-- Flying
+- Fairy
 ### Stats
-- Hp: 94
+- Hp: 57
 - Attack: 80
-- Defense: 86
-- Special-attack: 122
+- Defense: 115
+- Special-attack: 50
 - Special-defense: 80
-- Speed: 108
+- Speed: 95
