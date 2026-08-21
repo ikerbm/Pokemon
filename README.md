@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Cosmog
-## ID: 789
+## Silcoon
+## ID: 266
 ### Tipos
-- Psychic
+- Bug
 ### Stats
-- Hp: 43
-- Attack: 29
-- Defense: 31
-- Special-attack: 29
-- Special-defense: 31
-- Speed: 37
+- Hp: 50
+- Attack: 35
+- Defense: 55
+- Special-attack: 25
+- Special-defense: 25
+- Speed: 15
