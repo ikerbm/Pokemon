@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Quaxly
-## ID: 912
+## Garbodor
+## ID: 569
 ### Tipos
-- Water
+- Poison
 ### Stats
-- Hp: 55
-- Attack: 65
-- Defense: 45
-- Special-attack: 50
-- Special-defense: 45
-- Speed: 50
+- Hp: 80
+- Attack: 95
+- Defense: 82
+- Special-attack: 60
+- Special-defense: 82
+- Speed: 75
