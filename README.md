@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Reshiram
-## ID: 643
+## Tinkatuff
+## ID: 958
 ### Tipos
-- Dragon
-- Fire
+- Fairy
+- Steel
 ### Stats
-- Hp: 100
-- Attack: 120
-- Defense: 100
-- Special-attack: 150
-- Special-defense: 120
-- Speed: 90
+- Hp: 65
+- Attack: 55
+- Defense: 55
+- Special-attack: 45
+- Special-defense: 82
+- Speed: 78
