@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Bounsweet
-## ID: 761
+## Poliwag
+## ID: 60
 ### Tipos
-- Grass
+- Water
 ### Stats
-- Hp: 42
-- Attack: 30
-- Defense: 38
-- Special-attack: 30
-- Special-defense: 38
-- Speed: 32
+- Hp: 40
+- Attack: 50
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 90
