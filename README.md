@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Furfrou
-## ID: 676
+## Infernape
+## ID: 392
 ### Tipos
-- Normal
+- Fire
+- Fighting
 ### Stats
-- Hp: 75
-- Attack: 80
-- Defense: 60
-- Special-attack: 65
-- Special-defense: 90
-- Speed: 102
+- Hp: 76
+- Attack: 104
+- Defense: 71
+- Special-attack: 104
+- Special-defense: 71
+- Speed: 108
