@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Drowzee
-## ID: 96
+## Nidoran-f
+## ID: 29
 ### Tipos
-- Psychic
+- Poison
 ### Stats
-- Hp: 60
-- Attack: 48
-- Defense: 45
-- Special-attack: 43
-- Special-defense: 90
-- Speed: 42
+- Hp: 55
+- Attack: 47
+- Defense: 52
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 41
