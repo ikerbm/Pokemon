@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Camerupt
-## ID: 323
+## Grafaiai
+## ID: 945
 ### Tipos
-- Fire
-- Ground
+- Poison
+- Normal
 ### Stats
-- Hp: 70
-- Attack: 100
-- Defense: 70
-- Special-attack: 105
-- Special-defense: 75
-- Speed: 40
+- Hp: 63
+- Attack: 95
+- Defense: 65
+- Special-attack: 80
+- Special-defense: 72
+- Speed: 110
