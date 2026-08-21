@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Cyclizar
-## ID: 967
+## Iron-jugulis
+## ID: 993
 ### Tipos
-- Dragon
-- Normal
+- Dark
+- Flying
 ### Stats
-- Hp: 70
-- Attack: 95
-- Defense: 65
-- Special-attack: 85
-- Special-defense: 65
-- Speed: 121
+- Hp: 94
+- Attack: 80
+- Defense: 86
+- Special-attack: 122
+- Special-defense: 80
+- Speed: 108
