@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Comfey
-## ID: 764
+## Shuckle
+## ID: 213
 ### Tipos
-- Fairy
+- Bug
+- Rock
 ### Stats
-- Hp: 51
-- Attack: 52
-- Defense: 90
-- Special-attack: 82
-- Special-defense: 110
-- Speed: 100
+- Hp: 20
+- Attack: 10
+- Defense: 230
+- Special-attack: 10
+- Special-defense: 230
+- Speed: 5
