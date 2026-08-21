@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Simisear
-## ID: 514
+## Bounsweet
+## ID: 761
 ### Tipos
-- Fire
+- Grass
 ### Stats
-- Hp: 75
-- Attack: 98
-- Defense: 63
-- Special-attack: 98
-- Special-defense: 63
-- Speed: 101
+- Hp: 42
+- Attack: 30
+- Defense: 38
+- Special-attack: 30
+- Special-defense: 38
+- Speed: 32
