@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Poliwag
-## ID: 60
+## Sawsbuck
+## ID: 586
 ### Tipos
-- Water
+- Normal
+- Grass
 ### Stats
-- Hp: 40
-- Attack: 50
-- Defense: 40
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 90
+- Hp: 80
+- Attack: 100
+- Defense: 70
+- Special-attack: 60
+- Special-defense: 70
+- Speed: 95
