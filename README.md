@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Torterra
-## ID: 389
+## Oranguru
+## ID: 765
 ### Tipos
-- Grass
-- Ground
+- Normal
+- Psychic
 ### Stats
-- Hp: 95
-- Attack: 109
-- Defense: 105
-- Special-attack: 75
-- Special-defense: 85
-- Speed: 56
+- Hp: 90
+- Attack: 60
+- Defense: 80
+- Special-attack: 90
+- Special-defense: 110
+- Speed: 60
