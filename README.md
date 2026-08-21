@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Shuckle
-## ID: 213
+## Floette
+## ID: 670
 ### Tipos
-- Bug
-- Rock
+- Fairy
 ### Stats
-- Hp: 20
-- Attack: 10
-- Defense: 230
-- Special-attack: 10
-- Special-defense: 230
-- Speed: 5
+- Hp: 54
+- Attack: 45
+- Defense: 47
+- Special-attack: 75
+- Special-defense: 98
+- Speed: 52
