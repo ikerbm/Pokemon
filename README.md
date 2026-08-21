@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Floette
-## ID: 670
+## Dipplin
+## ID: 1011
 ### Tipos
-- Fairy
+- Grass
+- Dragon
 ### Stats
-- Hp: 54
-- Attack: 45
-- Defense: 47
-- Special-attack: 75
-- Special-defense: 98
-- Speed: 52
+- Hp: 80
+- Attack: 80
+- Defense: 110
+- Special-attack: 95
+- Special-defense: 80
+- Speed: 40
