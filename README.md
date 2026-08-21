@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Bronzong
-## ID: 437
+## Cyclizar
+## ID: 967
 ### Tipos
-- Steel
-- Psychic
+- Dragon
+- Normal
 ### Stats
-- Hp: 67
-- Attack: 89
-- Defense: 116
-- Special-attack: 79
-- Special-defense: 116
-- Speed: 33
+- Hp: 70
+- Attack: 95
+- Defense: 65
+- Special-attack: 85
+- Special-defense: 65
+- Speed: 121
