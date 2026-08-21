@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Silcoon
-## ID: 266
+## Starmie
+## ID: 121
 ### Tipos
-- Bug
+- Water
+- Psychic
 ### Stats
-- Hp: 50
-- Attack: 35
-- Defense: 55
-- Special-attack: 25
-- Special-defense: 25
-- Speed: 15
+- Hp: 60
+- Attack: 75
+- Defense: 85
+- Special-attack: 100
+- Special-defense: 85
+- Speed: 115
