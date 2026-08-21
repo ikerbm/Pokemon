@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Dachsbun
-## ID: 927
+## Drowzee
+## ID: 96
 ### Tipos
-- Fairy
+- Psychic
 ### Stats
-- Hp: 57
-- Attack: 80
-- Defense: 115
-- Special-attack: 50
-- Special-defense: 80
-- Speed: 95
+- Hp: 60
+- Attack: 48
+- Defense: 45
+- Special-attack: 43
+- Special-defense: 90
+- Speed: 42
