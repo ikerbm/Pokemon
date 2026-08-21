@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Oranguru
-## ID: 765
+## Darumaka
+## ID: 554
 ### Tipos
-- Normal
-- Psychic
+- Fire
 ### Stats
-- Hp: 90
-- Attack: 60
-- Defense: 80
-- Special-attack: 90
-- Special-defense: 110
-- Speed: 60
+- Hp: 70
+- Attack: 90
+- Defense: 45
+- Special-attack: 15
+- Special-defense: 45
+- Speed: 50
