@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Emboar
-## ID: 500
+## Sentret
+## ID: 161
 ### Tipos
-- Fire
-- Fighting
+- Normal
 ### Stats
-- Hp: 110
-- Attack: 123
-- Defense: 65
-- Special-attack: 100
-- Special-defense: 65
-- Speed: 65
+- Hp: 35
+- Attack: 46
+- Defense: 34
+- Special-attack: 35
+- Special-defense: 45
+- Speed: 20
