@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tinkatuff
-## ID: 958
+## Comfey
+## ID: 764
 ### Tipos
 - Fairy
-- Steel
 ### Stats
-- Hp: 65
-- Attack: 55
-- Defense: 55
-- Special-attack: 45
-- Special-defense: 82
-- Speed: 78
+- Hp: 51
+- Attack: 52
+- Defense: 90
+- Special-attack: 82
+- Special-defense: 110
+- Speed: 100
