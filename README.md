@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Teddiursa
-## ID: 216
+## Paras
+## ID: 46
 ### Tipos
-- Normal
+- Bug
+- Grass
 ### Stats
-- Hp: 60
-- Attack: 80
-- Defense: 50
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 40
+- Hp: 35
+- Attack: 70
+- Defense: 55
+- Special-attack: 45
+- Special-defense: 55
+- Speed: 25
