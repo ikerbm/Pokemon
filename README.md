@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Shuckle
-## ID: 213
+## Dedenne
+## ID: 702
 ### Tipos
-- Bug
-- Rock
+- Electric
+- Fairy
 ### Stats
-- Hp: 20
-- Attack: 10
-- Defense: 230
-- Special-attack: 10
-- Special-defense: 230
-- Speed: 5
+- Hp: 67
+- Attack: 58
+- Defense: 57
+- Special-attack: 81
+- Special-defense: 67
+- Speed: 101
