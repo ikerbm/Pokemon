@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dedenne
-## ID: 702
+## Tinkaton
+## ID: 959
 ### Tipos
-- Electric
 - Fairy
+- Steel
 ### Stats
-- Hp: 67
-- Attack: 58
-- Defense: 57
-- Special-attack: 81
-- Special-defense: 67
-- Speed: 101
+- Hp: 85
+- Attack: 75
+- Defense: 77
+- Special-attack: 70
+- Special-defense: 105
+- Speed: 94
