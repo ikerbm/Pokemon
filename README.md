@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tinkaton
-## ID: 959
+## Porygon
+## ID: 137
 ### Tipos
-- Fairy
-- Steel
+- Normal
 ### Stats
-- Hp: 85
-- Attack: 75
-- Defense: 77
-- Special-attack: 70
-- Special-defense: 105
-- Speed: 94
+- Hp: 65
+- Attack: 60
+- Defense: 70
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 40
