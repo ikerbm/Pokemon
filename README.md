@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Indeedee-male
-## ID: 876
+## Hydreigon
+## ID: 635
 ### Tipos
-- Psychic
-- Normal
+- Dark
+- Dragon
 ### Stats
-- Hp: 60
-- Attack: 65
-- Defense: 55
-- Special-attack: 105
-- Special-defense: 95
-- Speed: 95
+- Hp: 92
+- Attack: 105
+- Defense: 90
+- Special-attack: 125
+- Special-defense: 90
+- Speed: 98
