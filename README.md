@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Steenee
-## ID: 762
+## Furfrou
+## ID: 676
 ### Tipos
-- Grass
+- Normal
 ### Stats
-- Hp: 52
-- Attack: 40
-- Defense: 48
-- Special-attack: 40
-- Special-defense: 48
-- Speed: 62
+- Hp: 75
+- Attack: 80
+- Defense: 60
+- Special-attack: 65
+- Special-defense: 90
+- Speed: 102
