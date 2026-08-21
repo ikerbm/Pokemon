@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Porygon
-## ID: 137
+## Camerupt
+## ID: 323
 ### Tipos
-- Normal
+- Fire
+- Ground
 ### Stats
-- Hp: 65
-- Attack: 60
+- Hp: 70
+- Attack: 100
 - Defense: 70
-- Special-attack: 85
+- Special-attack: 105
 - Special-defense: 75
 - Speed: 40
