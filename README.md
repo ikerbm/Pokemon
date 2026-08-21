@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Dipplin
-## ID: 1011
+## Cosmog
+## ID: 789
 ### Tipos
-- Grass
-- Dragon
+- Psychic
 ### Stats
-- Hp: 80
-- Attack: 80
-- Defense: 110
-- Special-attack: 95
-- Special-defense: 80
-- Speed: 40
+- Hp: 43
+- Attack: 29
+- Defense: 31
+- Special-attack: 29
+- Special-defense: 31
+- Speed: 37
