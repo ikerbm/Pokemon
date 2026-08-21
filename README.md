@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Starmie
-## ID: 121
+## Indeedee-male
+## ID: 876
 ### Tipos
-- Water
 - Psychic
+- Normal
 ### Stats
 - Hp: 60
-- Attack: 75
-- Defense: 85
-- Special-attack: 100
-- Special-defense: 85
-- Speed: 115
+- Attack: 65
+- Defense: 55
+- Special-attack: 105
+- Special-defense: 95
+- Speed: 95
