@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Glameow
-## ID: 431
+## Toxel
+## ID: 848
 ### Tipos
-- Normal
+- Electric
+- Poison
 ### Stats
-- Hp: 49
-- Attack: 55
-- Defense: 42
-- Special-attack: 42
-- Special-defense: 37
-- Speed: 85
+- Hp: 40
+- Attack: 38
+- Defense: 35
+- Special-attack: 54
+- Special-defense: 35
+- Speed: 40
