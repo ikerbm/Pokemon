@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Psyduck
-## ID: 54
+## Iron-leaves
+## ID: 1010
 ### Tipos
-- Water
+- Grass
+- Psychic
 ### Stats
-- Hp: 50
-- Attack: 52
-- Defense: 48
-- Special-attack: 65
-- Special-defense: 50
-- Speed: 55
+- Hp: 90
+- Attack: 130
+- Defense: 88
+- Special-attack: 70
+- Special-defense: 108
+- Speed: 104
