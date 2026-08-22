@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Toxel
-## ID: 848
+## Bonsly
+## ID: 438
 ### Tipos
-- Electric
-- Poison
+- Rock
 ### Stats
-- Hp: 40
-- Attack: 38
-- Defense: 35
-- Special-attack: 54
-- Special-defense: 35
-- Speed: 40
+- Hp: 50
+- Attack: 80
+- Defense: 95
+- Special-attack: 10
+- Special-defense: 45
+- Speed: 10
