@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Paras
-## ID: 46
+## Wailmer
+## ID: 320
 ### Tipos
-- Bug
-- Grass
+- Water
 ### Stats
-- Hp: 35
+- Hp: 130
 - Attack: 70
-- Defense: 55
-- Special-attack: 45
-- Special-defense: 55
-- Speed: 25
+- Defense: 35
+- Special-attack: 70
+- Special-defense: 35
+- Speed: 60
