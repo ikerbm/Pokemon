@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Rhyhorn
-## ID: 111
+## Garchomp
+## ID: 445
 ### Tipos
+- Dragon
 - Ground
-- Rock
 ### Stats
-- Hp: 80
-- Attack: 85
+- Hp: 108
+- Attack: 130
 - Defense: 95
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 25
+- Special-attack: 80
+- Special-defense: 85
+- Speed: 102
