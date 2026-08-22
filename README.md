@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Lickitung
-## ID: 108
+## Poliwag
+## ID: 60
 ### Tipos
-- Normal
+- Water
 ### Stats
-- Hp: 90
-- Attack: 55
-- Defense: 75
-- Special-attack: 60
-- Special-defense: 75
-- Speed: 30
+- Hp: 40
+- Attack: 50
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 90
