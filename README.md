@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Litleo
-## ID: 667
+## Gimmighoul
+## ID: 999
 ### Tipos
-- Fire
-- Normal
+- Ghost
 ### Stats
-- Hp: 62
-- Attack: 50
-- Defense: 58
-- Special-attack: 73
-- Special-defense: 54
-- Speed: 72
+- Hp: 45
+- Attack: 30
+- Defense: 70
+- Special-attack: 75
+- Special-defense: 70
+- Speed: 10
