@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Gimmighoul
-## ID: 999
+## Hypno
+## ID: 97
 ### Tipos
-- Ghost
+- Psychic
 ### Stats
-- Hp: 45
-- Attack: 30
+- Hp: 85
+- Attack: 73
 - Defense: 70
-- Special-attack: 75
-- Special-defense: 70
-- Speed: 10
+- Special-attack: 73
+- Special-defense: 115
+- Speed: 67
