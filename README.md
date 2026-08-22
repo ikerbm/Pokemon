@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Wailmer
-## ID: 320
+## Scraggy
+## ID: 559
 ### Tipos
-- Water
+- Dark
+- Fighting
 ### Stats
-- Hp: 130
-- Attack: 70
-- Defense: 35
-- Special-attack: 70
-- Special-defense: 35
-- Speed: 60
+- Hp: 50
+- Attack: 75
+- Defense: 70
+- Special-attack: 35
+- Special-defense: 70
+- Speed: 48
