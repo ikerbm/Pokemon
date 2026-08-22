@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Iron-leaves
-## ID: 1010
+## Groudon
+## ID: 383
 ### Tipos
-- Grass
-- Psychic
+- Ground
 ### Stats
-- Hp: 90
-- Attack: 130
-- Defense: 88
-- Special-attack: 70
-- Special-defense: 108
-- Speed: 104
+- Hp: 100
+- Attack: 150
+- Defense: 140
+- Special-attack: 100
+- Special-defense: 90
+- Speed: 90
