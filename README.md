@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Bonsly
-## ID: 438
+## Chandelure
+## ID: 609
 ### Tipos
-- Rock
+- Ghost
+- Fire
 ### Stats
-- Hp: 50
-- Attack: 80
-- Defense: 95
-- Special-attack: 10
-- Special-defense: 45
-- Speed: 10
+- Hp: 60
+- Attack: 55
+- Defense: 90
+- Special-attack: 145
+- Special-defense: 90
+- Speed: 80
