@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Baxcalibur
-## ID: 998
+## Torracat
+## ID: 726
 ### Tipos
-- Dragon
-- Ice
+- Fire
 ### Stats
-- Hp: 115
-- Attack: 145
-- Defense: 92
-- Special-attack: 75
-- Special-defense: 86
-- Speed: 87
+- Hp: 65
+- Attack: 85
+- Defense: 50
+- Special-attack: 80
+- Special-defense: 50
+- Speed: 90
