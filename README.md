@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Croconaw
-## ID: 159
+## Feraligatr
+## ID: 160
 ### Tipos
 - Water
 ### Stats
-- Hp: 65
-- Attack: 80
-- Defense: 80
-- Special-attack: 59
-- Special-defense: 63
-- Speed: 58
+- Hp: 85
+- Attack: 105
+- Defense: 100
+- Special-attack: 79
+- Special-defense: 83
+- Speed: 78
