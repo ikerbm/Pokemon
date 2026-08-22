@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Hypno
-## ID: 97
+## Glameow
+## ID: 431
 ### Tipos
-- Psychic
+- Normal
 ### Stats
-- Hp: 85
-- Attack: 73
-- Defense: 70
-- Special-attack: 73
-- Special-defense: 115
-- Speed: 67
+- Hp: 49
+- Attack: 55
+- Defense: 42
+- Special-attack: 42
+- Special-defense: 37
+- Speed: 85
