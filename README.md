@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Chandelure
-## ID: 609
+## Combusken
+## ID: 256
 ### Tipos
-- Ghost
 - Fire
+- Fighting
 ### Stats
 - Hp: 60
-- Attack: 55
-- Defense: 90
-- Special-attack: 145
-- Special-defense: 90
-- Speed: 80
+- Attack: 85
+- Defense: 60
+- Special-attack: 85
+- Special-defense: 60
+- Speed: 55
