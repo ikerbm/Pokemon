@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Ducklett
-## ID: 580
+## Reshiram
+## ID: 643
 ### Tipos
-- Water
-- Flying
+- Dragon
+- Fire
 ### Stats
-- Hp: 62
-- Attack: 44
-- Defense: 50
-- Special-attack: 44
-- Special-defense: 50
-- Speed: 55
+- Hp: 100
+- Attack: 120
+- Defense: 100
+- Special-attack: 150
+- Special-defense: 120
+- Speed: 90
