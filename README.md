@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Aron
-## ID: 304
+## Litleo
+## ID: 667
 ### Tipos
-- Steel
-- Rock
+- Fire
+- Normal
 ### Stats
-- Hp: 50
-- Attack: 70
-- Defense: 100
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 30
+- Hp: 62
+- Attack: 50
+- Defense: 58
+- Special-attack: 73
+- Special-defense: 54
+- Speed: 72
