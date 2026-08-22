@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Boltund
-## ID: 836
+## Indeedee-male
+## ID: 876
 ### Tipos
-- Electric
+- Psychic
+- Normal
 ### Stats
-- Hp: 69
-- Attack: 90
-- Defense: 60
-- Special-attack: 90
-- Special-defense: 60
-- Speed: 121
+- Hp: 60
+- Attack: 65
+- Defense: 55
+- Special-attack: 105
+- Special-defense: 95
+- Speed: 95
