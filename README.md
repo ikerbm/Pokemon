@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Gothita
-## ID: 574
+## Croconaw
+## ID: 159
 ### Tipos
-- Psychic
+- Water
 ### Stats
-- Hp: 45
-- Attack: 30
-- Defense: 50
-- Special-attack: 55
-- Special-defense: 65
-- Speed: 45
+- Hp: 65
+- Attack: 80
+- Defense: 80
+- Special-attack: 59
+- Special-defense: 63
+- Speed: 58
