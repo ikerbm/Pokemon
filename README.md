@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Raikou
-## ID: 243
+## Beartic
+## ID: 614
 ### Tipos
-- Electric
+- Ice
 ### Stats
-- Hp: 90
-- Attack: 85
-- Defense: 75
-- Special-attack: 115
-- Special-defense: 100
-- Speed: 115
+- Hp: 95
+- Attack: 130
+- Defense: 80
+- Special-attack: 70
+- Special-defense: 80
+- Speed: 50
