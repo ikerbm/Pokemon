@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Feraligatr
-## ID: 160
+## Boltund
+## ID: 836
 ### Tipos
-- Water
+- Electric
 ### Stats
-- Hp: 85
-- Attack: 105
-- Defense: 100
-- Special-attack: 79
-- Special-defense: 83
-- Speed: 78
+- Hp: 69
+- Attack: 90
+- Defense: 60
+- Special-attack: 90
+- Special-defense: 60
+- Speed: 121
