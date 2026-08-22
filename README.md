@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Vanillite
-## ID: 582
+## Ducklett
+## ID: 580
 ### Tipos
-- Ice
+- Water
+- Flying
 ### Stats
-- Hp: 36
-- Attack: 50
+- Hp: 62
+- Attack: 44
 - Defense: 50
-- Special-attack: 65
-- Special-defense: 60
-- Speed: 44
+- Special-attack: 44
+- Special-defense: 50
+- Speed: 55
