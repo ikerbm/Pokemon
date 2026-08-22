@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Indeedee-male
-## ID: 876
+## Psyduck
+## ID: 54
 ### Tipos
-- Psychic
-- Normal
+- Water
 ### Stats
-- Hp: 60
-- Attack: 65
-- Defense: 55
-- Special-attack: 105
-- Special-defense: 95
-- Speed: 95
+- Hp: 50
+- Attack: 52
+- Defense: 48
+- Special-attack: 65
+- Special-defense: 50
+- Speed: 55
