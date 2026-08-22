@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Quilladin
-## ID: 651
+## Chingling
+## ID: 433
 ### Tipos
-- Grass
+- Psychic
 ### Stats
-- Hp: 61
-- Attack: 78
-- Defense: 95
-- Special-attack: 56
-- Special-defense: 58
-- Speed: 57
+- Hp: 45
+- Attack: 30
+- Defense: 50
+- Special-attack: 65
+- Special-defense: 50
+- Speed: 45
