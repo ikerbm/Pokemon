@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Arctovish
-## ID: 883
+## Wartortle
+## ID: 8
 ### Tipos
 - Water
-- Ice
 ### Stats
-- Hp: 90
-- Attack: 90
-- Defense: 100
-- Special-attack: 80
-- Special-defense: 90
-- Speed: 55
+- Hp: 59
+- Attack: 63
+- Defense: 80
+- Special-attack: 65
+- Special-defense: 80
+- Speed: 58
