@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Poliwag
-## ID: 60
+## Swirlix
+## ID: 684
 ### Tipos
-- Water
+- Fairy
 ### Stats
-- Hp: 40
-- Attack: 50
-- Defense: 40
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 90
+- Hp: 62
+- Attack: 48
+- Defense: 66
+- Special-attack: 59
+- Special-defense: 57
+- Speed: 49
