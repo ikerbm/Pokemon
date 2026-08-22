@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Swirlix
-## ID: 684
+## Arctovish
+## ID: 883
 ### Tipos
-- Fairy
+- Water
+- Ice
 ### Stats
-- Hp: 62
-- Attack: 48
-- Defense: 66
-- Special-attack: 59
-- Special-defense: 57
-- Speed: 49
+- Hp: 90
+- Attack: 90
+- Defense: 100
+- Special-attack: 80
+- Special-defense: 90
+- Speed: 55
