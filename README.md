@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Scraggy
-## ID: 559
+## Quilladin
+## ID: 651
 ### Tipos
-- Dark
-- Fighting
+- Grass
 ### Stats
-- Hp: 50
-- Attack: 75
-- Defense: 70
-- Special-attack: 35
-- Special-defense: 70
-- Speed: 48
+- Hp: 61
+- Attack: 78
+- Defense: 95
+- Special-attack: 56
+- Special-defense: 58
+- Speed: 57
