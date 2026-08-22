@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Lileep
-## ID: 345
+## Vanillite
+## ID: 582
 ### Tipos
-- Rock
-- Grass
+- Ice
 ### Stats
-- Hp: 66
-- Attack: 41
-- Defense: 77
-- Special-attack: 61
-- Special-defense: 87
-- Speed: 23
+- Hp: 36
+- Attack: 50
+- Defense: 50
+- Special-attack: 65
+- Special-defense: 60
+- Speed: 44
