@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Beartic
-## ID: 614
+## Surskit
+## ID: 283
 ### Tipos
-- Ice
+- Bug
+- Water
 ### Stats
-- Hp: 95
-- Attack: 130
-- Defense: 80
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 50
+- Hp: 40
+- Attack: 30
+- Defense: 32
+- Special-attack: 50
+- Special-defense: 52
+- Speed: 65
