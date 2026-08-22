@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Crabrawler
-## ID: 739
+## Drilbur
+## ID: 529
 ### Tipos
-- Fighting
+- Ground
 ### Stats
-- Hp: 47
-- Attack: 82
-- Defense: 57
-- Special-attack: 42
-- Special-defense: 47
-- Speed: 63
+- Hp: 60
+- Attack: 85
+- Defense: 40
+- Special-attack: 30
+- Special-defense: 45
+- Speed: 68
