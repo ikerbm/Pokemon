@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Aron
-## ID: 304
+## Zamazenta
+## ID: 889
 ### Tipos
-- Steel
-- Rock
+- Fighting
 ### Stats
-- Hp: 50
-- Attack: 70
-- Defense: 100
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 30
+- Hp: 92
+- Attack: 120
+- Defense: 115
+- Special-attack: 80
+- Special-defense: 115
+- Speed: 138
