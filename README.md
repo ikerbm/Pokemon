@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Combusken
-## ID: 256
+## Baxcalibur
+## ID: 998
 ### Tipos
-- Fire
-- Fighting
+- Dragon
+- Ice
 ### Stats
-- Hp: 60
-- Attack: 85
-- Defense: 60
-- Special-attack: 85
-- Special-defense: 60
-- Speed: 55
+- Hp: 115
+- Attack: 145
+- Defense: 92
+- Special-attack: 75
+- Special-defense: 86
+- Speed: 87
