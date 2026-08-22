@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Garchomp
-## ID: 445
+## Smoliv
+## ID: 928
 ### Tipos
-- Dragon
-- Ground
+- Grass
+- Normal
 ### Stats
-- Hp: 108
-- Attack: 130
-- Defense: 95
-- Special-attack: 80
-- Special-defense: 85
-- Speed: 102
+- Hp: 41
+- Attack: 35
+- Defense: 45
+- Special-attack: 58
+- Special-defense: 51
+- Speed: 30
