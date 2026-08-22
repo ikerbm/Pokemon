@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Torracat
-## ID: 726
+## Yanma
+## ID: 193
 ### Tipos
-- Fire
+- Bug
+- Flying
 ### Stats
 - Hp: 65
-- Attack: 85
-- Defense: 50
-- Special-attack: 80
-- Special-defense: 50
-- Speed: 90
+- Attack: 65
+- Defense: 45
+- Special-attack: 75
+- Special-defense: 45
+- Speed: 95
