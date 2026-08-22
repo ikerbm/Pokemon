@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Bulbasaur
-## ID: 1
+## Seedot
+## ID: 273
 ### Tipos
 - Grass
-- Poison
 ### Stats
-- Hp: 45
-- Attack: 49
-- Defense: 49
-- Special-attack: 65
-- Special-defense: 65
-- Speed: 45
+- Hp: 40
+- Attack: 40
+- Defense: 50
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 30
