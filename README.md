@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Groudon
-## ID: 383
+## Froslass
+## ID: 478
 ### Tipos
-- Ground
+- Ice
+- Ghost
 ### Stats
-- Hp: 100
-- Attack: 150
-- Defense: 140
-- Special-attack: 100
-- Special-defense: 90
-- Speed: 90
+- Hp: 70
+- Attack: 80
+- Defense: 70
+- Special-attack: 80
+- Special-defense: 70
+- Speed: 110
