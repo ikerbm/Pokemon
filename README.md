@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Shinx
-## ID: 403
+## Kadabra
+## ID: 64
 ### Tipos
-- Electric
+- Psychic
 ### Stats
-- Hp: 45
-- Attack: 65
-- Defense: 34
-- Special-attack: 40
-- Special-defense: 34
-- Speed: 45
+- Hp: 40
+- Attack: 35
+- Defense: 30
+- Special-attack: 120
+- Special-defense: 70
+- Speed: 105
