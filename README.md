@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Zamazenta
-## ID: 889
+## Bouffalant
+## ID: 626
 ### Tipos
-- Fighting
+- Normal
 ### Stats
-- Hp: 92
-- Attack: 120
-- Defense: 115
-- Special-attack: 80
-- Special-defense: 115
-- Speed: 138
+- Hp: 95
+- Attack: 110
+- Defense: 95
+- Special-attack: 40
+- Special-defense: 95
+- Speed: 55
