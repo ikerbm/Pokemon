@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Drilbur
-## ID: 529
+## Raikou
+## ID: 243
 ### Tipos
-- Ground
+- Electric
 ### Stats
-- Hp: 60
+- Hp: 90
 - Attack: 85
-- Defense: 40
-- Special-attack: 30
-- Special-defense: 45
-- Speed: 68
+- Defense: 75
+- Special-attack: 115
+- Special-defense: 100
+- Speed: 115
