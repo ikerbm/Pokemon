@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Froslass
-## ID: 478
+## Rhyhorn
+## ID: 111
 ### Tipos
-- Ice
-- Ghost
+- Ground
+- Rock
 ### Stats
-- Hp: 70
-- Attack: 80
-- Defense: 70
-- Special-attack: 80
-- Special-defense: 70
-- Speed: 110
+- Hp: 80
+- Attack: 85
+- Defense: 95
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 25
