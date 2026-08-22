@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Snorunt
-## ID: 361
+## Ditto
+## ID: 132
 ### Tipos
-- Ice
+- Normal
 ### Stats
-- Hp: 50
-- Attack: 50
-- Defense: 50
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 50
+- Hp: 48
+- Attack: 48
+- Defense: 48
+- Special-attack: 48
+- Special-defense: 48
+- Speed: 48
