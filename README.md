@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Trumbeak
-## ID: 732
+## Lileep
+## ID: 345
 ### Tipos
-- Normal
-- Flying
+- Rock
+- Grass
 ### Stats
-- Hp: 55
-- Attack: 85
-- Defense: 50
-- Special-attack: 40
-- Special-defense: 50
-- Speed: 75
+- Hp: 66
+- Attack: 41
+- Defense: 77
+- Special-attack: 61
+- Special-defense: 87
+- Speed: 23
