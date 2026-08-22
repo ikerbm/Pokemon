@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Wartortle
-## ID: 8
+## Snorunt
+## ID: 361
 ### Tipos
-- Water
+- Ice
 ### Stats
-- Hp: 59
-- Attack: 63
-- Defense: 80
-- Special-attack: 65
-- Special-defense: 80
-- Speed: 58
+- Hp: 50
+- Attack: 50
+- Defense: 50
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 50
