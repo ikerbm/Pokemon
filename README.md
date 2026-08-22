@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Surskit
-## ID: 283
+## Gothita
+## ID: 574
 ### Tipos
-- Bug
-- Water
+- Psychic
 ### Stats
-- Hp: 40
+- Hp: 45
 - Attack: 30
-- Defense: 32
-- Special-attack: 50
-- Special-defense: 52
-- Speed: 65
+- Defense: 50
+- Special-attack: 55
+- Special-defense: 65
+- Speed: 45
