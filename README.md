@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Hoopa
-## ID: 720
+## Bulbasaur
+## ID: 1
 ### Tipos
-- Psychic
-- Ghost
+- Grass
+- Poison
 ### Stats
-- Hp: 80
-- Attack: 110
-- Defense: 60
-- Special-attack: 150
-- Special-defense: 130
-- Speed: 70
+- Hp: 45
+- Attack: 49
+- Defense: 49
+- Special-attack: 65
+- Special-defense: 65
+- Speed: 45
