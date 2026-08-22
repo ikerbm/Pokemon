@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Seedot
-## ID: 273
+## Crabrawler
+## ID: 739
 ### Tipos
-- Grass
+- Fighting
 ### Stats
-- Hp: 40
-- Attack: 40
-- Defense: 50
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 30
+- Hp: 47
+- Attack: 82
+- Defense: 57
+- Special-attack: 42
+- Special-defense: 47
+- Speed: 63
