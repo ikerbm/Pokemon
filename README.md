@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Reshiram
-## ID: 643
+## Lickitung
+## ID: 108
 ### Tipos
-- Dragon
-- Fire
+- Normal
 ### Stats
-- Hp: 100
-- Attack: 120
-- Defense: 100
-- Special-attack: 150
-- Special-defense: 120
-- Speed: 90
+- Hp: 90
+- Attack: 55
+- Defense: 75
+- Special-attack: 60
+- Special-defense: 75
+- Speed: 30
