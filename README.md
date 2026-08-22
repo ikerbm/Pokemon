@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Popplio
-## ID: 728
+## Aron
+## ID: 304
 ### Tipos
-- Water
+- Steel
+- Rock
 ### Stats
 - Hp: 50
-- Attack: 54
-- Defense: 54
-- Special-attack: 66
-- Special-defense: 56
-- Speed: 40
+- Attack: 70
+- Defense: 100
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 30
