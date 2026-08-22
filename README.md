@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Kadabra
-## ID: 64
+## Dewgong
+## ID: 87
 ### Tipos
-- Psychic
+- Water
+- Ice
 ### Stats
-- Hp: 40
-- Attack: 35
-- Defense: 30
-- Special-attack: 120
-- Special-defense: 70
-- Speed: 105
+- Hp: 90
+- Attack: 70
+- Defense: 80
+- Special-attack: 70
+- Special-defense: 95
+- Speed: 70
