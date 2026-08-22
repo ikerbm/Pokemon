@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Bouffalant
-## ID: 626
+## Trumbeak
+## ID: 732
 ### Tipos
 - Normal
+- Flying
 ### Stats
-- Hp: 95
-- Attack: 110
-- Defense: 95
+- Hp: 55
+- Attack: 85
+- Defense: 50
 - Special-attack: 40
-- Special-defense: 95
-- Speed: 55
+- Special-defense: 50
+- Speed: 75
