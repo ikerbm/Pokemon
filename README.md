@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Smoliv
-## ID: 928
+## Shinx
+## ID: 403
 ### Tipos
-- Grass
-- Normal
+- Electric
 ### Stats
-- Hp: 41
-- Attack: 35
-- Defense: 45
-- Special-attack: 58
-- Special-defense: 51
-- Speed: 30
+- Hp: 45
+- Attack: 65
+- Defense: 34
+- Special-attack: 40
+- Special-defense: 34
+- Speed: 45
