@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Chingling
-## ID: 433
+## Popplio
+## ID: 728
 ### Tipos
-- Psychic
+- Water
 ### Stats
-- Hp: 45
-- Attack: 30
-- Defense: 50
-- Special-attack: 65
-- Special-defense: 50
-- Speed: 45
+- Hp: 50
+- Attack: 54
+- Defense: 54
+- Special-attack: 66
+- Special-defense: 56
+- Speed: 40
