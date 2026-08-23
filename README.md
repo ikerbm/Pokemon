@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Zweilous
-## ID: 634
+## Stunky
+## ID: 434
 ### Tipos
+- Poison
 - Dark
-- Dragon
 ### Stats
-- Hp: 72
-- Attack: 85
-- Defense: 70
-- Special-attack: 65
-- Special-defense: 70
-- Speed: 58
+- Hp: 63
+- Attack: 63
+- Defense: 47
+- Special-attack: 41
+- Special-defense: 41
+- Speed: 74
