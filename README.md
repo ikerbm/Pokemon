@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Bruxish
-## ID: 779
+## Rufflet
+## ID: 627
 ### Tipos
-- Water
-- Psychic
+- Normal
+- Flying
 ### Stats
-- Hp: 68
-- Attack: 105
-- Defense: 70
-- Special-attack: 70
-- Special-defense: 70
-- Speed: 92
+- Hp: 70
+- Attack: 83
+- Defense: 50
+- Special-attack: 37
+- Special-defense: 50
+- Speed: 60
