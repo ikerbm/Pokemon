@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Chewtle
-## ID: 833
+## Wishiwashi-solo
+## ID: 746
 ### Tipos
 - Water
 ### Stats
-- Hp: 50
-- Attack: 64
-- Defense: 50
-- Special-attack: 38
-- Special-defense: 38
-- Speed: 44
+- Hp: 45
+- Attack: 20
+- Defense: 20
+- Special-attack: 25
+- Special-defense: 25
+- Speed: 40
