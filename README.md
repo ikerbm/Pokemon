@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Gliscor
-## ID: 472
+## Carkol
+## ID: 838
 ### Tipos
-- Ground
-- Flying
+- Rock
+- Fire
 ### Stats
-- Hp: 75
-- Attack: 95
-- Defense: 125
-- Special-attack: 45
-- Special-defense: 75
-- Speed: 95
+- Hp: 80
+- Attack: 60
+- Defense: 90
+- Special-attack: 60
+- Special-defense: 70
+- Speed: 50
