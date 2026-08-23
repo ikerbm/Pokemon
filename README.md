@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Solgaleo
-## ID: 791
+## Bruxish
+## ID: 779
 ### Tipos
+- Water
 - Psychic
-- Steel
 ### Stats
-- Hp: 137
-- Attack: 137
-- Defense: 107
-- Special-attack: 113
-- Special-defense: 89
-- Speed: 97
+- Hp: 68
+- Attack: 105
+- Defense: 70
+- Special-attack: 70
+- Special-defense: 70
+- Speed: 92
