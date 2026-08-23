@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Larvesta
-## ID: 636
+## Delibird
+## ID: 225
 ### Tipos
-- Bug
-- Fire
+- Ice
+- Flying
 ### Stats
-- Hp: 55
-- Attack: 85
-- Defense: 55
-- Special-attack: 50
-- Special-defense: 55
-- Speed: 60
+- Hp: 45
+- Attack: 55
+- Defense: 45
+- Special-attack: 65
+- Special-defense: 45
+- Speed: 75
