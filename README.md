@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Grubbin
-## ID: 736
+## Gothitelle
+## ID: 576
 ### Tipos
-- Bug
+- Psychic
 ### Stats
-- Hp: 47
-- Attack: 62
-- Defense: 45
-- Special-attack: 55
-- Special-defense: 45
-- Speed: 46
+- Hp: 70
+- Attack: 55
+- Defense: 95
+- Special-attack: 95
+- Special-defense: 110
+- Speed: 65
