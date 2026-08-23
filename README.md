@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Silicobra
-## ID: 843
+## Iron-treads
+## ID: 990
 ### Tipos
 - Ground
+- Steel
 ### Stats
-- Hp: 52
-- Attack: 57
-- Defense: 75
-- Special-attack: 35
-- Special-defense: 50
-- Speed: 46
+- Hp: 90
+- Attack: 112
+- Defense: 120
+- Special-attack: 72
+- Special-defense: 70
+- Speed: 106
