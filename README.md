@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Alomomola
-## ID: 594
+## Chewtle
+## ID: 833
 ### Tipos
 - Water
 ### Stats
-- Hp: 165
-- Attack: 75
-- Defense: 80
-- Special-attack: 40
-- Special-defense: 45
-- Speed: 65
+- Hp: 50
+- Attack: 64
+- Defense: 50
+- Special-attack: 38
+- Special-defense: 38
+- Speed: 44
