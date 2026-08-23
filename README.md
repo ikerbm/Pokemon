@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Delibird
-## ID: 225
+## Budew
+## ID: 406
 ### Tipos
-- Ice
-- Flying
+- Grass
+- Poison
 ### Stats
-- Hp: 45
-- Attack: 55
-- Defense: 45
-- Special-attack: 65
-- Special-defense: 45
-- Speed: 75
+- Hp: 40
+- Attack: 30
+- Defense: 35
+- Special-attack: 50
+- Special-defense: 70
+- Speed: 55
