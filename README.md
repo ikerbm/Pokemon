@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Parasect
-## ID: 47
+## Meowscarada
+## ID: 908
 ### Tipos
-- Bug
 - Grass
+- Dark
 ### Stats
-- Hp: 60
-- Attack: 95
-- Defense: 80
-- Special-attack: 60
-- Special-defense: 80
-- Speed: 30
+- Hp: 76
+- Attack: 110
+- Defense: 70
+- Special-attack: 81
+- Special-defense: 70
+- Speed: 123
