@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Bewear
-## ID: 760
+## Nidoking
+## ID: 34
 ### Tipos
-- Normal
-- Fighting
+- Poison
+- Ground
 ### Stats
-- Hp: 120
-- Attack: 125
-- Defense: 80
-- Special-attack: 55
-- Special-defense: 60
-- Speed: 60
+- Hp: 81
+- Attack: 102
+- Defense: 77
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 85
