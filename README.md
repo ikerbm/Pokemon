@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Nidoking
-## ID: 34
+## Giratina-altered
+## ID: 487
 ### Tipos
-- Poison
-- Ground
+- Ghost
+- Dragon
 ### Stats
-- Hp: 81
-- Attack: 102
-- Defense: 77
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 85
+- Hp: 150
+- Attack: 100
+- Defense: 120
+- Special-attack: 100
+- Special-defense: 120
+- Speed: 90
