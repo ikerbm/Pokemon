@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Meowscarada
-## ID: 908
+## Blipbug
+## ID: 824
 ### Tipos
-- Grass
-- Dark
+- Bug
 ### Stats
-- Hp: 76
-- Attack: 110
-- Defense: 70
-- Special-attack: 81
-- Special-defense: 70
-- Speed: 123
+- Hp: 25
+- Attack: 20
+- Defense: 20
+- Special-attack: 25
+- Special-defense: 45
+- Speed: 45
