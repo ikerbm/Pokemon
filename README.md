@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Gothitelle
-## ID: 576
+## Bewear
+## ID: 760
 ### Tipos
-- Psychic
+- Normal
+- Fighting
 ### Stats
-- Hp: 70
-- Attack: 55
-- Defense: 95
-- Special-attack: 95
-- Special-defense: 110
-- Speed: 65
+- Hp: 120
+- Attack: 125
+- Defense: 80
+- Special-attack: 55
+- Special-defense: 60
+- Speed: 60
