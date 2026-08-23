@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Alakazam
-## ID: 65
+## Clefable
+## ID: 36
 ### Tipos
-- Psychic
+- Fairy
 ### Stats
-- Hp: 55
-- Attack: 50
-- Defense: 45
-- Special-attack: 135
-- Special-defense: 95
-- Speed: 120
+- Hp: 95
+- Attack: 70
+- Defense: 73
+- Special-attack: 95
+- Special-defense: 90
+- Speed: 60
