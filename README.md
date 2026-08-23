@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Beldum
-## ID: 374
+## Scrafty
+## ID: 560
 ### Tipos
-- Steel
-- Psychic
+- Dark
+- Fighting
 ### Stats
-- Hp: 40
-- Attack: 55
-- Defense: 80
-- Special-attack: 35
-- Special-defense: 60
-- Speed: 30
+- Hp: 65
+- Attack: 90
+- Defense: 115
+- Special-attack: 45
+- Special-defense: 115
+- Speed: 58
