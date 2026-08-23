@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Yveltal
-## ID: 717
+## Alakazam
+## ID: 65
 ### Tipos
-- Dark
-- Flying
+- Psychic
 ### Stats
-- Hp: 126
-- Attack: 131
-- Defense: 95
-- Special-attack: 131
-- Special-defense: 98
-- Speed: 99
+- Hp: 55
+- Attack: 50
+- Defense: 45
+- Special-attack: 135
+- Special-defense: 95
+- Speed: 120
