@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dewgong
-## ID: 87
+## Parasect
+## ID: 47
 ### Tipos
-- Water
-- Ice
+- Bug
+- Grass
 ### Stats
-- Hp: 90
-- Attack: 70
+- Hp: 60
+- Attack: 95
 - Defense: 80
-- Special-attack: 70
-- Special-defense: 95
-- Speed: 70
+- Special-attack: 60
+- Special-defense: 80
+- Speed: 30
