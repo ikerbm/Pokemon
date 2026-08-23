@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Kricketune
-## ID: 402
+## Gliscor
+## ID: 472
 ### Tipos
-- Bug
+- Ground
+- Flying
 ### Stats
-- Hp: 77
-- Attack: 85
-- Defense: 51
-- Special-attack: 55
-- Special-defense: 51
-- Speed: 65
+- Hp: 75
+- Attack: 95
+- Defense: 125
+- Special-attack: 45
+- Special-defense: 75
+- Speed: 95
