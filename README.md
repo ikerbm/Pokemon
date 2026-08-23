@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Torkoal
-## ID: 324
+## Larvesta
+## ID: 636
 ### Tipos
+- Bug
 - Fire
 ### Stats
-- Hp: 70
+- Hp: 55
 - Attack: 85
-- Defense: 140
-- Special-attack: 85
-- Special-defense: 70
-- Speed: 20
+- Defense: 55
+- Special-attack: 50
+- Special-defense: 55
+- Speed: 60
