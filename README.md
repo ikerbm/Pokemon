@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Rockruff
-## ID: 744
+## Purrloin
+## ID: 509
 ### Tipos
-- Rock
+- Dark
 ### Stats
-- Hp: 45
-- Attack: 65
-- Defense: 40
-- Special-attack: 30
-- Special-defense: 40
-- Speed: 60
+- Hp: 41
+- Attack: 50
+- Defense: 37
+- Special-attack: 50
+- Special-defense: 37
+- Speed: 66
