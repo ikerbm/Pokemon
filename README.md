@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Purrloin
-## ID: 509
+## Drizzile
+## ID: 817
 ### Tipos
-- Dark
+- Water
 ### Stats
-- Hp: 41
-- Attack: 50
-- Defense: 37
-- Special-attack: 50
-- Special-defense: 37
-- Speed: 66
+- Hp: 65
+- Attack: 60
+- Defense: 55
+- Special-attack: 95
+- Special-defense: 55
+- Speed: 90
