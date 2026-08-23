@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Whismur
-## ID: 293
+## Bibarel
+## ID: 400
 ### Tipos
 - Normal
+- Water
 ### Stats
-- Hp: 64
-- Attack: 51
-- Defense: 23
-- Special-attack: 51
-- Special-defense: 23
-- Speed: 28
+- Hp: 79
+- Attack: 85
+- Defense: 60
+- Special-attack: 55
+- Special-defense: 60
+- Speed: 71
