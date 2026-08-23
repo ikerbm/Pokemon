@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Elekid
-## ID: 239
+## Yveltal
+## ID: 717
 ### Tipos
-- Electric
+- Dark
+- Flying
 ### Stats
-- Hp: 45
-- Attack: 63
-- Defense: 37
-- Special-attack: 65
-- Special-defense: 55
-- Speed: 95
+- Hp: 126
+- Attack: 131
+- Defense: 95
+- Special-attack: 131
+- Special-defense: 98
+- Speed: 99
