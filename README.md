@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Clefable
-## ID: 36
+## Grubbin
+## ID: 736
 ### Tipos
-- Fairy
+- Bug
 ### Stats
-- Hp: 95
-- Attack: 70
-- Defense: 73
-- Special-attack: 95
-- Special-defense: 90
-- Speed: 60
+- Hp: 47
+- Attack: 62
+- Defense: 45
+- Special-attack: 55
+- Special-defense: 45
+- Speed: 46
