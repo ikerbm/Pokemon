@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Camerupt
-## ID: 323
+## Iron-thorns
+## ID: 995
 ### Tipos
-- Fire
-- Ground
+- Rock
+- Electric
 ### Stats
-- Hp: 70
-- Attack: 100
-- Defense: 70
-- Special-attack: 105
-- Special-defense: 75
-- Speed: 40
+- Hp: 100
+- Attack: 134
+- Defense: 110
+- Special-attack: 70
+- Special-defense: 84
+- Speed: 72
