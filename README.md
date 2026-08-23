@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Lugia
-## ID: 249
+## Clamperl
+## ID: 366
 ### Tipos
-- Psychic
-- Flying
+- Water
 ### Stats
-- Hp: 106
-- Attack: 90
-- Defense: 130
-- Special-attack: 90
-- Special-defense: 154
-- Speed: 110
+- Hp: 35
+- Attack: 64
+- Defense: 85
+- Special-attack: 74
+- Special-defense: 55
+- Speed: 32
