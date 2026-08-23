@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Iron-treads
-## ID: 990
+## Camerupt
+## ID: 323
 ### Tipos
+- Fire
 - Ground
-- Steel
 ### Stats
-- Hp: 90
-- Attack: 112
-- Defense: 120
-- Special-attack: 72
-- Special-defense: 70
-- Speed: 106
+- Hp: 70
+- Attack: 100
+- Defense: 70
+- Special-attack: 105
+- Special-defense: 75
+- Speed: 40
