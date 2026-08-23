@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Rookidee
-## ID: 821
+## Lugia
+## ID: 249
 ### Tipos
+- Psychic
 - Flying
 ### Stats
-- Hp: 38
-- Attack: 47
-- Defense: 35
-- Special-attack: 33
-- Special-defense: 35
-- Speed: 57
+- Hp: 106
+- Attack: 90
+- Defense: 130
+- Special-attack: 90
+- Special-defense: 154
+- Speed: 110
