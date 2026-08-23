@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Stunky
-## ID: 434
+## Nymble
+## ID: 919
 ### Tipos
-- Poison
-- Dark
+- Bug
 ### Stats
-- Hp: 63
-- Attack: 63
-- Defense: 47
-- Special-attack: 41
-- Special-defense: 41
-- Speed: 74
+- Hp: 33
+- Attack: 46
+- Defense: 40
+- Special-attack: 21
+- Special-defense: 25
+- Speed: 45
