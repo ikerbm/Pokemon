@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Rufflet
-## ID: 627
+## Bagon
+## ID: 371
 ### Tipos
-- Normal
-- Flying
+- Dragon
 ### Stats
-- Hp: 70
-- Attack: 83
-- Defense: 50
-- Special-attack: 37
-- Special-defense: 50
-- Speed: 60
+- Hp: 45
+- Attack: 75
+- Defense: 60
+- Special-attack: 40
+- Special-defense: 30
+- Speed: 50
