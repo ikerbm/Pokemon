@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Wishiwashi-solo
-## ID: 746
+## Comfey
+## ID: 764
 ### Tipos
-- Water
+- Fairy
 ### Stats
-- Hp: 45
-- Attack: 20
-- Defense: 20
-- Special-attack: 25
-- Special-defense: 25
-- Speed: 40
+- Hp: 51
+- Attack: 52
+- Defense: 90
+- Special-attack: 82
+- Special-defense: 110
+- Speed: 100
