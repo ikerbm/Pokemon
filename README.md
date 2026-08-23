@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Wormadam-plant
-## ID: 413
+## Aromatisse
+## ID: 683
 ### Tipos
-- Bug
-- Grass
+- Fairy
 ### Stats
-- Hp: 60
-- Attack: 59
-- Defense: 85
-- Special-attack: 79
-- Special-defense: 105
-- Speed: 36
+- Hp: 101
+- Attack: 72
+- Defense: 72
+- Special-attack: 99
+- Special-defense: 89
+- Speed: 29
