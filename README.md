@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Iron-thorns
-## ID: 995
+## Rookidee
+## ID: 821
 ### Tipos
-- Rock
-- Electric
+- Flying
 ### Stats
-- Hp: 100
-- Attack: 134
-- Defense: 110
-- Special-attack: 70
-- Special-defense: 84
-- Speed: 72
+- Hp: 38
+- Attack: 47
+- Defense: 35
+- Special-attack: 33
+- Special-defense: 35
+- Speed: 57
