@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Rolycoly
-## ID: 837
+## Wormadam-plant
+## ID: 413
 ### Tipos
-- Rock
+- Bug
+- Grass
 ### Stats
-- Hp: 30
-- Attack: 40
-- Defense: 50
-- Special-attack: 40
-- Special-defense: 50
-- Speed: 30
+- Hp: 60
+- Attack: 59
+- Defense: 85
+- Special-attack: 79
+- Special-defense: 105
+- Speed: 36
