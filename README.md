@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Scrafty
-## ID: 560
+## Tsareena
+## ID: 763
 ### Tipos
-- Dark
-- Fighting
+- Grass
 ### Stats
-- Hp: 65
-- Attack: 90
-- Defense: 115
-- Special-attack: 45
-- Special-defense: 115
-- Speed: 58
+- Hp: 72
+- Attack: 120
+- Defense: 98
+- Special-attack: 50
+- Special-defense: 98
+- Speed: 72
