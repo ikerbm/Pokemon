@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Seviper
-## ID: 336
+## Silicobra
+## ID: 843
 ### Tipos
-- Poison
+- Ground
 ### Stats
-- Hp: 73
-- Attack: 100
-- Defense: 60
-- Special-attack: 100
-- Special-defense: 60
-- Speed: 65
+- Hp: 52
+- Attack: 57
+- Defense: 75
+- Special-attack: 35
+- Special-defense: 50
+- Speed: 46
