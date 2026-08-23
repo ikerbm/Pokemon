@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Tsareena
-## ID: 763
+## Alomomola
+## ID: 594
 ### Tipos
-- Grass
+- Water
 ### Stats
-- Hp: 72
-- Attack: 120
-- Defense: 98
-- Special-attack: 50
-- Special-defense: 98
-- Speed: 72
+- Hp: 165
+- Attack: 75
+- Defense: 80
+- Special-attack: 40
+- Special-defense: 45
+- Speed: 65
