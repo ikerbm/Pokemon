@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Bibarel
-## ID: 400
+## Elekid
+## ID: 239
 ### Tipos
-- Normal
-- Water
+- Electric
 ### Stats
-- Hp: 79
-- Attack: 85
-- Defense: 60
-- Special-attack: 55
-- Special-defense: 60
-- Speed: 71
+- Hp: 45
+- Attack: 63
+- Defense: 37
+- Special-attack: 65
+- Special-defense: 55
+- Speed: 95
