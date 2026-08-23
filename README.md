@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Bewear
-## ID: 760
+## Beldum
+## ID: 374
 ### Tipos
-- Normal
-- Fighting
+- Steel
+- Psychic
 ### Stats
-- Hp: 120
-- Attack: 125
+- Hp: 40
+- Attack: 55
 - Defense: 80
-- Special-attack: 55
+- Special-attack: 35
 - Special-defense: 60
-- Speed: 60
+- Speed: 30
