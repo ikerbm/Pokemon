@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Nymble
-## ID: 919
+## Bewear
+## ID: 760
 ### Tipos
-- Bug
+- Normal
+- Fighting
 ### Stats
-- Hp: 33
-- Attack: 46
-- Defense: 40
-- Special-attack: 21
-- Special-defense: 25
-- Speed: 45
+- Hp: 120
+- Attack: 125
+- Defense: 80
+- Special-attack: 55
+- Special-defense: 60
+- Speed: 60
