@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Comfey
-## ID: 764
+## Meloetta-aria
+## ID: 648
 ### Tipos
-- Fairy
+- Normal
+- Psychic
 ### Stats
-- Hp: 51
-- Attack: 52
-- Defense: 90
-- Special-attack: 82
-- Special-defense: 110
-- Speed: 100
+- Hp: 100
+- Attack: 77
+- Defense: 77
+- Special-attack: 128
+- Special-defense: 128
+- Speed: 90
