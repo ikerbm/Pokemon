@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Budew
-## ID: 406
+## Kricketune
+## ID: 402
 ### Tipos
-- Grass
-- Poison
+- Bug
 ### Stats
-- Hp: 40
-- Attack: 30
-- Defense: 35
-- Special-attack: 50
-- Special-defense: 70
-- Speed: 55
+- Hp: 77
+- Attack: 85
+- Defense: 51
+- Special-attack: 55
+- Special-defense: 51
+- Speed: 65
