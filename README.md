@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Durant
-## ID: 632
+## Whismur
+## ID: 293
 ### Tipos
-- Bug
-- Steel
+- Normal
 ### Stats
-- Hp: 58
-- Attack: 109
-- Defense: 112
-- Special-attack: 48
-- Special-defense: 48
-- Speed: 109
+- Hp: 64
+- Attack: 51
+- Defense: 23
+- Special-attack: 51
+- Special-defense: 23
+- Speed: 28
