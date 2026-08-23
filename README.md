@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Bagon
-## ID: 371
+## Rolycoly
+## ID: 837
 ### Tipos
-- Dragon
+- Rock
 ### Stats
-- Hp: 45
-- Attack: 75
-- Defense: 60
+- Hp: 30
+- Attack: 40
+- Defense: 50
 - Special-attack: 40
-- Special-defense: 30
-- Speed: 50
+- Special-defense: 50
+- Speed: 30
