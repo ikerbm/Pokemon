@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Meloetta-aria
-## ID: 648
+## Seviper
+## ID: 336
 ### Tipos
-- Normal
-- Psychic
+- Poison
 ### Stats
-- Hp: 100
-- Attack: 77
-- Defense: 77
-- Special-attack: 128
-- Special-defense: 128
-- Speed: 90
+- Hp: 73
+- Attack: 100
+- Defense: 60
+- Special-attack: 100
+- Special-defense: 60
+- Speed: 65
