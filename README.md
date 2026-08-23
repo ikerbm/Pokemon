@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dhelmise
-## ID: 781
+## Durant
+## ID: 632
 ### Tipos
-- Ghost
-- Grass
+- Bug
+- Steel
 ### Stats
-- Hp: 70
-- Attack: 131
-- Defense: 100
-- Special-attack: 86
-- Special-defense: 90
-- Speed: 40
+- Hp: 58
+- Attack: 109
+- Defense: 112
+- Special-attack: 48
+- Special-defense: 48
+- Speed: 109
