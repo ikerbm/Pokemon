@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Aromatisse
-## ID: 683
+## Murkrow
+## ID: 198
 ### Tipos
-- Fairy
+- Dark
+- Flying
 ### Stats
-- Hp: 101
-- Attack: 72
-- Defense: 72
-- Special-attack: 99
-- Special-defense: 89
-- Speed: 29
+- Hp: 60
+- Attack: 85
+- Defense: 42
+- Special-attack: 85
+- Special-defense: 42
+- Speed: 91
