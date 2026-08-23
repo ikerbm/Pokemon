@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Carkol
-## ID: 838
+## Solgaleo
+## ID: 791
 ### Tipos
-- Rock
-- Fire
+- Psychic
+- Steel
 ### Stats
-- Hp: 80
-- Attack: 60
-- Defense: 90
-- Special-attack: 60
-- Special-defense: 70
-- Speed: 50
+- Hp: 137
+- Attack: 137
+- Defense: 107
+- Special-attack: 113
+- Special-defense: 89
+- Speed: 97
