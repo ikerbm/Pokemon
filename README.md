@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Murkrow
-## ID: 198
+## Zweilous
+## ID: 634
 ### Tipos
 - Dark
-- Flying
+- Dragon
 ### Stats
-- Hp: 60
+- Hp: 72
 - Attack: 85
-- Defense: 42
-- Special-attack: 85
-- Special-defense: 42
-- Speed: 91
+- Defense: 70
+- Special-attack: 65
+- Special-defense: 70
+- Speed: 58
