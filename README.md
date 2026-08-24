@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Litten
-## ID: 725
+## Copperajah
+## ID: 879
 ### Tipos
-- Fire
+- Steel
 ### Stats
-- Hp: 45
-- Attack: 65
-- Defense: 40
-- Special-attack: 60
-- Special-defense: 40
-- Speed: 70
+- Hp: 122
+- Attack: 130
+- Defense: 69
+- Special-attack: 80
+- Special-defense: 69
+- Speed: 30
