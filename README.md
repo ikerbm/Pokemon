@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Exploud
-## ID: 295
+## Makuhita
+## ID: 296
 ### Tipos
-- Normal
+- Fighting
 ### Stats
-- Hp: 104
-- Attack: 91
-- Defense: 63
-- Special-attack: 91
-- Special-defense: 73
-- Speed: 68
+- Hp: 72
+- Attack: 60
+- Defense: 30
+- Special-attack: 20
+- Special-defense: 30
+- Speed: 25
