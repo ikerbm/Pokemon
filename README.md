@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Grapploct
-## ID: 853
+## Lillipup
+## ID: 506
 ### Tipos
-- Fighting
+- Normal
 ### Stats
-- Hp: 80
-- Attack: 118
-- Defense: 90
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 42
+- Hp: 45
+- Attack: 60
+- Defense: 45
+- Special-attack: 25
+- Special-defense: 45
+- Speed: 55
