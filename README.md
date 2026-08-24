@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Kingdra
-## ID: 230
+## Lurantis
+## ID: 754
 ### Tipos
-- Water
-- Dragon
+- Grass
 ### Stats
-- Hp: 75
-- Attack: 95
-- Defense: 95
-- Special-attack: 95
-- Special-defense: 95
-- Speed: 85
+- Hp: 70
+- Attack: 105
+- Defense: 90
+- Special-attack: 80
+- Special-defense: 90
+- Speed: 45
