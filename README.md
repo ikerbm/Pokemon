@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cleffa
-## ID: 173
+## Magnezone
+## ID: 462
 ### Tipos
-- Fairy
+- Electric
+- Steel
 ### Stats
-- Hp: 50
-- Attack: 25
-- Defense: 28
-- Special-attack: 45
-- Special-defense: 55
-- Speed: 15
+- Hp: 70
+- Attack: 70
+- Defense: 115
+- Special-attack: 130
+- Special-defense: 90
+- Speed: 60
