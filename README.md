@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Vikavolt
-## ID: 738
+## Gyarados
+## ID: 130
 ### Tipos
-- Bug
-- Electric
+- Water
+- Flying
 ### Stats
-- Hp: 77
-- Attack: 70
-- Defense: 90
-- Special-attack: 145
-- Special-defense: 75
-- Speed: 43
+- Hp: 95
+- Attack: 125
+- Defense: 79
+- Special-attack: 60
+- Special-defense: 100
+- Speed: 81
