@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Hitmonlee
-## ID: 106
+## Lapras
+## ID: 131
 ### Tipos
-- Fighting
+- Water
+- Ice
 ### Stats
-- Hp: 50
-- Attack: 120
-- Defense: 53
-- Special-attack: 35
-- Special-defense: 110
-- Speed: 87
+- Hp: 130
+- Attack: 85
+- Defense: 80
+- Special-attack: 85
+- Special-defense: 95
+- Speed: 60
