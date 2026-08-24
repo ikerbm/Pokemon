@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Tinkatuff
-## ID: 958
+## Slowpoke
+## ID: 79
 ### Tipos
-- Fairy
-- Steel
+- Water
+- Psychic
 ### Stats
-- Hp: 65
-- Attack: 55
-- Defense: 55
-- Special-attack: 45
-- Special-defense: 82
-- Speed: 78
+- Hp: 90
+- Attack: 65
+- Defense: 65
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 15
