@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Makuhita
-## ID: 296
+## Litten
+## ID: 725
 ### Tipos
-- Fighting
+- Fire
 ### Stats
-- Hp: 72
-- Attack: 60
-- Defense: 30
-- Special-attack: 20
-- Special-defense: 30
-- Speed: 25
+- Hp: 45
+- Attack: 65
+- Defense: 40
+- Special-attack: 60
+- Special-defense: 40
+- Speed: 70
