@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Gastrodon
-## ID: 423
+## Infernape
+## ID: 392
 ### Tipos
-- Water
-- Ground
+- Fire
+- Fighting
 ### Stats
-- Hp: 111
-- Attack: 83
-- Defense: 68
-- Special-attack: 92
-- Special-defense: 82
-- Speed: 39
+- Hp: 76
+- Attack: 104
+- Defense: 71
+- Special-attack: 104
+- Special-defense: 71
+- Speed: 108
