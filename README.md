@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Lillipup
-## ID: 506
+## Lickilicky
+## ID: 463
 ### Tipos
 - Normal
 ### Stats
-- Hp: 45
-- Attack: 60
-- Defense: 45
-- Special-attack: 25
-- Special-defense: 45
-- Speed: 55
+- Hp: 110
+- Attack: 85
+- Defense: 95
+- Special-attack: 80
+- Special-defense: 95
+- Speed: 50
