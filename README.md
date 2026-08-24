@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Arctozolt
-## ID: 881
+## Sewaddle
+## ID: 540
 ### Tipos
-- Electric
-- Ice
+- Bug
+- Grass
 ### Stats
-- Hp: 90
-- Attack: 100
-- Defense: 90
-- Special-attack: 90
-- Special-defense: 80
-- Speed: 55
+- Hp: 45
+- Attack: 53
+- Defense: 70
+- Special-attack: 40
+- Special-defense: 60
+- Speed: 42
