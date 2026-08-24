@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Chewtle
-## ID: 833
+## Arboliva
+## ID: 930
 ### Tipos
-- Water
+- Grass
+- Normal
 ### Stats
-- Hp: 50
-- Attack: 64
-- Defense: 50
-- Special-attack: 38
-- Special-defense: 38
-- Speed: 44
+- Hp: 78
+- Attack: 69
+- Defense: 90
+- Special-attack: 125
+- Special-defense: 109
+- Speed: 39
