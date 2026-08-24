@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Flaaffy
-## ID: 180
+## Rapidash
+## ID: 78
 ### Tipos
-- Electric
+- Fire
 ### Stats
-- Hp: 70
-- Attack: 55
-- Defense: 55
+- Hp: 65
+- Attack: 100
+- Defense: 70
 - Special-attack: 80
-- Special-defense: 60
-- Speed: 45
+- Special-defense: 80
+- Speed: 105
