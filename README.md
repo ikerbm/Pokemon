@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Honedge
-## ID: 679
+## Flaaffy
+## ID: 180
 ### Tipos
-- Steel
-- Ghost
+- Electric
 ### Stats
-- Hp: 45
-- Attack: 80
-- Defense: 100
-- Special-attack: 35
-- Special-defense: 37
-- Speed: 28
+- Hp: 70
+- Attack: 55
+- Defense: 55
+- Special-attack: 80
+- Special-defense: 60
+- Speed: 45
