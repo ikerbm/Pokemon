@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Magnezone
-## ID: 462
+## Haunter
+## ID: 93
 ### Tipos
-- Electric
-- Steel
+- Ghost
+- Poison
 ### Stats
-- Hp: 70
-- Attack: 70
-- Defense: 115
-- Special-attack: 130
-- Special-defense: 90
-- Speed: 60
+- Hp: 45
+- Attack: 50
+- Defense: 45
+- Special-attack: 115
+- Special-defense: 55
+- Speed: 95
