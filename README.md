@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Lurantis
-## ID: 754
+## Tinkatuff
+## ID: 958
 ### Tipos
-- Grass
+- Fairy
+- Steel
 ### Stats
-- Hp: 70
-- Attack: 105
-- Defense: 90
-- Special-attack: 80
-- Special-defense: 90
-- Speed: 45
+- Hp: 65
+- Attack: 55
+- Defense: 55
+- Special-attack: 45
+- Special-defense: 82
+- Speed: 78
