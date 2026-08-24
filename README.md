@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Copperajah
-## ID: 879
+## Honedge
+## ID: 679
 ### Tipos
 - Steel
+- Ghost
 ### Stats
-- Hp: 122
-- Attack: 130
-- Defense: 69
-- Special-attack: 80
-- Special-defense: 69
-- Speed: 30
+- Hp: 45
+- Attack: 80
+- Defense: 100
+- Special-attack: 35
+- Special-defense: 37
+- Speed: 28
