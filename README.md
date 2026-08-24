@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Seismitoad
-## ID: 537
+## Politoed
+## ID: 186
 ### Tipos
 - Water
-- Ground
 ### Stats
-- Hp: 105
-- Attack: 95
+- Hp: 90
+- Attack: 75
 - Defense: 75
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 74
+- Special-attack: 90
+- Special-defense: 100
+- Speed: 70
