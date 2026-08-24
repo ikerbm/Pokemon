@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Infernape
-## ID: 392
+## Exploud
+## ID: 295
 ### Tipos
-- Fire
-- Fighting
+- Normal
 ### Stats
-- Hp: 76
-- Attack: 104
-- Defense: 71
-- Special-attack: 104
-- Special-defense: 71
-- Speed: 108
+- Hp: 104
+- Attack: 91
+- Defense: 63
+- Special-attack: 91
+- Special-defense: 73
+- Speed: 68
