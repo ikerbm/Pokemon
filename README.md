@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Raging-bolt
-## ID: 1021
+## Staravia
+## ID: 397
 ### Tipos
-- Electric
-- Dragon
+- Normal
+- Flying
 ### Stats
-- Hp: 125
-- Attack: 73
-- Defense: 91
-- Special-attack: 137
-- Special-defense: 89
-- Speed: 75
+- Hp: 55
+- Attack: 75
+- Defense: 50
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 80
