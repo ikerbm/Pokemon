@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Staravia
-## ID: 397
+## Finizen
+## ID: 963
 ### Tipos
-- Normal
-- Flying
+- Water
 ### Stats
-- Hp: 55
-- Attack: 75
-- Defense: 50
-- Special-attack: 40
+- Hp: 70
+- Attack: 45
+- Defense: 40
+- Special-attack: 45
 - Special-defense: 40
-- Speed: 80
+- Speed: 75
