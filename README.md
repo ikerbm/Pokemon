@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Lapras
-## ID: 131
+## Grapploct
+## ID: 853
 ### Tipos
-- Water
-- Ice
+- Fighting
 ### Stats
-- Hp: 130
-- Attack: 85
-- Defense: 80
-- Special-attack: 85
-- Special-defense: 95
-- Speed: 60
+- Hp: 80
+- Attack: 118
+- Defense: 90
+- Special-attack: 70
+- Special-defense: 80
+- Speed: 42
