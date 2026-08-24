@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Regice
-## ID: 378
+## Raging-bolt
+## ID: 1021
 ### Tipos
-- Ice
+- Electric
+- Dragon
 ### Stats
-- Hp: 80
-- Attack: 50
-- Defense: 100
-- Special-attack: 100
-- Special-defense: 200
-- Speed: 50
+- Hp: 125
+- Attack: 73
+- Defense: 91
+- Special-attack: 137
+- Special-defense: 89
+- Speed: 75
