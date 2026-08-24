@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Giratina-altered
-## ID: 487
+## Hitmonlee
+## ID: 106
 ### Tipos
-- Ghost
-- Dragon
+- Fighting
 ### Stats
-- Hp: 150
-- Attack: 100
-- Defense: 120
-- Special-attack: 100
-- Special-defense: 120
-- Speed: 90
+- Hp: 50
+- Attack: 120
+- Defense: 53
+- Special-attack: 35
+- Special-defense: 110
+- Speed: 87
