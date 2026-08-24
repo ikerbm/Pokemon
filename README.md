@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Finizen
-## ID: 963
+## Simisage
+## ID: 512
 ### Tipos
-- Water
+- Grass
 ### Stats
-- Hp: 70
-- Attack: 45
-- Defense: 40
-- Special-attack: 45
-- Special-defense: 40
-- Speed: 75
+- Hp: 75
+- Attack: 98
+- Defense: 63
+- Special-attack: 98
+- Special-defense: 63
+- Speed: 101
