@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Haunter
-## ID: 93
+## Arctozolt
+## ID: 881
 ### Tipos
-- Ghost
-- Poison
+- Electric
+- Ice
 ### Stats
-- Hp: 45
-- Attack: 50
-- Defense: 45
-- Special-attack: 115
-- Special-defense: 55
-- Speed: 95
+- Hp: 90
+- Attack: 100
+- Defense: 90
+- Special-attack: 90
+- Special-defense: 80
+- Speed: 55
