@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Gyarados
-## ID: 130
+## Tirtouga
+## ID: 564
 ### Tipos
 - Water
-- Flying
+- Rock
 ### Stats
-- Hp: 95
-- Attack: 125
-- Defense: 79
-- Special-attack: 60
-- Special-defense: 100
-- Speed: 81
+- Hp: 54
+- Attack: 78
+- Defense: 103
+- Special-attack: 53
+- Special-defense: 45
+- Speed: 22
