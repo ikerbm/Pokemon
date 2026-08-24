@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Lickilicky
-## ID: 463
+## Vikavolt
+## ID: 738
 ### Tipos
-- Normal
+- Bug
+- Electric
 ### Stats
-- Hp: 110
-- Attack: 85
-- Defense: 95
-- Special-attack: 80
-- Special-defense: 95
-- Speed: 50
+- Hp: 77
+- Attack: 70
+- Defense: 90
+- Special-attack: 145
+- Special-defense: 75
+- Speed: 43
