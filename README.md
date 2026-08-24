@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Sewaddle
-## ID: 540
+## Regice
+## ID: 378
 ### Tipos
-- Bug
-- Grass
+- Ice
 ### Stats
-- Hp: 45
-- Attack: 53
-- Defense: 70
-- Special-attack: 40
-- Special-defense: 60
-- Speed: 42
+- Hp: 80
+- Attack: 50
+- Defense: 100
+- Special-attack: 100
+- Special-defense: 200
+- Speed: 50
