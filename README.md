@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Nidoran-f
-## ID: 29
+## Kingdra
+## ID: 230
 ### Tipos
-- Poison
+- Water
+- Dragon
 ### Stats
-- Hp: 55
-- Attack: 47
-- Defense: 52
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 41
+- Hp: 75
+- Attack: 95
+- Defense: 95
+- Special-attack: 95
+- Special-defense: 95
+- Speed: 85
