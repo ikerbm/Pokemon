@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Arboliva
-## ID: 930
+## Slugma
+## ID: 218
 ### Tipos
-- Grass
-- Normal
+- Fire
 ### Stats
-- Hp: 78
-- Attack: 69
-- Defense: 90
-- Special-attack: 125
-- Special-defense: 109
-- Speed: 39
+- Hp: 40
+- Attack: 40
+- Defense: 40
+- Special-attack: 70
+- Special-defense: 40
+- Speed: 20
