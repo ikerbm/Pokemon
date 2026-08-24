@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Slugma
-## ID: 218
+## Cleffa
+## ID: 173
 ### Tipos
-- Fire
+- Fairy
 ### Stats
-- Hp: 40
-- Attack: 40
-- Defense: 40
-- Special-attack: 70
-- Special-defense: 40
-- Speed: 20
+- Hp: 50
+- Attack: 25
+- Defense: 28
+- Special-attack: 45
+- Special-defense: 55
+- Speed: 15
