@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Rapidash
-## ID: 78
+## Nidoran-f
+## ID: 29
 ### Tipos
-- Fire
+- Poison
 ### Stats
-- Hp: 65
-- Attack: 100
-- Defense: 70
-- Special-attack: 80
-- Special-defense: 80
-- Speed: 105
+- Hp: 55
+- Attack: 47
+- Defense: 52
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 41
