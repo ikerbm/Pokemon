@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Slowpoke
-## ID: 79
+## Throh
+## ID: 538
 ### Tipos
-- Water
-- Psychic
+- Fighting
 ### Stats
-- Hp: 90
-- Attack: 65
-- Defense: 65
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 15
+- Hp: 120
+- Attack: 100
+- Defense: 85
+- Special-attack: 30
+- Special-defense: 85
+- Speed: 45
