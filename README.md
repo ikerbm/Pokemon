@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Granbull
-## ID: 210
+## Drakloak
+## ID: 886
 ### Tipos
-- Fairy
+- Dragon
+- Ghost
 ### Stats
-- Hp: 90
-- Attack: 120
-- Defense: 75
+- Hp: 68
+- Attack: 80
+- Defense: 50
 - Special-attack: 60
-- Special-defense: 60
-- Speed: 45
+- Special-defense: 50
+- Speed: 102
