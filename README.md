@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Drakloak
-## ID: 886
+## Hoothoot
+## ID: 163
 ### Tipos
-- Dragon
-- Ghost
+- Normal
+- Flying
 ### Stats
-- Hp: 68
-- Attack: 80
-- Defense: 50
-- Special-attack: 60
-- Special-defense: 50
-- Speed: 102
+- Hp: 60
+- Attack: 30
+- Defense: 30
+- Special-attack: 36
+- Special-defense: 56
+- Speed: 50
