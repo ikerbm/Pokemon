@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Gothorita
-## ID: 575
+## Gligar
+## ID: 207
 ### Tipos
-- Psychic
+- Ground
+- Flying
 ### Stats
-- Hp: 60
-- Attack: 45
-- Defense: 70
-- Special-attack: 75
-- Special-defense: 85
-- Speed: 55
+- Hp: 65
+- Attack: 75
+- Defense: 105
+- Special-attack: 35
+- Special-defense: 65
+- Speed: 85
