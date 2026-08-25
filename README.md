@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Snubbull
-## ID: 209
+## Phantump
+## ID: 708
 ### Tipos
-- Fairy
+- Ghost
+- Grass
 ### Stats
-- Hp: 60
-- Attack: 80
-- Defense: 50
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 30
+- Hp: 43
+- Attack: 70
+- Defense: 48
+- Special-attack: 50
+- Special-defense: 60
+- Speed: 38
