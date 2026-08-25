@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ceruledge
-## ID: 937
+## Garganacl
+## ID: 934
 ### Tipos
-- Fire
-- Ghost
+- Rock
 ### Stats
-- Hp: 75
-- Attack: 125
-- Defense: 80
-- Special-attack: 60
-- Special-defense: 100
-- Speed: 85
+- Hp: 100
+- Attack: 100
+- Defense: 130
+- Special-attack: 45
+- Special-defense: 90
+- Speed: 35
