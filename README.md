@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Nuzleaf
-## ID: 274
+## Doublade
+## ID: 680
 ### Tipos
-- Grass
-- Dark
+- Steel
+- Ghost
 ### Stats
-- Hp: 70
-- Attack: 70
-- Defense: 40
-- Special-attack: 60
-- Special-defense: 40
-- Speed: 60
+- Hp: 59
+- Attack: 110
+- Defense: 150
+- Special-attack: 45
+- Special-defense: 49
+- Speed: 35
