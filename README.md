@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Piplup
-## ID: 393
+## Centiskorch
+## ID: 851
 ### Tipos
-- Water
+- Fire
+- Bug
 ### Stats
-- Hp: 53
-- Attack: 51
-- Defense: 53
-- Special-attack: 61
-- Special-defense: 56
-- Speed: 40
+- Hp: 100
+- Attack: 115
+- Defense: 65
+- Special-attack: 90
+- Special-defense: 90
+- Speed: 65
