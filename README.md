@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Vileplume
-## ID: 45
+## Fennekin
+## ID: 653
 ### Tipos
-- Grass
-- Poison
+- Fire
 ### Stats
-- Hp: 75
-- Attack: 80
-- Defense: 85
-- Special-attack: 110
-- Special-defense: 90
-- Speed: 50
+- Hp: 40
+- Attack: 45
+- Defense: 40
+- Special-attack: 62
+- Special-defense: 60
+- Speed: 60
