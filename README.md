@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Centiskorch
-## ID: 851
+## Silicobra
+## ID: 843
 ### Tipos
-- Fire
-- Bug
+- Ground
 ### Stats
-- Hp: 100
-- Attack: 115
-- Defense: 65
-- Special-attack: 90
-- Special-defense: 90
-- Speed: 65
+- Hp: 52
+- Attack: 57
+- Defense: 75
+- Special-attack: 35
+- Special-defense: 50
+- Speed: 46
