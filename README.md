@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Garchomp
-## ID: 445
+## Lumineon
+## ID: 457
 ### Tipos
-- Dragon
-- Ground
+- Water
 ### Stats
-- Hp: 108
-- Attack: 130
-- Defense: 95
-- Special-attack: 80
-- Special-defense: 85
-- Speed: 102
+- Hp: 69
+- Attack: 69
+- Defense: 76
+- Special-attack: 69
+- Special-defense: 86
+- Speed: 91
