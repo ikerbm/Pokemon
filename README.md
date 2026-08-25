@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Whiscash
-## ID: 340
+## Yamask
+## ID: 562
 ### Tipos
-- Water
-- Ground
+- Ghost
 ### Stats
-- Hp: 110
-- Attack: 78
-- Defense: 73
-- Special-attack: 76
-- Special-defense: 71
-- Speed: 60
+- Hp: 38
+- Attack: 30
+- Defense: 85
+- Special-attack: 55
+- Special-defense: 65
+- Speed: 30
