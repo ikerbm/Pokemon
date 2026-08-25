@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Charizard
-## ID: 6
+## Hippopotas
+## ID: 449
 ### Tipos
-- Fire
-- Flying
+- Ground
 ### Stats
-- Hp: 78
-- Attack: 84
+- Hp: 68
+- Attack: 72
 - Defense: 78
-- Special-attack: 109
-- Special-defense: 85
-- Speed: 100
+- Special-attack: 38
+- Special-defense: 42
+- Speed: 32
