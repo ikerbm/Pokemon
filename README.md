@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Archeops
-## ID: 567
+## Charmander
+## ID: 4
 ### Tipos
-- Rock
-- Flying
+- Fire
 ### Stats
-- Hp: 75
-- Attack: 140
-- Defense: 65
-- Special-attack: 112
-- Special-defense: 65
-- Speed: 110
+- Hp: 39
+- Attack: 52
+- Defense: 43
+- Special-attack: 60
+- Special-defense: 50
+- Speed: 65
