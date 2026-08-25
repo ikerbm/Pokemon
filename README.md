@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Darmanitan-standard
-## ID: 555
+## Ferroseed
+## ID: 597
 ### Tipos
-- Fire
+- Grass
+- Steel
 ### Stats
-- Hp: 105
-- Attack: 140
-- Defense: 55
-- Special-attack: 30
-- Special-defense: 55
-- Speed: 95
+- Hp: 44
+- Attack: 50
+- Defense: 91
+- Special-attack: 24
+- Special-defense: 86
+- Speed: 10
