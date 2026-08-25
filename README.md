@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Hoothoot
-## ID: 163
+## Latias
+## ID: 380
 ### Tipos
-- Normal
-- Flying
+- Dragon
+- Psychic
 ### Stats
-- Hp: 60
-- Attack: 30
-- Defense: 30
-- Special-attack: 36
-- Special-defense: 56
-- Speed: 50
+- Hp: 80
+- Attack: 80
+- Defense: 90
+- Special-attack: 110
+- Special-defense: 130
+- Speed: 110
