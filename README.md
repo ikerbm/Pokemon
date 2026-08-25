@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Florges
-## ID: 671
+## Sandslash
+## ID: 28
 ### Tipos
-- Fairy
+- Ground
 ### Stats
-- Hp: 78
-- Attack: 65
-- Defense: 68
-- Special-attack: 112
-- Special-defense: 154
-- Speed: 75
+- Hp: 75
+- Attack: 100
+- Defense: 110
+- Special-attack: 45
+- Special-defense: 55
+- Speed: 65
