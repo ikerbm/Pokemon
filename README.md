@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Baxcalibur
-## ID: 998
+## Charmeleon
+## ID: 5
 ### Tipos
-- Dragon
-- Ice
+- Fire
 ### Stats
-- Hp: 115
-- Attack: 145
-- Defense: 92
-- Special-attack: 75
-- Special-defense: 86
-- Speed: 87
+- Hp: 58
+- Attack: 64
+- Defense: 58
+- Special-attack: 80
+- Special-defense: 65
+- Speed: 80
