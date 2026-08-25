@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ferroseed
-## ID: 597
+## Granbull
+## ID: 210
 ### Tipos
-- Grass
-- Steel
+- Fairy
 ### Stats
-- Hp: 44
-- Attack: 50
-- Defense: 91
-- Special-attack: 24
-- Special-defense: 86
-- Speed: 10
+- Hp: 90
+- Attack: 120
+- Defense: 75
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 45
