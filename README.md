@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Hitmonlee
-## ID: 106
+## Ceruledge
+## ID: 937
 ### Tipos
-- Fighting
+- Fire
+- Ghost
 ### Stats
-- Hp: 50
-- Attack: 120
-- Defense: 53
-- Special-attack: 35
-- Special-defense: 110
-- Speed: 87
+- Hp: 75
+- Attack: 125
+- Defense: 80
+- Special-attack: 60
+- Special-defense: 100
+- Speed: 85
