@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Buzzwole
-## ID: 794
+## Conkeldurr
+## ID: 534
 ### Tipos
-- Bug
 - Fighting
 ### Stats
-- Hp: 107
-- Attack: 139
-- Defense: 139
-- Special-attack: 53
-- Special-defense: 53
-- Speed: 79
+- Hp: 105
+- Attack: 140
+- Defense: 95
+- Special-attack: 55
+- Special-defense: 65
+- Speed: 45
