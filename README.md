@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Latias
-## ID: 380
+## Snubbull
+## ID: 209
 ### Tipos
-- Dragon
-- Psychic
+- Fairy
 ### Stats
-- Hp: 80
+- Hp: 60
 - Attack: 80
-- Defense: 90
-- Special-attack: 110
-- Special-defense: 130
-- Speed: 110
+- Defense: 50
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 30
