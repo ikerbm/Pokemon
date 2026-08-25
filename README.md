@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Sandslash
-## ID: 28
+## Gothorita
+## ID: 575
 ### Tipos
-- Ground
+- Psychic
 ### Stats
-- Hp: 75
-- Attack: 100
-- Defense: 110
-- Special-attack: 45
-- Special-defense: 55
-- Speed: 65
+- Hp: 60
+- Attack: 45
+- Defense: 70
+- Special-attack: 75
+- Special-defense: 85
+- Speed: 55
