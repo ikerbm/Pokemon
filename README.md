@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Charmander
-## ID: 4
+## Feebas
+## ID: 349
 ### Tipos
-- Fire
+- Water
 ### Stats
-- Hp: 39
-- Attack: 52
-- Defense: 43
-- Special-attack: 60
-- Special-defense: 50
-- Speed: 65
+- Hp: 20
+- Attack: 15
+- Defense: 20
+- Special-attack: 10
+- Special-defense: 55
+- Speed: 80
