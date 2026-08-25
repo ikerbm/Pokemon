@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Conkeldurr
-## ID: 534
+## Vileplume
+## ID: 45
 ### Tipos
-- Fighting
+- Grass
+- Poison
 ### Stats
-- Hp: 105
-- Attack: 140
-- Defense: 95
-- Special-attack: 55
-- Special-defense: 65
-- Speed: 45
+- Hp: 75
+- Attack: 80
+- Defense: 85
+- Special-attack: 110
+- Special-defense: 90
+- Speed: 50
