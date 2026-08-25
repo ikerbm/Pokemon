@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Doublade
-## ID: 680
+## Buzzwole
+## ID: 794
 ### Tipos
-- Steel
-- Ghost
+- Bug
+- Fighting
 ### Stats
-- Hp: 59
-- Attack: 110
-- Defense: 150
-- Special-attack: 45
-- Special-defense: 49
-- Speed: 35
+- Hp: 107
+- Attack: 139
+- Defense: 139
+- Special-attack: 53
+- Special-defense: 53
+- Speed: 79
