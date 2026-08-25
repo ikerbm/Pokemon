@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Lumineon
-## ID: 457
+## Nuzleaf
+## ID: 274
 ### Tipos
-- Water
+- Grass
+- Dark
 ### Stats
-- Hp: 69
-- Attack: 69
-- Defense: 76
-- Special-attack: 69
-- Special-defense: 86
-- Speed: 91
+- Hp: 70
+- Attack: 70
+- Defense: 40
+- Special-attack: 60
+- Special-defense: 40
+- Speed: 60
