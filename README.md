@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Gligar
-## ID: 207
+## Liepard
+## ID: 510
 ### Tipos
-- Ground
-- Flying
+- Dark
 ### Stats
-- Hp: 65
-- Attack: 75
-- Defense: 105
-- Special-attack: 35
-- Special-defense: 65
-- Speed: 85
+- Hp: 64
+- Attack: 88
+- Defense: 50
+- Special-attack: 88
+- Special-defense: 50
+- Speed: 106
