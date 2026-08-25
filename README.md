@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Hippopotas
-## ID: 449
+## Darmanitan-standard
+## ID: 555
 ### Tipos
-- Ground
+- Fire
 ### Stats
-- Hp: 68
-- Attack: 72
-- Defense: 78
-- Special-attack: 38
-- Special-defense: 42
-- Speed: 32
+- Hp: 105
+- Attack: 140
+- Defense: 55
+- Special-attack: 30
+- Special-defense: 55
+- Speed: 95
