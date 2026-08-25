@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Charmeleon
-## ID: 5
+## Piplup
+## ID: 393
 ### Tipos
-- Fire
+- Water
 ### Stats
-- Hp: 58
-- Attack: 64
-- Defense: 58
-- Special-attack: 80
-- Special-defense: 65
-- Speed: 80
+- Hp: 53
+- Attack: 51
+- Defense: 53
+- Special-attack: 61
+- Special-defense: 56
+- Speed: 40
