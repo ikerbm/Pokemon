@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Yamask
-## ID: 562
+## Garchomp
+## ID: 445
 ### Tipos
-- Ghost
+- Dragon
+- Ground
 ### Stats
-- Hp: 38
-- Attack: 30
-- Defense: 85
-- Special-attack: 55
-- Special-defense: 65
-- Speed: 30
+- Hp: 108
+- Attack: 130
+- Defense: 95
+- Special-attack: 80
+- Special-defense: 85
+- Speed: 102
