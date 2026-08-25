@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Liepard
-## ID: 510
+## Iron-bundle
+## ID: 991
 ### Tipos
-- Dark
+- Ice
+- Water
 ### Stats
-- Hp: 64
-- Attack: 88
-- Defense: 50
-- Special-attack: 88
-- Special-defense: 50
-- Speed: 106
+- Hp: 56
+- Attack: 80
+- Defense: 114
+- Special-attack: 124
+- Special-defense: 60
+- Speed: 136
