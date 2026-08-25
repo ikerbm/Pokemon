@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Silicobra
-## ID: 843
+## Hitmonlee
+## ID: 106
 ### Tipos
-- Ground
+- Fighting
 ### Stats
-- Hp: 52
-- Attack: 57
-- Defense: 75
+- Hp: 50
+- Attack: 120
+- Defense: 53
 - Special-attack: 35
-- Special-defense: 50
-- Speed: 46
+- Special-defense: 110
+- Speed: 87
