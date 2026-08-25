@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Throh
-## ID: 538
+## Florges
+## ID: 671
 ### Tipos
-- Fighting
+- Fairy
 ### Stats
-- Hp: 120
-- Attack: 100
-- Defense: 85
-- Special-attack: 30
-- Special-defense: 85
-- Speed: 45
+- Hp: 78
+- Attack: 65
+- Defense: 68
+- Special-attack: 112
+- Special-defense: 154
+- Speed: 75
