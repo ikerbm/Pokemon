@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Phantump
-## ID: 708
+## Whiscash
+## ID: 340
 ### Tipos
-- Ghost
-- Grass
+- Water
+- Ground
 ### Stats
-- Hp: 43
-- Attack: 70
-- Defense: 48
-- Special-attack: 50
-- Special-defense: 60
-- Speed: 38
+- Hp: 110
+- Attack: 78
+- Defense: 73
+- Special-attack: 76
+- Special-defense: 71
+- Speed: 60
