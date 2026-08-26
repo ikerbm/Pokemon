@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Porygon2
-## ID: 233
+## Greavard
+## ID: 971
 ### Tipos
-- Normal
+- Ghost
 ### Stats
-- Hp: 85
-- Attack: 80
-- Defense: 90
-- Special-attack: 105
-- Special-defense: 95
-- Speed: 60
+- Hp: 50
+- Attack: 61
+- Defense: 60
+- Special-attack: 30
+- Special-defense: 55
+- Speed: 34
