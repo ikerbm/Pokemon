@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Shellos
-## ID: 422
+## Sliggoo
+## ID: 705
 ### Tipos
-- Water
+- Dragon
 ### Stats
-- Hp: 76
-- Attack: 48
-- Defense: 48
-- Special-attack: 57
-- Special-defense: 62
-- Speed: 34
+- Hp: 68
+- Attack: 75
+- Defense: 53
+- Special-attack: 83
+- Special-defense: 113
+- Speed: 60
