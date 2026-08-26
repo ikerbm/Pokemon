@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Toxtricity-amped
-## ID: 849
+## Oddish
+## ID: 43
 ### Tipos
-- Electric
+- Grass
 - Poison
 ### Stats
-- Hp: 75
-- Attack: 98
-- Defense: 70
-- Special-attack: 114
-- Special-defense: 70
-- Speed: 75
+- Hp: 45
+- Attack: 50
+- Defense: 55
+- Special-attack: 75
+- Special-defense: 65
+- Speed: 30
