@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Skwovet
-## ID: 819
+## Centiskorch
+## ID: 851
 ### Tipos
-- Normal
+- Fire
+- Bug
 ### Stats
-- Hp: 70
-- Attack: 55
-- Defense: 55
-- Special-attack: 35
-- Special-defense: 35
-- Speed: 25
+- Hp: 100
+- Attack: 115
+- Defense: 65
+- Special-attack: 90
+- Special-defense: 90
+- Speed: 65
