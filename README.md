@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Rillaboom
-## ID: 812
+## Zacian
+## ID: 888
 ### Tipos
-- Grass
+- Fairy
 ### Stats
-- Hp: 100
-- Attack: 125
-- Defense: 90
-- Special-attack: 60
-- Special-defense: 70
-- Speed: 85
+- Hp: 92
+- Attack: 120
+- Defense: 115
+- Special-attack: 80
+- Special-defense: 115
+- Speed: 138
