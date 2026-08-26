@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Garganacl
-## ID: 934
+## Combee
+## ID: 415
 ### Tipos
-- Rock
+- Bug
+- Flying
 ### Stats
-- Hp: 100
-- Attack: 100
-- Defense: 130
-- Special-attack: 45
-- Special-defense: 90
-- Speed: 35
+- Hp: 30
+- Attack: 30
+- Defense: 42
+- Special-attack: 30
+- Special-defense: 42
+- Speed: 70
