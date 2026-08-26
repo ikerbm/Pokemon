@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Combee
-## ID: 415
+## Kakuna
+## ID: 14
 ### Tipos
 - Bug
-- Flying
+- Poison
 ### Stats
-- Hp: 30
-- Attack: 30
-- Defense: 42
-- Special-attack: 30
-- Special-defense: 42
-- Speed: 70
+- Hp: 45
+- Attack: 25
+- Defense: 50
+- Special-attack: 25
+- Special-defense: 25
+- Speed: 35
