@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Weezing
-## ID: 110
+## Maractus
+## ID: 556
 ### Tipos
-- Poison
+- Grass
 ### Stats
-- Hp: 65
-- Attack: 90
-- Defense: 120
-- Special-attack: 85
-- Special-defense: 70
+- Hp: 75
+- Attack: 86
+- Defense: 67
+- Special-attack: 106
+- Special-defense: 67
 - Speed: 60
