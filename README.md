@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Kakuna
-## ID: 14
+## Skwovet
+## ID: 819
 ### Tipos
-- Bug
-- Poison
+- Normal
 ### Stats
-- Hp: 45
-- Attack: 25
-- Defense: 50
-- Special-attack: 25
-- Special-defense: 25
-- Speed: 35
+- Hp: 70
+- Attack: 55
+- Defense: 55
+- Special-attack: 35
+- Special-defense: 35
+- Speed: 25
