@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Maractus
-## ID: 556
+## Fomantis
+## ID: 753
 ### Tipos
 - Grass
 ### Stats
-- Hp: 75
-- Attack: 86
-- Defense: 67
-- Special-attack: 106
-- Special-defense: 67
-- Speed: 60
+- Hp: 40
+- Attack: 55
+- Defense: 35
+- Special-attack: 50
+- Special-defense: 35
+- Speed: 35
