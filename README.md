@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Whiscash
-## ID: 340
+## Orbeetle
+## ID: 826
 ### Tipos
-- Water
-- Ground
+- Bug
+- Psychic
 ### Stats
-- Hp: 110
-- Attack: 78
-- Defense: 73
-- Special-attack: 76
-- Special-defense: 71
-- Speed: 60
+- Hp: 60
+- Attack: 45
+- Defense: 110
+- Special-attack: 80
+- Special-defense: 120
+- Speed: 90
