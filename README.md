@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Emboar
-## ID: 500
+## Porygon2
+## ID: 233
 ### Tipos
-- Fire
-- Fighting
+- Normal
 ### Stats
-- Hp: 110
-- Attack: 123
-- Defense: 65
-- Special-attack: 100
-- Special-defense: 65
-- Speed: 65
+- Hp: 85
+- Attack: 80
+- Defense: 90
+- Special-attack: 105
+- Special-defense: 95
+- Speed: 60
