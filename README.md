@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Zacian
-## ID: 888
+## Emboar
+## ID: 500
 ### Tipos
-- Fairy
+- Fire
+- Fighting
 ### Stats
-- Hp: 92
-- Attack: 120
-- Defense: 115
-- Special-attack: 80
-- Special-defense: 115
-- Speed: 138
+- Hp: 110
+- Attack: 123
+- Defense: 65
+- Special-attack: 100
+- Special-defense: 65
+- Speed: 65
