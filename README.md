@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Manectric
-## ID: 310
+## Whiscash
+## ID: 340
 ### Tipos
-- Electric
+- Water
+- Ground
 ### Stats
-- Hp: 70
-- Attack: 75
-- Defense: 60
-- Special-attack: 105
-- Special-defense: 60
-- Speed: 105
+- Hp: 110
+- Attack: 78
+- Defense: 73
+- Special-attack: 76
+- Special-defense: 71
+- Speed: 60
