@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Greavard
-## ID: 971
+## Sinistea
+## ID: 854
 ### Tipos
 - Ghost
 ### Stats
-- Hp: 50
-- Attack: 61
-- Defense: 60
-- Special-attack: 30
-- Special-defense: 55
-- Speed: 34
+- Hp: 40
+- Attack: 45
+- Defense: 45
+- Special-attack: 74
+- Special-defense: 54
+- Speed: 50
