@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Oddish
-## ID: 43
+## Shellos
+## ID: 422
 ### Tipos
-- Grass
-- Poison
+- Water
 ### Stats
-- Hp: 45
-- Attack: 50
-- Defense: 55
-- Special-attack: 75
-- Special-defense: 65
-- Speed: 30
+- Hp: 76
+- Attack: 48
+- Defense: 48
+- Special-attack: 57
+- Special-defense: 62
+- Speed: 34
