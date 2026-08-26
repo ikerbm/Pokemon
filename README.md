@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Centiskorch
-## ID: 851
+## Rillaboom
+## ID: 812
 ### Tipos
-- Fire
-- Bug
+- Grass
 ### Stats
 - Hp: 100
-- Attack: 115
-- Defense: 65
-- Special-attack: 90
-- Special-defense: 90
-- Speed: 65
+- Attack: 125
+- Defense: 90
+- Special-attack: 60
+- Special-defense: 70
+- Speed: 85
