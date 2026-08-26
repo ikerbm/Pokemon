@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Lurantis
-## ID: 754
+## Toxtricity-amped
+## ID: 849
 ### Tipos
-- Grass
+- Electric
+- Poison
 ### Stats
-- Hp: 70
-- Attack: 105
-- Defense: 90
-- Special-attack: 80
-- Special-defense: 90
-- Speed: 45
+- Hp: 75
+- Attack: 98
+- Defense: 70
+- Special-attack: 114
+- Special-defense: 70
+- Speed: 75
