@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Accelgor
-## ID: 617
+## Tentacruel
+## ID: 73
 ### Tipos
-- Bug
+- Water
+- Poison
 ### Stats
 - Hp: 80
 - Attack: 70
-- Defense: 40
-- Special-attack: 100
-- Special-defense: 60
-- Speed: 145
+- Defense: 65
+- Special-attack: 80
+- Special-defense: 120
+- Speed: 100
