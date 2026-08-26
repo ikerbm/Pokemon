@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Sliggoo
-## ID: 705
+## Accelgor
+## ID: 617
 ### Tipos
-- Dragon
+- Bug
 ### Stats
-- Hp: 68
-- Attack: 75
-- Defense: 53
-- Special-attack: 83
-- Special-defense: 113
-- Speed: 60
+- Hp: 80
+- Attack: 70
+- Defense: 40
+- Special-attack: 100
+- Special-defense: 60
+- Speed: 145
