@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tentacruel
-## ID: 73
+## Manectric
+## ID: 310
 ### Tipos
-- Water
-- Poison
+- Electric
 ### Stats
-- Hp: 80
-- Attack: 70
-- Defense: 65
-- Special-attack: 80
-- Special-defense: 120
-- Speed: 100
+- Hp: 70
+- Attack: 75
+- Defense: 60
+- Special-attack: 105
+- Special-defense: 60
+- Speed: 105
