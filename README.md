@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Dragalge
-## ID: 691
+## Weezing
+## ID: 110
 ### Tipos
 - Poison
-- Dragon
 ### Stats
 - Hp: 65
-- Attack: 75
-- Defense: 90
-- Special-attack: 97
-- Special-defense: 123
-- Speed: 44
+- Attack: 90
+- Defense: 120
+- Special-attack: 85
+- Special-defense: 70
+- Speed: 60
