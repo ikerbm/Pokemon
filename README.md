@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Sinistea
-## ID: 854
+## Lurantis
+## ID: 754
 ### Tipos
-- Ghost
+- Grass
 ### Stats
-- Hp: 40
-- Attack: 45
-- Defense: 45
-- Special-attack: 74
-- Special-defense: 54
-- Speed: 50
+- Hp: 70
+- Attack: 105
+- Defense: 90
+- Special-attack: 80
+- Special-defense: 90
+- Speed: 45
