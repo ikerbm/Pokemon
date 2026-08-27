@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Gogoat
-## ID: 673
+## Croagunk
+## ID: 453
 ### Tipos
-- Grass
+- Poison
+- Fighting
 ### Stats
-- Hp: 123
-- Attack: 100
-- Defense: 62
-- Special-attack: 97
-- Special-defense: 81
-- Speed: 68
+- Hp: 48
+- Attack: 61
+- Defense: 40
+- Special-attack: 61
+- Special-defense: 40
+- Speed: 50
