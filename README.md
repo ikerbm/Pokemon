@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Fomantis
-## ID: 753
+## Gogoat
+## ID: 673
 ### Tipos
 - Grass
 ### Stats
-- Hp: 40
-- Attack: 55
-- Defense: 35
-- Special-attack: 50
-- Special-defense: 35
-- Speed: 35
+- Hp: 123
+- Attack: 100
+- Defense: 62
+- Special-attack: 97
+- Special-defense: 81
+- Speed: 68
