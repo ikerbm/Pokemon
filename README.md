@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Croagunk
-## ID: 453
+## Diggersby
+## ID: 660
 ### Tipos
-- Poison
-- Fighting
+- Normal
+- Ground
 ### Stats
-- Hp: 48
-- Attack: 61
-- Defense: 40
-- Special-attack: 61
-- Special-defense: 40
-- Speed: 50
+- Hp: 85
+- Attack: 56
+- Defense: 77
+- Special-attack: 50
+- Special-defense: 77
+- Speed: 78
