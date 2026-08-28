@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Diggersby
-## ID: 660
+## Quaquaval
+## ID: 914
 ### Tipos
-- Normal
-- Ground
+- Water
+- Fighting
 ### Stats
 - Hp: 85
-- Attack: 56
-- Defense: 77
-- Special-attack: 50
-- Special-defense: 77
-- Speed: 78
+- Attack: 120
+- Defense: 80
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 85
