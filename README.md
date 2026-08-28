@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Quaquaval
-## ID: 914
+## Rayquaza
+## ID: 384
 ### Tipos
-- Water
-- Fighting
+- Dragon
+- Flying
 ### Stats
-- Hp: 85
-- Attack: 120
-- Defense: 80
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 85
+- Hp: 105
+- Attack: 150
+- Defense: 90
+- Special-attack: 150
+- Special-defense: 90
+- Speed: 95
