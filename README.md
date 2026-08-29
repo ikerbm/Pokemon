@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Ogerpon
-## ID: 1017
+## Seviper
+## ID: 336
 ### Tipos
-- Grass
+- Poison
 ### Stats
-- Hp: 80
-- Attack: 120
-- Defense: 84
-- Special-attack: 60
-- Special-defense: 96
-- Speed: 110
+- Hp: 73
+- Attack: 100
+- Defense: 60
+- Special-attack: 100
+- Special-defense: 60
+- Speed: 65
