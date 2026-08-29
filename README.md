@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Rayquaza
-## ID: 384
+## Trevenant
+## ID: 709
 ### Tipos
-- Dragon
-- Flying
+- Ghost
+- Grass
 ### Stats
-- Hp: 105
-- Attack: 150
-- Defense: 90
-- Special-attack: 150
-- Special-defense: 90
-- Speed: 95
+- Hp: 85
+- Attack: 110
+- Defense: 76
+- Special-attack: 65
+- Special-defense: 82
+- Speed: 56
