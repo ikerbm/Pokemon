@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Seviper
-## ID: 336
+## Rowlet
+## ID: 722
 ### Tipos
-- Poison
+- Grass
+- Flying
 ### Stats
-- Hp: 73
-- Attack: 100
-- Defense: 60
-- Special-attack: 100
-- Special-defense: 60
-- Speed: 65
+- Hp: 68
+- Attack: 55
+- Defense: 55
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 42
