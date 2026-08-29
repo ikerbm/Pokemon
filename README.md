@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Trevenant
-## ID: 709
+## Tentacool
+## ID: 72
 ### Tipos
-- Ghost
-- Grass
+- Water
+- Poison
 ### Stats
-- Hp: 85
-- Attack: 110
-- Defense: 76
-- Special-attack: 65
-- Special-defense: 82
-- Speed: 56
+- Hp: 40
+- Attack: 40
+- Defense: 35
+- Special-attack: 50
+- Special-defense: 100
+- Speed: 70
