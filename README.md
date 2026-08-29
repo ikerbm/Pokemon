@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tentacool
-## ID: 72
+## Cherubi
+## ID: 420
 ### Tipos
-- Water
-- Poison
+- Grass
 ### Stats
-- Hp: 40
-- Attack: 40
-- Defense: 35
-- Special-attack: 50
-- Special-defense: 100
-- Speed: 70
+- Hp: 45
+- Attack: 35
+- Defense: 45
+- Special-attack: 62
+- Special-defense: 53
+- Speed: 35
