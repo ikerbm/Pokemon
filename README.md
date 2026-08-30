@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Iron-moth
-## ID: 994
+## Wingull
+## ID: 278
 ### Tipos
-- Fire
-- Poison
+- Water
+- Flying
 ### Stats
-- Hp: 80
-- Attack: 70
-- Defense: 60
-- Special-attack: 140
-- Special-defense: 110
-- Speed: 110
+- Hp: 40
+- Attack: 30
+- Defense: 30
+- Special-attack: 55
+- Special-defense: 30
+- Speed: 85
