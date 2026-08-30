@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Rowlet
-## ID: 722
+## Whismur
+## ID: 293
 ### Tipos
-- Grass
-- Flying
+- Normal
 ### Stats
-- Hp: 68
-- Attack: 55
-- Defense: 55
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 42
+- Hp: 64
+- Attack: 51
+- Defense: 23
+- Special-attack: 51
+- Special-defense: 23
+- Speed: 28
