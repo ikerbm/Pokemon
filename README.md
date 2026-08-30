@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Whismur
-## ID: 293
+## Iron-moth
+## ID: 994
 ### Tipos
-- Normal
+- Fire
+- Poison
 ### Stats
-- Hp: 64
-- Attack: 51
-- Defense: 23
-- Special-attack: 51
-- Special-defense: 23
-- Speed: 28
+- Hp: 80
+- Attack: 70
+- Defense: 60
+- Special-attack: 140
+- Special-defense: 110
+- Speed: 110
