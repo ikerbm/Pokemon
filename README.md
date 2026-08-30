@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Wingull
-## ID: 278
+## Volcanion
+## ID: 721
 ### Tipos
+- Fire
 - Water
-- Flying
 ### Stats
-- Hp: 40
-- Attack: 30
-- Defense: 30
-- Special-attack: 55
-- Special-defense: 30
-- Speed: 85
+- Hp: 80
+- Attack: 110
+- Defense: 120
+- Special-attack: 130
+- Special-defense: 90
+- Speed: 70
