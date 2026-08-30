@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Tympole
-## ID: 535
+## Ho-oh
+## ID: 250
 ### Tipos
-- Water
+- Fire
+- Flying
 ### Stats
-- Hp: 50
-- Attack: 50
-- Defense: 40
-- Special-attack: 50
-- Special-defense: 40
-- Speed: 64
+- Hp: 106
+- Attack: 130
+- Defense: 90
+- Special-attack: 110
+- Special-defense: 154
+- Speed: 90
