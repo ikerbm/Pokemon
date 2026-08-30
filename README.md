@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Volcanion
-## ID: 721
+## Tympole
+## ID: 535
 ### Tipos
-- Fire
 - Water
 ### Stats
-- Hp: 80
-- Attack: 110
-- Defense: 120
-- Special-attack: 130
-- Special-defense: 90
-- Speed: 70
+- Hp: 50
+- Attack: 50
+- Defense: 40
+- Special-attack: 50
+- Special-defense: 40
+- Speed: 64
