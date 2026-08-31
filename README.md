@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Baltoy
-## ID: 343
+## Pawniard
+## ID: 624
 ### Tipos
-- Ground
-- Psychic
+- Dark
+- Steel
 ### Stats
-- Hp: 40
-- Attack: 40
-- Defense: 55
+- Hp: 45
+- Attack: 85
+- Defense: 70
 - Special-attack: 40
-- Special-defense: 70
-- Speed: 55
+- Special-defense: 40
+- Speed: 60
