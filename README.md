@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Blacephalon
-## ID: 806
+## Iron-moth
+## ID: 994
 ### Tipos
 - Fire
-- Ghost
+- Poison
 ### Stats
-- Hp: 53
-- Attack: 127
-- Defense: 53
-- Special-attack: 151
-- Special-defense: 79
-- Speed: 107
+- Hp: 80
+- Attack: 70
+- Defense: 60
+- Special-attack: 140
+- Special-defense: 110
+- Speed: 110
