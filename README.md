@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ho-oh
-## ID: 250
+## Charcadet
+## ID: 935
 ### Tipos
 - Fire
-- Flying
 ### Stats
-- Hp: 106
-- Attack: 130
-- Defense: 90
-- Special-attack: 110
-- Special-defense: 154
-- Speed: 90
+- Hp: 40
+- Attack: 50
+- Defense: 40
+- Special-attack: 50
+- Special-defense: 40
+- Speed: 35
