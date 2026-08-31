@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Iron-moth
-## ID: 994
+## Baltoy
+## ID: 343
 ### Tipos
-- Fire
-- Poison
+- Ground
+- Psychic
 ### Stats
-- Hp: 80
-- Attack: 70
-- Defense: 60
-- Special-attack: 140
-- Special-defense: 110
-- Speed: 110
+- Hp: 40
+- Attack: 40
+- Defense: 55
+- Special-attack: 40
+- Special-defense: 70
+- Speed: 55
