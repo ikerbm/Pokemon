@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Charcadet
-## ID: 935
+## Blacephalon
+## ID: 806
 ### Tipos
 - Fire
+- Ghost
 ### Stats
-- Hp: 40
-- Attack: 50
-- Defense: 40
-- Special-attack: 50
-- Special-defense: 40
-- Speed: 35
+- Hp: 53
+- Attack: 127
+- Defense: 53
+- Special-attack: 151
+- Special-defense: 79
+- Speed: 107
