@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Sceptile
-## ID: 254
+## Dondozo
+## ID: 977
 ### Tipos
-- Grass
+- Water
 ### Stats
-- Hp: 70
-- Attack: 85
-- Defense: 65
-- Special-attack: 105
-- Special-defense: 85
-- Speed: 120
+- Hp: 150
+- Attack: 100
+- Defense: 115
+- Special-attack: 65
+- Special-defense: 65
+- Speed: 35
