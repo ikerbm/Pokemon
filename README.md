@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Shuckle
-## ID: 213
+## Sceptile
+## ID: 254
 ### Tipos
-- Bug
-- Rock
+- Grass
 ### Stats
-- Hp: 20
-- Attack: 10
-- Defense: 230
-- Special-attack: 10
-- Special-defense: 230
-- Speed: 5
+- Hp: 70
+- Attack: 85
+- Defense: 65
+- Special-attack: 105
+- Special-defense: 85
+- Speed: 120
