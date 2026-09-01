@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Dusclops
-## ID: 356
+## Shuckle
+## ID: 213
 ### Tipos
-- Ghost
+- Bug
+- Rock
 ### Stats
-- Hp: 40
-- Attack: 70
-- Defense: 130
-- Special-attack: 60
-- Special-defense: 130
-- Speed: 25
+- Hp: 20
+- Attack: 10
+- Defense: 230
+- Special-attack: 10
+- Special-defense: 230
+- Speed: 5
