@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Servine
-## ID: 496
+## Dusclops
+## ID: 356
 ### Tipos
-- Grass
+- Ghost
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 75
+- Hp: 40
+- Attack: 70
+- Defense: 130
 - Special-attack: 60
-- Special-defense: 75
-- Speed: 83
+- Special-defense: 130
+- Speed: 25
