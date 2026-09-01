@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Pawniard
-## ID: 624
+## Servine
+## ID: 496
 ### Tipos
-- Dark
-- Steel
+- Grass
 ### Stats
-- Hp: 45
-- Attack: 85
-- Defense: 70
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 60
+- Hp: 60
+- Attack: 60
+- Defense: 75
+- Special-attack: 60
+- Special-defense: 75
+- Speed: 83
