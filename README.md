@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Seedot
-## ID: 273
+## Arceus
+## ID: 493
 ### Tipos
-- Grass
+- Normal
 ### Stats
-- Hp: 40
-- Attack: 40
-- Defense: 50
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 30
+- Hp: 120
+- Attack: 120
+- Defense: 120
+- Special-attack: 120
+- Special-defense: 120
+- Speed: 120
