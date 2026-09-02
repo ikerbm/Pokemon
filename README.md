@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Bonsly
-## ID: 438
+## Seedot
+## ID: 273
 ### Tipos
-- Rock
+- Grass
 ### Stats
-- Hp: 50
-- Attack: 80
-- Defense: 95
-- Special-attack: 10
-- Special-defense: 45
-- Speed: 10
+- Hp: 40
+- Attack: 40
+- Defense: 50
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 30
