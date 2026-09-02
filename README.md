@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Stunfisk
-## ID: 618
+## Omastar
+## ID: 139
 ### Tipos
-- Ground
-- Electric
+- Rock
+- Water
 ### Stats
-- Hp: 109
-- Attack: 66
-- Defense: 84
-- Special-attack: 81
-- Special-defense: 99
-- Speed: 32
+- Hp: 70
+- Attack: 60
+- Defense: 125
+- Special-attack: 115
+- Special-defense: 70
+- Speed: 55
