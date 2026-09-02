@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Stantler
-## ID: 234
+## Bonsly
+## ID: 438
 ### Tipos
-- Normal
+- Rock
 ### Stats
-- Hp: 73
-- Attack: 95
-- Defense: 62
-- Special-attack: 85
-- Special-defense: 65
-- Speed: 85
+- Hp: 50
+- Attack: 80
+- Defense: 95
+- Special-attack: 10
+- Special-defense: 45
+- Speed: 10
