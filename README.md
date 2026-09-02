@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Tyrogue
-## ID: 236
+## Stantler
+## ID: 234
 ### Tipos
-- Fighting
+- Normal
 ### Stats
-- Hp: 35
-- Attack: 35
-- Defense: 35
-- Special-attack: 35
-- Special-defense: 35
-- Speed: 35
+- Hp: 73
+- Attack: 95
+- Defense: 62
+- Special-attack: 85
+- Special-defense: 65
+- Speed: 85
