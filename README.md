@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Pancham
-## ID: 674
+## Tyrogue
+## ID: 236
 ### Tipos
 - Fighting
 ### Stats
-- Hp: 67
-- Attack: 82
-- Defense: 62
-- Special-attack: 46
-- Special-defense: 48
-- Speed: 43
+- Hp: 35
+- Attack: 35
+- Defense: 35
+- Special-attack: 35
+- Special-defense: 35
+- Speed: 35
