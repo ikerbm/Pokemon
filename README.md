@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Arceus
-## ID: 493
+## Stunfisk
+## ID: 618
 ### Tipos
-- Normal
+- Ground
+- Electric
 ### Stats
-- Hp: 120
-- Attack: 120
-- Defense: 120
-- Special-attack: 120
-- Special-defense: 120
-- Speed: 120
+- Hp: 109
+- Attack: 66
+- Defense: 84
+- Special-attack: 81
+- Special-defense: 99
+- Speed: 32
