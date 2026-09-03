@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Herdier
-## ID: 507
+## Klang
+## ID: 600
 ### Tipos
-- Normal
+- Steel
 ### Stats
-- Hp: 65
+- Hp: 60
 - Attack: 80
-- Defense: 65
-- Special-attack: 35
-- Special-defense: 65
-- Speed: 60
+- Defense: 95
+- Special-attack: 70
+- Special-defense: 85
+- Speed: 50
