@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Klang
-## ID: 600
+## Butterfree
+## ID: 12
 ### Tipos
-- Steel
+- Bug
+- Flying
 ### Stats
 - Hp: 60
-- Attack: 80
-- Defense: 95
-- Special-attack: 70
-- Special-defense: 85
-- Speed: 50
+- Attack: 45
+- Defense: 50
+- Special-attack: 90
+- Special-defense: 80
+- Speed: 70
