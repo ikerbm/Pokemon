@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Surskit
-## ID: 283
+## Grotle
+## ID: 388
 ### Tipos
-- Bug
-- Water
+- Grass
 ### Stats
-- Hp: 40
-- Attack: 30
-- Defense: 32
-- Special-attack: 50
-- Special-defense: 52
-- Speed: 65
+- Hp: 75
+- Attack: 89
+- Defense: 85
+- Special-attack: 55
+- Special-defense: 65
+- Speed: 36
