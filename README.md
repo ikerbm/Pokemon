@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Slowbro
-## ID: 80
+## Herdier
+## ID: 507
 ### Tipos
-- Water
-- Psychic
+- Normal
 ### Stats
-- Hp: 95
-- Attack: 75
-- Defense: 110
-- Special-attack: 100
-- Special-defense: 80
-- Speed: 30
+- Hp: 65
+- Attack: 80
+- Defense: 65
+- Special-attack: 35
+- Special-defense: 65
+- Speed: 60
