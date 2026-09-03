@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Butterfree
-## ID: 12
+## Surskit
+## ID: 283
 ### Tipos
 - Bug
-- Flying
+- Water
 ### Stats
-- Hp: 60
-- Attack: 45
-- Defense: 50
-- Special-attack: 90
-- Special-defense: 80
-- Speed: 70
+- Hp: 40
+- Attack: 30
+- Defense: 32
+- Special-attack: 50
+- Special-defense: 52
+- Speed: 65
