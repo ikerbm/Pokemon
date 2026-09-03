@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Grotle
-## ID: 388
+## Quagsire
+## ID: 195
 ### Tipos
-- Grass
+- Water
+- Ground
 ### Stats
-- Hp: 75
-- Attack: 89
+- Hp: 95
+- Attack: 85
 - Defense: 85
-- Special-attack: 55
+- Special-attack: 65
 - Special-defense: 65
-- Speed: 36
+- Speed: 35
