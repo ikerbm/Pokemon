@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Oddish
-## ID: 43
+## Slowbro
+## ID: 80
 ### Tipos
-- Grass
-- Poison
+- Water
+- Psychic
 ### Stats
-- Hp: 45
-- Attack: 50
-- Defense: 55
-- Special-attack: 75
-- Special-defense: 65
+- Hp: 95
+- Attack: 75
+- Defense: 110
+- Special-attack: 100
+- Special-defense: 80
 - Speed: 30
