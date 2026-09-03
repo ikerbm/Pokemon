@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Omastar
-## ID: 139
+## Oddish
+## ID: 43
 ### Tipos
-- Rock
-- Water
+- Grass
+- Poison
 ### Stats
-- Hp: 70
-- Attack: 60
-- Defense: 125
-- Special-attack: 115
-- Special-defense: 70
-- Speed: 55
+- Hp: 45
+- Attack: 50
+- Defense: 55
+- Special-attack: 75
+- Special-defense: 65
+- Speed: 30
