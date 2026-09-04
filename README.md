@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Manectric
-## ID: 310
+## Wigglytuff
+## ID: 40
 ### Tipos
-- Electric
+- Normal
+- Fairy
 ### Stats
-- Hp: 70
-- Attack: 75
-- Defense: 60
-- Special-attack: 105
-- Special-defense: 60
-- Speed: 105
+- Hp: 140
+- Attack: 70
+- Defense: 45
+- Special-attack: 85
+- Special-defense: 50
+- Speed: 45
