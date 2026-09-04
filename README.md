@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Wigglytuff
-## ID: 40
+## Pawmot
+## ID: 923
 ### Tipos
-- Normal
-- Fairy
+- Electric
+- Fighting
 ### Stats
-- Hp: 140
-- Attack: 70
-- Defense: 45
-- Special-attack: 85
-- Special-defense: 50
-- Speed: 45
+- Hp: 70
+- Attack: 115
+- Defense: 70
+- Special-attack: 70
+- Special-defense: 60
+- Speed: 105
