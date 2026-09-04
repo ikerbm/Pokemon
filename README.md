@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Pawmot
-## ID: 923
+## Woobat
+## ID: 527
 ### Tipos
-- Electric
-- Fighting
+- Psychic
+- Flying
 ### Stats
-- Hp: 70
-- Attack: 115
-- Defense: 70
-- Special-attack: 70
-- Special-defense: 60
-- Speed: 105
+- Hp: 65
+- Attack: 45
+- Defense: 43
+- Special-attack: 55
+- Special-defense: 43
+- Speed: 72
