@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Quagsire
-## ID: 195
+## Manectric
+## ID: 310
 ### Tipos
-- Water
-- Ground
+- Electric
 ### Stats
-- Hp: 95
-- Attack: 85
-- Defense: 85
-- Special-attack: 65
-- Special-defense: 65
-- Speed: 35
+- Hp: 70
+- Attack: 75
+- Defense: 60
+- Special-attack: 105
+- Special-defense: 60
+- Speed: 105
