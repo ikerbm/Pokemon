@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Woobat
-## ID: 527
+## Cottonee
+## ID: 546
 ### Tipos
-- Psychic
-- Flying
+- Grass
+- Fairy
 ### Stats
-- Hp: 65
-- Attack: 45
-- Defense: 43
-- Special-attack: 55
-- Special-defense: 43
-- Speed: 72
+- Hp: 40
+- Attack: 27
+- Defense: 60
+- Special-attack: 37
+- Special-defense: 50
+- Speed: 66
