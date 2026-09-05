@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Lokix
-## ID: 920
+## Archen
+## ID: 566
 ### Tipos
-- Bug
-- Dark
+- Rock
+- Flying
 ### Stats
-- Hp: 71
-- Attack: 102
-- Defense: 78
-- Special-attack: 52
-- Special-defense: 55
-- Speed: 92
+- Hp: 55
+- Attack: 112
+- Defense: 45
+- Special-attack: 74
+- Special-defense: 45
+- Speed: 70
