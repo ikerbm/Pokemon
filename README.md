@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Skarmory
-## ID: 227
+## Azurill
+## ID: 298
 ### Tipos
-- Steel
-- Flying
+- Normal
+- Fairy
 ### Stats
-- Hp: 65
-- Attack: 80
-- Defense: 140
-- Special-attack: 40
-- Special-defense: 70
-- Speed: 70
+- Hp: 50
+- Attack: 20
+- Defense: 40
+- Special-attack: 20
+- Special-defense: 40
+- Speed: 20
