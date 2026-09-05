@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Musharna
-## ID: 518
+## Magby
+## ID: 240
 ### Tipos
-- Psychic
+- Fire
 ### Stats
-- Hp: 116
-- Attack: 55
-- Defense: 85
-- Special-attack: 107
-- Special-defense: 95
-- Speed: 29
+- Hp: 45
+- Attack: 75
+- Defense: 37
+- Special-attack: 70
+- Special-defense: 55
+- Speed: 83
