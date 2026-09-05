@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Rowlet
-## ID: 722
+## Klinklang
+## ID: 601
 ### Tipos
-- Grass
-- Flying
+- Steel
 ### Stats
-- Hp: 68
-- Attack: 55
-- Defense: 55
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 42
+- Hp: 60
+- Attack: 100
+- Defense: 115
+- Special-attack: 70
+- Special-defense: 85
+- Speed: 90
