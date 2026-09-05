@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Grubbin
-## ID: 736
+## Lokix
+## ID: 920
 ### Tipos
 - Bug
+- Dark
 ### Stats
-- Hp: 47
-- Attack: 62
-- Defense: 45
-- Special-attack: 55
-- Special-defense: 45
-- Speed: 46
+- Hp: 71
+- Attack: 102
+- Defense: 78
+- Special-attack: 52
+- Special-defense: 55
+- Speed: 92
