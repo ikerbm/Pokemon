@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Magby
-## ID: 240
+## Munna
+## ID: 517
 ### Tipos
-- Fire
+- Psychic
 ### Stats
-- Hp: 45
-- Attack: 75
-- Defense: 37
-- Special-attack: 70
+- Hp: 76
+- Attack: 25
+- Defense: 45
+- Special-attack: 67
 - Special-defense: 55
-- Speed: 83
+- Speed: 24
