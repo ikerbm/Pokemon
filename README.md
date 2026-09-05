@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Klinklang
-## ID: 601
+## Musharna
+## ID: 518
 ### Tipos
-- Steel
+- Psychic
 ### Stats
-- Hp: 60
-- Attack: 100
-- Defense: 115
-- Special-attack: 70
-- Special-defense: 85
-- Speed: 90
+- Hp: 116
+- Attack: 55
+- Defense: 85
+- Special-attack: 107
+- Special-defense: 95
+- Speed: 29
