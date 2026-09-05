@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Azurill
-## ID: 298
+## Glimmora
+## ID: 970
 ### Tipos
-- Normal
-- Fairy
+- Rock
+- Poison
 ### Stats
-- Hp: 50
-- Attack: 20
-- Defense: 40
-- Special-attack: 20
-- Special-defense: 40
-- Speed: 20
+- Hp: 83
+- Attack: 55
+- Defense: 90
+- Special-attack: 130
+- Special-defense: 81
+- Speed: 86
