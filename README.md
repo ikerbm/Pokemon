@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Munna
-## ID: 517
+## Skarmory
+## ID: 227
 ### Tipos
-- Psychic
+- Steel
+- Flying
 ### Stats
-- Hp: 76
-- Attack: 25
-- Defense: 45
-- Special-attack: 67
-- Special-defense: 55
-- Speed: 24
+- Hp: 65
+- Attack: 80
+- Defense: 140
+- Special-attack: 40
+- Special-defense: 70
+- Speed: 70
