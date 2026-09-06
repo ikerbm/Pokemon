@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Ducklett
-## ID: 580
+## Crawdaunt
+## ID: 342
 ### Tipos
 - Water
-- Flying
+- Dark
 ### Stats
-- Hp: 62
-- Attack: 44
-- Defense: 50
-- Special-attack: 44
-- Special-defense: 50
+- Hp: 63
+- Attack: 120
+- Defense: 85
+- Special-attack: 90
+- Special-defense: 55
 - Speed: 55
