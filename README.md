@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Fletchling
-## ID: 661
+## Swampert
+## ID: 260
 ### Tipos
-- Normal
-- Flying
+- Water
+- Ground
 ### Stats
-- Hp: 45
-- Attack: 50
-- Defense: 43
-- Special-attack: 40
-- Special-defense: 38
-- Speed: 62
+- Hp: 100
+- Attack: 110
+- Defense: 90
+- Special-attack: 85
+- Special-defense: 90
+- Speed: 60
