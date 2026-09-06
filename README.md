@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Crawdaunt
-## ID: 342
+## Fletchling
+## ID: 661
 ### Tipos
-- Water
-- Dark
+- Normal
+- Flying
 ### Stats
-- Hp: 63
-- Attack: 120
-- Defense: 85
-- Special-attack: 90
-- Special-defense: 55
-- Speed: 55
+- Hp: 45
+- Attack: 50
+- Defense: 43
+- Special-attack: 40
+- Special-defense: 38
+- Speed: 62
