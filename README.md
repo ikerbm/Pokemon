@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Oricorio-baile
-## ID: 741
+## Deerling
+## ID: 585
 ### Tipos
-- Fire
-- Flying
+- Normal
+- Grass
 ### Stats
-- Hp: 75
-- Attack: 70
-- Defense: 70
-- Special-attack: 98
-- Special-defense: 70
-- Speed: 93
+- Hp: 60
+- Attack: 60
+- Defense: 50
+- Special-attack: 40
+- Special-defense: 50
+- Speed: 75
