@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Lanturn
-## ID: 171
+## Treecko
+## ID: 252
 ### Tipos
-- Water
-- Electric
+- Grass
 ### Stats
-- Hp: 125
-- Attack: 58
-- Defense: 58
-- Special-attack: 76
-- Special-defense: 76
-- Speed: 67
+- Hp: 40
+- Attack: 45
+- Defense: 35
+- Special-attack: 65
+- Special-defense: 55
+- Speed: 70
