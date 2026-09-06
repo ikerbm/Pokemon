@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Swampert
-## ID: 260
+## Lanturn
+## ID: 171
 ### Tipos
 - Water
-- Ground
+- Electric
 ### Stats
-- Hp: 100
-- Attack: 110
-- Defense: 90
-- Special-attack: 85
-- Special-defense: 90
-- Speed: 60
+- Hp: 125
+- Attack: 58
+- Defense: 58
+- Special-attack: 76
+- Special-defense: 76
+- Speed: 67
