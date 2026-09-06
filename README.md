@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Glimmora
-## ID: 970
+## Oricorio-baile
+## ID: 741
 ### Tipos
-- Rock
-- Poison
+- Fire
+- Flying
 ### Stats
-- Hp: 83
-- Attack: 55
-- Defense: 90
-- Special-attack: 130
-- Special-defense: 81
-- Speed: 86
+- Hp: 75
+- Attack: 70
+- Defense: 70
+- Special-attack: 98
+- Special-defense: 70
+- Speed: 93
