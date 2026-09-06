@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Deerling
-## ID: 585
+## Ducklett
+## ID: 580
 ### Tipos
-- Normal
-- Grass
+- Water
+- Flying
 ### Stats
-- Hp: 60
-- Attack: 60
+- Hp: 62
+- Attack: 44
 - Defense: 50
-- Special-attack: 40
+- Special-attack: 44
 - Special-defense: 50
-- Speed: 75
+- Speed: 55
