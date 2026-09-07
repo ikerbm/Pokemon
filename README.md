@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Greedent
-## ID: 820
+## Melmetal
+## ID: 809
 ### Tipos
-- Normal
+- Steel
 ### Stats
-- Hp: 120
-- Attack: 95
-- Defense: 95
-- Special-attack: 55
-- Special-defense: 75
-- Speed: 20
+- Hp: 135
+- Attack: 143
+- Defense: 143
+- Special-attack: 80
+- Special-defense: 65
+- Speed: 34
