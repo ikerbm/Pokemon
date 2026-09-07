@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Combee
-## ID: 415
+## Magby
+## ID: 240
 ### Tipos
-- Bug
-- Flying
+- Fire
 ### Stats
-- Hp: 30
-- Attack: 30
-- Defense: 42
-- Special-attack: 30
-- Special-defense: 42
-- Speed: 70
+- Hp: 45
+- Attack: 75
+- Defense: 37
+- Special-attack: 70
+- Special-defense: 55
+- Speed: 83
