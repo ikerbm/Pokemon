@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Goomy
-## ID: 704
+## Pidove
+## ID: 519
 ### Tipos
-- Dragon
+- Normal
+- Flying
 ### Stats
-- Hp: 45
-- Attack: 50
-- Defense: 35
-- Special-attack: 55
-- Special-defense: 75
-- Speed: 40
+- Hp: 50
+- Attack: 55
+- Defense: 50
+- Special-attack: 36
+- Special-defense: 30
+- Speed: 43
