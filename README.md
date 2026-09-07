@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Treecko
-## ID: 252
+## Combee
+## ID: 415
 ### Tipos
-- Grass
+- Bug
+- Flying
 ### Stats
-- Hp: 40
-- Attack: 45
-- Defense: 35
-- Special-attack: 65
-- Special-defense: 55
+- Hp: 30
+- Attack: 30
+- Defense: 42
+- Special-attack: 30
+- Special-defense: 42
 - Speed: 70
