@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Magby
-## ID: 240
+## Greedent
+## ID: 820
 ### Tipos
-- Fire
+- Normal
 ### Stats
-- Hp: 45
-- Attack: 75
-- Defense: 37
-- Special-attack: 70
-- Special-defense: 55
-- Speed: 83
+- Hp: 120
+- Attack: 95
+- Defense: 95
+- Special-attack: 55
+- Special-defense: 75
+- Speed: 20
