@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Melmetal
-## ID: 809
+## Goomy
+## ID: 704
 ### Tipos
-- Steel
+- Dragon
 ### Stats
-- Hp: 135
-- Attack: 143
-- Defense: 143
-- Special-attack: 80
-- Special-defense: 65
-- Speed: 34
+- Hp: 45
+- Attack: 50
+- Defense: 35
+- Special-attack: 55
+- Special-defense: 75
+- Speed: 40
