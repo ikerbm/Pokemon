@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Centiskorch
-## ID: 851
+## Stantler
+## ID: 234
 ### Tipos
-- Fire
-- Bug
+- Normal
 ### Stats
-- Hp: 100
-- Attack: 115
-- Defense: 65
-- Special-attack: 90
-- Special-defense: 90
-- Speed: 65
+- Hp: 73
+- Attack: 95
+- Defense: 62
+- Special-attack: 85
+- Special-defense: 65
+- Speed: 85
