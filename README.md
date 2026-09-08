@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Rapidash
-## ID: 78
+## Centiskorch
+## ID: 851
 ### Tipos
 - Fire
+- Bug
 ### Stats
-- Hp: 65
-- Attack: 100
-- Defense: 70
-- Special-attack: 80
-- Special-defense: 80
-- Speed: 105
+- Hp: 100
+- Attack: 115
+- Defense: 65
+- Special-attack: 90
+- Special-defense: 90
+- Speed: 65
