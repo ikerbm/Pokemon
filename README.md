@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Pidove
-## ID: 519
+## Mightyena
+## ID: 262
 ### Tipos
-- Normal
-- Flying
+- Dark
 ### Stats
-- Hp: 50
-- Attack: 55
-- Defense: 50
-- Special-attack: 36
-- Special-defense: 30
-- Speed: 43
+- Hp: 70
+- Attack: 90
+- Defense: 70
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 70
