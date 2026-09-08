@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Beautifly
-## ID: 267
+## Rapidash
+## ID: 78
 ### Tipos
-- Bug
-- Flying
+- Fire
 ### Stats
-- Hp: 60
-- Attack: 70
-- Defense: 50
-- Special-attack: 100
-- Special-defense: 50
-- Speed: 65
+- Hp: 65
+- Attack: 100
+- Defense: 70
+- Special-attack: 80
+- Special-defense: 80
+- Speed: 105
