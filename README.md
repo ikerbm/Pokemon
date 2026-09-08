@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Mightyena
-## ID: 262
+## Kingdra
+## ID: 230
 ### Tipos
-- Dark
+- Water
+- Dragon
 ### Stats
-- Hp: 70
-- Attack: 90
-- Defense: 70
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 70
+- Hp: 75
+- Attack: 95
+- Defense: 95
+- Special-attack: 95
+- Special-defense: 95
+- Speed: 85
