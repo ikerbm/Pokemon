@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Stantler
-## ID: 234
+## Surskit
+## ID: 283
 ### Tipos
-- Normal
+- Bug
+- Water
 ### Stats
-- Hp: 73
-- Attack: 95
-- Defense: 62
-- Special-attack: 85
-- Special-defense: 65
-- Speed: 85
+- Hp: 40
+- Attack: 30
+- Defense: 32
+- Special-attack: 50
+- Special-defense: 52
+- Speed: 65
