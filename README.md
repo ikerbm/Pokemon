@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Kingdra
-## ID: 230
+## Beautifly
+## ID: 267
 ### Tipos
-- Water
-- Dragon
+- Bug
+- Flying
 ### Stats
-- Hp: 75
-- Attack: 95
-- Defense: 95
-- Special-attack: 95
-- Special-defense: 95
-- Speed: 85
+- Hp: 60
+- Attack: 70
+- Defense: 50
+- Special-attack: 100
+- Special-defense: 50
+- Speed: 65
