@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Zubat
-## ID: 41
+## Pidove
+## ID: 519
 ### Tipos
-- Poison
+- Normal
 - Flying
 ### Stats
-- Hp: 40
-- Attack: 45
-- Defense: 35
-- Special-attack: 30
-- Special-defense: 40
-- Speed: 55
+- Hp: 50
+- Attack: 55
+- Defense: 50
+- Special-attack: 36
+- Special-defense: 30
+- Speed: 43
