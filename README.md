@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Kingambit
-## ID: 983
+## Kartana
+## ID: 798
 ### Tipos
-- Dark
+- Grass
 - Steel
 ### Stats
-- Hp: 100
-- Attack: 135
-- Defense: 120
-- Special-attack: 60
-- Special-defense: 85
-- Speed: 50
+- Hp: 59
+- Attack: 181
+- Defense: 131
+- Special-attack: 59
+- Special-defense: 31
+- Speed: 109
