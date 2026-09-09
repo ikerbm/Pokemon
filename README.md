@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Pidove
-## ID: 519
+## Scovillain
+## ID: 952
 ### Tipos
-- Normal
-- Flying
+- Grass
+- Fire
 ### Stats
-- Hp: 50
-- Attack: 55
-- Defense: 50
-- Special-attack: 36
-- Special-defense: 30
-- Speed: 43
+- Hp: 65
+- Attack: 108
+- Defense: 65
+- Special-attack: 108
+- Special-defense: 65
+- Speed: 75
