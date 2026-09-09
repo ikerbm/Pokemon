@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Sewaddle
-## ID: 540
+## Zubat
+## ID: 41
 ### Tipos
-- Bug
-- Grass
+- Poison
+- Flying
 ### Stats
-- Hp: 45
-- Attack: 53
-- Defense: 70
-- Special-attack: 40
-- Special-defense: 60
-- Speed: 42
+- Hp: 40
+- Attack: 45
+- Defense: 35
+- Special-attack: 30
+- Special-defense: 40
+- Speed: 55
