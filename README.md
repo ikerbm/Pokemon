@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Surskit
-## ID: 283
+## Axew
+## ID: 610
 ### Tipos
-- Bug
-- Water
+- Dragon
 ### Stats
-- Hp: 40
-- Attack: 30
-- Defense: 32
-- Special-attack: 50
-- Special-defense: 52
-- Speed: 65
+- Hp: 46
+- Attack: 87
+- Defense: 60
+- Special-attack: 30
+- Special-defense: 40
+- Speed: 57
