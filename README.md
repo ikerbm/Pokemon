@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Scovillain
-## ID: 952
+## Kingambit
+## ID: 983
 ### Tipos
-- Grass
-- Fire
+- Dark
+- Steel
 ### Stats
-- Hp: 65
-- Attack: 108
-- Defense: 65
-- Special-attack: 108
-- Special-defense: 65
-- Speed: 75
+- Hp: 100
+- Attack: 135
+- Defense: 120
+- Special-attack: 60
+- Special-defense: 85
+- Speed: 50
