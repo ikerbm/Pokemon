@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Axew
-## ID: 610
+## Mightyena
+## ID: 262
 ### Tipos
-- Dragon
+- Dark
 ### Stats
-- Hp: 46
-- Attack: 87
-- Defense: 60
-- Special-attack: 30
-- Special-defense: 40
-- Speed: 57
+- Hp: 70
+- Attack: 90
+- Defense: 70
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 70
