@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Mightyena
-## ID: 262
+## Sewaddle
+## ID: 540
 ### Tipos
-- Dark
+- Bug
+- Grass
 ### Stats
-- Hp: 70
-- Attack: 90
+- Hp: 45
+- Attack: 53
 - Defense: 70
-- Special-attack: 60
+- Special-attack: 40
 - Special-defense: 60
-- Speed: 70
+- Speed: 42
