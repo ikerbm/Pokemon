@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Carvanha
-## ID: 318
+## Leavanny
+## ID: 542
 ### Tipos
-- Water
-- Dark
+- Bug
+- Grass
 ### Stats
-- Hp: 45
-- Attack: 90
-- Defense: 20
-- Special-attack: 65
-- Special-defense: 20
-- Speed: 65
+- Hp: 75
+- Attack: 103
+- Defense: 80
+- Special-attack: 70
+- Special-defense: 80
+- Speed: 92
