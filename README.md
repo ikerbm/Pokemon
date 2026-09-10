@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Murkrow
-## ID: 198
+## Pansear
+## ID: 513
 ### Tipos
-- Dark
-- Flying
+- Fire
 ### Stats
-- Hp: 60
-- Attack: 85
-- Defense: 42
-- Special-attack: 85
-- Special-defense: 42
-- Speed: 91
+- Hp: 50
+- Attack: 53
+- Defense: 48
+- Special-attack: 53
+- Special-defense: 48
+- Speed: 64
