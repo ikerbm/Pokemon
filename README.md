@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Leavanny
-## ID: 542
+## Murkrow
+## ID: 198
 ### Tipos
-- Bug
-- Grass
+- Dark
+- Flying
 ### Stats
-- Hp: 75
-- Attack: 103
-- Defense: 80
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 92
+- Hp: 60
+- Attack: 85
+- Defense: 42
+- Special-attack: 85
+- Special-defense: 42
+- Speed: 91
