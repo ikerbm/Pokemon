@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Pansear
-## ID: 513
+## Snover
+## ID: 459
 ### Tipos
-- Fire
+- Grass
+- Ice
 ### Stats
-- Hp: 50
-- Attack: 53
-- Defense: 48
-- Special-attack: 53
-- Special-defense: 48
-- Speed: 64
+- Hp: 60
+- Attack: 62
+- Defense: 50
+- Special-attack: 62
+- Special-defense: 60
+- Speed: 40
