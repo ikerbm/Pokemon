@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Kartana
-## ID: 798
+## Gothitelle
+## ID: 576
 ### Tipos
-- Grass
-- Steel
+- Psychic
 ### Stats
-- Hp: 59
-- Attack: 181
-- Defense: 131
-- Special-attack: 59
-- Special-defense: 31
-- Speed: 109
+- Hp: 70
+- Attack: 55
+- Defense: 95
+- Special-attack: 95
+- Special-defense: 110
+- Speed: 65
