@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Gothitelle
-## ID: 576
+## Iron-treads
+## ID: 990
 ### Tipos
-- Psychic
+- Ground
+- Steel
 ### Stats
-- Hp: 70
-- Attack: 55
-- Defense: 95
-- Special-attack: 95
-- Special-defense: 110
-- Speed: 65
+- Hp: 90
+- Attack: 112
+- Defense: 120
+- Special-attack: 72
+- Special-defense: 70
+- Speed: 106
