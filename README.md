@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Iron-treads
-## ID: 990
+## Carvanha
+## ID: 318
 ### Tipos
-- Ground
-- Steel
+- Water
+- Dark
 ### Stats
-- Hp: 90
-- Attack: 112
-- Defense: 120
-- Special-attack: 72
-- Special-defense: 70
-- Speed: 106
+- Hp: 45
+- Attack: 90
+- Defense: 20
+- Special-attack: 65
+- Special-defense: 20
+- Speed: 65
