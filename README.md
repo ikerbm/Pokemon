@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Blastoise
-## ID: 9
+## Magmar
+## ID: 126
 ### Tipos
-- Water
+- Fire
 ### Stats
-- Hp: 79
-- Attack: 83
-- Defense: 100
-- Special-attack: 85
-- Special-defense: 105
-- Speed: 78
+- Hp: 65
+- Attack: 95
+- Defense: 57
+- Special-attack: 100
+- Special-defense: 85
+- Speed: 93
