@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Golurk
-## ID: 623
+## Blastoise
+## ID: 9
 ### Tipos
-- Ground
-- Ghost
+- Water
 ### Stats
-- Hp: 89
-- Attack: 124
-- Defense: 80
-- Special-attack: 55
-- Special-defense: 80
-- Speed: 55
+- Hp: 79
+- Attack: 83
+- Defense: 100
+- Special-attack: 85
+- Special-defense: 105
+- Speed: 78
