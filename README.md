@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Walking-wake
-## ID: 1009
+## Hydrapple
+## ID: 1019
 ### Tipos
-- Water
+- Grass
 - Dragon
 ### Stats
-- Hp: 99
-- Attack: 83
-- Defense: 91
-- Special-attack: 125
-- Special-defense: 83
-- Speed: 109
+- Hp: 106
+- Attack: 80
+- Defense: 110
+- Special-attack: 120
+- Special-defense: 80
+- Speed: 44
