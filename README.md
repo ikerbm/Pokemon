@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Hydrapple
-## ID: 1019
+## Jirachi
+## ID: 385
 ### Tipos
-- Grass
-- Dragon
+- Steel
+- Psychic
 ### Stats
-- Hp: 106
-- Attack: 80
-- Defense: 110
-- Special-attack: 120
-- Special-defense: 80
-- Speed: 44
+- Hp: 100
+- Attack: 100
+- Defense: 100
+- Special-attack: 100
+- Special-defense: 100
+- Speed: 100
