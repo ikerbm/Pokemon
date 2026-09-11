@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Kommo-o
-## ID: 784
+## Golurk
+## ID: 623
 ### Tipos
-- Dragon
-- Fighting
+- Ground
+- Ghost
 ### Stats
-- Hp: 75
-- Attack: 110
-- Defense: 125
-- Special-attack: 100
-- Special-defense: 105
-- Speed: 85
+- Hp: 89
+- Attack: 124
+- Defense: 80
+- Special-attack: 55
+- Special-defense: 80
+- Speed: 55
