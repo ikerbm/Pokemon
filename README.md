@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Snover
-## ID: 459
+## Kommo-o
+## ID: 784
 ### Tipos
-- Grass
-- Ice
+- Dragon
+- Fighting
 ### Stats
-- Hp: 60
-- Attack: 62
-- Defense: 50
-- Special-attack: 62
-- Special-defense: 60
-- Speed: 40
+- Hp: 75
+- Attack: 110
+- Defense: 125
+- Special-attack: 100
+- Special-defense: 105
+- Speed: 85
