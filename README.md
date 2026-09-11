@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Magmar
-## ID: 126
+## Walking-wake
+## ID: 1009
 ### Tipos
-- Fire
+- Water
+- Dragon
 ### Stats
-- Hp: 65
-- Attack: 95
-- Defense: 57
-- Special-attack: 100
-- Special-defense: 85
-- Speed: 93
+- Hp: 99
+- Attack: 83
+- Defense: 91
+- Special-attack: 125
+- Special-defense: 83
+- Speed: 109
