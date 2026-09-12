@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Spinda
-## ID: 327
+## Wailord
+## ID: 321
 ### Tipos
-- Normal
+- Water
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 60
-- Special-attack: 60
-- Special-defense: 60
+- Hp: 170
+- Attack: 90
+- Defense: 45
+- Special-attack: 90
+- Special-defense: 45
 - Speed: 60
