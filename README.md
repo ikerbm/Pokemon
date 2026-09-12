@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Banette
-## ID: 354
+## Dratini
+## ID: 147
 ### Tipos
-- Ghost
+- Dragon
 ### Stats
-- Hp: 64
-- Attack: 115
-- Defense: 65
-- Special-attack: 83
-- Special-defense: 63
-- Speed: 65
+- Hp: 41
+- Attack: 64
+- Defense: 45
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 50
