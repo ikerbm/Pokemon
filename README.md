@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Floragato
-## ID: 907
+## Banette
+## ID: 354
 ### Tipos
-- Grass
+- Ghost
 ### Stats
-- Hp: 61
-- Attack: 80
-- Defense: 63
-- Special-attack: 60
+- Hp: 64
+- Attack: 115
+- Defense: 65
+- Special-attack: 83
 - Special-defense: 63
-- Speed: 83
+- Speed: 65
