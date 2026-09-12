@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Flygon
-## ID: 330
+## Floragato
+## ID: 907
 ### Tipos
-- Ground
-- Dragon
+- Grass
 ### Stats
-- Hp: 80
-- Attack: 100
-- Defense: 80
-- Special-attack: 80
-- Special-defense: 80
-- Speed: 100
+- Hp: 61
+- Attack: 80
+- Defense: 63
+- Special-attack: 60
+- Special-defense: 63
+- Speed: 83
