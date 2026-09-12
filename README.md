@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Dratini
-## ID: 147
+## Basculin-red-striped
+## ID: 550
 ### Tipos
-- Dragon
+- Water
 ### Stats
-- Hp: 41
-- Attack: 64
-- Defense: 45
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 50
+- Hp: 70
+- Attack: 92
+- Defense: 65
+- Special-attack: 80
+- Special-defense: 55
+- Speed: 98
