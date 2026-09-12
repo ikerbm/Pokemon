@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Sandy-shocks
-## ID: 989
+## Spinda
+## ID: 327
 ### Tipos
-- Electric
-- Ground
+- Normal
 ### Stats
-- Hp: 85
-- Attack: 81
-- Defense: 97
-- Special-attack: 121
-- Special-defense: 85
-- Speed: 101
+- Hp: 60
+- Attack: 60
+- Defense: 60
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 60
