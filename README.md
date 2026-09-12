@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Wailord
-## ID: 321
+## Solgaleo
+## ID: 791
 ### Tipos
-- Water
+- Psychic
+- Steel
 ### Stats
-- Hp: 170
-- Attack: 90
-- Defense: 45
-- Special-attack: 90
-- Special-defense: 45
-- Speed: 60
+- Hp: 137
+- Attack: 137
+- Defense: 107
+- Special-attack: 113
+- Special-defense: 89
+- Speed: 97
