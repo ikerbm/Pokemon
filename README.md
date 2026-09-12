@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Jirachi
-## ID: 385
+## Flygon
+## ID: 330
 ### Tipos
-- Steel
-- Psychic
+- Ground
+- Dragon
 ### Stats
-- Hp: 100
+- Hp: 80
 - Attack: 100
-- Defense: 100
-- Special-attack: 100
-- Special-defense: 100
+- Defense: 80
+- Special-attack: 80
+- Special-defense: 80
 - Speed: 100
