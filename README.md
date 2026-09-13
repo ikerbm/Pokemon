@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Espeon
-## ID: 196
+## Tinkaton
+## ID: 959
 ### Tipos
-- Psychic
+- Fairy
+- Steel
 ### Stats
-- Hp: 65
-- Attack: 65
-- Defense: 60
-- Special-attack: 130
-- Special-defense: 95
-- Speed: 110
+- Hp: 85
+- Attack: 75
+- Defense: 77
+- Special-attack: 70
+- Special-defense: 105
+- Speed: 94
