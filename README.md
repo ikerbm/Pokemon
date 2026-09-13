@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Solgaleo
-## ID: 791
+## Chimecho
+## ID: 358
 ### Tipos
 - Psychic
-- Steel
 ### Stats
-- Hp: 137
-- Attack: 137
-- Defense: 107
-- Special-attack: 113
-- Special-defense: 89
-- Speed: 97
+- Hp: 75
+- Attack: 50
+- Defense: 80
+- Special-attack: 95
+- Special-defense: 90
+- Speed: 65
