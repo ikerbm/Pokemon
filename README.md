@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tinkaton
-## ID: 959
+## Spoink
+## ID: 325
 ### Tipos
-- Fairy
-- Steel
+- Psychic
 ### Stats
-- Hp: 85
-- Attack: 75
-- Defense: 77
+- Hp: 60
+- Attack: 25
+- Defense: 35
 - Special-attack: 70
-- Special-defense: 105
-- Speed: 94
+- Special-defense: 80
+- Speed: 60
