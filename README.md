@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Vullaby
-## ID: 629
+## Squawkabilly-green-plumage
+## ID: 931
 ### Tipos
-- Dark
+- Normal
 - Flying
 ### Stats
-- Hp: 70
-- Attack: 55
-- Defense: 75
+- Hp: 82
+- Attack: 96
+- Defense: 51
 - Special-attack: 45
-- Special-defense: 65
-- Speed: 60
+- Special-defense: 51
+- Speed: 92
