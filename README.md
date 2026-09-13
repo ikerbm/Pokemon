@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Squawkabilly-green-plumage
-## ID: 931
+## Magearna
+## ID: 801
 ### Tipos
-- Normal
-- Flying
+- Steel
+- Fairy
 ### Stats
-- Hp: 82
-- Attack: 96
-- Defense: 51
-- Special-attack: 45
-- Special-defense: 51
-- Speed: 92
+- Hp: 80
+- Attack: 95
+- Defense: 115
+- Special-attack: 130
+- Special-defense: 115
+- Speed: 65
