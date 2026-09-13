@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Spoink
-## ID: 325
+## Vullaby
+## ID: 629
 ### Tipos
-- Psychic
+- Dark
+- Flying
 ### Stats
-- Hp: 60
-- Attack: 25
-- Defense: 35
-- Special-attack: 70
-- Special-defense: 80
+- Hp: 70
+- Attack: 55
+- Defense: 75
+- Special-attack: 45
+- Special-defense: 65
 - Speed: 60
