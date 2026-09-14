@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Magearna
-## ID: 801
+## Reuniclus
+## ID: 579
 ### Tipos
-- Steel
-- Fairy
+- Psychic
 ### Stats
-- Hp: 80
-- Attack: 95
-- Defense: 115
-- Special-attack: 130
-- Special-defense: 115
-- Speed: 65
+- Hp: 110
+- Attack: 65
+- Defense: 75
+- Special-attack: 125
+- Special-defense: 85
+- Speed: 30
