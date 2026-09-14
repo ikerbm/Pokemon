@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Purrloin
-## ID: 509
+## Swablu
+## ID: 333
 ### Tipos
-- Dark
+- Normal
+- Flying
 ### Stats
-- Hp: 41
-- Attack: 50
-- Defense: 37
-- Special-attack: 50
-- Special-defense: 37
-- Speed: 66
+- Hp: 45
+- Attack: 40
+- Defense: 60
+- Special-attack: 40
+- Special-defense: 75
+- Speed: 50
