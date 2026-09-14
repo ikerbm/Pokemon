@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Solgaleo
-## ID: 791
+## Purrloin
+## ID: 509
 ### Tipos
-- Psychic
-- Steel
+- Dark
 ### Stats
-- Hp: 137
-- Attack: 137
-- Defense: 107
-- Special-attack: 113
-- Special-defense: 89
-- Speed: 97
+- Hp: 41
+- Attack: 50
+- Defense: 37
+- Special-attack: 50
+- Special-defense: 37
+- Speed: 66
