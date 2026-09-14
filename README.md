@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Skarmory
-## ID: 227
+## Cubone
+## ID: 104
 ### Tipos
-- Steel
-- Flying
+- Ground
 ### Stats
-- Hp: 65
-- Attack: 80
-- Defense: 140
+- Hp: 50
+- Attack: 50
+- Defense: 95
 - Special-attack: 40
-- Special-defense: 70
-- Speed: 70
+- Special-defense: 50
+- Speed: 35
