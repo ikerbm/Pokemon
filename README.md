@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Swablu
-## ID: 333
+## Skarmory
+## ID: 227
 ### Tipos
-- Normal
+- Steel
 - Flying
 ### Stats
-- Hp: 45
-- Attack: 40
-- Defense: 60
+- Hp: 65
+- Attack: 80
+- Defense: 140
 - Special-attack: 40
-- Special-defense: 75
-- Speed: 50
+- Special-defense: 70
+- Speed: 70
