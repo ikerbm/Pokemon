@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Reuniclus
-## ID: 579
+## Solgaleo
+## ID: 791
 ### Tipos
 - Psychic
+- Steel
 ### Stats
-- Hp: 110
-- Attack: 65
-- Defense: 75
-- Special-attack: 125
-- Special-defense: 85
-- Speed: 30
+- Hp: 137
+- Attack: 137
+- Defense: 107
+- Special-attack: 113
+- Special-defense: 89
+- Speed: 97
