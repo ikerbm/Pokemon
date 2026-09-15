@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Pidgeot
-## ID: 18
+## Chansey
+## ID: 113
 ### Tipos
 - Normal
-- Flying
 ### Stats
-- Hp: 83
-- Attack: 80
-- Defense: 75
-- Special-attack: 70
-- Special-defense: 70
-- Speed: 101
+- Hp: 250
+- Attack: 5
+- Defense: 5
+- Special-attack: 35
+- Special-defense: 105
+- Speed: 50
