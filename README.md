@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Crobat
-## ID: 169
+## Raboot
+## ID: 814
 ### Tipos
-- Poison
-- Flying
+- Fire
 ### Stats
-- Hp: 85
-- Attack: 90
-- Defense: 80
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 130
+- Hp: 65
+- Attack: 86
+- Defense: 60
+- Special-attack: 55
+- Special-defense: 60
+- Speed: 94
