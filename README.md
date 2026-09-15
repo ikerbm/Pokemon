@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Deerling
-## ID: 585
+## Crobat
+## ID: 169
 ### Tipos
-- Normal
-- Grass
+- Poison
+- Flying
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 50
-- Special-attack: 40
-- Special-defense: 50
-- Speed: 75
+- Hp: 85
+- Attack: 90
+- Defense: 80
+- Special-attack: 70
+- Special-defense: 80
+- Speed: 130
