@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Raboot
-## ID: 814
+## Pidgeot
+## ID: 18
 ### Tipos
-- Fire
+- Normal
+- Flying
 ### Stats
-- Hp: 65
-- Attack: 86
-- Defense: 60
-- Special-attack: 55
-- Special-defense: 60
-- Speed: 94
+- Hp: 83
+- Attack: 80
+- Defense: 75
+- Special-attack: 70
+- Special-defense: 70
+- Speed: 101
