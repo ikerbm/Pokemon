@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Flamigo
-## ID: 973
+## Deerling
+## ID: 585
 ### Tipos
-- Flying
-- Fighting
+- Normal
+- Grass
 ### Stats
-- Hp: 82
-- Attack: 115
-- Defense: 74
-- Special-attack: 75
-- Special-defense: 64
-- Speed: 90
+- Hp: 60
+- Attack: 60
+- Defense: 50
+- Special-attack: 40
+- Special-defense: 50
+- Speed: 75
