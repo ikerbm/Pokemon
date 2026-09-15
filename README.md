@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cubone
-## ID: 104
+## Flamigo
+## ID: 973
 ### Tipos
-- Ground
+- Flying
+- Fighting
 ### Stats
-- Hp: 50
-- Attack: 50
-- Defense: 95
-- Special-attack: 40
-- Special-defense: 50
-- Speed: 35
+- Hp: 82
+- Attack: 115
+- Defense: 74
+- Special-attack: 75
+- Special-defense: 64
+- Speed: 90
