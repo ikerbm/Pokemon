@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Haxorus
-## ID: 612
+## Torterra
+## ID: 389
 ### Tipos
-- Dragon
+- Grass
+- Ground
 ### Stats
-- Hp: 76
-- Attack: 147
-- Defense: 90
-- Special-attack: 60
-- Special-defense: 70
-- Speed: 97
+- Hp: 95
+- Attack: 109
+- Defense: 105
+- Special-attack: 75
+- Special-defense: 85
+- Speed: 56
