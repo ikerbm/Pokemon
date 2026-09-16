@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Hitmonlee
-## ID: 106
+## Eternatus
+## ID: 890
 ### Tipos
-- Fighting
+- Poison
+- Dragon
 ### Stats
-- Hp: 50
-- Attack: 120
-- Defense: 53
-- Special-attack: 35
-- Special-defense: 110
-- Speed: 87
+- Hp: 140
+- Attack: 85
+- Defense: 95
+- Special-attack: 145
+- Special-defense: 95
+- Speed: 130
