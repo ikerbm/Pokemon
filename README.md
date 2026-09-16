@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Torterra
-## ID: 389
+## Hitmonlee
+## ID: 106
 ### Tipos
-- Grass
-- Ground
+- Fighting
 ### Stats
-- Hp: 95
-- Attack: 109
-- Defense: 105
-- Special-attack: 75
-- Special-defense: 85
-- Speed: 56
+- Hp: 50
+- Attack: 120
+- Defense: 53
+- Special-attack: 35
+- Special-defense: 110
+- Speed: 87
