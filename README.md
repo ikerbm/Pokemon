@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Bayleef
-## ID: 153
+## Haxorus
+## ID: 612
 ### Tipos
-- Grass
+- Dragon
 ### Stats
-- Hp: 60
-- Attack: 62
-- Defense: 80
-- Special-attack: 63
-- Special-defense: 80
-- Speed: 60
+- Hp: 76
+- Attack: 147
+- Defense: 90
+- Special-attack: 60
+- Special-defense: 70
+- Speed: 97
