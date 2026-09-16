@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Kangaskhan
-## ID: 115
+## Crabominable
+## ID: 740
 ### Tipos
-- Normal
+- Fighting
+- Ice
 ### Stats
-- Hp: 105
-- Attack: 95
-- Defense: 80
-- Special-attack: 40
-- Special-defense: 80
-- Speed: 90
+- Hp: 97
+- Attack: 132
+- Defense: 77
+- Special-attack: 62
+- Special-defense: 67
+- Speed: 43
