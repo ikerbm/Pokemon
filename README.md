@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Crabominable
-## ID: 740
+## Bayleef
+## ID: 153
 ### Tipos
-- Fighting
-- Ice
+- Grass
 ### Stats
-- Hp: 97
-- Attack: 132
-- Defense: 77
-- Special-attack: 62
-- Special-defense: 67
-- Speed: 43
+- Hp: 60
+- Attack: 62
+- Defense: 80
+- Special-attack: 63
+- Special-defense: 80
+- Speed: 60
