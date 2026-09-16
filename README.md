@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Chansey
-## ID: 113
+## Kangaskhan
+## ID: 115
 ### Tipos
 - Normal
 ### Stats
-- Hp: 250
-- Attack: 5
-- Defense: 5
-- Special-attack: 35
-- Special-defense: 105
-- Speed: 50
+- Hp: 105
+- Attack: 95
+- Defense: 80
+- Special-attack: 40
+- Special-defense: 80
+- Speed: 90
