@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Shedinja
-## ID: 292
+## Moltres
+## ID: 146
 ### Tipos
-- Bug
-- Ghost
+- Fire
+- Flying
 ### Stats
-- Hp: 1
-- Attack: 90
-- Defense: 45
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 40
+- Hp: 90
+- Attack: 100
+- Defense: 90
+- Special-attack: 125
+- Special-defense: 85
+- Speed: 90
