@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Cramorant
-## ID: 845
+## Glaceon
+## ID: 471
 ### Tipos
-- Flying
-- Water
+- Ice
 ### Stats
-- Hp: 70
-- Attack: 85
-- Defense: 55
-- Special-attack: 85
+- Hp: 65
+- Attack: 60
+- Defense: 110
+- Special-attack: 130
 - Special-defense: 95
-- Speed: 85
+- Speed: 65
