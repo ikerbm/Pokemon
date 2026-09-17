@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Eternatus
-## ID: 890
+## Shedinja
+## ID: 292
 ### Tipos
-- Poison
-- Dragon
+- Bug
+- Ghost
 ### Stats
-- Hp: 140
-- Attack: 85
-- Defense: 95
-- Special-attack: 145
-- Special-defense: 95
-- Speed: 130
+- Hp: 1
+- Attack: 90
+- Defense: 45
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 40
