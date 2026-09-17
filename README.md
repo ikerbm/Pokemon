@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Moltres
-## ID: 146
+## Shuppet
+## ID: 353
 ### Tipos
-- Fire
-- Flying
+- Ghost
 ### Stats
-- Hp: 90
-- Attack: 100
-- Defense: 90
-- Special-attack: 125
-- Special-defense: 85
-- Speed: 90
+- Hp: 44
+- Attack: 75
+- Defense: 35
+- Special-attack: 63
+- Special-defense: 33
+- Speed: 45
