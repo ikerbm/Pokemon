@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Shuppet
-## ID: 353
+## Cramorant
+## ID: 845
 ### Tipos
-- Ghost
+- Flying
+- Water
 ### Stats
-- Hp: 44
-- Attack: 75
-- Defense: 35
-- Special-attack: 63
-- Special-defense: 33
-- Speed: 45
+- Hp: 70
+- Attack: 85
+- Defense: 55
+- Special-attack: 85
+- Special-defense: 95
+- Speed: 85
