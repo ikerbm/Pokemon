@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Glaceon
-## ID: 471
+## Iron-treads
+## ID: 990
 ### Tipos
-- Ice
+- Ground
+- Steel
 ### Stats
-- Hp: 65
-- Attack: 60
-- Defense: 110
-- Special-attack: 130
-- Special-defense: 95
-- Speed: 65
+- Hp: 90
+- Attack: 112
+- Defense: 120
+- Special-attack: 72
+- Special-defense: 70
+- Speed: 106
