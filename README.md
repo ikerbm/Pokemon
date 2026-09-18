@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Incineroar
-## ID: 727
+## Landorus-incarnate
+## ID: 645
 ### Tipos
-- Fire
-- Dark
+- Ground
+- Flying
 ### Stats
-- Hp: 95
-- Attack: 115
+- Hp: 89
+- Attack: 125
 - Defense: 90
-- Special-attack: 80
-- Special-defense: 90
-- Speed: 60
+- Special-attack: 115
+- Special-defense: 80
+- Speed: 101
