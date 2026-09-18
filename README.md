@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Zekrom
-## ID: 644
+## Gogoat
+## ID: 673
 ### Tipos
-- Dragon
-- Electric
+- Grass
 ### Stats
-- Hp: 100
-- Attack: 150
-- Defense: 120
-- Special-attack: 120
-- Special-defense: 100
-- Speed: 90
+- Hp: 123
+- Attack: 100
+- Defense: 62
+- Special-attack: 97
+- Special-defense: 81
+- Speed: 68
