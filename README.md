@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Landorus-incarnate
-## ID: 645
+## Maschiff
+## ID: 942
 ### Tipos
-- Ground
-- Flying
+- Dark
 ### Stats
-- Hp: 89
-- Attack: 125
-- Defense: 90
-- Special-attack: 115
-- Special-defense: 80
-- Speed: 101
+- Hp: 60
+- Attack: 78
+- Defense: 60
+- Special-attack: 40
+- Special-defense: 51
+- Speed: 51
