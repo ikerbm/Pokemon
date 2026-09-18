@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Fraxure
-## ID: 611
+## Wishiwashi-solo
+## ID: 746
 ### Tipos
-- Dragon
+- Water
 ### Stats
-- Hp: 66
-- Attack: 117
-- Defense: 70
-- Special-attack: 40
-- Special-defense: 50
-- Speed: 67
+- Hp: 45
+- Attack: 20
+- Defense: 20
+- Special-attack: 25
+- Special-defense: 25
+- Speed: 40
