@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Maschiff
-## ID: 942
+## Zekrom
+## ID: 644
 ### Tipos
-- Dark
+- Dragon
+- Electric
 ### Stats
-- Hp: 60
-- Attack: 78
-- Defense: 60
-- Special-attack: 40
-- Special-defense: 51
-- Speed: 51
+- Hp: 100
+- Attack: 150
+- Defense: 120
+- Special-attack: 120
+- Special-defense: 100
+- Speed: 90
