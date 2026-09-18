@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Aurorus
-## ID: 699
+## Incineroar
+## ID: 727
 ### Tipos
-- Rock
-- Ice
+- Fire
+- Dark
 ### Stats
-- Hp: 123
-- Attack: 77
-- Defense: 72
-- Special-attack: 99
-- Special-defense: 92
-- Speed: 58
+- Hp: 95
+- Attack: 115
+- Defense: 90
+- Special-attack: 80
+- Special-defense: 90
+- Speed: 60
