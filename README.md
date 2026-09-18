@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Gogoat
-## ID: 673
+## Fraxure
+## ID: 611
 ### Tipos
-- Grass
+- Dragon
 ### Stats
-- Hp: 123
-- Attack: 100
-- Defense: 62
-- Special-attack: 97
-- Special-defense: 81
-- Speed: 68
+- Hp: 66
+- Attack: 117
+- Defense: 70
+- Special-attack: 40
+- Special-defense: 50
+- Speed: 67
