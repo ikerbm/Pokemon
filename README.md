@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Iron-treads
-## ID: 990
+## Aurorus
+## ID: 699
 ### Tipos
-- Ground
-- Steel
+- Rock
+- Ice
 ### Stats
-- Hp: 90
-- Attack: 112
-- Defense: 120
-- Special-attack: 72
-- Special-defense: 70
-- Speed: 106
+- Hp: 123
+- Attack: 77
+- Defense: 72
+- Special-attack: 99
+- Special-defense: 92
+- Speed: 58
