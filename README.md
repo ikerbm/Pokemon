@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Monferno
-## ID: 391
+## Drilbur
+## ID: 529
 ### Tipos
-- Fire
-- Fighting
+- Ground
 ### Stats
-- Hp: 64
-- Attack: 78
-- Defense: 52
-- Special-attack: 78
-- Special-defense: 52
-- Speed: 81
+- Hp: 60
+- Attack: 85
+- Defense: 40
+- Special-attack: 30
+- Special-defense: 45
+- Speed: 68
