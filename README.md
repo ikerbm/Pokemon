@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Gallade
-## ID: 475
+## Charjabug
+## ID: 737
 ### Tipos
-- Psychic
-- Fighting
+- Bug
+- Electric
 ### Stats
-- Hp: 68
-- Attack: 125
-- Defense: 65
-- Special-attack: 65
-- Special-defense: 115
-- Speed: 80
+- Hp: 57
+- Attack: 82
+- Defense: 95
+- Special-attack: 55
+- Special-defense: 75
+- Speed: 36
