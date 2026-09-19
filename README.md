@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Drilbur
-## ID: 529
+## Spidops
+## ID: 918
 ### Tipos
-- Ground
+- Bug
 ### Stats
 - Hp: 60
-- Attack: 85
-- Defense: 40
-- Special-attack: 30
-- Special-defense: 45
-- Speed: 68
+- Attack: 79
+- Defense: 92
+- Special-attack: 52
+- Special-defense: 86
+- Speed: 35
