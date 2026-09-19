@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Wishiwashi-solo
-## ID: 746
+## Gallade
+## ID: 475
 ### Tipos
-- Water
+- Psychic
+- Fighting
 ### Stats
-- Hp: 45
-- Attack: 20
-- Defense: 20
-- Special-attack: 25
-- Special-defense: 25
-- Speed: 40
+- Hp: 68
+- Attack: 125
+- Defense: 65
+- Special-attack: 65
+- Special-defense: 115
+- Speed: 80
