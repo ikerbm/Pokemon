@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Charjabug
-## ID: 737
+## Klefki
+## ID: 707
 ### Tipos
-- Bug
-- Electric
+- Steel
+- Fairy
 ### Stats
 - Hp: 57
-- Attack: 82
-- Defense: 95
-- Special-attack: 55
-- Special-defense: 75
-- Speed: 36
+- Attack: 80
+- Defense: 91
+- Special-attack: 80
+- Special-defense: 87
+- Speed: 75
