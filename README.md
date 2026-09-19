@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Gigalith
-## ID: 526
+## Monferno
+## ID: 391
 ### Tipos
-- Rock
+- Fire
+- Fighting
 ### Stats
-- Hp: 85
-- Attack: 135
-- Defense: 130
-- Special-attack: 60
-- Special-defense: 80
-- Speed: 25
+- Hp: 64
+- Attack: 78
+- Defense: 52
+- Special-attack: 78
+- Special-defense: 52
+- Speed: 81
