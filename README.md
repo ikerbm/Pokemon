@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Crawdaunt
-## ID: 342
+## Gigalith
+## ID: 526
 ### Tipos
-- Water
-- Dark
+- Rock
 ### Stats
-- Hp: 63
-- Attack: 120
-- Defense: 85
-- Special-attack: 90
-- Special-defense: 55
-- Speed: 55
+- Hp: 85
+- Attack: 135
+- Defense: 130
+- Special-attack: 60
+- Special-defense: 80
+- Speed: 25
