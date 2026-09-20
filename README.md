@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Slowpoke
-## ID: 79
+## Vigoroth
+## ID: 288
 ### Tipos
-- Water
-- Psychic
+- Normal
 ### Stats
-- Hp: 90
-- Attack: 65
-- Defense: 65
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 15
+- Hp: 80
+- Attack: 80
+- Defense: 80
+- Special-attack: 55
+- Special-defense: 55
+- Speed: 90
