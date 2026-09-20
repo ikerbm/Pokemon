@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Whirlipede
-## ID: 544
+## Absol
+## ID: 359
 ### Tipos
-- Bug
-- Poison
+- Dark
 ### Stats
-- Hp: 40
-- Attack: 55
-- Defense: 99
-- Special-attack: 40
-- Special-defense: 79
-- Speed: 47
+- Hp: 65
+- Attack: 130
+- Defense: 60
+- Special-attack: 75
+- Special-defense: 60
+- Speed: 75
