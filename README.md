@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Vigoroth
-## ID: 288
+## Overqwil
+## ID: 904
 ### Tipos
-- Normal
+- Dark
+- Poison
 ### Stats
-- Hp: 80
-- Attack: 80
-- Defense: 80
-- Special-attack: 55
-- Special-defense: 55
-- Speed: 90
+- Hp: 85
+- Attack: 115
+- Defense: 95
+- Special-attack: 65
+- Special-defense: 65
+- Speed: 85
