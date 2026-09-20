@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Scream-tail
-## ID: 985
+## Lurantis
+## ID: 754
 ### Tipos
-- Fairy
-- Psychic
+- Grass
 ### Stats
-- Hp: 115
-- Attack: 65
-- Defense: 99
-- Special-attack: 65
-- Special-defense: 115
-- Speed: 111
+- Hp: 70
+- Attack: 105
+- Defense: 90
+- Special-attack: 80
+- Special-defense: 90
+- Speed: 45
