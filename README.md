@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Kangaskhan
-## ID: 115
+## Scream-tail
+## ID: 985
 ### Tipos
-- Normal
+- Fairy
+- Psychic
 ### Stats
-- Hp: 105
-- Attack: 95
-- Defense: 80
-- Special-attack: 40
-- Special-defense: 80
-- Speed: 90
+- Hp: 115
+- Attack: 65
+- Defense: 99
+- Special-attack: 65
+- Special-defense: 115
+- Speed: 111
