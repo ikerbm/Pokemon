@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Lurantis
-## ID: 754
+## Whirlipede
+## ID: 544
 ### Tipos
-- Grass
+- Bug
+- Poison
 ### Stats
-- Hp: 70
-- Attack: 105
-- Defense: 90
-- Special-attack: 80
-- Special-defense: 90
-- Speed: 45
+- Hp: 40
+- Attack: 55
+- Defense: 99
+- Special-attack: 40
+- Special-defense: 79
+- Speed: 47
