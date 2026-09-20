@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Overqwil
-## ID: 904
+## Kangaskhan
+## ID: 115
 ### Tipos
-- Dark
-- Poison
+- Normal
 ### Stats
-- Hp: 85
-- Attack: 115
-- Defense: 95
-- Special-attack: 65
-- Special-defense: 65
-- Speed: 85
+- Hp: 105
+- Attack: 95
+- Defense: 80
+- Special-attack: 40
+- Special-defense: 80
+- Speed: 90
