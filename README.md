@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Spidops
-## ID: 918
+## Slowpoke
+## ID: 79
 ### Tipos
-- Bug
+- Water
+- Psychic
 ### Stats
-- Hp: 60
-- Attack: 79
-- Defense: 92
-- Special-attack: 52
-- Special-defense: 86
-- Speed: 35
+- Hp: 90
+- Attack: 65
+- Defense: 65
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 15
