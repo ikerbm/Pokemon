@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Absol
-## ID: 359
+## Wigglytuff
+## ID: 40
 ### Tipos
-- Dark
+- Normal
+- Fairy
 ### Stats
-- Hp: 65
-- Attack: 130
-- Defense: 60
-- Special-attack: 75
-- Special-defense: 60
-- Speed: 75
+- Hp: 140
+- Attack: 70
+- Defense: 45
+- Special-attack: 85
+- Special-defense: 50
+- Speed: 45
