@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Budew
-## ID: 406
+## Tornadus-incarnate
+## ID: 641
 ### Tipos
-- Grass
-- Poison
+- Flying
 ### Stats
-- Hp: 40
-- Attack: 30
-- Defense: 35
-- Special-attack: 50
-- Special-defense: 70
-- Speed: 55
+- Hp: 79
+- Attack: 115
+- Defense: 70
+- Special-attack: 125
+- Special-defense: 80
+- Speed: 111
