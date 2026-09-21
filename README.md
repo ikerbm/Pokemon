@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Wigglytuff
-## ID: 40
+## Arcanine
+## ID: 59
 ### Tipos
-- Normal
-- Fairy
+- Fire
 ### Stats
-- Hp: 140
-- Attack: 70
-- Defense: 45
-- Special-attack: 85
-- Special-defense: 50
-- Speed: 45
+- Hp: 90
+- Attack: 110
+- Defense: 80
+- Special-attack: 100
+- Special-defense: 80
+- Speed: 95
