@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Pyukumuku
-## ID: 771
+## Budew
+## ID: 406
 ### Tipos
-- Water
+- Grass
+- Poison
 ### Stats
-- Hp: 55
-- Attack: 60
-- Defense: 130
-- Special-attack: 30
-- Special-defense: 130
-- Speed: 5
+- Hp: 40
+- Attack: 30
+- Defense: 35
+- Special-attack: 50
+- Special-defense: 70
+- Speed: 55
