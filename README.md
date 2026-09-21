@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Arcanine
-## ID: 59
+## Pyukumuku
+## ID: 771
 ### Tipos
-- Fire
+- Water
 ### Stats
-- Hp: 90
-- Attack: 110
-- Defense: 80
-- Special-attack: 100
-- Special-defense: 80
-- Speed: 95
+- Hp: 55
+- Attack: 60
+- Defense: 130
+- Special-attack: 30
+- Special-defense: 130
+- Speed: 5
