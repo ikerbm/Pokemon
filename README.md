@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dustox
-## ID: 269
+## Wo-chien
+## ID: 1001
 ### Tipos
-- Bug
-- Poison
+- Dark
+- Grass
 ### Stats
-- Hp: 60
-- Attack: 50
-- Defense: 70
-- Special-attack: 50
-- Special-defense: 90
-- Speed: 65
+- Hp: 85
+- Attack: 85
+- Defense: 100
+- Special-attack: 95
+- Special-defense: 135
+- Speed: 70
