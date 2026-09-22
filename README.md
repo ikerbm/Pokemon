@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Farigiraf
-## ID: 981
+## Milotic
+## ID: 350
 ### Tipos
-- Normal
-- Psychic
+- Water
 ### Stats
-- Hp: 120
-- Attack: 90
-- Defense: 70
-- Special-attack: 110
-- Special-defense: 70
-- Speed: 60
+- Hp: 95
+- Attack: 60
+- Defense: 79
+- Special-attack: 100
+- Special-defense: 125
+- Speed: 81
