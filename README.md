@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Milotic
-## ID: 350
+## Flutter-mane
+## ID: 987
 ### Tipos
-- Water
+- Ghost
+- Fairy
 ### Stats
-- Hp: 95
-- Attack: 60
-- Defense: 79
-- Special-attack: 100
-- Special-defense: 125
-- Speed: 81
+- Hp: 55
+- Attack: 55
+- Defense: 55
+- Special-attack: 135
+- Special-defense: 135
+- Speed: 135
