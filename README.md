@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Flutter-mane
-## ID: 987
+## Silicobra
+## ID: 843
 ### Tipos
-- Ghost
-- Fairy
+- Ground
 ### Stats
-- Hp: 55
-- Attack: 55
-- Defense: 55
-- Special-attack: 135
-- Special-defense: 135
-- Speed: 135
+- Hp: 52
+- Attack: 57
+- Defense: 75
+- Special-attack: 35
+- Special-defense: 50
+- Speed: 46
