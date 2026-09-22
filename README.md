@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Tornadus-incarnate
-## ID: 641
+## Dustox
+## ID: 269
 ### Tipos
-- Flying
+- Bug
+- Poison
 ### Stats
-- Hp: 79
-- Attack: 115
+- Hp: 60
+- Attack: 50
 - Defense: 70
-- Special-attack: 125
-- Special-defense: 80
-- Speed: 111
+- Special-attack: 50
+- Special-defense: 90
+- Speed: 65
