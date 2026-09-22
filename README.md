@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Wo-chien
-## ID: 1001
+## Farigiraf
+## ID: 981
 ### Tipos
-- Dark
-- Grass
+- Normal
+- Psychic
 ### Stats
-- Hp: 85
-- Attack: 85
-- Defense: 100
-- Special-attack: 95
-- Special-defense: 135
-- Speed: 70
+- Hp: 120
+- Attack: 90
+- Defense: 70
+- Special-attack: 110
+- Special-defense: 70
+- Speed: 60
