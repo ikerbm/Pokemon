@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Elekid
-## ID: 239
+## Palossand
+## ID: 770
 ### Tipos
-- Electric
+- Ghost
+- Ground
 ### Stats
-- Hp: 45
-- Attack: 63
-- Defense: 37
-- Special-attack: 65
-- Special-defense: 55
-- Speed: 95
+- Hp: 85
+- Attack: 75
+- Defense: 110
+- Special-attack: 100
+- Special-defense: 75
+- Speed: 35
