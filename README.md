@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Silicobra
-## ID: 843
+## Flareon
+## ID: 136
 ### Tipos
-- Ground
+- Fire
 ### Stats
-- Hp: 52
-- Attack: 57
-- Defense: 75
-- Special-attack: 35
-- Special-defense: 50
-- Speed: 46
+- Hp: 65
+- Attack: 130
+- Defense: 60
+- Special-attack: 95
+- Special-defense: 110
+- Speed: 65
