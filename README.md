@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Inteleon
-## ID: 818
+## Elekid
+## ID: 239
 ### Tipos
-- Water
+- Electric
 ### Stats
-- Hp: 70
-- Attack: 85
-- Defense: 65
-- Special-attack: 125
-- Special-defense: 65
-- Speed: 120
+- Hp: 45
+- Attack: 63
+- Defense: 37
+- Special-attack: 65
+- Special-defense: 55
+- Speed: 95
