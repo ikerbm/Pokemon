@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Jumpluff
-## ID: 189
+## Bastiodon
+## ID: 411
 ### Tipos
-- Grass
-- Flying
+- Rock
+- Steel
 ### Stats
-- Hp: 75
-- Attack: 55
-- Defense: 70
-- Special-attack: 55
-- Special-defense: 95
-- Speed: 110
+- Hp: 60
+- Attack: 52
+- Defense: 168
+- Special-attack: 47
+- Special-defense: 138
+- Speed: 30
