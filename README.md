@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Bastiodon
-## ID: 411
+## Inteleon
+## ID: 818
 ### Tipos
-- Rock
-- Steel
+- Water
 ### Stats
-- Hp: 60
-- Attack: 52
-- Defense: 168
-- Special-attack: 47
-- Special-defense: 138
-- Speed: 30
+- Hp: 70
+- Attack: 85
+- Defense: 65
+- Special-attack: 125
+- Special-defense: 65
+- Speed: 120
