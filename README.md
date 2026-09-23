@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Flareon
-## ID: 136
+## Ting-lu
+## ID: 1003
 ### Tipos
-- Fire
+- Dark
+- Ground
 ### Stats
-- Hp: 65
-- Attack: 130
-- Defense: 60
-- Special-attack: 95
-- Special-defense: 110
-- Speed: 65
+- Hp: 155
+- Attack: 110
+- Defense: 125
+- Special-attack: 55
+- Special-defense: 80
+- Speed: 45
