@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Ting-lu
-## ID: 1003
+## Jumpluff
+## ID: 189
 ### Tipos
-- Dark
-- Ground
+- Grass
+- Flying
 ### Stats
-- Hp: 155
-- Attack: 110
-- Defense: 125
+- Hp: 75
+- Attack: 55
+- Defense: 70
 - Special-attack: 55
-- Special-defense: 80
-- Speed: 45
+- Special-defense: 95
+- Speed: 110
