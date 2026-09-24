@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Palossand
-## ID: 770
+## Carracosta
+## ID: 565
 ### Tipos
-- Ghost
-- Ground
+- Water
+- Rock
 ### Stats
-- Hp: 85
-- Attack: 75
-- Defense: 110
-- Special-attack: 100
-- Special-defense: 75
-- Speed: 35
+- Hp: 74
+- Attack: 108
+- Defense: 133
+- Special-attack: 83
+- Special-defense: 65
+- Speed: 32
