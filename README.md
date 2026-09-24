@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Carracosta
-## ID: 565
+## Porygon2
+## ID: 233
 ### Tipos
-- Water
-- Rock
+- Normal
 ### Stats
-- Hp: 74
-- Attack: 108
-- Defense: 133
-- Special-attack: 83
-- Special-defense: 65
-- Speed: 32
+- Hp: 85
+- Attack: 80
+- Defense: 90
+- Special-attack: 105
+- Special-defense: 95
+- Speed: 60
