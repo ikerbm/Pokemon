@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Jellicent-male
-## ID: 593
+## Floatzel
+## ID: 419
 ### Tipos
 - Water
-- Ghost
 ### Stats
-- Hp: 100
-- Attack: 60
-- Defense: 70
+- Hp: 85
+- Attack: 105
+- Defense: 55
 - Special-attack: 85
-- Special-defense: 105
-- Speed: 60
+- Special-defense: 50
+- Speed: 115
