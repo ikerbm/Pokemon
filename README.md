@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cleffa
-## ID: 173
+## Jellicent-male
+## ID: 593
 ### Tipos
-- Fairy
+- Water
+- Ghost
 ### Stats
-- Hp: 50
-- Attack: 25
-- Defense: 28
-- Special-attack: 45
-- Special-defense: 55
-- Speed: 15
+- Hp: 100
+- Attack: 60
+- Defense: 70
+- Special-attack: 85
+- Special-defense: 105
+- Speed: 60
