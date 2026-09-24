@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Floatzel
-## ID: 419
+## Gorebyss
+## ID: 368
 ### Tipos
 - Water
 ### Stats
-- Hp: 85
-- Attack: 105
-- Defense: 55
-- Special-attack: 85
-- Special-defense: 50
-- Speed: 115
+- Hp: 55
+- Attack: 84
+- Defense: 105
+- Special-attack: 114
+- Special-defense: 75
+- Speed: 52
