@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Castform
-## ID: 351
+## Gloom
+## ID: 44
 ### Tipos
-- Normal
+- Grass
+- Poison
 ### Stats
-- Hp: 70
-- Attack: 70
+- Hp: 60
+- Attack: 65
 - Defense: 70
-- Special-attack: 70
-- Special-defense: 70
-- Speed: 70
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 40
