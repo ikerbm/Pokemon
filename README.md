@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Nidoran-f
-## ID: 29
+## Castform
+## ID: 351
 ### Tipos
-- Poison
+- Normal
 ### Stats
-- Hp: 55
-- Attack: 47
-- Defense: 52
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 41
+- Hp: 70
+- Attack: 70
+- Defense: 70
+- Special-attack: 70
+- Special-defense: 70
+- Speed: 70
