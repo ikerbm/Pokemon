@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Gloom
-## ID: 44
+## Torchic
+## ID: 255
 ### Tipos
-- Grass
-- Poison
+- Fire
 ### Stats
-- Hp: 60
-- Attack: 65
-- Defense: 70
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 40
+- Hp: 45
+- Attack: 60
+- Defense: 40
+- Special-attack: 70
+- Special-defense: 50
+- Speed: 45
