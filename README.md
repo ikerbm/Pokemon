@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Gorebyss
-## ID: 368
+## Fletchling
+## ID: 661
 ### Tipos
-- Water
+- Normal
+- Flying
 ### Stats
-- Hp: 55
-- Attack: 84
-- Defense: 105
-- Special-attack: 114
-- Special-defense: 75
-- Speed: 52
+- Hp: 45
+- Attack: 50
+- Defense: 43
+- Special-attack: 40
+- Special-defense: 38
+- Speed: 62
