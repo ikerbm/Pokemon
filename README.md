@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Drifblim
-## ID: 426
+## Nidoran-f
+## ID: 29
 ### Tipos
-- Ghost
-- Flying
+- Poison
 ### Stats
-- Hp: 150
-- Attack: 80
-- Defense: 44
-- Special-attack: 90
-- Special-defense: 54
-- Speed: 80
+- Hp: 55
+- Attack: 47
+- Defense: 52
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 41
