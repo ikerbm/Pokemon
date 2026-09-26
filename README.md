@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Natu
-## ID: 177
+## Greninja
+## ID: 658
 ### Tipos
-- Psychic
-- Flying
+- Water
+- Dark
 ### Stats
-- Hp: 40
-- Attack: 50
-- Defense: 45
-- Special-attack: 70
-- Special-defense: 45
-- Speed: 70
+- Hp: 72
+- Attack: 95
+- Defense: 67
+- Special-attack: 103
+- Special-defense: 71
+- Speed: 122
