@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Gulpin
-## ID: 316
+## Pawmi
+## ID: 921
 ### Tipos
-- Poison
+- Electric
 ### Stats
-- Hp: 70
-- Attack: 43
-- Defense: 53
-- Special-attack: 43
-- Special-defense: 53
-- Speed: 40
+- Hp: 45
+- Attack: 50
+- Defense: 20
+- Special-attack: 40
+- Special-defense: 25
+- Speed: 60
