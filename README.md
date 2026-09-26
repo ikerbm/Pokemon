@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Torchic
-## ID: 255
+## Solgaleo
+## ID: 791
 ### Tipos
-- Fire
+- Psychic
+- Steel
 ### Stats
-- Hp: 45
-- Attack: 60
-- Defense: 40
-- Special-attack: 70
-- Special-defense: 50
-- Speed: 45
+- Hp: 137
+- Attack: 137
+- Defense: 107
+- Special-attack: 113
+- Special-defense: 89
+- Speed: 97
