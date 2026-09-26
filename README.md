@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Pawmi
-## ID: 921
+## Dottler
+## ID: 825
 ### Tipos
-- Electric
+- Bug
+- Psychic
 ### Stats
-- Hp: 45
-- Attack: 50
-- Defense: 20
-- Special-attack: 40
-- Special-defense: 25
-- Speed: 60
+- Hp: 50
+- Attack: 35
+- Defense: 80
+- Special-attack: 50
+- Special-defense: 90
+- Speed: 30
