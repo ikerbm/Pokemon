@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Dottler
-## ID: 825
+## Spritzee
+## ID: 682
 ### Tipos
-- Bug
-- Psychic
+- Fairy
 ### Stats
-- Hp: 50
-- Attack: 35
-- Defense: 80
-- Special-attack: 50
-- Special-defense: 90
-- Speed: 30
+- Hp: 78
+- Attack: 52
+- Defense: 60
+- Special-attack: 63
+- Special-defense: 65
+- Speed: 23
