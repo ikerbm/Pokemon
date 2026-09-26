@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Solgaleo
-## ID: 791
+## Natu
+## ID: 177
 ### Tipos
 - Psychic
-- Steel
+- Flying
 ### Stats
-- Hp: 137
-- Attack: 137
-- Defense: 107
-- Special-attack: 113
-- Special-defense: 89
-- Speed: 97
+- Hp: 40
+- Attack: 50
+- Defense: 45
+- Special-attack: 70
+- Special-defense: 45
+- Speed: 70
