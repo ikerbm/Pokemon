@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Greninja
-## ID: 658
+## Gulpin
+## ID: 316
 ### Tipos
-- Water
-- Dark
+- Poison
 ### Stats
-- Hp: 72
-- Attack: 95
-- Defense: 67
-- Special-attack: 103
-- Special-defense: 71
-- Speed: 122
+- Hp: 70
+- Attack: 43
+- Defense: 53
+- Special-attack: 43
+- Special-defense: 53
+- Speed: 40
