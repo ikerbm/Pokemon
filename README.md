@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Dratini
-## ID: 147
+## Gloom
+## ID: 44
 ### Tipos
-- Dragon
+- Grass
+- Poison
 ### Stats
-- Hp: 41
-- Attack: 64
-- Defense: 45
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 50
+- Hp: 60
+- Attack: 65
+- Defense: 70
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 40
