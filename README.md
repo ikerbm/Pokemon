@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Corsola
-## ID: 222
+## Iron-moth
+## ID: 994
 ### Tipos
-- Water
-- Rock
+- Fire
+- Poison
 ### Stats
-- Hp: 65
-- Attack: 55
-- Defense: 95
-- Special-attack: 65
-- Special-defense: 95
-- Speed: 35
+- Hp: 80
+- Attack: 70
+- Defense: 60
+- Special-attack: 140
+- Special-defense: 110
+- Speed: 110
