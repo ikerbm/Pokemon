@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Gloom
-## ID: 44
+## Tyranitar
+## ID: 248
 ### Tipos
-- Grass
-- Poison
+- Rock
+- Dark
 ### Stats
-- Hp: 60
-- Attack: 65
-- Defense: 70
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 40
+- Hp: 100
+- Attack: 134
+- Defense: 110
+- Special-attack: 95
+- Special-defense: 100
+- Speed: 61
