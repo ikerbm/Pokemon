@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Tyranitar
-## ID: 248
+## Corsola
+## ID: 222
 ### Tipos
+- Water
 - Rock
-- Dark
 ### Stats
-- Hp: 100
-- Attack: 134
-- Defense: 110
-- Special-attack: 95
-- Special-defense: 100
-- Speed: 61
+- Hp: 65
+- Attack: 55
+- Defense: 95
+- Special-attack: 65
+- Special-defense: 95
+- Speed: 35
