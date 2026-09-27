@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Spritzee
-## ID: 682
+## Dratini
+## ID: 147
 ### Tipos
-- Fairy
+- Dragon
 ### Stats
-- Hp: 78
-- Attack: 52
-- Defense: 60
-- Special-attack: 63
-- Special-defense: 65
-- Speed: 23
+- Hp: 41
+- Attack: 64
+- Defense: 45
+- Special-attack: 50
+- Special-defense: 50
+- Speed: 50
