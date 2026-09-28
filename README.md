@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Ledian
-## ID: 166
+## Fletchling
+## ID: 661
 ### Tipos
-- Bug
+- Normal
 - Flying
 ### Stats
-- Hp: 55
-- Attack: 35
-- Defense: 50
-- Special-attack: 55
-- Special-defense: 110
-- Speed: 85
+- Hp: 45
+- Attack: 50
+- Defense: 43
+- Special-attack: 40
+- Special-defense: 38
+- Speed: 62
