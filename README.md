@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Thievul
-## ID: 828
+## Milotic
+## ID: 350
 ### Tipos
-- Dark
+- Water
 ### Stats
-- Hp: 70
-- Attack: 58
-- Defense: 58
-- Special-attack: 87
-- Special-defense: 92
-- Speed: 90
+- Hp: 95
+- Attack: 60
+- Defense: 79
+- Special-attack: 100
+- Special-defense: 125
+- Speed: 81
