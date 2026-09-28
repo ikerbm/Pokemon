@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Milotic
-## ID: 350
+## Iron-bundle
+## ID: 991
 ### Tipos
+- Ice
 - Water
 ### Stats
-- Hp: 95
-- Attack: 60
-- Defense: 79
-- Special-attack: 100
-- Special-defense: 125
-- Speed: 81
+- Hp: 56
+- Attack: 80
+- Defense: 114
+- Special-attack: 124
+- Special-defense: 60
+- Speed: 136
