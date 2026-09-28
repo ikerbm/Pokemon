@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Iron-bundle
-## ID: 991
+## Ledian
+## ID: 166
 ### Tipos
-- Ice
-- Water
+- Bug
+- Flying
 ### Stats
-- Hp: 56
-- Attack: 80
-- Defense: 114
-- Special-attack: 124
-- Special-defense: 60
-- Speed: 136
+- Hp: 55
+- Attack: 35
+- Defense: 50
+- Special-attack: 55
+- Special-defense: 110
+- Speed: 85
