@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cranidos
-## ID: 408
+## Zubat
+## ID: 41
 ### Tipos
-- Rock
+- Poison
+- Flying
 ### Stats
-- Hp: 67
-- Attack: 125
-- Defense: 40
+- Hp: 40
+- Attack: 45
+- Defense: 35
 - Special-attack: 30
-- Special-defense: 30
-- Speed: 58
+- Special-defense: 40
+- Speed: 55
