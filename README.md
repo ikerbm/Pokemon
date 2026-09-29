@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Marowak
-## ID: 105
+## Cranidos
+## ID: 408
 ### Tipos
-- Ground
+- Rock
 ### Stats
-- Hp: 60
-- Attack: 80
-- Defense: 110
-- Special-attack: 50
-- Special-defense: 80
-- Speed: 45
+- Hp: 67
+- Attack: 125
+- Defense: 40
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 58
