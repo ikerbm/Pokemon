@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Fletchling
-## ID: 661
+## Marowak
+## ID: 105
 ### Tipos
-- Normal
-- Flying
+- Ground
 ### Stats
-- Hp: 45
-- Attack: 50
-- Defense: 43
-- Special-attack: 40
-- Special-defense: 38
-- Speed: 62
+- Hp: 60
+- Attack: 80
+- Defense: 110
+- Special-attack: 50
+- Special-defense: 80
+- Speed: 45
