@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Walrein
-## ID: 365
+## Eldegoss
+## ID: 830
 ### Tipos
-- Ice
-- Water
+- Grass
 ### Stats
-- Hp: 110
-- Attack: 80
+- Hp: 60
+- Attack: 50
 - Defense: 90
-- Special-attack: 95
-- Special-defense: 90
-- Speed: 65
+- Special-attack: 80
+- Special-defense: 120
+- Speed: 60
