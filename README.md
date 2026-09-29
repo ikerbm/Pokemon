@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Zubat
-## ID: 41
+## Walrein
+## ID: 365
 ### Tipos
-- Poison
-- Flying
+- Ice
+- Water
 ### Stats
-- Hp: 40
-- Attack: 45
-- Defense: 35
-- Special-attack: 30
-- Special-defense: 40
-- Speed: 55
+- Hp: 110
+- Attack: 80
+- Defense: 90
+- Special-attack: 95
+- Special-defense: 90
+- Speed: 65
