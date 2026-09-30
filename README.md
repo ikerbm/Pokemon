@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Grafaiai
-## ID: 945
+## Electivire
+## ID: 466
 ### Tipos
-- Poison
-- Normal
+- Electric
 ### Stats
-- Hp: 63
-- Attack: 95
-- Defense: 65
-- Special-attack: 80
-- Special-defense: 72
-- Speed: 110
+- Hp: 75
+- Attack: 123
+- Defense: 67
+- Special-attack: 95
+- Special-defense: 85
+- Speed: 95
