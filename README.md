@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Palossand
-## ID: 770
+## Ursaring
+## ID: 217
 ### Tipos
-- Ghost
-- Ground
+- Normal
 ### Stats
-- Hp: 85
-- Attack: 75
-- Defense: 110
-- Special-attack: 100
+- Hp: 90
+- Attack: 130
+- Defense: 75
+- Special-attack: 75
 - Special-defense: 75
-- Speed: 35
+- Speed: 55
