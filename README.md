@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Eldegoss
-## ID: 830
+## Bellibolt
+## ID: 939
 ### Tipos
-- Grass
+- Electric
 ### Stats
-- Hp: 60
-- Attack: 50
-- Defense: 90
-- Special-attack: 80
-- Special-defense: 120
-- Speed: 60
+- Hp: 109
+- Attack: 64
+- Defense: 91
+- Special-attack: 103
+- Special-defense: 83
+- Speed: 45
