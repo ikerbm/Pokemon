@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Ferrothorn
-## ID: 598
+## Landorus-incarnate
+## ID: 645
 ### Tipos
-- Grass
-- Steel
+- Ground
+- Flying
 ### Stats
-- Hp: 74
-- Attack: 94
-- Defense: 131
-- Special-attack: 54
-- Special-defense: 116
-- Speed: 20
+- Hp: 89
+- Attack: 125
+- Defense: 90
+- Special-attack: 115
+- Special-defense: 80
+- Speed: 101
