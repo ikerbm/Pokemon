@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Landorus-incarnate
-## ID: 645
+## Avalugg
+## ID: 713
 ### Tipos
-- Ground
-- Flying
+- Ice
 ### Stats
-- Hp: 89
-- Attack: 125
-- Defense: 90
-- Special-attack: 115
-- Special-defense: 80
-- Speed: 101
+- Hp: 95
+- Attack: 117
+- Defense: 184
+- Special-attack: 44
+- Special-defense: 46
+- Speed: 28
