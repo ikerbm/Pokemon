@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Ursaring
-## ID: 217
+## Honedge
+## ID: 679
 ### Tipos
-- Normal
+- Steel
+- Ghost
 ### Stats
-- Hp: 90
-- Attack: 130
-- Defense: 75
-- Special-attack: 75
-- Special-defense: 75
-- Speed: 55
+- Hp: 45
+- Attack: 80
+- Defense: 100
+- Special-attack: 35
+- Special-defense: 37
+- Speed: 28
