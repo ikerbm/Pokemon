@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Honedge
-## ID: 679
+## Ferrothorn
+## ID: 598
 ### Tipos
+- Grass
 - Steel
-- Ghost
 ### Stats
-- Hp: 45
-- Attack: 80
-- Defense: 100
-- Special-attack: 35
-- Special-defense: 37
-- Speed: 28
+- Hp: 74
+- Attack: 94
+- Defense: 131
+- Special-attack: 54
+- Special-defense: 116
+- Speed: 20
