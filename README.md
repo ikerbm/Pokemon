@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Espeon
-## ID: 196
+## Marowak
+## ID: 105
 ### Tipos
-- Psychic
+- Ground
 ### Stats
-- Hp: 65
-- Attack: 65
-- Defense: 60
-- Special-attack: 130
-- Special-defense: 95
-- Speed: 110
+- Hp: 60
+- Attack: 80
+- Defense: 110
+- Special-attack: 50
+- Special-defense: 80
+- Speed: 45
