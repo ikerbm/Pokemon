@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Garbodor
-## ID: 569
+## Ariados
+## ID: 168
 ### Tipos
+- Bug
 - Poison
 ### Stats
-- Hp: 80
-- Attack: 95
-- Defense: 82
+- Hp: 70
+- Attack: 90
+- Defense: 70
 - Special-attack: 60
-- Special-defense: 82
-- Speed: 75
+- Special-defense: 70
+- Speed: 40
