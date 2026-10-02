@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Minccino
-## ID: 572
+## Bagon
+## ID: 371
 ### Tipos
-- Normal
+- Dragon
 ### Stats
-- Hp: 55
-- Attack: 50
-- Defense: 40
+- Hp: 45
+- Attack: 75
+- Defense: 60
 - Special-attack: 40
-- Special-defense: 40
-- Speed: 75
+- Special-defense: 30
+- Speed: 50
