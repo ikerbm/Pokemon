@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ariados
-## ID: 168
+## Minccino
+## ID: 572
 ### Tipos
-- Bug
-- Poison
+- Normal
 ### Stats
-- Hp: 70
-- Attack: 90
-- Defense: 70
-- Special-attack: 60
-- Special-defense: 70
-- Speed: 40
+- Hp: 55
+- Attack: 50
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 75
