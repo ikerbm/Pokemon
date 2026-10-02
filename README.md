@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Bagon
-## ID: 371
+## Espeon
+## ID: 196
 ### Tipos
-- Dragon
+- Psychic
 ### Stats
-- Hp: 45
-- Attack: 75
+- Hp: 65
+- Attack: 65
 - Defense: 60
-- Special-attack: 40
-- Special-defense: 30
-- Speed: 50
+- Special-attack: 130
+- Special-defense: 95
+- Speed: 110
