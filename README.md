@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Iron-jugulis
-## ID: 993
+## Slugma
+## ID: 218
 ### Tipos
-- Dark
-- Flying
+- Fire
 ### Stats
-- Hp: 94
-- Attack: 80
-- Defense: 86
-- Special-attack: 122
-- Special-defense: 80
-- Speed: 108
+- Hp: 40
+- Attack: 40
+- Defense: 40
+- Special-attack: 70
+- Special-defense: 40
+- Speed: 20
