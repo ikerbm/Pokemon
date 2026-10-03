@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Meowth
-## ID: 52
+## Woobat
+## ID: 527
 ### Tipos
-- Normal
+- Psychic
+- Flying
 ### Stats
-- Hp: 40
+- Hp: 65
 - Attack: 45
-- Defense: 35
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 90
+- Defense: 43
+- Special-attack: 55
+- Special-defense: 43
+- Speed: 72
