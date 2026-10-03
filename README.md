@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Marowak
-## ID: 105
+## Drampa
+## ID: 780
 ### Tipos
-- Ground
+- Normal
+- Dragon
 ### Stats
-- Hp: 60
-- Attack: 80
-- Defense: 110
-- Special-attack: 50
-- Special-defense: 80
-- Speed: 45
+- Hp: 78
+- Attack: 60
+- Defense: 85
+- Special-attack: 135
+- Special-defense: 91
+- Speed: 36
