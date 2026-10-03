@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Drampa
-## ID: 780
+## Iron-jugulis
+## ID: 993
 ### Tipos
-- Normal
-- Dragon
+- Dark
+- Flying
 ### Stats
-- Hp: 78
-- Attack: 60
-- Defense: 85
-- Special-attack: 135
-- Special-defense: 91
-- Speed: 36
+- Hp: 94
+- Attack: 80
+- Defense: 86
+- Special-attack: 122
+- Special-defense: 80
+- Speed: 108
