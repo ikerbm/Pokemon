@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Linoone
-## ID: 264
+## Combee
+## ID: 415
 ### Tipos
-- Normal
+- Bug
+- Flying
 ### Stats
-- Hp: 78
-- Attack: 70
-- Defense: 61
-- Special-attack: 50
-- Special-defense: 61
-- Speed: 100
+- Hp: 30
+- Attack: 30
+- Defense: 42
+- Special-attack: 30
+- Special-defense: 42
+- Speed: 70
