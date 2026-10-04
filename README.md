@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tentacruel
-## ID: 73
+## Torracat
+## ID: 726
 ### Tipos
-- Water
-- Poison
+- Fire
 ### Stats
-- Hp: 80
-- Attack: 70
-- Defense: 65
+- Hp: 65
+- Attack: 85
+- Defense: 50
 - Special-attack: 80
-- Special-defense: 120
-- Speed: 100
+- Special-defense: 50
+- Speed: 90
