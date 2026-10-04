@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Woobat
-## ID: 527
+## Linoone
+## ID: 264
 ### Tipos
-- Psychic
-- Flying
+- Normal
 ### Stats
-- Hp: 65
-- Attack: 45
-- Defense: 43
-- Special-attack: 55
-- Special-defense: 43
-- Speed: 72
+- Hp: 78
+- Attack: 70
+- Defense: 61
+- Special-attack: 50
+- Special-defense: 61
+- Speed: 100
