@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Sirfetchd
-## ID: 865
+## Tentacruel
+## ID: 73
 ### Tipos
-- Fighting
+- Water
+- Poison
 ### Stats
-- Hp: 62
-- Attack: 135
-- Defense: 95
-- Special-attack: 68
-- Special-defense: 82
-- Speed: 65
+- Hp: 80
+- Attack: 70
+- Defense: 65
+- Special-attack: 80
+- Special-defense: 120
+- Speed: 100
