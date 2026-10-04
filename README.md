@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Combee
-## ID: 415
+## Sirfetchd
+## ID: 865
 ### Tipos
-- Bug
-- Flying
+- Fighting
 ### Stats
-- Hp: 30
-- Attack: 30
-- Defense: 42
-- Special-attack: 30
-- Special-defense: 42
-- Speed: 70
+- Hp: 62
+- Attack: 135
+- Defense: 95
+- Special-attack: 68
+- Special-defense: 82
+- Speed: 65
