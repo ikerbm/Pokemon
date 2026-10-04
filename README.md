@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Torracat
-## ID: 726
+## Pikachu
+## ID: 25
 ### Tipos
-- Fire
+- Electric
 ### Stats
-- Hp: 65
-- Attack: 85
-- Defense: 50
-- Special-attack: 80
+- Hp: 35
+- Attack: 55
+- Defense: 40
+- Special-attack: 50
 - Special-defense: 50
 - Speed: 90
