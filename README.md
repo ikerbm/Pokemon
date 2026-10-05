@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Dubwool
-## ID: 832
+## Enamorus-incarnate
+## ID: 905
 ### Tipos
-- Normal
+- Fairy
+- Flying
 ### Stats
-- Hp: 72
-- Attack: 80
-- Defense: 100
-- Special-attack: 60
-- Special-defense: 90
-- Speed: 88
+- Hp: 74
+- Attack: 115
+- Defense: 70
+- Special-attack: 135
+- Special-defense: 80
+- Speed: 106
