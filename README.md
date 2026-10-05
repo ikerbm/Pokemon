@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Pikachu
-## ID: 25
+## Terapagos
+## ID: 1024
 ### Tipos
-- Electric
+- Normal
 ### Stats
-- Hp: 35
-- Attack: 55
-- Defense: 40
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 90
+- Hp: 90
+- Attack: 65
+- Defense: 85
+- Special-attack: 65
+- Special-defense: 85
+- Speed: 60
