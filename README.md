@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Hatenna
-## ID: 856
+## Dubwool
+## ID: 832
 ### Tipos
-- Psychic
+- Normal
 ### Stats
-- Hp: 42
-- Attack: 30
-- Defense: 45
-- Special-attack: 56
-- Special-defense: 53
-- Speed: 39
+- Hp: 72
+- Attack: 80
+- Defense: 100
+- Special-attack: 60
+- Special-defense: 90
+- Speed: 88
