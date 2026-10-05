@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Terapagos
-## ID: 1024
+## Hatenna
+## ID: 856
 ### Tipos
-- Normal
+- Psychic
 ### Stats
-- Hp: 90
-- Attack: 65
-- Defense: 85
-- Special-attack: 65
-- Special-defense: 85
-- Speed: 60
+- Hp: 42
+- Attack: 30
+- Defense: 45
+- Special-attack: 56
+- Special-defense: 53
+- Speed: 39
