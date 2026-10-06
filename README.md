@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Mareep
-## ID: 179
+## Nidoqueen
+## ID: 31
 ### Tipos
-- Electric
+- Poison
+- Ground
 ### Stats
-- Hp: 55
-- Attack: 40
-- Defense: 40
-- Special-attack: 65
-- Special-defense: 45
-- Speed: 35
+- Hp: 90
+- Attack: 92
+- Defense: 87
+- Special-attack: 75
+- Special-defense: 85
+- Speed: 76
