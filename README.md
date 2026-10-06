@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Farigiraf
-## ID: 981
+## Piloswine
+## ID: 221
 ### Tipos
-- Normal
-- Psychic
+- Ice
+- Ground
 ### Stats
-- Hp: 120
-- Attack: 90
-- Defense: 70
-- Special-attack: 110
-- Special-defense: 70
-- Speed: 60
+- Hp: 100
+- Attack: 100
+- Defense: 80
+- Special-attack: 60
+- Special-defense: 60
+- Speed: 50
