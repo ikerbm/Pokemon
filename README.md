@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Enamorus-incarnate
-## ID: 905
+## Mareep
+## ID: 179
 ### Tipos
-- Fairy
-- Flying
+- Electric
 ### Stats
-- Hp: 74
-- Attack: 115
-- Defense: 70
-- Special-attack: 135
-- Special-defense: 80
-- Speed: 106
+- Hp: 55
+- Attack: 40
+- Defense: 40
+- Special-attack: 65
+- Special-defense: 45
+- Speed: 35
