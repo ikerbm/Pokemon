@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Nidoqueen
-## ID: 31
+## Farigiraf
+## ID: 981
 ### Tipos
-- Poison
-- Ground
+- Normal
+- Psychic
 ### Stats
-- Hp: 90
-- Attack: 92
-- Defense: 87
-- Special-attack: 75
-- Special-defense: 85
-- Speed: 76
+- Hp: 120
+- Attack: 90
+- Defense: 70
+- Special-attack: 110
+- Special-defense: 70
+- Speed: 60
