@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Arboliva
-## ID: 930
+## Pecharunt
+## ID: 1025
 ### Tipos
-- Grass
-- Normal
+- Poison
+- Ghost
 ### Stats
-- Hp: 78
-- Attack: 69
-- Defense: 90
-- Special-attack: 125
-- Special-defense: 109
-- Speed: 39
+- Hp: 88
+- Attack: 88
+- Defense: 160
+- Special-attack: 88
+- Special-defense: 88
+- Speed: 88
