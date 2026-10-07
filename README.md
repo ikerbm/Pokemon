@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Vanillite
-## ID: 582
+## Magneton
+## ID: 82
 ### Tipos
-- Ice
+- Electric
+- Steel
 ### Stats
-- Hp: 36
-- Attack: 50
-- Defense: 50
-- Special-attack: 65
-- Special-defense: 60
-- Speed: 44
+- Hp: 50
+- Attack: 60
+- Defense: 95
+- Special-attack: 120
+- Special-defense: 70
+- Speed: 70
