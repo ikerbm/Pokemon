@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Kingdra
-## ID: 230
+## Arboliva
+## ID: 930
 ### Tipos
-- Water
-- Dragon
+- Grass
+- Normal
 ### Stats
-- Hp: 75
-- Attack: 95
-- Defense: 95
-- Special-attack: 95
-- Special-defense: 95
-- Speed: 85
+- Hp: 78
+- Attack: 69
+- Defense: 90
+- Special-attack: 125
+- Special-defense: 109
+- Speed: 39
