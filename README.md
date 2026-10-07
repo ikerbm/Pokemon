@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Magneton
-## ID: 82
+## Kingdra
+## ID: 230
 ### Tipos
-- Electric
-- Steel
+- Water
+- Dragon
 ### Stats
-- Hp: 50
-- Attack: 60
+- Hp: 75
+- Attack: 95
 - Defense: 95
-- Special-attack: 120
-- Special-defense: 70
-- Speed: 70
+- Special-attack: 95
+- Special-defense: 95
+- Speed: 85
