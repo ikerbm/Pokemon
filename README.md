@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Piloswine
-## ID: 221
+## Vanillite
+## ID: 582
 ### Tipos
 - Ice
-- Ground
 ### Stats
-- Hp: 100
-- Attack: 100
-- Defense: 80
-- Special-attack: 60
+- Hp: 36
+- Attack: 50
+- Defense: 50
+- Special-attack: 65
 - Special-defense: 60
-- Speed: 50
+- Speed: 44
