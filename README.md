@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Krookodile
-## ID: 553
+## Heatmor
+## ID: 631
 ### Tipos
-- Ground
-- Dark
+- Fire
 ### Stats
-- Hp: 95
-- Attack: 117
-- Defense: 80
-- Special-attack: 65
-- Special-defense: 70
-- Speed: 92
+- Hp: 85
+- Attack: 97
+- Defense: 66
+- Special-attack: 105
+- Special-defense: 66
+- Speed: 65
