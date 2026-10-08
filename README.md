@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Pecharunt
-## ID: 1025
+## Krookodile
+## ID: 553
 ### Tipos
-- Poison
-- Ghost
+- Ground
+- Dark
 ### Stats
-- Hp: 88
-- Attack: 88
-- Defense: 160
-- Special-attack: 88
-- Special-defense: 88
-- Speed: 88
+- Hp: 95
+- Attack: 117
+- Defense: 80
+- Special-attack: 65
+- Special-defense: 70
+- Speed: 92
