@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Gastly
-## ID: 92
+## Salazzle
+## ID: 758
 ### Tipos
-- Ghost
 - Poison
+- Fire
 ### Stats
-- Hp: 30
-- Attack: 35
-- Defense: 30
-- Special-attack: 100
-- Special-defense: 35
-- Speed: 80
+- Hp: 68
+- Attack: 64
+- Defense: 60
+- Special-attack: 111
+- Special-defense: 60
+- Speed: 117
