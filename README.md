@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Heatmor
-## ID: 631
+## Gastly
+## ID: 92
 ### Tipos
-- Fire
+- Ghost
+- Poison
 ### Stats
-- Hp: 85
-- Attack: 97
-- Defense: 66
-- Special-attack: 105
-- Special-defense: 66
-- Speed: 65
+- Hp: 30
+- Attack: 35
+- Defense: 30
+- Special-attack: 100
+- Special-defense: 35
+- Speed: 80
