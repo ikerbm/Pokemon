@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Salazzle
-## ID: 758
+## Drapion
+## ID: 452
 ### Tipos
 - Poison
-- Fire
+- Dark
 ### Stats
-- Hp: 68
-- Attack: 64
-- Defense: 60
-- Special-attack: 111
-- Special-defense: 60
-- Speed: 117
+- Hp: 70
+- Attack: 90
+- Defense: 110
+- Special-attack: 60
+- Special-defense: 75
+- Speed: 95
