@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Drapion
-## ID: 452
+## Latias
+## ID: 380
 ### Tipos
-- Poison
-- Dark
+- Dragon
+- Psychic
 ### Stats
-- Hp: 70
-- Attack: 90
-- Defense: 110
-- Special-attack: 60
-- Special-defense: 75
-- Speed: 95
+- Hp: 80
+- Attack: 80
+- Defense: 90
+- Special-attack: 110
+- Special-defense: 130
+- Speed: 110
