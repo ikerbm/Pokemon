@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cetoddle
-## ID: 974
+## Nidoking
+## ID: 34
 ### Tipos
-- Ice
+- Poison
+- Ground
 ### Stats
-- Hp: 108
-- Attack: 68
-- Defense: 45
-- Special-attack: 30
-- Special-defense: 40
-- Speed: 43
+- Hp: 81
+- Attack: 102
+- Defense: 77
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 85
