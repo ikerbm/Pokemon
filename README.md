@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Latias
-## ID: 380
+## Cetoddle
+## ID: 974
 ### Tipos
-- Dragon
-- Psychic
+- Ice
 ### Stats
-- Hp: 80
-- Attack: 80
-- Defense: 90
-- Special-attack: 110
-- Special-defense: 130
-- Speed: 110
+- Hp: 108
+- Attack: 68
+- Defense: 45
+- Special-attack: 30
+- Special-defense: 40
+- Speed: 43
