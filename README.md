@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Lilligant
-## ID: 549
+## Oshawott
+## ID: 501
 ### Tipos
-- Grass
+- Water
 ### Stats
-- Hp: 70
-- Attack: 60
-- Defense: 75
-- Special-attack: 110
-- Special-defense: 75
-- Speed: 90
+- Hp: 55
+- Attack: 55
+- Defense: 45
+- Special-attack: 63
+- Special-defense: 45
+- Speed: 45
