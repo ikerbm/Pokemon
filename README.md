@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Tropius
-## ID: 357
+## Mamoswine
+## ID: 473
 ### Tipos
-- Grass
-- Flying
+- Ice
+- Ground
 ### Stats
-- Hp: 99
-- Attack: 68
-- Defense: 83
-- Special-attack: 72
-- Special-defense: 87
-- Speed: 51
+- Hp: 110
+- Attack: 130
+- Defense: 80
+- Special-attack: 70
+- Special-defense: 60
+- Speed: 80
