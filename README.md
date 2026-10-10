@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Mamoswine
-## ID: 473
+## Machamp
+## ID: 68
 ### Tipos
-- Ice
-- Ground
+- Fighting
 ### Stats
-- Hp: 110
+- Hp: 90
 - Attack: 130
 - Defense: 80
-- Special-attack: 70
-- Special-defense: 60
-- Speed: 80
+- Special-attack: 65
+- Special-defense: 85
+- Speed: 55
