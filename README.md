@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Nidoking
-## ID: 34
+## Iron-moth
+## ID: 994
 ### Tipos
+- Fire
 - Poison
-- Ground
 ### Stats
-- Hp: 81
-- Attack: 102
-- Defense: 77
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 85
+- Hp: 80
+- Attack: 70
+- Defense: 60
+- Special-attack: 140
+- Special-defense: 110
+- Speed: 110
