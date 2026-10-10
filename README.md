@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Iron-moth
-## ID: 994
+## Lilligant
+## ID: 549
 ### Tipos
-- Fire
-- Poison
+- Grass
 ### Stats
-- Hp: 80
-- Attack: 70
-- Defense: 60
-- Special-attack: 140
-- Special-defense: 110
-- Speed: 110
+- Hp: 70
+- Attack: 60
+- Defense: 75
+- Special-attack: 110
+- Special-defense: 75
+- Speed: 90
