@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Oshawott
-## ID: 501
+## Tropius
+## ID: 357
 ### Tipos
-- Water
+- Grass
+- Flying
 ### Stats
-- Hp: 55
-- Attack: 55
-- Defense: 45
-- Special-attack: 63
-- Special-defense: 45
-- Speed: 45
+- Hp: 99
+- Attack: 68
+- Defense: 83
+- Special-attack: 72
+- Special-defense: 87
+- Speed: 51
