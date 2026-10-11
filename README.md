@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Hakamo-o
-## ID: 783
+## Grookey
+## ID: 810
 ### Tipos
-- Dragon
-- Fighting
+- Grass
 ### Stats
-- Hp: 55
-- Attack: 75
-- Defense: 90
-- Special-attack: 65
-- Special-defense: 70
+- Hp: 50
+- Attack: 65
+- Defense: 50
+- Special-attack: 40
+- Special-defense: 40
 - Speed: 65
