@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Grookey
-## ID: 810
+## Garbodor
+## ID: 569
 ### Tipos
-- Grass
+- Poison
 ### Stats
-- Hp: 50
-- Attack: 65
-- Defense: 50
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 65
+- Hp: 80
+- Attack: 95
+- Defense: 82
+- Special-attack: 60
+- Special-defense: 82
+- Speed: 75
