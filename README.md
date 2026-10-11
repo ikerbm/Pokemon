@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Machamp
-## ID: 68
+## Hakamo-o
+## ID: 783
 ### Tipos
+- Dragon
 - Fighting
 ### Stats
-- Hp: 90
-- Attack: 130
-- Defense: 80
+- Hp: 55
+- Attack: 75
+- Defense: 90
 - Special-attack: 65
-- Special-defense: 85
-- Speed: 55
+- Special-defense: 70
+- Speed: 65
