@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Garbodor
-## ID: 569
+## Stunfisk
+## ID: 618
 ### Tipos
-- Poison
+- Ground
+- Electric
 ### Stats
-- Hp: 80
-- Attack: 95
-- Defense: 82
-- Special-attack: 60
-- Special-defense: 82
-- Speed: 75
+- Hp: 109
+- Attack: 66
+- Defense: 84
+- Special-attack: 81
+- Special-defense: 99
+- Speed: 32
