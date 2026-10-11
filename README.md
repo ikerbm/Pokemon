@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Stunfisk
-## ID: 618
+## Necrozma
+## ID: 800
 ### Tipos
-- Ground
-- Electric
+- Psychic
 ### Stats
-- Hp: 109
-- Attack: 66
-- Defense: 84
-- Special-attack: 81
-- Special-defense: 99
-- Speed: 32
+- Hp: 97
+- Attack: 107
+- Defense: 101
+- Special-attack: 127
+- Special-defense: 89
+- Speed: 79
