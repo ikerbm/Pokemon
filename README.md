@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Necrozma
-## ID: 800
+## Dracovish
+## ID: 882
 ### Tipos
-- Psychic
+- Water
+- Dragon
 ### Stats
-- Hp: 97
-- Attack: 107
-- Defense: 101
-- Special-attack: 127
-- Special-defense: 89
-- Speed: 79
+- Hp: 90
+- Attack: 90
+- Defense: 100
+- Special-attack: 70
+- Special-defense: 80
+- Speed: 75
