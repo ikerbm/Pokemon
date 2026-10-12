@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dracovish
-## ID: 882
+## Charizard
+## ID: 6
 ### Tipos
-- Water
-- Dragon
+- Fire
+- Flying
 ### Stats
-- Hp: 90
-- Attack: 90
-- Defense: 100
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 75
+- Hp: 78
+- Attack: 84
+- Defense: 78
+- Special-attack: 109
+- Special-defense: 85
+- Speed: 100
