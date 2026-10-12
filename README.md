@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Charizard
-## ID: 6
+## Froakie
+## ID: 656
 ### Tipos
-- Fire
-- Flying
+- Water
 ### Stats
-- Hp: 78
-- Attack: 84
-- Defense: 78
-- Special-attack: 109
-- Special-defense: 85
-- Speed: 100
+- Hp: 41
+- Attack: 56
+- Defense: 40
+- Special-attack: 62
+- Special-defense: 44
+- Speed: 71
