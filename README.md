@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Froakie
-## ID: 656
+## Volcarona
+## ID: 637
 ### Tipos
-- Water
+- Bug
+- Fire
 ### Stats
-- Hp: 41
-- Attack: 56
-- Defense: 40
-- Special-attack: 62
-- Special-defense: 44
-- Speed: 71
+- Hp: 85
+- Attack: 60
+- Defense: 65
+- Special-attack: 135
+- Special-defense: 105
+- Speed: 100
