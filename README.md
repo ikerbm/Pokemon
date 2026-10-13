@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Meloetta-aria
-## ID: 648
+## Quilava
+## ID: 156
 ### Tipos
-- Normal
-- Psychic
+- Fire
 ### Stats
-- Hp: 100
-- Attack: 77
-- Defense: 77
-- Special-attack: 128
-- Special-defense: 128
-- Speed: 90
+- Hp: 58
+- Attack: 64
+- Defense: 58
+- Special-attack: 80
+- Special-defense: 65
+- Speed: 80
