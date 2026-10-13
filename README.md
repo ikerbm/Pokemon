@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Volcarona
-## ID: 637
+## Porygon2
+## ID: 233
 ### Tipos
-- Bug
-- Fire
+- Normal
 ### Stats
 - Hp: 85
-- Attack: 60
-- Defense: 65
-- Special-attack: 135
-- Special-defense: 105
-- Speed: 100
+- Attack: 80
+- Defense: 90
+- Special-attack: 105
+- Special-defense: 95
+- Speed: 60
