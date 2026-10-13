@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Porygon2
-## ID: 233
+## Meloetta-aria
+## ID: 648
 ### Tipos
 - Normal
+- Psychic
 ### Stats
-- Hp: 85
-- Attack: 80
-- Defense: 90
-- Special-attack: 105
-- Special-defense: 95
-- Speed: 60
+- Hp: 100
+- Attack: 77
+- Defense: 77
+- Special-attack: 128
+- Special-defense: 128
+- Speed: 90
