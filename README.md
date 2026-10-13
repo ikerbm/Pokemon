@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Quilava
-## ID: 156
+## Drakloak
+## ID: 886
 ### Tipos
-- Fire
+- Dragon
+- Ghost
 ### Stats
-- Hp: 58
-- Attack: 64
-- Defense: 58
-- Special-attack: 80
-- Special-defense: 65
-- Speed: 80
+- Hp: 68
+- Attack: 80
+- Defense: 50
+- Special-attack: 60
+- Special-defense: 50
+- Speed: 102
