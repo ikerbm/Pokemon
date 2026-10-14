@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Oshawott
-## ID: 501
+## Brionne
+## ID: 729
 ### Tipos
 - Water
 ### Stats
-- Hp: 55
-- Attack: 55
-- Defense: 45
-- Special-attack: 63
-- Special-defense: 45
-- Speed: 45
+- Hp: 60
+- Attack: 69
+- Defense: 69
+- Special-attack: 91
+- Special-defense: 81
+- Speed: 50
