@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Vespiquen
-## ID: 416
+## Oshawott
+## ID: 501
 ### Tipos
-- Bug
-- Flying
+- Water
 ### Stats
-- Hp: 70
-- Attack: 80
-- Defense: 102
-- Special-attack: 80
-- Special-defense: 102
-- Speed: 40
+- Hp: 55
+- Attack: 55
+- Defense: 45
+- Special-attack: 63
+- Special-defense: 45
+- Speed: 45
