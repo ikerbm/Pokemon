@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Brionne
-## ID: 729
+## Wooloo
+## ID: 831
 ### Tipos
-- Water
+- Normal
 ### Stats
-- Hp: 60
-- Attack: 69
-- Defense: 69
-- Special-attack: 91
-- Special-defense: 81
-- Speed: 50
+- Hp: 42
+- Attack: 40
+- Defense: 55
+- Special-attack: 40
+- Special-defense: 45
+- Speed: 48
