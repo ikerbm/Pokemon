@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Wooloo
-## ID: 831
+## Flutter-mane
+## ID: 987
 ### Tipos
-- Normal
+- Ghost
+- Fairy
 ### Stats
-- Hp: 42
-- Attack: 40
+- Hp: 55
+- Attack: 55
 - Defense: 55
-- Special-attack: 40
-- Special-defense: 45
-- Speed: 48
+- Special-attack: 135
+- Special-defense: 135
+- Speed: 135
