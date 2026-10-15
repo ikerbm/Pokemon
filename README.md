@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Machoke
-## ID: 67
+## Cloyster
+## ID: 91
 ### Tipos
-- Fighting
+- Water
+- Ice
 ### Stats
-- Hp: 80
-- Attack: 100
-- Defense: 70
-- Special-attack: 50
-- Special-defense: 60
-- Speed: 45
+- Hp: 50
+- Attack: 95
+- Defense: 180
+- Special-attack: 85
+- Special-defense: 45
+- Speed: 70
