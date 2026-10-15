@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Swanna
-## ID: 581
+## Solosis
+## ID: 577
 ### Tipos
-- Water
-- Flying
+- Psychic
 ### Stats
-- Hp: 75
-- Attack: 87
-- Defense: 63
-- Special-attack: 87
-- Special-defense: 63
-- Speed: 98
+- Hp: 45
+- Attack: 30
+- Defense: 40
+- Special-attack: 105
+- Special-defense: 50
+- Speed: 20
