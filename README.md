@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Cloyster
-## ID: 91
+## Ursaluna
+## ID: 901
 ### Tipos
-- Water
-- Ice
+- Ground
+- Normal
 ### Stats
-- Hp: 50
-- Attack: 95
-- Defense: 180
-- Special-attack: 85
-- Special-defense: 45
-- Speed: 70
+- Hp: 130
+- Attack: 140
+- Defense: 105
+- Special-attack: 45
+- Special-defense: 80
+- Speed: 50
