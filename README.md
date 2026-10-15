@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Solosis
-## ID: 577
+## Magby
+## ID: 240
 ### Tipos
-- Psychic
+- Fire
 ### Stats
 - Hp: 45
-- Attack: 30
-- Defense: 40
-- Special-attack: 105
-- Special-defense: 50
-- Speed: 20
+- Attack: 75
+- Defense: 37
+- Special-attack: 70
+- Special-defense: 55
+- Speed: 83
