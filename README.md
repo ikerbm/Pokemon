@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ursaluna
-## ID: 901
+## Spidops
+## ID: 918
 ### Tipos
-- Ground
-- Normal
+- Bug
 ### Stats
-- Hp: 130
-- Attack: 140
-- Defense: 105
-- Special-attack: 45
-- Special-defense: 80
-- Speed: 50
+- Hp: 60
+- Attack: 79
+- Defense: 92
+- Special-attack: 52
+- Special-defense: 86
+- Speed: 35
