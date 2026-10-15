@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Spidops
-## ID: 918
+## Swanna
+## ID: 581
 ### Tipos
-- Bug
+- Water
+- Flying
 ### Stats
-- Hp: 60
-- Attack: 79
-- Defense: 92
-- Special-attack: 52
-- Special-defense: 86
-- Speed: 35
+- Hp: 75
+- Attack: 87
+- Defense: 63
+- Special-attack: 87
+- Special-defense: 63
+- Speed: 98
