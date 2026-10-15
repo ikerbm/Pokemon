@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Flutter-mane
-## ID: 987
+## Machoke
+## ID: 67
 ### Tipos
-- Ghost
-- Fairy
+- Fighting
 ### Stats
-- Hp: 55
-- Attack: 55
-- Defense: 55
-- Special-attack: 135
-- Special-defense: 135
-- Speed: 135
+- Hp: 80
+- Attack: 100
+- Defense: 70
+- Special-attack: 50
+- Special-defense: 60
+- Speed: 45
