@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Whirlipede
-## ID: 544
+## Minior-red-meteor
+## ID: 774
 ### Tipos
-- Bug
-- Poison
+- Rock
+- Flying
 ### Stats
-- Hp: 40
-- Attack: 55
-- Defense: 99
-- Special-attack: 40
-- Special-defense: 79
-- Speed: 47
+- Hp: 60
+- Attack: 60
+- Defense: 100
+- Special-attack: 60
+- Special-defense: 100
+- Speed: 60
