@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Bombirdier
-## ID: 962
+## Celebi
+## ID: 251
 ### Tipos
-- Flying
-- Dark
+- Psychic
+- Grass
 ### Stats
-- Hp: 70
-- Attack: 103
-- Defense: 85
-- Special-attack: 60
-- Special-defense: 85
-- Speed: 82
+- Hp: 100
+- Attack: 100
+- Defense: 100
+- Special-attack: 100
+- Special-defense: 100
+- Speed: 100
