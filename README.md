@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Celebi
-## ID: 251
+## Whirlipede
+## ID: 544
 ### Tipos
-- Psychic
-- Grass
+- Bug
+- Poison
 ### Stats
-- Hp: 100
-- Attack: 100
-- Defense: 100
-- Special-attack: 100
-- Special-defense: 100
-- Speed: 100
+- Hp: 40
+- Attack: 55
+- Defense: 99
+- Special-attack: 40
+- Special-defense: 79
+- Speed: 47
