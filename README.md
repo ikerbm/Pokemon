@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Magby
-## ID: 240
+## Farfetchd
+## ID: 83
 ### Tipos
-- Fire
+- Normal
+- Flying
 ### Stats
-- Hp: 45
-- Attack: 75
-- Defense: 37
-- Special-attack: 70
-- Special-defense: 55
-- Speed: 83
+- Hp: 52
+- Attack: 90
+- Defense: 55
+- Special-attack: 58
+- Special-defense: 62
+- Speed: 60
