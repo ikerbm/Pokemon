@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Rookidee
-## ID: 821
+## Bombirdier
+## ID: 962
 ### Tipos
 - Flying
+- Dark
 ### Stats
-- Hp: 38
-- Attack: 47
-- Defense: 35
-- Special-attack: 33
-- Special-defense: 35
-- Speed: 57
+- Hp: 70
+- Attack: 103
+- Defense: 85
+- Special-attack: 60
+- Special-defense: 85
+- Speed: 82
