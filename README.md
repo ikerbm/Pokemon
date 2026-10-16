@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Farfetchd
-## ID: 83
+## Buzzwole
+## ID: 794
 ### Tipos
-- Normal
-- Flying
+- Bug
+- Fighting
 ### Stats
-- Hp: 52
-- Attack: 90
-- Defense: 55
-- Special-attack: 58
-- Special-defense: 62
-- Speed: 60
+- Hp: 107
+- Attack: 139
+- Defense: 139
+- Special-attack: 53
+- Special-defense: 53
+- Speed: 79
