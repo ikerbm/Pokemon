@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Minior-red-meteor
-## ID: 774
+## Ledyba
+## ID: 165
 ### Tipos
-- Rock
+- Bug
 - Flying
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 100
-- Special-attack: 60
-- Special-defense: 100
-- Speed: 60
+- Hp: 40
+- Attack: 20
+- Defense: 30
+- Special-attack: 40
+- Special-defense: 80
+- Speed: 55
