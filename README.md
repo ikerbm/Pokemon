@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Ledyba
-## ID: 165
+## Nickit
+## ID: 827
 ### Tipos
-- Bug
-- Flying
+- Dark
 ### Stats
 - Hp: 40
-- Attack: 20
-- Defense: 30
-- Special-attack: 40
-- Special-defense: 80
-- Speed: 55
+- Attack: 28
+- Defense: 28
+- Special-attack: 47
+- Special-defense: 52
+- Speed: 50
