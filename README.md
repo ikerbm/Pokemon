@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Guzzlord
-## ID: 799
+## Skiddo
+## ID: 672
 ### Tipos
-- Dark
-- Dragon
+- Grass
 ### Stats
-- Hp: 223
-- Attack: 101
-- Defense: 53
-- Special-attack: 97
-- Special-defense: 53
-- Speed: 43
+- Hp: 66
+- Attack: 65
+- Defense: 48
+- Special-attack: 62
+- Special-defense: 57
+- Speed: 52
