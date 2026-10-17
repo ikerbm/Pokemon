@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Ferroseed
-## ID: 597
+## Guzzlord
+## ID: 799
 ### Tipos
-- Grass
-- Steel
+- Dark
+- Dragon
 ### Stats
-- Hp: 44
-- Attack: 50
-- Defense: 91
-- Special-attack: 24
-- Special-defense: 86
-- Speed: 10
+- Hp: 223
+- Attack: 101
+- Defense: 53
+- Special-attack: 97
+- Special-defense: 53
+- Speed: 43
