@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Flygon
-## ID: 330
+## Ferroseed
+## ID: 597
 ### Tipos
-- Ground
-- Dragon
+- Grass
+- Steel
 ### Stats
-- Hp: 80
-- Attack: 100
-- Defense: 80
-- Special-attack: 80
-- Special-defense: 80
-- Speed: 100
+- Hp: 44
+- Attack: 50
+- Defense: 91
+- Special-attack: 24
+- Special-defense: 86
+- Speed: 10
