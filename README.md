@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Nickit
-## ID: 827
+## Flygon
+## ID: 330
 ### Tipos
-- Dark
+- Ground
+- Dragon
 ### Stats
-- Hp: 40
-- Attack: 28
-- Defense: 28
-- Special-attack: 47
-- Special-defense: 52
-- Speed: 50
+- Hp: 80
+- Attack: 100
+- Defense: 80
+- Special-attack: 80
+- Special-defense: 80
+- Speed: 100
