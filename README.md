@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Skiddo
-## ID: 672
+## Cacnea
+## ID: 331
 ### Tipos
 - Grass
 ### Stats
-- Hp: 66
-- Attack: 65
-- Defense: 48
-- Special-attack: 62
-- Special-defense: 57
-- Speed: 52
+- Hp: 50
+- Attack: 85
+- Defense: 40
+- Special-attack: 85
+- Special-defense: 40
+- Speed: 35
