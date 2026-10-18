@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Kingambit
-## ID: 983
+## Alakazam
+## ID: 65
 ### Tipos
-- Dark
-- Steel
+- Psychic
 ### Stats
-- Hp: 100
-- Attack: 135
-- Defense: 120
-- Special-attack: 60
-- Special-defense: 85
-- Speed: 50
+- Hp: 55
+- Attack: 50
+- Defense: 45
+- Special-attack: 135
+- Special-defense: 95
+- Speed: 120
