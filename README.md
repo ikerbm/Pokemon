@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Gorebyss
-## ID: 368
+## Snivy
+## ID: 495
 ### Tipos
-- Water
+- Grass
 ### Stats
-- Hp: 55
-- Attack: 84
-- Defense: 105
-- Special-attack: 114
-- Special-defense: 75
-- Speed: 52
+- Hp: 45
+- Attack: 45
+- Defense: 55
+- Special-attack: 45
+- Special-defense: 55
+- Speed: 63
