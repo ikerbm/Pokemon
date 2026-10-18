@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Snivy
-## ID: 495
+## Marill
+## ID: 183
 ### Tipos
-- Grass
+- Water
+- Fairy
 ### Stats
-- Hp: 45
-- Attack: 45
-- Defense: 55
-- Special-attack: 45
-- Special-defense: 55
-- Speed: 63
+- Hp: 70
+- Attack: 20
+- Defense: 50
+- Special-attack: 20
+- Special-defense: 50
+- Speed: 40
