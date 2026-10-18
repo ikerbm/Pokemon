@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Marill
-## ID: 183
+## Kingambit
+## ID: 983
 ### Tipos
-- Water
-- Fairy
+- Dark
+- Steel
 ### Stats
-- Hp: 70
-- Attack: 20
-- Defense: 50
-- Special-attack: 20
-- Special-defense: 50
-- Speed: 40
+- Hp: 100
+- Attack: 135
+- Defense: 120
+- Special-attack: 60
+- Special-defense: 85
+- Speed: 50
