@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Surskit
-## ID: 283
+## Regieleki
+## ID: 894
 ### Tipos
-- Bug
-- Water
+- Electric
 ### Stats
-- Hp: 40
-- Attack: 30
-- Defense: 32
-- Special-attack: 50
-- Special-defense: 52
-- Speed: 65
+- Hp: 80
+- Attack: 100
+- Defense: 50
+- Special-attack: 100
+- Special-defense: 50
+- Speed: 200
