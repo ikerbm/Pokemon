@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cacnea
-## ID: 331
+## Surskit
+## ID: 283
 ### Tipos
-- Grass
+- Bug
+- Water
 ### Stats
-- Hp: 50
-- Attack: 85
-- Defense: 40
-- Special-attack: 85
-- Special-defense: 40
-- Speed: 35
+- Hp: 40
+- Attack: 30
+- Defense: 32
+- Special-attack: 50
+- Special-defense: 52
+- Speed: 65
