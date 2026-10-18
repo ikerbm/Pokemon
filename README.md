@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Regieleki
-## ID: 894
+## Gorebyss
+## ID: 368
 ### Tipos
-- Electric
+- Water
 ### Stats
-- Hp: 80
-- Attack: 100
-- Defense: 50
-- Special-attack: 100
-- Special-defense: 50
-- Speed: 200
+- Hp: 55
+- Attack: 84
+- Defense: 105
+- Special-attack: 114
+- Special-defense: 75
+- Speed: 52
