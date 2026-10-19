@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Gumshoos
-## ID: 735
+## Sylveon
+## ID: 700
 ### Tipos
-- Normal
+- Fairy
 ### Stats
-- Hp: 88
-- Attack: 110
-- Defense: 60
-- Special-attack: 55
-- Special-defense: 60
-- Speed: 45
+- Hp: 95
+- Attack: 65
+- Defense: 65
+- Special-attack: 110
+- Special-defense: 130
+- Speed: 60
