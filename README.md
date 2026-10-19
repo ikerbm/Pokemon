@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Squirtle
-## ID: 7
+## Celebi
+## ID: 251
 ### Tipos
-- Water
+- Psychic
+- Grass
 ### Stats
-- Hp: 44
-- Attack: 48
-- Defense: 65
-- Special-attack: 50
-- Special-defense: 64
-- Speed: 43
+- Hp: 100
+- Attack: 100
+- Defense: 100
+- Special-attack: 100
+- Special-defense: 100
+- Speed: 100
