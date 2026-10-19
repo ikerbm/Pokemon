@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Celebi
-## ID: 251
+## Cherubi
+## ID: 420
 ### Tipos
-- Psychic
 - Grass
 ### Stats
-- Hp: 100
-- Attack: 100
-- Defense: 100
-- Special-attack: 100
-- Special-defense: 100
-- Speed: 100
+- Hp: 45
+- Attack: 35
+- Defense: 45
+- Special-attack: 62
+- Special-defense: 53
+- Speed: 35
