@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Sylveon
-## ID: 700
+## Squirtle
+## ID: 7
 ### Tipos
-- Fairy
+- Water
 ### Stats
-- Hp: 95
-- Attack: 65
+- Hp: 44
+- Attack: 48
 - Defense: 65
-- Special-attack: 110
-- Special-defense: 130
-- Speed: 60
+- Special-attack: 50
+- Special-defense: 64
+- Speed: 43
