@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Eelektross
-## ID: 604
+## Gumshoos
+## ID: 735
 ### Tipos
-- Electric
+- Normal
 ### Stats
-- Hp: 85
-- Attack: 115
-- Defense: 80
-- Special-attack: 105
-- Special-defense: 80
-- Speed: 50
+- Hp: 88
+- Attack: 110
+- Defense: 60
+- Special-attack: 55
+- Special-defense: 60
+- Speed: 45
