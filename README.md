@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Trubbish
-## ID: 568
+## Tinkatuff
+## ID: 958
 ### Tipos
-- Poison
+- Fairy
+- Steel
 ### Stats
-- Hp: 50
-- Attack: 50
-- Defense: 62
-- Special-attack: 40
-- Special-defense: 62
-- Speed: 65
+- Hp: 65
+- Attack: 55
+- Defense: 55
+- Special-attack: 45
+- Special-defense: 82
+- Speed: 78
