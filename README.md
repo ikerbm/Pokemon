@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Virizion
-## ID: 640
+## Zoroark
+## ID: 571
 ### Tipos
-- Grass
-- Fighting
+- Dark
 ### Stats
-- Hp: 91
-- Attack: 90
-- Defense: 72
-- Special-attack: 90
-- Special-defense: 129
-- Speed: 108
+- Hp: 60
+- Attack: 105
+- Defense: 60
+- Special-attack: 120
+- Special-defense: 60
+- Speed: 105
