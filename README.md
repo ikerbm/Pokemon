@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cherubi
-## ID: 420
+## Swoobat
+## ID: 528
 ### Tipos
-- Grass
+- Psychic
+- Flying
 ### Stats
-- Hp: 45
-- Attack: 35
-- Defense: 45
-- Special-attack: 62
-- Special-defense: 53
-- Speed: 35
+- Hp: 67
+- Attack: 57
+- Defense: 55
+- Special-attack: 77
+- Special-defense: 55
+- Speed: 114
