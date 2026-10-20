@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Tinkatuff
-## ID: 958
+## Virizion
+## ID: 640
 ### Tipos
-- Fairy
-- Steel
+- Grass
+- Fighting
 ### Stats
-- Hp: 65
-- Attack: 55
-- Defense: 55
-- Special-attack: 45
-- Special-defense: 82
-- Speed: 78
+- Hp: 91
+- Attack: 90
+- Defense: 72
+- Special-attack: 90
+- Special-defense: 129
+- Speed: 108
