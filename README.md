@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Swoobat
-## ID: 528
+## Trubbish
+## ID: 568
 ### Tipos
-- Psychic
-- Flying
+- Poison
 ### Stats
-- Hp: 67
-- Attack: 57
-- Defense: 55
-- Special-attack: 77
-- Special-defense: 55
-- Speed: 114
+- Hp: 50
+- Attack: 50
+- Defense: 62
+- Special-attack: 40
+- Special-defense: 62
+- Speed: 65
