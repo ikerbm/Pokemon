@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Regirock
-## ID: 377
+## Charmander
+## ID: 4
 ### Tipos
-- Rock
+- Fire
 ### Stats
-- Hp: 80
-- Attack: 100
-- Defense: 200
-- Special-attack: 50
-- Special-defense: 100
-- Speed: 50
+- Hp: 39
+- Attack: 52
+- Defense: 43
+- Special-attack: 60
+- Special-defense: 50
+- Speed: 65
