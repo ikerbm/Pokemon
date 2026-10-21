@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Trubbish
-## ID: 568
+## Magnemite
+## ID: 81
 ### Tipos
-- Poison
+- Electric
+- Steel
 ### Stats
-- Hp: 50
-- Attack: 50
-- Defense: 62
-- Special-attack: 40
-- Special-defense: 62
-- Speed: 65
+- Hp: 25
+- Attack: 35
+- Defense: 70
+- Special-attack: 95
+- Special-defense: 55
+- Speed: 45
