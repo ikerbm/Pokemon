@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Spinda
-## ID: 327
+## Regirock
+## ID: 377
 ### Tipos
-- Normal
+- Rock
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 60
-- Special-attack: 60
-- Special-defense: 60
-- Speed: 60
+- Hp: 80
+- Attack: 100
+- Defense: 200
+- Special-attack: 50
+- Special-defense: 100
+- Speed: 50
