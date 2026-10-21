@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Volcanion
-## ID: 721
+## Tangela
+## ID: 114
 ### Tipos
-- Fire
-- Water
+- Grass
 ### Stats
-- Hp: 80
-- Attack: 110
-- Defense: 120
-- Special-attack: 130
-- Special-defense: 90
-- Speed: 70
+- Hp: 65
+- Attack: 55
+- Defense: 115
+- Special-attack: 100
+- Special-defense: 40
+- Speed: 60
