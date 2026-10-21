@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Charmander
-## ID: 4
+## Trubbish
+## ID: 568
 ### Tipos
-- Fire
+- Poison
 ### Stats
-- Hp: 39
-- Attack: 52
-- Defense: 43
-- Special-attack: 60
-- Special-defense: 50
+- Hp: 50
+- Attack: 50
+- Defense: 62
+- Special-attack: 40
+- Special-defense: 62
 - Speed: 65
