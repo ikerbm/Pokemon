@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Tangela
-## ID: 114
+## Spinda
+## ID: 327
 ### Tipos
-- Grass
+- Normal
 ### Stats
-- Hp: 65
-- Attack: 55
-- Defense: 115
-- Special-attack: 100
-- Special-defense: 40
+- Hp: 60
+- Attack: 60
+- Defense: 60
+- Special-attack: 60
+- Special-defense: 60
 - Speed: 60
