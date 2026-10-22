@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Magnemite
-## ID: 81
+## Wooper
+## ID: 194
 ### Tipos
-- Electric
-- Steel
+- Water
+- Ground
 ### Stats
-- Hp: 25
-- Attack: 35
-- Defense: 70
-- Special-attack: 95
-- Special-defense: 55
-- Speed: 45
+- Hp: 55
+- Attack: 45
+- Defense: 45
+- Special-attack: 25
+- Special-defense: 25
+- Speed: 15
