@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Sizzlipede
-## ID: 850
+## Hawlucha
+## ID: 701
 ### Tipos
-- Fire
-- Bug
+- Fighting
+- Flying
 ### Stats
-- Hp: 50
-- Attack: 65
-- Defense: 45
-- Special-attack: 50
-- Special-defense: 50
-- Speed: 45
+- Hp: 78
+- Attack: 92
+- Defense: 75
+- Special-attack: 74
+- Special-defense: 63
+- Speed: 118
