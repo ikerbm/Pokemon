@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Greedent
-## ID: 820
+## Magikarp
+## ID: 129
 ### Tipos
-- Normal
+- Water
 ### Stats
-- Hp: 120
-- Attack: 95
-- Defense: 95
-- Special-attack: 55
-- Special-defense: 75
-- Speed: 20
+- Hp: 20
+- Attack: 10
+- Defense: 55
+- Special-attack: 15
+- Special-defense: 20
+- Speed: 80
