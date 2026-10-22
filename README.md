@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Drakloak
-## ID: 886
+## Sizzlipede
+## ID: 850
 ### Tipos
-- Dragon
-- Ghost
+- Fire
+- Bug
 ### Stats
-- Hp: 68
-- Attack: 80
-- Defense: 50
-- Special-attack: 60
+- Hp: 50
+- Attack: 65
+- Defense: 45
+- Special-attack: 50
 - Special-defense: 50
-- Speed: 102
+- Speed: 45
