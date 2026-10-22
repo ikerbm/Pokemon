@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Magikarp
-## ID: 129
+## Drakloak
+## ID: 886
 ### Tipos
-- Water
+- Dragon
+- Ghost
 ### Stats
-- Hp: 20
-- Attack: 10
-- Defense: 55
-- Special-attack: 15
-- Special-defense: 20
-- Speed: 80
+- Hp: 68
+- Attack: 80
+- Defense: 50
+- Special-attack: 60
+- Special-defense: 50
+- Speed: 102
