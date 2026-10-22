@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Wooper
-## ID: 194
+## Greedent
+## ID: 820
 ### Tipos
-- Water
-- Ground
+- Normal
 ### Stats
-- Hp: 55
-- Attack: 45
-- Defense: 45
-- Special-attack: 25
-- Special-defense: 25
-- Speed: 15
+- Hp: 120
+- Attack: 95
+- Defense: 95
+- Special-attack: 55
+- Special-defense: 75
+- Speed: 20
