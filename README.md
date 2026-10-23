@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Ursaluna
-## ID: 901
+## Diancie
+## ID: 719
 ### Tipos
-- Ground
-- Normal
+- Rock
+- Fairy
 ### Stats
-- Hp: 130
-- Attack: 140
-- Defense: 105
-- Special-attack: 45
-- Special-defense: 80
+- Hp: 50
+- Attack: 100
+- Defense: 150
+- Special-attack: 100
+- Special-defense: 150
 - Speed: 50
