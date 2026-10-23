@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Wormadam-plant
-## ID: 413
+## Ursaluna
+## ID: 901
 ### Tipos
-- Bug
-- Grass
+- Ground
+- Normal
 ### Stats
-- Hp: 60
-- Attack: 59
-- Defense: 85
-- Special-attack: 79
-- Special-defense: 105
-- Speed: 36
+- Hp: 130
+- Attack: 140
+- Defense: 105
+- Special-attack: 45
+- Special-defense: 80
+- Speed: 50
