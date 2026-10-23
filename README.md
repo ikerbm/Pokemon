@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Wimpod
-## ID: 767
+## Houndoom
+## ID: 229
 ### Tipos
-- Bug
-- Water
+- Dark
+- Fire
 ### Stats
-- Hp: 25
-- Attack: 35
-- Defense: 40
-- Special-attack: 20
-- Special-defense: 30
-- Speed: 80
+- Hp: 75
+- Attack: 90
+- Defense: 50
+- Special-attack: 110
+- Special-defense: 80
+- Speed: 95
