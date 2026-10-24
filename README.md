@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Swinub
-## ID: 220
+## Rapidash
+## ID: 78
 ### Tipos
-- Ice
-- Ground
+- Fire
 ### Stats
-- Hp: 50
-- Attack: 50
-- Defense: 40
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 50
+- Hp: 65
+- Attack: 100
+- Defense: 70
+- Special-attack: 80
+- Special-defense: 80
+- Speed: 105
