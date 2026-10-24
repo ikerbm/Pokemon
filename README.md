@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Rapidash
-## ID: 78
+## Miltank
+## ID: 241
 ### Tipos
-- Fire
+- Normal
 ### Stats
-- Hp: 65
-- Attack: 100
-- Defense: 70
-- Special-attack: 80
-- Special-defense: 80
-- Speed: 105
+- Hp: 95
+- Attack: 80
+- Defense: 105
+- Special-attack: 40
+- Special-defense: 70
+- Speed: 100
