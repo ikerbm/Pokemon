@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Diancie
-## ID: 719
+## Swinub
+## ID: 220
 ### Tipos
-- Rock
-- Fairy
+- Ice
+- Ground
 ### Stats
 - Hp: 50
-- Attack: 100
-- Defense: 150
-- Special-attack: 100
-- Special-defense: 150
+- Attack: 50
+- Defense: 40
+- Special-attack: 30
+- Special-defense: 30
 - Speed: 50
