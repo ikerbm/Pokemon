@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Marowak
-## ID: 105
+## Greedent
+## ID: 820
 ### Tipos
-- Ground
+- Normal
 ### Stats
-- Hp: 60
-- Attack: 80
-- Defense: 110
-- Special-attack: 50
-- Special-defense: 80
-- Speed: 45
+- Hp: 120
+- Attack: 95
+- Defense: 95
+- Special-attack: 55
+- Special-defense: 75
+- Speed: 20
