@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Fletchling
-## ID: 661
+## Misdreavus
+## ID: 200
 ### Tipos
-- Normal
-- Flying
+- Ghost
 ### Stats
-- Hp: 45
-- Attack: 50
-- Defense: 43
-- Special-attack: 40
-- Special-defense: 38
-- Speed: 62
+- Hp: 60
+- Attack: 60
+- Defense: 60
+- Special-attack: 85
+- Special-defense: 85
+- Speed: 85
