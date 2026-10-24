@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Bastiodon
-## ID: 411
+## Marowak
+## ID: 105
 ### Tipos
-- Rock
-- Steel
+- Ground
 ### Stats
 - Hp: 60
-- Attack: 52
-- Defense: 168
-- Special-attack: 47
-- Special-defense: 138
-- Speed: 30
+- Attack: 80
+- Defense: 110
+- Special-attack: 50
+- Special-defense: 80
+- Speed: 45
