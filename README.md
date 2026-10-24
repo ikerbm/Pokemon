@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Miltank
-## ID: 241
+## Bastiodon
+## ID: 411
 ### Tipos
-- Normal
+- Rock
+- Steel
 ### Stats
-- Hp: 95
-- Attack: 80
-- Defense: 105
-- Special-attack: 40
-- Special-defense: 70
-- Speed: 100
+- Hp: 60
+- Attack: 52
+- Defense: 168
+- Special-attack: 47
+- Special-defense: 138
+- Speed: 30
