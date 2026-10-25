@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Goldeen
-## ID: 118
+## Misdreavus
+## ID: 200
 ### Tipos
-- Water
+- Ghost
 ### Stats
-- Hp: 45
-- Attack: 67
+- Hp: 60
+- Attack: 60
 - Defense: 60
-- Special-attack: 35
-- Special-defense: 50
-- Speed: 63
+- Special-attack: 85
+- Special-defense: 85
+- Speed: 85
