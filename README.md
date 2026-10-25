@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Misdreavus
-## ID: 200
+## Vanilluxe
+## ID: 584
 ### Tipos
-- Ghost
+- Ice
 ### Stats
-- Hp: 60
-- Attack: 60
-- Defense: 60
-- Special-attack: 85
-- Special-defense: 85
-- Speed: 85
+- Hp: 71
+- Attack: 95
+- Defense: 85
+- Special-attack: 110
+- Special-defense: 95
+- Speed: 79
