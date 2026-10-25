@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Vanilluxe
-## ID: 584
+## Heatmor
+## ID: 631
 ### Tipos
-- Ice
+- Fire
 ### Stats
-- Hp: 71
-- Attack: 95
-- Defense: 85
-- Special-attack: 110
-- Special-defense: 95
-- Speed: 79
+- Hp: 85
+- Attack: 97
+- Defense: 66
+- Special-attack: 105
+- Special-defense: 66
+- Speed: 65
