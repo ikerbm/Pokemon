@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Spectrier
-## ID: 897
+## Alcremie
+## ID: 869
 ### Tipos
-- Ghost
+- Fairy
 ### Stats
-- Hp: 100
-- Attack: 65
-- Defense: 60
-- Special-attack: 145
-- Special-defense: 80
-- Speed: 130
+- Hp: 65
+- Attack: 60
+- Defense: 75
+- Special-attack: 110
+- Special-defense: 121
+- Speed: 64
