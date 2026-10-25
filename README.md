@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Heatmor
-## ID: 631
+## Spectrier
+## ID: 897
 ### Tipos
-- Fire
+- Ghost
 ### Stats
-- Hp: 85
-- Attack: 97
-- Defense: 66
-- Special-attack: 105
-- Special-defense: 66
-- Speed: 65
+- Hp: 100
+- Attack: 65
+- Defense: 60
+- Special-attack: 145
+- Special-defense: 80
+- Speed: 130
