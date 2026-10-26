@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Charmeleon
-## ID: 5
+## Beartic
+## ID: 614
 ### Tipos
-- Fire
+- Ice
 ### Stats
-- Hp: 58
-- Attack: 64
-- Defense: 58
-- Special-attack: 80
-- Special-defense: 65
-- Speed: 80
+- Hp: 95
+- Attack: 130
+- Defense: 80
+- Special-attack: 70
+- Special-defense: 80
+- Speed: 50
