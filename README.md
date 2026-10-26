@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Beartic
-## ID: 614
+## Celesteela
+## ID: 797
 ### Tipos
-- Ice
+- Steel
+- Flying
 ### Stats
-- Hp: 95
-- Attack: 130
-- Defense: 80
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 50
+- Hp: 97
+- Attack: 101
+- Defense: 103
+- Special-attack: 107
+- Special-defense: 101
+- Speed: 61
