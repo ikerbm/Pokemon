@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Tapu-bulu
-## ID: 787
+## Charmeleon
+## ID: 5
 ### Tipos
-- Grass
-- Fairy
+- Fire
 ### Stats
-- Hp: 70
-- Attack: 130
-- Defense: 115
-- Special-attack: 85
-- Special-defense: 95
-- Speed: 75
+- Hp: 58
+- Attack: 64
+- Defense: 58
+- Special-attack: 80
+- Special-defense: 65
+- Speed: 80
