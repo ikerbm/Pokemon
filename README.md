@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Celesteela
-## ID: 797
+## Fearow
+## ID: 22
 ### Tipos
-- Steel
+- Normal
 - Flying
 ### Stats
-- Hp: 97
-- Attack: 101
-- Defense: 103
-- Special-attack: 107
-- Special-defense: 101
-- Speed: 61
+- Hp: 65
+- Attack: 90
+- Defense: 65
+- Special-attack: 61
+- Special-defense: 61
+- Speed: 100
