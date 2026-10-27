@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Gothitelle
-## ID: 576
+## Cramorant
+## ID: 845
 ### Tipos
-- Psychic
+- Flying
+- Water
 ### Stats
 - Hp: 70
-- Attack: 55
-- Defense: 95
-- Special-attack: 95
-- Special-defense: 110
-- Speed: 65
+- Attack: 85
+- Defense: 55
+- Special-attack: 85
+- Special-defense: 95
+- Speed: 85
