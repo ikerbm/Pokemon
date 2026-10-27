@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Espathra
-## ID: 956
+## Kyurem
+## ID: 646
 ### Tipos
-- Psychic
+- Dragon
+- Ice
 ### Stats
-- Hp: 95
-- Attack: 60
-- Defense: 60
-- Special-attack: 101
-- Special-defense: 60
-- Speed: 105
+- Hp: 125
+- Attack: 130
+- Defense: 90
+- Special-attack: 130
+- Special-defense: 90
+- Speed: 95
