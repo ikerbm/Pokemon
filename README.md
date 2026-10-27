@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Kyurem
-## ID: 646
+## Gothitelle
+## ID: 576
 ### Tipos
-- Dragon
-- Ice
+- Psychic
 ### Stats
-- Hp: 125
-- Attack: 130
-- Defense: 90
-- Special-attack: 130
-- Special-defense: 90
-- Speed: 95
+- Hp: 70
+- Attack: 55
+- Defense: 95
+- Special-attack: 95
+- Special-defense: 110
+- Speed: 65
