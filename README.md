@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Bonsly
-## ID: 438
+## Espathra
+## ID: 956
 ### Tipos
-- Rock
+- Psychic
 ### Stats
-- Hp: 50
-- Attack: 80
-- Defense: 95
-- Special-attack: 10
-- Special-defense: 45
-- Speed: 10
+- Hp: 95
+- Attack: 60
+- Defense: 60
+- Special-attack: 101
+- Special-defense: 60
+- Speed: 105
