@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Cramorant
-## ID: 845
+## Cetoddle
+## ID: 974
 ### Tipos
-- Flying
-- Water
+- Ice
 ### Stats
-- Hp: 70
-- Attack: 85
-- Defense: 55
-- Special-attack: 85
-- Special-defense: 95
-- Speed: 85
+- Hp: 108
+- Attack: 68
+- Defense: 45
+- Special-attack: 30
+- Special-defense: 40
+- Speed: 43
