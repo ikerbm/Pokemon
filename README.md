@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Cetoddle
-## ID: 974
+## Gorebyss
+## ID: 368
 ### Tipos
-- Ice
+- Water
 ### Stats
-- Hp: 108
-- Attack: 68
-- Defense: 45
-- Special-attack: 30
-- Special-defense: 40
-- Speed: 43
+- Hp: 55
+- Attack: 84
+- Defense: 105
+- Special-attack: 114
+- Special-defense: 75
+- Speed: 52
