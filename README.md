@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Gorebyss
-## ID: 368
+## Dhelmise
+## ID: 781
 ### Tipos
-- Water
+- Ghost
+- Grass
 ### Stats
-- Hp: 55
-- Attack: 84
-- Defense: 105
-- Special-attack: 114
-- Special-defense: 75
-- Speed: 52
+- Hp: 70
+- Attack: 131
+- Defense: 100
+- Special-attack: 86
+- Special-defense: 90
+- Speed: 40
