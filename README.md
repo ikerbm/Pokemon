@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Dhelmise
-## ID: 781
+## Basculin-red-striped
+## ID: 550
 ### Tipos
-- Ghost
-- Grass
+- Water
 ### Stats
 - Hp: 70
-- Attack: 131
-- Defense: 100
-- Special-attack: 86
-- Special-defense: 90
-- Speed: 40
+- Attack: 92
+- Defense: 65
+- Special-attack: 80
+- Special-defense: 55
+- Speed: 98
