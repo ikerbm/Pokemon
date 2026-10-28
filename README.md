@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Basculin-red-striped
-## ID: 550
+## Dudunsparce-two-segment
+## ID: 982
 ### Tipos
-- Water
+- Normal
 ### Stats
-- Hp: 70
-- Attack: 92
-- Defense: 65
-- Special-attack: 80
-- Special-defense: 55
-- Speed: 98
+- Hp: 125
+- Attack: 100
+- Defense: 80
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 55
