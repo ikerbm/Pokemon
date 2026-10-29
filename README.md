@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Gible
-## ID: 443
+## Drapion
+## ID: 452
 ### Tipos
-- Dragon
-- Ground
+- Poison
+- Dark
 ### Stats
-- Hp: 58
-- Attack: 70
-- Defense: 45
-- Special-attack: 40
-- Special-defense: 45
-- Speed: 42
+- Hp: 70
+- Attack: 90
+- Defense: 110
+- Special-attack: 60
+- Special-defense: 75
+- Speed: 95
