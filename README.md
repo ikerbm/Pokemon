@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Popplio
-## ID: 728
+## Gible
+## ID: 443
 ### Tipos
-- Water
+- Dragon
+- Ground
 ### Stats
-- Hp: 50
-- Attack: 54
-- Defense: 54
-- Special-attack: 66
-- Special-defense: 56
-- Speed: 40
+- Hp: 58
+- Attack: 70
+- Defense: 45
+- Special-attack: 40
+- Special-defense: 45
+- Speed: 42
