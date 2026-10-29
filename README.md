@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Drapion
-## ID: 452
+## Mandibuzz
+## ID: 630
 ### Tipos
-- Poison
 - Dark
+- Flying
 ### Stats
-- Hp: 70
-- Attack: 90
-- Defense: 110
-- Special-attack: 60
-- Special-defense: 75
-- Speed: 95
+- Hp: 110
+- Attack: 65
+- Defense: 105
+- Special-attack: 55
+- Special-defense: 95
+- Speed: 80
