@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Hoopa
-## ID: 720
+## Shelgon
+## ID: 372
 ### Tipos
-- Psychic
-- Ghost
+- Dragon
 ### Stats
-- Hp: 80
-- Attack: 110
-- Defense: 60
-- Special-attack: 150
-- Special-defense: 130
-- Speed: 70
+- Hp: 65
+- Attack: 95
+- Defense: 100
+- Special-attack: 60
+- Special-defense: 50
+- Speed: 50
