@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Mandibuzz
-## ID: 630
+## Hoopa
+## ID: 720
 ### Tipos
-- Dark
-- Flying
+- Psychic
+- Ghost
 ### Stats
-- Hp: 110
-- Attack: 65
-- Defense: 105
-- Special-attack: 55
-- Special-defense: 95
-- Speed: 80
+- Hp: 80
+- Attack: 110
+- Defense: 60
+- Special-attack: 150
+- Special-defense: 130
+- Speed: 70
