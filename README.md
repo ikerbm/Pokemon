@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Larvitar
-## ID: 246
+## Riolu
+## ID: 447
 ### Tipos
-- Rock
-- Ground
+- Fighting
 ### Stats
-- Hp: 50
-- Attack: 64
-- Defense: 50
-- Special-attack: 45
-- Special-defense: 50
-- Speed: 41
+- Hp: 40
+- Attack: 70
+- Defense: 40
+- Special-attack: 35
+- Special-defense: 40
+- Speed: 60
