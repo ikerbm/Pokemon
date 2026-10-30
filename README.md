@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Beartic
-## ID: 614
+## Larvitar
+## ID: 246
 ### Tipos
-- Ice
+- Rock
+- Ground
 ### Stats
-- Hp: 95
-- Attack: 130
-- Defense: 80
-- Special-attack: 70
-- Special-defense: 80
-- Speed: 50
+- Hp: 50
+- Attack: 64
+- Defense: 50
+- Special-attack: 45
+- Special-defense: 50
+- Speed: 41
