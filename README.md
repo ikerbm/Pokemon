@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Shelgon
-## ID: 372
+## Beartic
+## ID: 614
 ### Tipos
-- Dragon
+- Ice
 ### Stats
-- Hp: 65
-- Attack: 95
-- Defense: 100
-- Special-attack: 60
-- Special-defense: 50
+- Hp: 95
+- Attack: 130
+- Defense: 80
+- Special-attack: 70
+- Special-defense: 80
 - Speed: 50
