@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Riolu
-## ID: 447
+## Charcadet
+## ID: 935
 ### Tipos
-- Fighting
+- Fire
 ### Stats
 - Hp: 40
-- Attack: 70
+- Attack: 50
 - Defense: 40
-- Special-attack: 35
+- Special-attack: 50
 - Special-defense: 40
-- Speed: 60
+- Speed: 35
