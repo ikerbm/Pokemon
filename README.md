@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Burmy
-## ID: 412
+## Bellibolt
+## ID: 939
 ### Tipos
-- Bug
+- Electric
 ### Stats
-- Hp: 40
-- Attack: 29
-- Defense: 45
-- Special-attack: 29
-- Special-defense: 45
-- Speed: 36
+- Hp: 109
+- Attack: 64
+- Defense: 91
+- Special-attack: 103
+- Special-defense: 83
+- Speed: 45
