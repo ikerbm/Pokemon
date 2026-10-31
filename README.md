@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Charcadet
-## ID: 935
+## Mareep
+## ID: 179
 ### Tipos
-- Fire
+- Electric
 ### Stats
-- Hp: 40
-- Attack: 50
+- Hp: 55
+- Attack: 40
 - Defense: 40
-- Special-attack: 50
-- Special-defense: 40
+- Special-attack: 65
+- Special-defense: 45
 - Speed: 35
