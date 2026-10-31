@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Frigibax
-## ID: 996
+## Burmy
+## ID: 412
 ### Tipos
-- Dragon
-- Ice
+- Bug
 ### Stats
-- Hp: 65
-- Attack: 75
+- Hp: 40
+- Attack: 29
 - Defense: 45
-- Special-attack: 35
+- Special-attack: 29
 - Special-defense: 45
-- Speed: 55
+- Speed: 36
