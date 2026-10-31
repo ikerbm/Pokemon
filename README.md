@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Purugly
-## ID: 432
+## Frigibax
+## ID: 996
 ### Tipos
-- Normal
+- Dragon
+- Ice
 ### Stats
-- Hp: 71
-- Attack: 82
-- Defense: 64
-- Special-attack: 64
-- Special-defense: 59
-- Speed: 112
+- Hp: 65
+- Attack: 75
+- Defense: 45
+- Special-attack: 35
+- Special-defense: 45
+- Speed: 55
