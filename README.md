@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Mareep
-## ID: 179
+## Purugly
+## ID: 432
 ### Tipos
-- Electric
+- Normal
 ### Stats
-- Hp: 55
-- Attack: 40
-- Defense: 40
-- Special-attack: 65
-- Special-defense: 45
-- Speed: 35
+- Hp: 71
+- Attack: 82
+- Defense: 64
+- Special-attack: 64
+- Special-defense: 59
+- Speed: 112
