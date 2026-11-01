@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Shiftry
-## ID: 275
+## Komala
+## ID: 775
 ### Tipos
-- Grass
-- Dark
+- Normal
 ### Stats
-- Hp: 90
-- Attack: 100
-- Defense: 60
-- Special-attack: 90
-- Special-defense: 60
-- Speed: 80
+- Hp: 65
+- Attack: 115
+- Defense: 65
+- Special-attack: 75
+- Special-defense: 95
+- Speed: 65
