@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Bellibolt
-## ID: 939
+## Exploud
+## ID: 295
 ### Tipos
-- Electric
+- Normal
 ### Stats
-- Hp: 109
-- Attack: 64
-- Defense: 91
-- Special-attack: 103
-- Special-defense: 83
-- Speed: 45
+- Hp: 104
+- Attack: 91
+- Defense: 63
+- Special-attack: 91
+- Special-defense: 73
+- Speed: 68
