@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Komala
-## ID: 775
+## Torkoal
+## ID: 324
 ### Tipos
-- Normal
+- Fire
 ### Stats
-- Hp: 65
-- Attack: 115
-- Defense: 65
-- Special-attack: 75
-- Special-defense: 95
-- Speed: 65
+- Hp: 70
+- Attack: 85
+- Defense: 140
+- Special-attack: 85
+- Special-defense: 70
+- Speed: 20
