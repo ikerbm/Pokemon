@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Exploud
-## ID: 295
+## Shiftry
+## ID: 275
 ### Tipos
-- Normal
+- Grass
+- Dark
 ### Stats
-- Hp: 104
-- Attack: 91
-- Defense: 63
-- Special-attack: 91
-- Special-defense: 73
-- Speed: 68
+- Hp: 90
+- Attack: 100
+- Defense: 60
+- Special-attack: 90
+- Special-defense: 60
+- Speed: 80
