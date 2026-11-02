@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Darkrai
-## ID: 491
+## Poliwag
+## ID: 60
 ### Tipos
-- Dark
+- Water
 ### Stats
-- Hp: 70
-- Attack: 90
-- Defense: 90
-- Special-attack: 135
-- Special-defense: 90
-- Speed: 125
+- Hp: 40
+- Attack: 50
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 40
+- Speed: 90
