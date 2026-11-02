@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Poliwag
-## ID: 60
+## Dipplin
+## ID: 1011
 ### Tipos
-- Water
+- Grass
+- Dragon
 ### Stats
-- Hp: 40
-- Attack: 50
-- Defense: 40
-- Special-attack: 40
-- Special-defense: 40
-- Speed: 90
+- Hp: 80
+- Attack: 80
+- Defense: 110
+- Special-attack: 95
+- Special-defense: 80
+- Speed: 40
