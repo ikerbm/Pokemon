@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Bunnelby
-## ID: 659
+## Darkrai
+## ID: 491
 ### Tipos
-- Normal
+- Dark
 ### Stats
-- Hp: 38
-- Attack: 36
-- Defense: 38
-- Special-attack: 32
-- Special-defense: 36
-- Speed: 57
+- Hp: 70
+- Attack: 90
+- Defense: 90
+- Special-attack: 135
+- Special-defense: 90
+- Speed: 125
