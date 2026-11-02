@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Torkoal
-## ID: 324
+## Bunnelby
+## ID: 659
 ### Tipos
-- Fire
+- Normal
 ### Stats
-- Hp: 70
-- Attack: 85
-- Defense: 140
-- Special-attack: 85
-- Special-defense: 70
-- Speed: 20
+- Hp: 38
+- Attack: 36
+- Defense: 38
+- Special-attack: 32
+- Special-defense: 36
+- Speed: 57
