@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Starly
-## ID: 396
+## Volbeat
+## ID: 313
 ### Tipos
-- Normal
-- Flying
+- Bug
 ### Stats
-- Hp: 40
-- Attack: 55
-- Defense: 30
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 60
+- Hp: 65
+- Attack: 73
+- Defense: 75
+- Special-attack: 47
+- Special-defense: 85
+- Speed: 85
