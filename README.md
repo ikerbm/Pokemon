@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Volbeat
-## ID: 313
+## Sandy-shocks
+## ID: 989
 ### Tipos
-- Bug
+- Electric
+- Ground
 ### Stats
-- Hp: 65
-- Attack: 73
-- Defense: 75
-- Special-attack: 47
+- Hp: 85
+- Attack: 81
+- Defense: 97
+- Special-attack: 121
 - Special-defense: 85
-- Speed: 85
+- Speed: 101
