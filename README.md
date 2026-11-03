@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Sandy-shocks
-## ID: 989
+## Wartortle
+## ID: 8
 ### Tipos
-- Electric
-- Ground
+- Water
 ### Stats
-- Hp: 85
-- Attack: 81
-- Defense: 97
-- Special-attack: 121
-- Special-defense: 85
-- Speed: 101
+- Hp: 59
+- Attack: 63
+- Defense: 80
+- Special-attack: 65
+- Special-defense: 80
+- Speed: 58
