@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dipplin
-## ID: 1011
+## Starly
+## ID: 396
 ### Tipos
-- Grass
-- Dragon
+- Normal
+- Flying
 ### Stats
-- Hp: 80
-- Attack: 80
-- Defense: 110
-- Special-attack: 95
-- Special-defense: 80
-- Speed: 40
+- Hp: 40
+- Attack: 55
+- Defense: 30
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 60
