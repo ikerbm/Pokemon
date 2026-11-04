@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Wartortle
-## ID: 8
+## Spewpa
+## ID: 665
 ### Tipos
-- Water
+- Bug
 ### Stats
-- Hp: 59
-- Attack: 63
-- Defense: 80
-- Special-attack: 65
-- Special-defense: 80
-- Speed: 58
+- Hp: 45
+- Attack: 22
+- Defense: 60
+- Special-attack: 27
+- Special-defense: 30
+- Speed: 29
