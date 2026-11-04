@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Wartortle
-## ID: 8
+## Slowbro
+## ID: 80
 ### Tipos
 - Water
+- Psychic
 ### Stats
-- Hp: 59
-- Attack: 63
-- Defense: 80
-- Special-attack: 65
+- Hp: 95
+- Attack: 75
+- Defense: 110
+- Special-attack: 100
 - Special-defense: 80
-- Speed: 58
+- Speed: 30
