@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Slowbro
-## ID: 80
+## Brute-bonnet
+## ID: 986
 ### Tipos
-- Water
-- Psychic
+- Grass
+- Dark
 ### Stats
-- Hp: 95
-- Attack: 75
-- Defense: 110
-- Special-attack: 100
-- Special-defense: 80
-- Speed: 30
+- Hp: 111
+- Attack: 127
+- Defense: 99
+- Special-attack: 79
+- Special-defense: 99
+- Speed: 55
