@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Gothita
-## ID: 574
+## Psyduck
+## ID: 54
 ### Tipos
-- Psychic
+- Water
 ### Stats
-- Hp: 45
-- Attack: 30
-- Defense: 50
-- Special-attack: 55
-- Special-defense: 65
-- Speed: 45
+- Hp: 50
+- Attack: 52
+- Defense: 48
+- Special-attack: 65
+- Special-defense: 50
+- Speed: 55
