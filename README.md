@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Girafarig
-## ID: 203
+## Sandy-shocks
+## ID: 989
 ### Tipos
-- Normal
-- Psychic
+- Electric
+- Ground
 ### Stats
-- Hp: 70
-- Attack: 80
-- Defense: 65
-- Special-attack: 90
-- Special-defense: 65
-- Speed: 85
+- Hp: 85
+- Attack: 81
+- Defense: 97
+- Special-attack: 121
+- Special-defense: 85
+- Speed: 101
