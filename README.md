@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Psyduck
-## ID: 54
+## Girafarig
+## ID: 203
 ### Tipos
-- Water
+- Normal
+- Psychic
 ### Stats
-- Hp: 50
-- Attack: 52
-- Defense: 48
-- Special-attack: 65
-- Special-defense: 50
-- Speed: 55
+- Hp: 70
+- Attack: 80
+- Defense: 65
+- Special-attack: 90
+- Special-defense: 65
+- Speed: 85
