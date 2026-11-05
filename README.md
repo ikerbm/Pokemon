@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Brute-bonnet
-## ID: 986
+## Gothita
+## ID: 574
 ### Tipos
-- Grass
-- Dark
+- Psychic
 ### Stats
-- Hp: 111
-- Attack: 127
-- Defense: 99
-- Special-attack: 79
-- Special-defense: 99
-- Speed: 55
+- Hp: 45
+- Attack: 30
+- Defense: 50
+- Special-attack: 55
+- Special-defense: 65
+- Speed: 45
