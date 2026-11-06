@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Relicanth
-## ID: 369
+## Slither-wing
+## ID: 988
 ### Tipos
-- Water
-- Rock
+- Bug
+- Fighting
 ### Stats
-- Hp: 100
-- Attack: 90
-- Defense: 130
-- Special-attack: 45
-- Special-defense: 65
-- Speed: 55
+- Hp: 85
+- Attack: 135
+- Defense: 79
+- Special-attack: 85
+- Special-defense: 105
+- Speed: 81
