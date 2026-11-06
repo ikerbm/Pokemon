@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Slither-wing
-## ID: 988
+## Darumaka
+## ID: 554
 ### Tipos
-- Bug
-- Fighting
+- Fire
 ### Stats
-- Hp: 85
-- Attack: 135
-- Defense: 79
-- Special-attack: 85
-- Special-defense: 105
-- Speed: 81
+- Hp: 70
+- Attack: 90
+- Defense: 45
+- Special-attack: 15
+- Special-defense: 45
+- Speed: 50
