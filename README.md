@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Sandy-shocks
-## ID: 989
+## Delibird
+## ID: 225
 ### Tipos
-- Electric
-- Ground
+- Ice
+- Flying
 ### Stats
-- Hp: 85
-- Attack: 81
-- Defense: 97
-- Special-attack: 121
-- Special-defense: 85
-- Speed: 101
+- Hp: 45
+- Attack: 55
+- Defense: 45
+- Special-attack: 65
+- Special-defense: 45
+- Speed: 75
