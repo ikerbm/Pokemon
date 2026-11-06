@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Delibird
-## ID: 225
+## Relicanth
+## ID: 369
 ### Tipos
-- Ice
-- Flying
+- Water
+- Rock
 ### Stats
-- Hp: 45
-- Attack: 55
-- Defense: 45
-- Special-attack: 65
-- Special-defense: 45
-- Speed: 75
+- Hp: 100
+- Attack: 90
+- Defense: 130
+- Special-attack: 45
+- Special-defense: 65
+- Speed: 55
