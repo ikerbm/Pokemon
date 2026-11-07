@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Finneon
-## ID: 456
+## Seismitoad
+## ID: 537
 ### Tipos
 - Water
+- Ground
 ### Stats
-- Hp: 49
-- Attack: 49
-- Defense: 56
-- Special-attack: 49
-- Special-defense: 61
-- Speed: 66
+- Hp: 105
+- Attack: 95
+- Defense: 75
+- Special-attack: 85
+- Special-defense: 75
+- Speed: 74
