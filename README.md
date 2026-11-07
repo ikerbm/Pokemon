@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Scovillain
-## ID: 952
+## Finneon
+## ID: 456
 ### Tipos
-- Grass
-- Fire
+- Water
 ### Stats
-- Hp: 65
-- Attack: 108
-- Defense: 65
-- Special-attack: 108
-- Special-defense: 65
-- Speed: 75
+- Hp: 49
+- Attack: 49
+- Defense: 56
+- Special-attack: 49
+- Special-defense: 61
+- Speed: 66
