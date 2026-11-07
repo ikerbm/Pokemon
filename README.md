@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Umbreon
-## ID: 197
+## Scovillain
+## ID: 952
 ### Tipos
-- Dark
+- Grass
+- Fire
 ### Stats
-- Hp: 95
-- Attack: 65
-- Defense: 110
-- Special-attack: 60
-- Special-defense: 130
-- Speed: 65
+- Hp: 65
+- Attack: 108
+- Defense: 65
+- Special-attack: 108
+- Special-defense: 65
+- Speed: 75
