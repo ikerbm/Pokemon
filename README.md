@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Seismitoad
-## ID: 537
+## Skiddo
+## ID: 672
 ### Tipos
-- Water
-- Ground
+- Grass
 ### Stats
-- Hp: 105
-- Attack: 95
-- Defense: 75
-- Special-attack: 85
-- Special-defense: 75
-- Speed: 74
+- Hp: 66
+- Attack: 65
+- Defense: 48
+- Special-attack: 62
+- Special-defense: 57
+- Speed: 52
