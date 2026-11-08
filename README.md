@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Krookodile
-## ID: 553
+## Chimchar
+## ID: 390
 ### Tipos
-- Ground
-- Dark
+- Fire
 ### Stats
-- Hp: 95
-- Attack: 117
-- Defense: 80
-- Special-attack: 65
-- Special-defense: 70
-- Speed: 92
+- Hp: 44
+- Attack: 58
+- Defense: 44
+- Special-attack: 58
+- Special-defense: 44
+- Speed: 61
