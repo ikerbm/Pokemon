@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Sudowoodo
-## ID: 185
+## Espathra
+## ID: 956
 ### Tipos
-- Rock
+- Psychic
 ### Stats
-- Hp: 70
-- Attack: 100
-- Defense: 115
-- Special-attack: 30
-- Special-defense: 65
-- Speed: 30
+- Hp: 95
+- Attack: 60
+- Defense: 60
+- Special-attack: 101
+- Special-defense: 60
+- Speed: 105
