@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Skiddo
-## ID: 672
+## Krookodile
+## ID: 553
 ### Tipos
-- Grass
+- Ground
+- Dark
 ### Stats
-- Hp: 66
-- Attack: 65
-- Defense: 48
-- Special-attack: 62
-- Special-defense: 57
-- Speed: 52
+- Hp: 95
+- Attack: 117
+- Defense: 80
+- Special-attack: 65
+- Special-defense: 70
+- Speed: 92
