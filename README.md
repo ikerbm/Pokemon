@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Chimchar
-## ID: 390
+## Sudowoodo
+## ID: 185
 ### Tipos
-- Fire
+- Rock
 ### Stats
-- Hp: 44
-- Attack: 58
-- Defense: 44
-- Special-attack: 58
-- Special-defense: 44
-- Speed: 61
+- Hp: 70
+- Attack: 100
+- Defense: 115
+- Special-attack: 30
+- Special-defense: 65
+- Speed: 30
