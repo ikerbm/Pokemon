@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Alomomola
-## ID: 594
+## Sigilyph
+## ID: 561
 ### Tipos
-- Water
+- Psychic
+- Flying
 ### Stats
-- Hp: 165
-- Attack: 75
+- Hp: 72
+- Attack: 58
 - Defense: 80
-- Special-attack: 40
-- Special-defense: 45
-- Speed: 65
+- Special-attack: 103
+- Special-defense: 80
+- Speed: 97
