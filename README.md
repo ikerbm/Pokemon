@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Sigilyph
-## ID: 561
+## Manaphy
+## ID: 490
 ### Tipos
-- Psychic
-- Flying
+- Water
 ### Stats
-- Hp: 72
-- Attack: 58
-- Defense: 80
-- Special-attack: 103
-- Special-defense: 80
-- Speed: 97
+- Hp: 100
+- Attack: 100
+- Defense: 100
+- Special-attack: 100
+- Special-defense: 100
+- Speed: 100
