@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Manaphy
-## ID: 490
+## Dugtrio
+## ID: 51
 ### Tipos
-- Water
+- Ground
 ### Stats
-- Hp: 100
+- Hp: 35
 - Attack: 100
-- Defense: 100
-- Special-attack: 100
-- Special-defense: 100
-- Speed: 100
+- Defense: 50
+- Special-attack: 50
+- Special-defense: 70
+- Speed: 120
