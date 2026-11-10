@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Magby
-## ID: 240
+## Greninja
+## ID: 658
 ### Tipos
-- Fire
+- Water
+- Dark
 ### Stats
-- Hp: 45
-- Attack: 75
-- Defense: 37
-- Special-attack: 70
-- Special-defense: 55
-- Speed: 83
+- Hp: 72
+- Attack: 95
+- Defense: 67
+- Special-attack: 103
+- Special-defense: 71
+- Speed: 122
