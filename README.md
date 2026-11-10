@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Greninja
-## ID: 658
+## Klefki
+## ID: 707
 ### Tipos
-- Water
-- Dark
+- Steel
+- Fairy
 ### Stats
-- Hp: 72
-- Attack: 95
-- Defense: 67
-- Special-attack: 103
-- Special-defense: 71
-- Speed: 122
+- Hp: 57
+- Attack: 80
+- Defense: 91
+- Special-attack: 80
+- Special-defense: 87
+- Speed: 75
