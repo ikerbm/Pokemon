@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Dugtrio
-## ID: 51
+## Rolycoly
+## ID: 837
 ### Tipos
-- Ground
+- Rock
 ### Stats
-- Hp: 35
-- Attack: 100
+- Hp: 30
+- Attack: 40
 - Defense: 50
-- Special-attack: 50
-- Special-defense: 70
-- Speed: 120
+- Special-attack: 40
+- Special-defense: 50
+- Speed: 30
