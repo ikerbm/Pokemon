@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Rolycoly
-## ID: 837
+## Magby
+## ID: 240
 ### Tipos
-- Rock
+- Fire
 ### Stats
-- Hp: 30
-- Attack: 40
-- Defense: 50
-- Special-attack: 40
-- Special-defense: 50
-- Speed: 30
+- Hp: 45
+- Attack: 75
+- Defense: 37
+- Special-attack: 70
+- Special-defense: 55
+- Speed: 83
