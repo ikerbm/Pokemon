@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Yanmega
-## ID: 469
+## Regidrago
+## ID: 895
 ### Tipos
-- Bug
-- Flying
+- Dragon
 ### Stats
-- Hp: 86
-- Attack: 76
-- Defense: 86
-- Special-attack: 116
-- Special-defense: 56
-- Speed: 95
+- Hp: 200
+- Attack: 100
+- Defense: 50
+- Special-attack: 100
+- Special-defense: 50
+- Speed: 80
