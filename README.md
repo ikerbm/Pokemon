@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Celebi
-## ID: 251
+## Yanmega
+## ID: 469
 ### Tipos
-- Psychic
-- Grass
+- Bug
+- Flying
 ### Stats
-- Hp: 100
-- Attack: 100
-- Defense: 100
-- Special-attack: 100
-- Special-defense: 100
-- Speed: 100
+- Hp: 86
+- Attack: 76
+- Defense: 86
+- Special-attack: 116
+- Special-defense: 56
+- Speed: 95
