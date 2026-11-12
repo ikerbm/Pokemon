@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Regidrago
-## ID: 895
+## Zubat
+## ID: 41
 ### Tipos
-- Dragon
+- Poison
+- Flying
 ### Stats
-- Hp: 200
-- Attack: 100
-- Defense: 50
-- Special-attack: 100
-- Special-defense: 50
-- Speed: 80
+- Hp: 40
+- Attack: 45
+- Defense: 35
+- Special-attack: 30
+- Special-defense: 40
+- Speed: 55
