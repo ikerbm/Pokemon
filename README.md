@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Cinderace
-## ID: 815
+## Taillow
+## ID: 276
 ### Tipos
-- Fire
+- Normal
+- Flying
 ### Stats
-- Hp: 80
-- Attack: 116
-- Defense: 75
-- Special-attack: 65
-- Special-defense: 75
-- Speed: 119
+- Hp: 40
+- Attack: 55
+- Defense: 30
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 85
