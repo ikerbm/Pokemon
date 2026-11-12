@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Zubat
-## ID: 41
+## Cinderace
+## ID: 815
 ### Tipos
-- Poison
-- Flying
+- Fire
 ### Stats
-- Hp: 40
-- Attack: 45
-- Defense: 35
-- Special-attack: 30
-- Special-defense: 40
-- Speed: 55
+- Hp: 80
+- Attack: 116
+- Defense: 75
+- Special-attack: 65
+- Special-defense: 75
+- Speed: 119
