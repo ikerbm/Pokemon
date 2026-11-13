@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Diggersby
-## ID: 660
+## Pansage
+## ID: 511
 ### Tipos
-- Normal
-- Ground
+- Grass
 ### Stats
-- Hp: 85
-- Attack: 56
-- Defense: 77
-- Special-attack: 50
-- Special-defense: 77
-- Speed: 78
+- Hp: 50
+- Attack: 53
+- Defense: 48
+- Special-attack: 53
+- Special-defense: 48
+- Speed: 64
