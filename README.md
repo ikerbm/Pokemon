@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Pansage
-## ID: 511
+## Doublade
+## ID: 680
 ### Tipos
-- Grass
+- Steel
+- Ghost
 ### Stats
-- Hp: 50
-- Attack: 53
-- Defense: 48
-- Special-attack: 53
-- Special-defense: 48
-- Speed: 64
+- Hp: 59
+- Attack: 110
+- Defense: 150
+- Special-attack: 45
+- Special-defense: 49
+- Speed: 35
