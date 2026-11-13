@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Taillow
-## ID: 276
+## Smoochum
+## ID: 238
 ### Tipos
-- Normal
-- Flying
+- Ice
+- Psychic
 ### Stats
-- Hp: 40
-- Attack: 55
-- Defense: 30
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 85
+- Hp: 45
+- Attack: 30
+- Defense: 15
+- Special-attack: 85
+- Special-defense: 65
+- Speed: 65
