@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Smoochum
-## ID: 238
+## Diggersby
+## ID: 660
 ### Tipos
-- Ice
-- Psychic
+- Normal
+- Ground
 ### Stats
-- Hp: 45
-- Attack: 30
-- Defense: 15
-- Special-attack: 85
-- Special-defense: 65
-- Speed: 65
+- Hp: 85
+- Attack: 56
+- Defense: 77
+- Special-attack: 50
+- Special-defense: 77
+- Speed: 78
