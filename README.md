@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Unown
-## ID: 201
+## Tarountula
+## ID: 917
 ### Tipos
-- Psychic
+- Bug
 ### Stats
-- Hp: 48
-- Attack: 72
-- Defense: 48
-- Special-attack: 72
-- Special-defense: 48
-- Speed: 48
+- Hp: 35
+- Attack: 41
+- Defense: 45
+- Special-attack: 29
+- Special-defense: 40
+- Speed: 20
