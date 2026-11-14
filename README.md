@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Magearna
-## ID: 801
+## Necrozma
+## ID: 800
 ### Tipos
-- Steel
-- Fairy
+- Psychic
 ### Stats
-- Hp: 80
-- Attack: 95
-- Defense: 115
-- Special-attack: 130
-- Special-defense: 115
-- Speed: 65
+- Hp: 97
+- Attack: 107
+- Defense: 101
+- Special-attack: 127
+- Special-defense: 89
+- Speed: 79
