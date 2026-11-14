@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Necrozma
-## ID: 800
+## Grotle
+## ID: 388
 ### Tipos
-- Psychic
+- Grass
 ### Stats
-- Hp: 97
-- Attack: 107
-- Defense: 101
-- Special-attack: 127
-- Special-defense: 89
-- Speed: 79
+- Hp: 75
+- Attack: 89
+- Defense: 85
+- Special-attack: 55
+- Special-defense: 65
+- Speed: 36
