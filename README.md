@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Sliggoo
-## ID: 705
+## Bidoof
+## ID: 399
 ### Tipos
-- Dragon
+- Normal
 ### Stats
-- Hp: 68
-- Attack: 75
-- Defense: 53
-- Special-attack: 83
-- Special-defense: 113
-- Speed: 60
+- Hp: 59
+- Attack: 45
+- Defense: 40
+- Special-attack: 35
+- Special-defense: 40
+- Speed: 31
