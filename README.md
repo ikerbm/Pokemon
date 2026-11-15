@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Toxicroak
-## ID: 454
+## Buzzwole
+## ID: 794
 ### Tipos
-- Poison
+- Bug
 - Fighting
 ### Stats
-- Hp: 83
-- Attack: 106
-- Defense: 65
-- Special-attack: 86
-- Special-defense: 65
-- Speed: 85
+- Hp: 107
+- Attack: 139
+- Defense: 139
+- Special-attack: 53
+- Special-defense: 53
+- Speed: 79
