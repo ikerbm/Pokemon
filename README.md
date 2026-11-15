@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Grotle
-## ID: 388
+## Sliggoo
+## ID: 705
 ### Tipos
-- Grass
+- Dragon
 ### Stats
-- Hp: 75
-- Attack: 89
-- Defense: 85
-- Special-attack: 55
-- Special-defense: 65
-- Speed: 36
+- Hp: 68
+- Attack: 75
+- Defense: 53
+- Special-attack: 83
+- Special-defense: 113
+- Speed: 60
