@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Meditite
-## ID: 307
+## Vanillish
+## ID: 583
 ### Tipos
-- Fighting
-- Psychic
+- Ice
 ### Stats
-- Hp: 30
-- Attack: 40
-- Defense: 55
-- Special-attack: 40
-- Special-defense: 55
-- Speed: 60
+- Hp: 51
+- Attack: 65
+- Defense: 65
+- Special-attack: 80
+- Special-defense: 75
+- Speed: 59
