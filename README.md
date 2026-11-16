@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Vanillish
-## ID: 583
+## Hippopotas
+## ID: 449
 ### Tipos
-- Ice
+- Ground
 ### Stats
-- Hp: 51
-- Attack: 65
-- Defense: 65
-- Special-attack: 80
-- Special-defense: 75
-- Speed: 59
+- Hp: 68
+- Attack: 72
+- Defense: 78
+- Special-attack: 38
+- Special-defense: 42
+- Speed: 32
