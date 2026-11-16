@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Buzzwole
-## ID: 794
+## Meditite
+## ID: 307
 ### Tipos
-- Bug
 - Fighting
+- Psychic
 ### Stats
-- Hp: 107
-- Attack: 139
-- Defense: 139
-- Special-attack: 53
-- Special-defense: 53
-- Speed: 79
+- Hp: 30
+- Attack: 40
+- Defense: 55
+- Special-attack: 40
+- Special-defense: 55
+- Speed: 60
