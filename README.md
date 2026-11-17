@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Machoke
-## ID: 67
+## Oranguru
+## ID: 765
 ### Tipos
-- Fighting
+- Normal
+- Psychic
 ### Stats
-- Hp: 80
-- Attack: 100
-- Defense: 70
-- Special-attack: 50
-- Special-defense: 60
-- Speed: 45
+- Hp: 90
+- Attack: 60
+- Defense: 80
+- Special-attack: 90
+- Special-defense: 110
+- Speed: 60
