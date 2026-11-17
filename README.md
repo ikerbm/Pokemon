@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Poipole
-## ID: 803
+## Machoke
+## ID: 67
 ### Tipos
-- Poison
+- Fighting
 ### Stats
-- Hp: 67
-- Attack: 73
-- Defense: 67
-- Special-attack: 73
-- Special-defense: 67
-- Speed: 73
+- Hp: 80
+- Attack: 100
+- Defense: 70
+- Special-attack: 50
+- Special-defense: 60
+- Speed: 45
