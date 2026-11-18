@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Jangmo-o
-## ID: 782
+## Yveltal
+## ID: 717
 ### Tipos
-- Dragon
+- Dark
+- Flying
 ### Stats
-- Hp: 45
-- Attack: 55
-- Defense: 65
-- Special-attack: 45
-- Special-defense: 45
-- Speed: 45
+- Hp: 126
+- Attack: 131
+- Defense: 95
+- Special-attack: 131
+- Special-defense: 98
+- Speed: 99
