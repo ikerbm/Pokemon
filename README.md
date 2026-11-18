@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Pansear
-## ID: 513
+## Jangmo-o
+## ID: 782
 ### Tipos
-- Fire
+- Dragon
 ### Stats
-- Hp: 50
-- Attack: 53
-- Defense: 48
-- Special-attack: 53
-- Special-defense: 48
-- Speed: 64
+- Hp: 45
+- Attack: 55
+- Defense: 65
+- Special-attack: 45
+- Special-defense: 45
+- Speed: 45
