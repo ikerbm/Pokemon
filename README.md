@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Yveltal
-## ID: 717
+## Nincada
+## ID: 290
 ### Tipos
-- Dark
-- Flying
+- Bug
+- Ground
 ### Stats
-- Hp: 126
-- Attack: 131
-- Defense: 95
-- Special-attack: 131
-- Special-defense: 98
-- Speed: 99
+- Hp: 31
+- Attack: 45
+- Defense: 90
+- Special-attack: 30
+- Special-defense: 30
+- Speed: 40
