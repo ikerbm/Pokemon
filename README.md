@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Bellibolt
-## ID: 939
+## Dragonite
+## ID: 149
 ### Tipos
-- Electric
+- Dragon
+- Flying
 ### Stats
-- Hp: 109
-- Attack: 64
-- Defense: 91
-- Special-attack: 103
-- Special-defense: 83
-- Speed: 45
+- Hp: 91
+- Attack: 134
+- Defense: 95
+- Special-attack: 100
+- Special-defense: 100
+- Speed: 80
