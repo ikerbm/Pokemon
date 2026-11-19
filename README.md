@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Nincada
-## ID: 290
+## Natu
+## ID: 177
 ### Tipos
-- Bug
-- Ground
+- Psychic
+- Flying
 ### Stats
-- Hp: 31
-- Attack: 45
-- Defense: 90
-- Special-attack: 30
-- Special-defense: 30
-- Speed: 40
+- Hp: 40
+- Attack: 50
+- Defense: 45
+- Special-attack: 70
+- Special-defense: 45
+- Speed: 70
