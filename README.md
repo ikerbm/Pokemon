@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Natu
-## ID: 177
+## Bellibolt
+## ID: 939
 ### Tipos
-- Psychic
-- Flying
+- Electric
 ### Stats
-- Hp: 40
-- Attack: 50
-- Defense: 45
-- Special-attack: 70
-- Special-defense: 45
-- Speed: 70
+- Hp: 109
+- Attack: 64
+- Defense: 91
+- Special-attack: 103
+- Special-defense: 83
+- Speed: 45
