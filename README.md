@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Altaria
-## ID: 334
+## Alcremie
+## ID: 869
 ### Tipos
-- Dragon
-- Flying
+- Fairy
 ### Stats
-- Hp: 75
-- Attack: 70
-- Defense: 90
-- Special-attack: 70
-- Special-defense: 105
-- Speed: 80
+- Hp: 65
+- Attack: 60
+- Defense: 75
+- Special-attack: 110
+- Special-defense: 121
+- Speed: 64
