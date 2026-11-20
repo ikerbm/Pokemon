@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dragonite
-## ID: 149
+## Altaria
+## ID: 334
 ### Tipos
 - Dragon
 - Flying
 ### Stats
-- Hp: 91
-- Attack: 134
-- Defense: 95
-- Special-attack: 100
-- Special-defense: 100
+- Hp: 75
+- Attack: 70
+- Defense: 90
+- Special-attack: 70
+- Special-defense: 105
 - Speed: 80
