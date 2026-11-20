@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Alcremie
-## ID: 869
+## Lokix
+## ID: 920
 ### Tipos
-- Fairy
+- Bug
+- Dark
 ### Stats
-- Hp: 65
-- Attack: 60
-- Defense: 75
-- Special-attack: 110
-- Special-defense: 121
-- Speed: 64
+- Hp: 71
+- Attack: 102
+- Defense: 78
+- Special-attack: 52
+- Special-defense: 55
+- Speed: 92
