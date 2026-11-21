@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Chatot
-## ID: 441
+## Dusknoir
+## ID: 477
 ### Tipos
-- Normal
-- Flying
+- Ghost
 ### Stats
-- Hp: 76
-- Attack: 65
-- Defense: 45
-- Special-attack: 92
-- Special-defense: 42
-- Speed: 91
+- Hp: 45
+- Attack: 100
+- Defense: 135
+- Special-attack: 65
+- Special-defense: 135
+- Speed: 45
