@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Marowak
-## ID: 105
+## Spiritomb
+## ID: 442
 ### Tipos
-- Ground
+- Ghost
+- Dark
 ### Stats
-- Hp: 60
-- Attack: 80
-- Defense: 110
-- Special-attack: 50
-- Special-defense: 80
-- Speed: 45
+- Hp: 50
+- Attack: 92
+- Defense: 108
+- Special-attack: 92
+- Special-defense: 108
+- Speed: 35
