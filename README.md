@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Lokix
-## ID: 920
+## Chatot
+## ID: 441
 ### Tipos
-- Bug
-- Dark
+- Normal
+- Flying
 ### Stats
-- Hp: 71
-- Attack: 102
-- Defense: 78
-- Special-attack: 52
-- Special-defense: 55
-- Speed: 92
+- Hp: 76
+- Attack: 65
+- Defense: 45
+- Special-attack: 92
+- Special-defense: 42
+- Speed: 91
