@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Dusknoir
-## ID: 477
+## Marowak
+## ID: 105
 ### Tipos
-- Ghost
+- Ground
 ### Stats
-- Hp: 45
-- Attack: 100
-- Defense: 135
-- Special-attack: 65
-- Special-defense: 135
+- Hp: 60
+- Attack: 80
+- Defense: 110
+- Special-attack: 50
+- Special-defense: 80
 - Speed: 45
