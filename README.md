@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Dondozo
-## ID: 977
+## Mantyke
+## ID: 458
 ### Tipos
 - Water
+- Flying
 ### Stats
-- Hp: 150
-- Attack: 100
-- Defense: 115
-- Special-attack: 65
-- Special-defense: 65
-- Speed: 35
+- Hp: 45
+- Attack: 20
+- Defense: 50
+- Special-attack: 60
+- Special-defense: 120
+- Speed: 50
