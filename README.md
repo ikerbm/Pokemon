@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Mantyke
-## ID: 458
+## Sigilyph
+## ID: 561
 ### Tipos
-- Water
+- Psychic
 - Flying
 ### Stats
-- Hp: 45
-- Attack: 20
-- Defense: 50
-- Special-attack: 60
-- Special-defense: 120
-- Speed: 50
+- Hp: 72
+- Attack: 58
+- Defense: 80
+- Special-attack: 103
+- Special-defense: 80
+- Speed: 97
