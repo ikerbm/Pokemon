@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Spiritomb
-## ID: 442
+## Heracross
+## ID: 214
 ### Tipos
-- Ghost
-- Dark
+- Bug
+- Fighting
 ### Stats
-- Hp: 50
-- Attack: 92
-- Defense: 108
-- Special-attack: 92
-- Special-defense: 108
-- Speed: 35
+- Hp: 80
+- Attack: 125
+- Defense: 75
+- Special-attack: 40
+- Special-defense: 95
+- Speed: 85
