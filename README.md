@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Heracross
-## ID: 214
+## Dondozo
+## ID: 977
 ### Tipos
-- Bug
-- Fighting
+- Water
 ### Stats
-- Hp: 80
-- Attack: 125
-- Defense: 75
-- Special-attack: 40
-- Special-defense: 95
-- Speed: 85
+- Hp: 150
+- Attack: 100
+- Defense: 115
+- Special-attack: 65
+- Special-defense: 65
+- Speed: 35
