@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Sigilyph
-## ID: 561
+## Munchlax
+## ID: 446
 ### Tipos
-- Psychic
-- Flying
+- Normal
 ### Stats
-- Hp: 72
-- Attack: 58
-- Defense: 80
-- Special-attack: 103
-- Special-defense: 80
-- Speed: 97
+- Hp: 135
+- Attack: 85
+- Defense: 40
+- Special-attack: 40
+- Special-defense: 85
+- Speed: 5
