@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Ekans
-## ID: 23
+## Wailord
+## ID: 321
 ### Tipos
-- Poison
+- Water
 ### Stats
-- Hp: 35
-- Attack: 60
-- Defense: 44
-- Special-attack: 40
-- Special-defense: 54
-- Speed: 55
+- Hp: 170
+- Attack: 90
+- Defense: 45
+- Special-attack: 90
+- Special-defense: 45
+- Speed: 60
