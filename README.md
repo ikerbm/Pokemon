@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Munchlax
-## ID: 446
+## Ekans
+## ID: 23
 ### Tipos
-- Normal
+- Poison
 ### Stats
-- Hp: 135
-- Attack: 85
-- Defense: 40
+- Hp: 35
+- Attack: 60
+- Defense: 44
 - Special-attack: 40
-- Special-defense: 85
-- Speed: 5
+- Special-defense: 54
+- Speed: 55
