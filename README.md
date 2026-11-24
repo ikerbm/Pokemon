@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Buneary
-## ID: 427
+## Dartrix
+## ID: 723
 ### Tipos
-- Normal
+- Grass
+- Flying
 ### Stats
-- Hp: 55
-- Attack: 66
-- Defense: 44
-- Special-attack: 44
-- Special-defense: 56
-- Speed: 85
+- Hp: 78
+- Attack: 75
+- Defense: 75
+- Special-attack: 70
+- Special-defense: 70
+- Speed: 52
