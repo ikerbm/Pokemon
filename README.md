@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Dartrix
-## ID: 723
+## Sinistcha
+## ID: 1013
 ### Tipos
 - Grass
-- Flying
+- Ghost
 ### Stats
-- Hp: 78
-- Attack: 75
-- Defense: 75
-- Special-attack: 70
-- Special-defense: 70
-- Speed: 52
+- Hp: 71
+- Attack: 60
+- Defense: 106
+- Special-attack: 121
+- Special-defense: 80
+- Speed: 70
