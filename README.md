@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Magnezone
-## ID: 462
+## Zekrom
+## ID: 644
 ### Tipos
+- Dragon
 - Electric
-- Steel
 ### Stats
-- Hp: 70
-- Attack: 70
-- Defense: 115
-- Special-attack: 130
-- Special-defense: 90
-- Speed: 60
+- Hp: 100
+- Attack: 150
+- Defense: 120
+- Special-attack: 120
+- Special-defense: 100
+- Speed: 90
