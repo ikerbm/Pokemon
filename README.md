@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Sinistcha
-## ID: 1013
+## Magnezone
+## ID: 462
 ### Tipos
-- Grass
-- Ghost
+- Electric
+- Steel
 ### Stats
-- Hp: 71
-- Attack: 60
-- Defense: 106
-- Special-attack: 121
-- Special-defense: 80
-- Speed: 70
+- Hp: 70
+- Attack: 70
+- Defense: 115
+- Special-attack: 130
+- Special-defense: 90
+- Speed: 60
