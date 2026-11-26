@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Greedent
-## ID: 820
+## Heatmor
+## ID: 631
 ### Tipos
-- Normal
+- Fire
 ### Stats
-- Hp: 120
-- Attack: 95
-- Defense: 95
-- Special-attack: 55
-- Special-defense: 75
-- Speed: 20
+- Hp: 85
+- Attack: 97
+- Defense: 66
+- Special-attack: 105
+- Special-defense: 66
+- Speed: 65
