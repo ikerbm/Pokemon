@@ -1,14 +1,14 @@
 # Pokémon del día
 
-## Zekrom
-## ID: 644
+## Murkrow
+## ID: 198
 ### Tipos
-- Dragon
-- Electric
+- Dark
+- Flying
 ### Stats
-- Hp: 100
-- Attack: 150
-- Defense: 120
-- Special-attack: 120
-- Special-defense: 100
-- Speed: 90
+- Hp: 60
+- Attack: 85
+- Defense: 42
+- Special-attack: 85
+- Special-defense: 42
+- Speed: 91
