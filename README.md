@@ -1,14 +1,13 @@
 # Pokémon del día
 
-## Murkrow
-## ID: 198
+## Greedent
+## ID: 820
 ### Tipos
-- Dark
-- Flying
+- Normal
 ### Stats
-- Hp: 60
-- Attack: 85
-- Defense: 42
-- Special-attack: 85
-- Special-defense: 42
-- Speed: 91
+- Hp: 120
+- Attack: 95
+- Defense: 95
+- Special-attack: 55
+- Special-defense: 75
+- Speed: 20
