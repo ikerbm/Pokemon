@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Heatmor
-## ID: 631
+## Meowstic-male
+## ID: 678
 ### Tipos
-- Fire
+- Psychic
 ### Stats
-- Hp: 85
-- Attack: 97
-- Defense: 66
-- Special-attack: 105
-- Special-defense: 66
-- Speed: 65
+- Hp: 74
+- Attack: 48
+- Defense: 76
+- Special-attack: 83
+- Special-defense: 81
+- Speed: 104
