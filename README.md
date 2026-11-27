@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Meowstic-male
-## ID: 678
+## Slaking
+## ID: 289
 ### Tipos
-- Psychic
+- Normal
 ### Stats
-- Hp: 74
-- Attack: 48
-- Defense: 76
-- Special-attack: 83
-- Special-defense: 81
-- Speed: 104
+- Hp: 150
+- Attack: 160
+- Defense: 100
+- Special-attack: 95
+- Special-defense: 65
+- Speed: 100
