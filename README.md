@@ -1,13 +1,13 @@
 # Pokémon del día
 
-## Slaking
-## ID: 289
+## Barraskewda
+## ID: 847
 ### Tipos
-- Normal
+- Water
 ### Stats
-- Hp: 150
-- Attack: 160
-- Defense: 100
-- Special-attack: 95
-- Special-defense: 65
-- Speed: 100
+- Hp: 61
+- Attack: 123
+- Defense: 60
+- Special-attack: 60
+- Special-defense: 50
+- Speed: 136
