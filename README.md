@@ -1,13 +1,14 @@
 # Pokémon del día
 
-## Barraskewda
-## ID: 847
+## Meowscarada
+## ID: 908
 ### Tipos
-- Water
+- Grass
+- Dark
 ### Stats
-- Hp: 61
-- Attack: 123
-- Defense: 60
-- Special-attack: 60
-- Special-defense: 50
-- Speed: 136
+- Hp: 76
+- Attack: 110
+- Defense: 70
+- Special-attack: 81
+- Special-defense: 70
+- Speed: 123
